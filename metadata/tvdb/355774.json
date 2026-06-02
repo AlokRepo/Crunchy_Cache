@@ -1,681 +1,781 @@
-[
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/5f91416ec2dfa.jpg",
-    "absoluteNumber": 0,
-    "name": "Stone Wars Eve of the Battle",
-    "seasonNumber": 0,
-    "number": 1
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/8912625/screencap/62cbeb139981f.jpg",
-    "absoluteNumber": 36,
-    "name": "Dr. STONE: Ryusui",
-    "seasonNumber": 0,
-    "number": 2
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/9818492/screencap/6536e2c837bf4.jpg",
-    "absoluteNumber": 0,
-    "name": "Snickers x Dr Stone",
-    "seasonNumber": 0,
-    "number": 3
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/6915147.jpg",
-    "absoluteNumber": 1,
-    "name": "STONE WORLD",
-    "seasonNumber": 1,
-    "number": 1
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7223682.jpg",
-    "absoluteNumber": 2,
-    "name": "KING OF THE STONE WORLD",
-    "seasonNumber": 1,
-    "number": 2
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7223683.jpg",
-    "absoluteNumber": 3,
-    "name": "Weapons of Science",
-    "seasonNumber": 1,
-    "number": 3
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7223684.jpg",
-    "absoluteNumber": 4,
-    "name": "Fire the Smoke Signal",
-    "seasonNumber": 1,
-    "number": 4
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7223686.jpg",
-    "absoluteNumber": 5,
-    "name": "STONE WORLD THE BEGINNING",
-    "seasonNumber": 1,
-    "number": 5
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7223687.jpg",
-    "absoluteNumber": 6,
-    "name": "Two Nations of the Stone World",
-    "seasonNumber": 1,
-    "number": 6
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7223689.jpg",
-    "absoluteNumber": 7,
-    "name": "Where Two Million Years Have Gone",
-    "seasonNumber": 1,
-    "number": 7
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7223691.jpg",
-    "absoluteNumber": 8,
-    "name": "STONE ROAD",
-    "seasonNumber": 1,
-    "number": 8
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7223693.jpg",
-    "absoluteNumber": 9,
-    "name": "Let There Be the Light of Science",
-    "seasonNumber": 1,
-    "number": 9
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7223695.jpg",
-    "absoluteNumber": 10,
-    "name": "A Flimsy Alliance",
-    "seasonNumber": 1,
-    "number": 10
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7223698.jpg",
-    "absoluteNumber": 11,
-    "name": "CLEAR WORLD",
-    "seasonNumber": 1,
-    "number": 11
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7223701.jpg",
-    "absoluteNumber": 12,
-    "name": "Buddies Back to Back",
-    "seasonNumber": 1,
-    "number": 12
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366285.jpg",
-    "absoluteNumber": 13,
-    "name": "Masked Warrior",
-    "seasonNumber": 1,
-    "number": 13
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366287.jpg",
-    "absoluteNumber": 14,
-    "name": "MASTER OF FLAME",
-    "seasonNumber": 1,
-    "number": 14
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366288.jpg",
-    "absoluteNumber": 15,
-    "name": "The Culmination of Two Million Years",
-    "seasonNumber": 1,
-    "number": 15
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366897.jpg",
-    "absoluteNumber": 16,
-    "name": "A Tale for the Ages",
-    "seasonNumber": 1,
-    "number": 16
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366898.jpg",
-    "absoluteNumber": 17,
-    "name": "A Hundred Nights and a Thousand Skies",
-    "seasonNumber": 1,
-    "number": 17
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366899.jpg",
-    "absoluteNumber": 18,
-    "name": "STONE WARS",
-    "seasonNumber": 1,
-    "number": 18
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366900.jpg",
-    "absoluteNumber": 19,
-    "name": "To Modernity",
-    "seasonNumber": 1,
-    "number": 19
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366901.jpg",
-    "absoluteNumber": 20,
-    "name": "The Age of Energy",
-    "seasonNumber": 1,
-    "number": 20
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366903.jpg",
-    "absoluteNumber": 21,
-    "name": "Spartan Crafts Club",
-    "seasonNumber": 1,
-    "number": 21
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366907.jpg",
-    "absoluteNumber": 22,
-    "name": "THE TREASURE",
-    "seasonNumber": 1,
-    "number": 22
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366917.jpg",
-    "absoluteNumber": 23,
-    "name": "Wave of Science",
-    "seasonNumber": 1,
-    "number": 23
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366921.jpg",
-    "absoluteNumber": 24,
-    "name": "Voices Over Infinite Distance",
-    "seasonNumber": 1,
-    "number": 24
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/5ffd656f8cab9.jpg",
-    "absoluteNumber": 25,
-    "name": "STONE WARS BEGINNING",
-    "seasonNumber": 2,
-    "number": 1
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/600831845bc8e.jpg",
-    "absoluteNumber": 26,
-    "name": "HOT LINE",
-    "seasonNumber": 2,
-    "number": 2
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/6012ddb3be0c5.jpg",
-    "absoluteNumber": 27,
-    "name": "Call from the Dead",
-    "seasonNumber": 2,
-    "number": 3
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/601b00037bdc5.jpg",
-    "absoluteNumber": 28,
-    "name": "Full Assault",
-    "seasonNumber": 2,
-    "number": 4
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/60240a4f8d543.jpg",
-    "absoluteNumber": 29,
-    "name": "STEAM GORILLA",
-    "seasonNumber": 2,
-    "number": 5
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/602e3c1190e9d.jpg",
-    "absoluteNumber": 30,
-    "name": "PRISON BREAK",
-    "seasonNumber": 2,
-    "number": 6
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/603660f1dd427.jpg",
-    "absoluteNumber": 31,
-    "name": "Secret Mission",
-    "seasonNumber": 2,
-    "number": 7
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/603fa95bc128e.jpg",
-    "absoluteNumber": 32,
-    "name": "FINAL BATTLE",
-    "seasonNumber": 2,
-    "number": 8
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/8145693/screencap/6049c3e05b49b.jpg",
-    "absoluteNumber": 33,
-    "name": "To Destroy and to Save",
-    "seasonNumber": 2,
-    "number": 9
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/8145694/screencap/60536d3d675cc.jpg",
-    "absoluteNumber": 34,
-    "name": "Humanity's Strongest Tag Team",
-    "seasonNumber": 2,
-    "number": 10
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/8145695/screencap/605b6be09417a.jpg",
-    "absoluteNumber": 35,
-    "name": "PROLOGUE OF Dr. STONE",
-    "seasonNumber": 2,
-    "number": 11
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/9372021/screencap/642ed86e305a9.jpg",
-    "absoluteNumber": 37,
-    "name": "NEW WORLD MAP",
-    "seasonNumber": 3,
-    "number": 1
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/9687329/screencap/643813b0601bb.jpg",
-    "absoluteNumber": 38,
-    "name": "Greed Equals Justice",
-    "seasonNumber": 3,
-    "number": 2
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/9687330/screencap/64412f7ff0156.jpg",
-    "absoluteNumber": 39,
-    "name": "First Contact",
-    "seasonNumber": 3,
-    "number": 3
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/9687331/screencap/64499d7edc8e3.jpg",
-    "absoluteNumber": 40,
-    "name": "Eyes of Science",
-    "seasonNumber": 3,
-    "number": 4
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/9687332/screencap/644ec5c4f0178.jpg",
-    "absoluteNumber": 41,
-    "name": "Science Vessel Perseus",
-    "seasonNumber": 3,
-    "number": 5
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/9687333/screencap/645907558c18f.jpg",
-    "absoluteNumber": 42,
-    "name": "TREASURE BOX",
-    "seasonNumber": 3,
-    "number": 6
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/9687334/screencap/6464242ce49f0.jpg",
-    "absoluteNumber": 43,
-    "name": "Ray of Despair, Ray of Hope",
-    "seasonNumber": 3,
-    "number": 7
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/9687335/screencap/646cff709882f.jpg",
-    "absoluteNumber": 44,
-    "name": "The Trump Card Aboard the Science Vessel",
-    "seasonNumber": 3,
-    "number": 8
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/9687336/screencap/647558d36502d.jpg",
-    "absoluteNumber": 45,
-    "name": "Beautiful Science",
-    "seasonNumber": 3,
-    "number": 9
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/9687337/screencap/647e2147549f0.jpg",
-    "absoluteNumber": 46,
-    "name": "SCIENCE WARS",
-    "seasonNumber": 3,
-    "number": 10
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/9687338/screencap/648766f694af2.jpg",
-    "absoluteNumber": 47,
-    "name": "With This Fist, a Miracle",
-    "seasonNumber": 3,
-    "number": 11
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/9687339/screencap/65255ed8115bc.jpg",
-    "absoluteNumber": 48,
-    "name": "The Kingdom of Science Strikes Back",
-    "seasonNumber": 3,
-    "number": 12
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/9971408/screencap/652ef9ec33932.jpg",
-    "absoluteNumber": 49,
-    "name": "The Medusa's True Face",
-    "seasonNumber": 3,
-    "number": 13
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/9971409/screencap/65330950eb095.jpg",
-    "absoluteNumber": 50,
-    "name": "Deal Game, Test of Wit",
-    "seasonNumber": 3,
-    "number": 14
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/9971410/screencap/65401bb663889.jpg",
-    "absoluteNumber": 51,
-    "name": "Battle in Three Dimensions",
-    "seasonNumber": 3,
-    "number": 15
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/9971411/screencap/6548fc63c450f.jpg",
-    "absoluteNumber": 52,
-    "name": "Total War",
-    "seasonNumber": 3,
-    "number": 16
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/9971413/screencap/6550f17c8289b.jpg",
-    "absoluteNumber": 53,
-    "name": "JOKER",
-    "seasonNumber": 3,
-    "number": 17
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/9971414/screencap/655aa85d02625.jpg",
-    "absoluteNumber": 54,
-    "name": "Flicker of Doom",
-    "seasonNumber": 3,
-    "number": 18
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/9971415/screencap/6562a8970cd04.jpg",
-    "absoluteNumber": 55,
-    "name": "LAST MAN STANDING",
-    "seasonNumber": 3,
-    "number": 19
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/9971416/screencap/656f446f14ad8.jpg",
-    "absoluteNumber": 56,
-    "name": "FIRST DREAM",
-    "seasonNumber": 3,
-    "number": 20
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/9971417/screencap/65731ca973891.jpg",
-    "absoluteNumber": 57,
-    "name": "Treasure Island",
-    "seasonNumber": 3,
-    "number": 21
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/9971418/screencap/65806887db021.jpg",
-    "absoluteNumber": 58,
-    "name": "BEYOND THE NEW WORLD",
-    "seasonNumber": 3,
-    "number": 22
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/9687340/screencap/677dad36d4cb5.jpg",
-    "absoluteNumber": 59,
-    "name": "RYUSUI VS. SENKU",
-    "seasonNumber": 4,
-    "number": 1
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/10849846/screencap/6786a7f4aec99.jpg",
-    "absoluteNumber": 60,
-    "name": "SCIENCE JOURNEY",
-    "seasonNumber": 4,
-    "number": 2
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/10849847/screencap/6790e7f4bc354.jpg",
-    "absoluteNumber": 61,
-    "name": "Light Trap in the Darkness",
-    "seasonNumber": 4,
-    "number": 3
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/10849848/screencap/6799186753561.jpg",
-    "absoluteNumber": 62,
-    "name": "Dr. X",
-    "seasonNumber": 4,
-    "number": 4
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/10849849/screencap/67a3a532b7c11.jpg",
-    "absoluteNumber": 63,
-    "name": "DOCTOR VS. DOCTOR",
-    "seasonNumber": 4,
-    "number": 5
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/10849850/screencap/67aca78d2657c.jpg",
-    "absoluteNumber": 64,
-    "name": "SCIENCE IS ELEGANT",
-    "seasonNumber": 4,
-    "number": 6
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/10849851/screencap/67b603ab0f40d.jpg",
-    "absoluteNumber": 65,
-    "name": "The Two Scientists",
-    "seasonNumber": 4,
-    "number": 7
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/10849852/screencap/67bdd47801194.jpg",
-    "absoluteNumber": 66,
-    "name": "LOCK ON",
-    "seasonNumber": 4,
-    "number": 8
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/10849853/screencap/67c85dbeaa8c0.jpg",
-    "absoluteNumber": 67,
-    "name": "Light of Science",
-    "seasonNumber": 4,
-    "number": 9
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/10849854/screencap/67d1ce5baefbd.jpg",
-    "absoluteNumber": 68,
-    "name": "Dirty Roads",
-    "seasonNumber": 4,
-    "number": 10
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/10849855/screencap/67da1389a16f5.jpg",
-    "absoluteNumber": 69,
-    "name": "Those Who Know the Rules; Those Who Make Them",
-    "seasonNumber": 4,
-    "number": 11
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/10849856/screencap/67e40227311b2.jpg",
-    "absoluteNumber": 70,
-    "name": "Reunion",
-    "seasonNumber": 4,
-    "number": 12
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/11054333/screencap/686d13ac77241.jpg",
-    "absoluteNumber": 71,
-    "name": "Watching the Same Moon",
-    "seasonNumber": 4,
-    "number": 13
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/11236697/screencap/687700c453e1d.jpg",
-    "absoluteNumber": 72,
-    "name": "EARTH RACE",
-    "seasonNumber": 4,
-    "number": 14
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/11236698/screencap/6880cd639e1f5.jpg",
-    "absoluteNumber": 73,
-    "name": "The Escape",
-    "seasonNumber": 4,
-    "number": 15
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/11236699/screencap/688991577cfdb.jpg",
-    "absoluteNumber": 74,
-    "name": "MEDUSA MECHANISM",
-    "seasonNumber": 4,
-    "number": 16
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/11236700/screencap/689202da5cc54.jpg",
-    "absoluteNumber": 75,
-    "name": "Sickening Yet Beautiful",
-    "seasonNumber": 4,
-    "number": 17
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/11236701/screencap/689b3036102ca.jpg",
-    "absoluteNumber": 76,
-    "name": "DIAMOND HEART",
-    "seasonNumber": 4,
-    "number": 18
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/11236702/screencap/68a606917a495.jpg",
-    "absoluteNumber": 77,
-    "name": "STONE SANCTUARY",
-    "seasonNumber": 4,
-    "number": 19
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/11236703/screencap/68adbfc15f75c.jpg",
-    "absoluteNumber": 78,
-    "name": "What I Once Sought to Destroy",
-    "seasonNumber": 4,
-    "number": 20
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/11236704/screencap/68b6d50b51f99.jpg",
-    "absoluteNumber": 79,
-    "name": "OUR Dr. STONE",
-    "seasonNumber": 4,
-    "number": 21
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/11236705/screencap/68c017e3dd691.jpg",
-    "absoluteNumber": 80,
-    "name": "Until We Meet Again",
-    "seasonNumber": 4,
-    "number": 22
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/11236706/screencap/68c9806240780.jpg",
-    "absoluteNumber": 81,
-    "name": "Scientist, All Alone",
-    "seasonNumber": 4,
-    "number": 23
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/11236707/screencap/68d54b5172630.jpg",
-    "absoluteNumber": 82,
-    "name": "WHOLE NEW WORLD",
-    "seasonNumber": 4,
-    "number": 24
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/11359670/screencap/69c9d141996ed.jpg",
-    "absoluteNumber": 83,
-    "name": "FUTURE ENGINE",
-    "seasonNumber": 4,
-    "number": 25
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/11714033/screencap/69d6daa7ace86.jpg",
-    "absoluteNumber": 84,
-    "name": "FIRE",
-    "seasonNumber": 4,
-    "number": 26
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/11714035/screencap/69e033f623461.jpg",
-    "absoluteNumber": 85,
-    "name": "The Universe Is Written in the Language of Mathematics",
-    "seasonNumber": 4,
-    "number": 27
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/11714037/screencap/69e909c158579.jpg",
-    "absoluteNumber": 86,
-    "name": "Dawn of the Computer",
-    "seasonNumber": 4,
-    "number": 28
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/11714038/screencap/69f23b890fff9.jpg",
-    "absoluteNumber": 87,
-    "name": "The Truth About the Rocket",
-    "seasonNumber": 4,
-    "number": 29
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/11714040/screencap/69fb59898c0ea.jpg",
-    "absoluteNumber": 88,
-    "name": "STONE TO SPACE",
-    "seasonNumber": 4,
-    "number": 30
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/11714042/screencap/6a03ba828c1ba.jpg",
-    "absoluteNumber": 89,
-    "name": "UNKNOWN KNOWN",
-    "seasonNumber": 4,
-    "number": 31
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/11714044/screencap/6a0c6a2010b5e.jpg",
-    "absoluteNumber": 90,
-    "name": "Challengers of Science",
-    "seasonNumber": 4,
-    "number": 32
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/11714046/screencap/6a1588eb62788.jpg",
-    "absoluteNumber": 91,
-    "name": "Wanting Everything",
-    "seasonNumber": 4,
-    "number": 33
-  },
-  {
-    "image": "https://artworks.thetvdb.com/banners/v4/episode/11714047/screencap/6a1ed0482db36.jpg",
-    "absoluteNumber": 92,
-    "name": "COUNTDOWN",
-    "seasonNumber": 4,
-    "number": 34
-  },
-  {
-    "image": "",
-    "absoluteNumber": 93,
-    "name": null,
-    "seasonNumber": 4,
-    "number": 35
-  },
-  {
-    "image": "",
-    "absoluteNumber": 94,
-    "name": null,
-    "seasonNumber": 4,
-    "number": 36
-  },
-  {
-    "image": "",
-    "absoluteNumber": 95,
-    "name": null,
-    "seasonNumber": 4,
-    "number": 37
-  }
-]
+{
+  "cachedAt": 1780423717896,
+  "data": [
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/5f91416ec2dfa.jpg",
+      "absoluteNumber": 0,
+      "name": "Stone Wars Eve of the Battle",
+      "seasonNumber": 0,
+      "number": 1,
+      "aired": "2020-10-11"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8912625/screencap/62cbeb139981f.jpg",
+      "absoluteNumber": 36,
+      "name": "Dr. STONE: Ryusui",
+      "seasonNumber": 0,
+      "number": 2,
+      "aired": "2022-07-10"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9818492/screencap/6536e2c837bf4.jpg",
+      "absoluteNumber": 0,
+      "name": "Snickers x Dr Stone",
+      "seasonNumber": 0,
+      "number": 3,
+      "aired": "2021-10-04"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/6915147.jpg",
+      "absoluteNumber": 1,
+      "name": "STONE WORLD",
+      "seasonNumber": 1,
+      "number": 1,
+      "aired": "2019-07-05"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7223682.jpg",
+      "absoluteNumber": 2,
+      "name": "KING OF THE STONE WORLD",
+      "seasonNumber": 1,
+      "number": 2,
+      "aired": "2019-07-12"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7223683.jpg",
+      "absoluteNumber": 3,
+      "name": "Weapons of Science",
+      "seasonNumber": 1,
+      "number": 3,
+      "aired": "2019-07-19"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7223684.jpg",
+      "absoluteNumber": 4,
+      "name": "Fire the Smoke Signal",
+      "seasonNumber": 1,
+      "number": 4,
+      "aired": "2019-07-26"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7223686.jpg",
+      "absoluteNumber": 5,
+      "name": "STONE WORLD THE BEGINNING",
+      "seasonNumber": 1,
+      "number": 5,
+      "aired": "2019-08-02"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7223687.jpg",
+      "absoluteNumber": 6,
+      "name": "Two Nations of the Stone World",
+      "seasonNumber": 1,
+      "number": 6,
+      "aired": "2019-08-09"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7223689.jpg",
+      "absoluteNumber": 7,
+      "name": "Where Two Million Years Have Gone",
+      "seasonNumber": 1,
+      "number": 7,
+      "aired": "2019-08-16"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7223691.jpg",
+      "absoluteNumber": 8,
+      "name": "STONE ROAD",
+      "seasonNumber": 1,
+      "number": 8,
+      "aired": "2019-08-23"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7223693.jpg",
+      "absoluteNumber": 9,
+      "name": "Let There Be the Light of Science",
+      "seasonNumber": 1,
+      "number": 9,
+      "aired": "2019-08-30"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7223695.jpg",
+      "absoluteNumber": 10,
+      "name": "A Flimsy Alliance",
+      "seasonNumber": 1,
+      "number": 10,
+      "aired": "2019-09-06"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7223698.jpg",
+      "absoluteNumber": 11,
+      "name": "CLEAR WORLD",
+      "seasonNumber": 1,
+      "number": 11,
+      "aired": "2019-09-13"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7223701.jpg",
+      "absoluteNumber": 12,
+      "name": "Buddies Back to Back",
+      "seasonNumber": 1,
+      "number": 12,
+      "aired": "2019-09-20"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366285.jpg",
+      "absoluteNumber": 13,
+      "name": "Masked Warrior",
+      "seasonNumber": 1,
+      "number": 13,
+      "aired": "2019-09-27"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366287.jpg",
+      "absoluteNumber": 14,
+      "name": "MASTER OF FLAME",
+      "seasonNumber": 1,
+      "number": 14,
+      "aired": "2019-10-04"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366288.jpg",
+      "absoluteNumber": 15,
+      "name": "The Culmination of Two Million Years",
+      "seasonNumber": 1,
+      "number": 15,
+      "aired": "2019-10-11"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366897.jpg",
+      "absoluteNumber": 16,
+      "name": "A Tale for the Ages",
+      "seasonNumber": 1,
+      "number": 16,
+      "aired": "2019-10-18"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366898.jpg",
+      "absoluteNumber": 17,
+      "name": "A Hundred Nights and a Thousand Skies",
+      "seasonNumber": 1,
+      "number": 17,
+      "aired": "2019-10-25"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366899.jpg",
+      "absoluteNumber": 18,
+      "name": "STONE WARS",
+      "seasonNumber": 1,
+      "number": 18,
+      "aired": "2019-11-01"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366900.jpg",
+      "absoluteNumber": 19,
+      "name": "To Modernity",
+      "seasonNumber": 1,
+      "number": 19,
+      "aired": "2019-11-08"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366901.jpg",
+      "absoluteNumber": 20,
+      "name": "The Age of Energy",
+      "seasonNumber": 1,
+      "number": 20,
+      "aired": "2019-11-15"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366903.jpg",
+      "absoluteNumber": 21,
+      "name": "Spartan Crafts Club",
+      "seasonNumber": 1,
+      "number": 21,
+      "aired": "2019-11-22"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366907.jpg",
+      "absoluteNumber": 22,
+      "name": "THE TREASURE",
+      "seasonNumber": 1,
+      "number": 22,
+      "aired": "2019-11-29"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366917.jpg",
+      "absoluteNumber": 23,
+      "name": "Wave of Science",
+      "seasonNumber": 1,
+      "number": 23,
+      "aired": "2019-12-06"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366921.jpg",
+      "absoluteNumber": 24,
+      "name": "Voices Over Infinite Distance",
+      "seasonNumber": 1,
+      "number": 24,
+      "aired": "2019-12-13"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/5ffd656f8cab9.jpg",
+      "absoluteNumber": 25,
+      "name": "STONE WARS BEGINNING",
+      "seasonNumber": 2,
+      "number": 1,
+      "aired": "2021-01-14"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/600831845bc8e.jpg",
+      "absoluteNumber": 26,
+      "name": "HOT LINE",
+      "seasonNumber": 2,
+      "number": 2,
+      "aired": "2021-01-21"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/6012ddb3be0c5.jpg",
+      "absoluteNumber": 27,
+      "name": "Call from the Dead",
+      "seasonNumber": 2,
+      "number": 3,
+      "aired": "2021-01-28"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/601b00037bdc5.jpg",
+      "absoluteNumber": 28,
+      "name": "Full Assault",
+      "seasonNumber": 2,
+      "number": 4,
+      "aired": "2021-02-04"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/60240a4f8d543.jpg",
+      "absoluteNumber": 29,
+      "name": "STEAM GORILLA",
+      "seasonNumber": 2,
+      "number": 5,
+      "aired": "2021-02-11"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/602e3c1190e9d.jpg",
+      "absoluteNumber": 30,
+      "name": "PRISON BREAK",
+      "seasonNumber": 2,
+      "number": 6,
+      "aired": "2021-02-18"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/603660f1dd427.jpg",
+      "absoluteNumber": 31,
+      "name": "Secret Mission",
+      "seasonNumber": 2,
+      "number": 7,
+      "aired": "2021-02-25"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/603fa95bc128e.jpg",
+      "absoluteNumber": 32,
+      "name": "FINAL BATTLE",
+      "seasonNumber": 2,
+      "number": 8,
+      "aired": "2021-03-04"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8145693/screencap/6049c3e05b49b.jpg",
+      "absoluteNumber": 33,
+      "name": "To Destroy and to Save",
+      "seasonNumber": 2,
+      "number": 9,
+      "aired": "2021-03-11"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8145694/screencap/60536d3d675cc.jpg",
+      "absoluteNumber": 34,
+      "name": "Humanity's Strongest Tag Team",
+      "seasonNumber": 2,
+      "number": 10,
+      "aired": "2021-03-18"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8145695/screencap/605b6be09417a.jpg",
+      "absoluteNumber": 35,
+      "name": "PROLOGUE OF Dr. STONE",
+      "seasonNumber": 2,
+      "number": 11,
+      "aired": "2021-03-25"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9372021/screencap/642ed86e305a9.jpg",
+      "absoluteNumber": 37,
+      "name": "NEW WORLD MAP",
+      "seasonNumber": 3,
+      "number": 1,
+      "aired": "2023-04-06"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9687329/screencap/643813b0601bb.jpg",
+      "absoluteNumber": 38,
+      "name": "Greed Equals Justice",
+      "seasonNumber": 3,
+      "number": 2,
+      "aired": "2023-04-13"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9687330/screencap/64412f7ff0156.jpg",
+      "absoluteNumber": 39,
+      "name": "First Contact",
+      "seasonNumber": 3,
+      "number": 3,
+      "aired": "2023-04-20"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9687331/screencap/64499d7edc8e3.jpg",
+      "absoluteNumber": 40,
+      "name": "Eyes of Science",
+      "seasonNumber": 3,
+      "number": 4,
+      "aired": "2023-04-27"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9687332/screencap/644ec5c4f0178.jpg",
+      "absoluteNumber": 41,
+      "name": "Science Vessel Perseus",
+      "seasonNumber": 3,
+      "number": 5,
+      "aired": "2023-05-04"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9687333/screencap/645907558c18f.jpg",
+      "absoluteNumber": 42,
+      "name": "TREASURE BOX",
+      "seasonNumber": 3,
+      "number": 6,
+      "aired": "2023-05-11"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9687334/screencap/6464242ce49f0.jpg",
+      "absoluteNumber": 43,
+      "name": "Ray of Despair, Ray of Hope",
+      "seasonNumber": 3,
+      "number": 7,
+      "aired": "2023-05-18"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9687335/screencap/646cff709882f.jpg",
+      "absoluteNumber": 44,
+      "name": "The Trump Card Aboard the Science Vessel",
+      "seasonNumber": 3,
+      "number": 8,
+      "aired": "2023-05-25"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9687336/screencap/647558d36502d.jpg",
+      "absoluteNumber": 45,
+      "name": "Beautiful Science",
+      "seasonNumber": 3,
+      "number": 9,
+      "aired": "2023-06-01"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9687337/screencap/647e2147549f0.jpg",
+      "absoluteNumber": 46,
+      "name": "SCIENCE WARS",
+      "seasonNumber": 3,
+      "number": 10,
+      "aired": "2023-06-08"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9687338/screencap/648766f694af2.jpg",
+      "absoluteNumber": 47,
+      "name": "With This Fist, a Miracle",
+      "seasonNumber": 3,
+      "number": 11,
+      "aired": "2023-06-15"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9687339/screencap/65255ed8115bc.jpg",
+      "absoluteNumber": 48,
+      "name": "The Kingdom of Science Strikes Back",
+      "seasonNumber": 3,
+      "number": 12,
+      "aired": "2023-10-12"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9971408/screencap/652ef9ec33932.jpg",
+      "absoluteNumber": 49,
+      "name": "The Medusa's True Face",
+      "seasonNumber": 3,
+      "number": 13,
+      "aired": "2023-10-19"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9971409/screencap/65330950eb095.jpg",
+      "absoluteNumber": 50,
+      "name": "Deal Game, Test of Wit",
+      "seasonNumber": 3,
+      "number": 14,
+      "aired": "2023-10-26"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9971410/screencap/65401bb663889.jpg",
+      "absoluteNumber": 51,
+      "name": "Battle in Three Dimensions",
+      "seasonNumber": 3,
+      "number": 15,
+      "aired": "2023-11-02"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9971411/screencap/6548fc63c450f.jpg",
+      "absoluteNumber": 52,
+      "name": "Total War",
+      "seasonNumber": 3,
+      "number": 16,
+      "aired": "2023-11-09"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9971413/screencap/6550f17c8289b.jpg",
+      "absoluteNumber": 53,
+      "name": "JOKER",
+      "seasonNumber": 3,
+      "number": 17,
+      "aired": "2023-11-16"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9971414/screencap/655aa85d02625.jpg",
+      "absoluteNumber": 54,
+      "name": "Flicker of Doom",
+      "seasonNumber": 3,
+      "number": 18,
+      "aired": "2023-11-23"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9971415/screencap/6562a8970cd04.jpg",
+      "absoluteNumber": 55,
+      "name": "LAST MAN STANDING",
+      "seasonNumber": 3,
+      "number": 19,
+      "aired": "2023-11-30"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9971416/screencap/656f446f14ad8.jpg",
+      "absoluteNumber": 56,
+      "name": "FIRST DREAM",
+      "seasonNumber": 3,
+      "number": 20,
+      "aired": "2023-12-07"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9971417/screencap/65731ca973891.jpg",
+      "absoluteNumber": 57,
+      "name": "Treasure Island",
+      "seasonNumber": 3,
+      "number": 21,
+      "aired": "2023-12-14"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9971418/screencap/65806887db021.jpg",
+      "absoluteNumber": 58,
+      "name": "BEYOND THE NEW WORLD",
+      "seasonNumber": 3,
+      "number": 22,
+      "aired": "2023-12-21"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9687340/screencap/677dad36d4cb5.jpg",
+      "absoluteNumber": 59,
+      "name": "RYUSUI VS. SENKU",
+      "seasonNumber": 4,
+      "number": 1,
+      "aired": "2025-01-09"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10849846/screencap/6786a7f4aec99.jpg",
+      "absoluteNumber": 60,
+      "name": "SCIENCE JOURNEY",
+      "seasonNumber": 4,
+      "number": 2,
+      "aired": "2025-01-16"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10849847/screencap/6790e7f4bc354.jpg",
+      "absoluteNumber": 61,
+      "name": "Light Trap in the Darkness",
+      "seasonNumber": 4,
+      "number": 3,
+      "aired": "2025-01-23"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10849848/screencap/6799186753561.jpg",
+      "absoluteNumber": 62,
+      "name": "Dr. X",
+      "seasonNumber": 4,
+      "number": 4,
+      "aired": "2025-01-30"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10849849/screencap/67a3a532b7c11.jpg",
+      "absoluteNumber": 63,
+      "name": "DOCTOR VS. DOCTOR",
+      "seasonNumber": 4,
+      "number": 5,
+      "aired": "2025-02-06"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10849850/screencap/67aca78d2657c.jpg",
+      "absoluteNumber": 64,
+      "name": "SCIENCE IS ELEGANT",
+      "seasonNumber": 4,
+      "number": 6,
+      "aired": "2025-02-13"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10849851/screencap/67b603ab0f40d.jpg",
+      "absoluteNumber": 65,
+      "name": "The Two Scientists",
+      "seasonNumber": 4,
+      "number": 7,
+      "aired": "2025-02-20"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10849852/screencap/67bdd47801194.jpg",
+      "absoluteNumber": 66,
+      "name": "LOCK ON",
+      "seasonNumber": 4,
+      "number": 8,
+      "aired": "2025-02-27"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10849853/screencap/67c85dbeaa8c0.jpg",
+      "absoluteNumber": 67,
+      "name": "Light of Science",
+      "seasonNumber": 4,
+      "number": 9,
+      "aired": "2025-03-06"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10849854/screencap/67d1ce5baefbd.jpg",
+      "absoluteNumber": 68,
+      "name": "Dirty Roads",
+      "seasonNumber": 4,
+      "number": 10,
+      "aired": "2025-03-13"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10849855/screencap/67da1389a16f5.jpg",
+      "absoluteNumber": 69,
+      "name": "Those Who Know the Rules; Those Who Make Them",
+      "seasonNumber": 4,
+      "number": 11,
+      "aired": "2025-03-20"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10849856/screencap/67e40227311b2.jpg",
+      "absoluteNumber": 70,
+      "name": "Reunion",
+      "seasonNumber": 4,
+      "number": 12,
+      "aired": "2025-03-27"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11054333/screencap/686d13ac77241.jpg",
+      "absoluteNumber": 71,
+      "name": "Watching the Same Moon",
+      "seasonNumber": 4,
+      "number": 13,
+      "aired": "2025-07-10"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11236697/screencap/687700c453e1d.jpg",
+      "absoluteNumber": 72,
+      "name": "EARTH RACE",
+      "seasonNumber": 4,
+      "number": 14,
+      "aired": "2025-07-17"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11236698/screencap/6880cd639e1f5.jpg",
+      "absoluteNumber": 73,
+      "name": "The Escape",
+      "seasonNumber": 4,
+      "number": 15,
+      "aired": "2025-07-24"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11236699/screencap/688991577cfdb.jpg",
+      "absoluteNumber": 74,
+      "name": "MEDUSA MECHANISM",
+      "seasonNumber": 4,
+      "number": 16,
+      "aired": "2025-07-31"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11236700/screencap/689202da5cc54.jpg",
+      "absoluteNumber": 75,
+      "name": "Sickening Yet Beautiful",
+      "seasonNumber": 4,
+      "number": 17,
+      "aired": "2025-08-07"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11236701/screencap/689b3036102ca.jpg",
+      "absoluteNumber": 76,
+      "name": "DIAMOND HEART",
+      "seasonNumber": 4,
+      "number": 18,
+      "aired": "2025-08-14"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11236702/screencap/68a606917a495.jpg",
+      "absoluteNumber": 77,
+      "name": "STONE SANCTUARY",
+      "seasonNumber": 4,
+      "number": 19,
+      "aired": "2025-08-21"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11236703/screencap/68adbfc15f75c.jpg",
+      "absoluteNumber": 78,
+      "name": "What I Once Sought to Destroy",
+      "seasonNumber": 4,
+      "number": 20,
+      "aired": "2025-08-28"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11236704/screencap/68b6d50b51f99.jpg",
+      "absoluteNumber": 79,
+      "name": "OUR Dr. STONE",
+      "seasonNumber": 4,
+      "number": 21,
+      "aired": "2025-09-04"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11236705/screencap/68c017e3dd691.jpg",
+      "absoluteNumber": 80,
+      "name": "Until We Meet Again",
+      "seasonNumber": 4,
+      "number": 22,
+      "aired": "2025-09-11"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11236706/screencap/68c9806240780.jpg",
+      "absoluteNumber": 81,
+      "name": "Scientist, All Alone",
+      "seasonNumber": 4,
+      "number": 23,
+      "aired": "2025-09-18"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11236707/screencap/68d54b5172630.jpg",
+      "absoluteNumber": 82,
+      "name": "WHOLE NEW WORLD",
+      "seasonNumber": 4,
+      "number": 24,
+      "aired": "2025-09-25"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11359670/screencap/69c9d141996ed.jpg",
+      "absoluteNumber": 83,
+      "name": "FUTURE ENGINE",
+      "seasonNumber": 4,
+      "number": 25,
+      "aired": "2026-04-02"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714033/screencap/69d6daa7ace86.jpg",
+      "absoluteNumber": 84,
+      "name": "FIRE",
+      "seasonNumber": 4,
+      "number": 26,
+      "aired": "2026-04-09"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714035/screencap/69e033f623461.jpg",
+      "absoluteNumber": 85,
+      "name": "The Universe Is Written in the Language of Mathematics",
+      "seasonNumber": 4,
+      "number": 27,
+      "aired": "2026-04-16"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714037/screencap/69e909c158579.jpg",
+      "absoluteNumber": 86,
+      "name": "Dawn of the Computer",
+      "seasonNumber": 4,
+      "number": 28,
+      "aired": "2026-04-23"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714038/screencap/69f23b890fff9.jpg",
+      "absoluteNumber": 87,
+      "name": "The Truth About the Rocket",
+      "seasonNumber": 4,
+      "number": 29,
+      "aired": "2026-04-30"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714040/screencap/69fb59898c0ea.jpg",
+      "absoluteNumber": 88,
+      "name": "STONE TO SPACE",
+      "seasonNumber": 4,
+      "number": 30,
+      "aired": "2026-05-07"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714042/screencap/6a03ba828c1ba.jpg",
+      "absoluteNumber": 89,
+      "name": "UNKNOWN KNOWN",
+      "seasonNumber": 4,
+      "number": 31,
+      "aired": "2026-05-14"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714044/screencap/6a0c6a2010b5e.jpg",
+      "absoluteNumber": 90,
+      "name": "Challengers of Science",
+      "seasonNumber": 4,
+      "number": 32,
+      "aired": "2026-05-21"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714046/screencap/6a1588eb62788.jpg",
+      "absoluteNumber": 91,
+      "name": "Wanting Everything",
+      "seasonNumber": 4,
+      "number": 33,
+      "aired": "2026-05-28"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714047/screencap/6a1ed0482db36.jpg",
+      "absoluteNumber": 92,
+      "name": "COUNTDOWN",
+      "seasonNumber": 4,
+      "number": 34,
+      "aired": "2026-06-04"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 93,
+      "name": null,
+      "seasonNumber": 4,
+      "number": 35,
+      "aired": "2026-06-11"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 94,
+      "name": null,
+      "seasonNumber": 4,
+      "number": 36,
+      "aired": "2026-06-18"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 95,
+      "name": null,
+      "seasonNumber": 4,
+      "number": 37,
+      "aired": "2026-06-25"
+    }
+  ]
+}
