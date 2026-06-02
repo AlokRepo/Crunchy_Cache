@@ -1,0 +1,533 @@
+{
+  "cachedAt": 1780420647655,
+  "data": [
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/377543/episodes/5ff8f991f40cd.jpg",
+      "absoluteNumber": 0,
+      "name": "New Year's Special",
+      "seasonNumber": 0,
+      "number": 1,
+      "aired": "2021-01-09"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8912617/screencap/632ab06fea092.jpg",
+      "absoluteNumber": 0,
+      "name": "Jujutsu Kaisen 0",
+      "seasonNumber": 0,
+      "number": 2,
+      "aired": "2021-12-24"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9959735/screencap/64e3ec53484e2.jpg",
+      "absoluteNumber": 0,
+      "name": "Pillow Talk (1)",
+      "seasonNumber": 0,
+      "number": 3,
+      "aired": "2023-08-11"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9961070/screencap/64e3ec6965b5c.jpg",
+      "absoluteNumber": 0,
+      "name": "Pillow Talk (2)",
+      "seasonNumber": 0,
+      "number": 4,
+      "aired": "2023-08-18"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "JUJUTSU KAISEN: Execution",
+      "seasonNumber": 0,
+      "number": 6,
+      "aired": "2025-11-07"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11519506/screencap/694df32869ab3.jpg",
+      "absoluteNumber": 0,
+      "name": "Jujutsu Kaisen: Hidden Inventory / Premature Death - The Movie",
+      "seasonNumber": 0,
+      "number": 7,
+      "aired": "2025-05-30"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11547985/screencap/69b88076a0208.jpg",
+      "absoluteNumber": 0,
+      "name": "The Culling Game Special Episode",
+      "seasonNumber": 0,
+      "number": 8,
+      "aired": "2026-02-20"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/377543/episodes/5f72c5c9dddf4.jpg",
+      "absoluteNumber": 1,
+      "name": "Ryoumen Sukuna",
+      "seasonNumber": 1,
+      "number": 1,
+      "aired": "2020-10-03"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/377543/episodes/5f7b41f65db83.jpg",
+      "absoluteNumber": 2,
+      "name": "For Myself",
+      "seasonNumber": 1,
+      "number": 2,
+      "aired": "2020-10-10"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/377543/episodes/5f86fc9224f58.jpg",
+      "absoluteNumber": 3,
+      "name": "Girl of Steel",
+      "seasonNumber": 1,
+      "number": 3,
+      "aired": "2020-10-17"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/377543/episodes/5f91fb1ddc6d6.jpg",
+      "absoluteNumber": 4,
+      "name": "Curse Womb Must Die",
+      "seasonNumber": 1,
+      "number": 4,
+      "aired": "2020-10-24"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/377543/episodes/5f99a5f87a1ad.jpg",
+      "absoluteNumber": 5,
+      "name": "Curse Womb Must Die -II-",
+      "seasonNumber": 1,
+      "number": 5,
+      "aired": "2020-10-31"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/377543/episodes/5fa45daa51da3.jpg",
+      "absoluteNumber": 6,
+      "name": "After Rain",
+      "seasonNumber": 1,
+      "number": 6,
+      "aired": "2020-11-07"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/377543/episodes/5faa486646e8a.jpg",
+      "absoluteNumber": 7,
+      "name": "Assault",
+      "seasonNumber": 1,
+      "number": 7,
+      "aired": "2020-11-14"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/377543/episodes/5fb3a81de91f0.jpg",
+      "absoluteNumber": 8,
+      "name": "Boredom",
+      "seasonNumber": 1,
+      "number": 8,
+      "aired": "2020-11-21"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/377543/episodes/5fbdb3b779977.jpg",
+      "absoluteNumber": 9,
+      "name": "Small Fry and Reverse Retribution",
+      "seasonNumber": 1,
+      "number": 9,
+      "aired": "2020-11-28"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/377543/episodes/5fc8f0c0ce16b.jpg",
+      "absoluteNumber": 10,
+      "name": "Idle Transfiguration",
+      "seasonNumber": 1,
+      "number": 10,
+      "aired": "2020-12-05"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/377543/episodes/5fd0c61684352.jpg",
+      "absoluteNumber": 11,
+      "name": "Narrow-minded",
+      "seasonNumber": 1,
+      "number": 11,
+      "aired": "2020-12-12"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/377543/episodes/5fdb47bda7979.jpg",
+      "absoluteNumber": 12,
+      "name": "To You, Someday",
+      "seasonNumber": 1,
+      "number": 12,
+      "aired": "2020-12-19"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/377543/episodes/5fe5e2fd95dda.jpg",
+      "absoluteNumber": 13,
+      "name": "Tomorrow",
+      "seasonNumber": 1,
+      "number": 13,
+      "aired": "2020-12-26"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/377543/episodes/600181cfc3b53.jpg",
+      "absoluteNumber": 14,
+      "name": "Kyoto Sister School Exchange Event - Group Battle 0 -",
+      "seasonNumber": 1,
+      "number": 14,
+      "aired": "2021-01-16"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/377543/episodes/600ab4f8809b5.jpg",
+      "absoluteNumber": 15,
+      "name": "Kyoto Sister School Exchange Event - Group Battle 1 -",
+      "seasonNumber": 1,
+      "number": 15,
+      "aired": "2021-01-23"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/377543/episodes/60125de8aeb6d.jpg",
+      "absoluteNumber": 16,
+      "name": "Kyoto Sister School Exchange Event - Group Battle 2 -",
+      "seasonNumber": 1,
+      "number": 16,
+      "aired": "2021-01-30"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/377543/episodes/601bf60750707.jpg",
+      "absoluteNumber": 17,
+      "name": "Kyoto Sister School Exchange Event - Group Battle 3 -",
+      "seasonNumber": 1,
+      "number": 17,
+      "aired": "2021-02-06"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/377543/episodes/60255a6fbd7f5.jpg",
+      "absoluteNumber": 18,
+      "name": "Sage",
+      "seasonNumber": 1,
+      "number": 18,
+      "aired": "2021-02-13"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/377543/episodes/602f8143e408f.jpg",
+      "absoluteNumber": 19,
+      "name": "Black Flash",
+      "seasonNumber": 1,
+      "number": 19,
+      "aired": "2021-02-20"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/377543/episodes/6037bd08c0ab2.jpg",
+      "absoluteNumber": 20,
+      "name": "Nonstandard",
+      "seasonNumber": 1,
+      "number": 20,
+      "aired": "2021-02-27"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/377543/episodes/60412675dbfb9.jpg",
+      "absoluteNumber": 21,
+      "name": "Jujutsu Koshien",
+      "seasonNumber": 1,
+      "number": 21,
+      "aired": "2021-03-06"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/7973204/screencap/604b4ac7c53ec.jpg",
+      "absoluteNumber": 22,
+      "name": "The Origin of Blind Obedience",
+      "seasonNumber": 1,
+      "number": 22,
+      "aired": "2021-03-13"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/7973207/screencap/60545c3c55805.jpg",
+      "absoluteNumber": 23,
+      "name": "The Origin of Blind Obedience - 2 -",
+      "seasonNumber": 1,
+      "number": 23,
+      "aired": "2021-03-20"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/7973210/screencap/605dc33a5a109.jpg",
+      "absoluteNumber": 24,
+      "name": "Accomplices",
+      "seasonNumber": 1,
+      "number": 24,
+      "aired": "2021-03-27"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9000784/screencap/64a424d8a45e7.jpg",
+      "absoluteNumber": 25,
+      "name": "Hidden Inventory",
+      "seasonNumber": 2,
+      "number": 1,
+      "aired": "2023-07-06"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9816818/screencap/64ae6f358799e.jpg",
+      "absoluteNumber": 26,
+      "name": "Hidden Inventory 2",
+      "seasonNumber": 2,
+      "number": 2,
+      "aired": "2023-07-13"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9816819/screencap/64b7bf5f8b1e4.jpg",
+      "absoluteNumber": 27,
+      "name": "Hidden Inventory 3",
+      "seasonNumber": 2,
+      "number": 3,
+      "aired": "2023-07-20"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9816820/screencap/64c1165c72ee0.jpg",
+      "absoluteNumber": 28,
+      "name": "Hidden Inventory 4",
+      "seasonNumber": 2,
+      "number": 4,
+      "aired": "2023-07-27"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9816821/screencap/64ca37f2d0eea.jpg",
+      "absoluteNumber": 29,
+      "name": "Premature Death",
+      "seasonNumber": 2,
+      "number": 5,
+      "aired": "2023-08-03"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9816823/screencap/64ef3b339eb77.jpg",
+      "absoluteNumber": 30,
+      "name": "It's Like That",
+      "seasonNumber": 2,
+      "number": 6,
+      "aired": "2023-08-31"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9816825/screencap/64f879917b4d1.jpg",
+      "absoluteNumber": 31,
+      "name": "Evening Festival",
+      "seasonNumber": 2,
+      "number": 7,
+      "aired": "2023-09-07"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9816826/screencap/6501d4a485175.jpg",
+      "absoluteNumber": 32,
+      "name": "Shibuya Incident",
+      "seasonNumber": 2,
+      "number": 8,
+      "aired": "2023-09-14"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9816827/screencap/6512e5a2ebcd2.jpg",
+      "absoluteNumber": 33,
+      "name": "Shibuya Incident - Gate, Open",
+      "seasonNumber": 2,
+      "number": 9,
+      "aired": "2023-09-21"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9816828/screencap/65146f5846741.jpg",
+      "absoluteNumber": 34,
+      "name": "Pandemonium",
+      "seasonNumber": 2,
+      "number": 10,
+      "aired": "2023-09-28"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9816829/screencap/651d438600dbd.jpg",
+      "absoluteNumber": 35,
+      "name": "Seance",
+      "seasonNumber": 2,
+      "number": 11,
+      "aired": "2023-10-05"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9816830/screencap/6526836758d49.jpg",
+      "absoluteNumber": 36,
+      "name": "Dull Knife",
+      "seasonNumber": 2,
+      "number": 12,
+      "aired": "2023-10-12"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9816831/screencap/652ffb20ed7f6.jpg",
+      "absoluteNumber": 37,
+      "name": "Red Scale",
+      "seasonNumber": 2,
+      "number": 13,
+      "aired": "2023-10-19"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9879034/screencap/6538e5e7f3dc3.jpg",
+      "absoluteNumber": 38,
+      "name": "Fluctuations",
+      "seasonNumber": 2,
+      "number": 14,
+      "aired": "2023-10-26"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9879035/screencap/6542601e76278.jpg",
+      "absoluteNumber": 39,
+      "name": "Fluctuations - Part 2",
+      "seasonNumber": 2,
+      "number": 15,
+      "aired": "2023-11-02"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9879036/screencap/654b52f0cb505.jpg",
+      "absoluteNumber": 40,
+      "name": "Thunderclap",
+      "seasonNumber": 2,
+      "number": 16,
+      "aired": "2023-11-09"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9879037/screencap/655dd976d7a7e.jpg",
+      "absoluteNumber": 41,
+      "name": "Thunderclap - Part 2",
+      "seasonNumber": 2,
+      "number": 17,
+      "aired": "2023-11-16"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9879038/screencap/6560a65d897fa.jpg",
+      "absoluteNumber": 42,
+      "name": "Right and Wrong",
+      "seasonNumber": 2,
+      "number": 18,
+      "aired": "2023-11-23"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9879039/screencap/6569a9e1e6f83.jpg",
+      "absoluteNumber": 43,
+      "name": "Right and Wrong - Part 2",
+      "seasonNumber": 2,
+      "number": 19,
+      "aired": "2023-11-30"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9879040/screencap/657082c6d320d.jpg",
+      "absoluteNumber": 44,
+      "name": "Right and Wrong - Part 3",
+      "seasonNumber": 2,
+      "number": 20,
+      "aired": "2023-12-07"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9879041/screencap/6579c8b8bef8b.jpg",
+      "absoluteNumber": 45,
+      "name": "Metamorphosis",
+      "seasonNumber": 2,
+      "number": 21,
+      "aired": "2023-12-14"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9879042/screencap/6582e339e546e.jpg",
+      "absoluteNumber": 46,
+      "name": "Metamorphosis - Part 2",
+      "seasonNumber": 2,
+      "number": 22,
+      "aired": "2023-12-21"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9879043/screencap/658c1174b40c2.jpg",
+      "absoluteNumber": 47,
+      "name": "Shibuya Incident - Gate, Close",
+      "seasonNumber": 2,
+      "number": 23,
+      "aired": "2023-12-28"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11441213/screencap/694bdf2fb0ee5.jpg",
+      "absoluteNumber": 48,
+      "name": "Execution",
+      "seasonNumber": 3,
+      "number": 1,
+      "aired": "2026-01-09"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11516722/screencap/695feba5103aa.jpg",
+      "absoluteNumber": 49,
+      "name": "One More Time",
+      "seasonNumber": 3,
+      "number": 2,
+      "aired": "2026-01-09"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11547509/screencap/6967794c7a3d1.jpg",
+      "absoluteNumber": 50,
+      "name": "About the Culling Game",
+      "seasonNumber": 3,
+      "number": 3,
+      "aired": "2026-01-16"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11547510/screencap/6970979351954.jpg",
+      "absoluteNumber": 51,
+      "name": "Perfect Preparation",
+      "seasonNumber": 3,
+      "number": 4,
+      "aired": "2026-01-23"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11547511/screencap/6979d9e4554c7.jpg",
+      "absoluteNumber": 52,
+      "name": "Passion",
+      "seasonNumber": 3,
+      "number": 5,
+      "aired": "2026-01-30"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11547512/screencap/69831423474c9.jpg",
+      "absoluteNumber": 53,
+      "name": "Cog",
+      "seasonNumber": 3,
+      "number": 6,
+      "aired": "2026-02-06"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11547977/screencap/698c4b5c68870.jpg",
+      "absoluteNumber": 54,
+      "name": "Tokyo Colony No. 1",
+      "seasonNumber": 3,
+      "number": 7,
+      "aired": "2026-02-13"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11547978/screencap/699ed4042e0fb.jpg",
+      "absoluteNumber": 55,
+      "name": "Tokyo Colony No. 1 - Part 2",
+      "seasonNumber": 3,
+      "number": 8,
+      "aired": "2026-02-27"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11547979/screencap/69a7fd9e4519e.jpg",
+      "absoluteNumber": 56,
+      "name": "Tokyo Colony No. 1 - Part 3",
+      "seasonNumber": 3,
+      "number": 9,
+      "aired": "2026-03-06"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11547980/screencap/69b154eb3e28c.jpg",
+      "absoluteNumber": 57,
+      "name": "Tokyo Colony No. 1 - Part 4",
+      "seasonNumber": 3,
+      "number": 10,
+      "aired": "2026-03-13"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11547981/screencap/69ba7247a226b.jpg",
+      "absoluteNumber": 58,
+      "name": "Tokyo Colony No. 1 - Part 5",
+      "seasonNumber": 3,
+      "number": 11,
+      "aired": "2026-03-20"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11547982/screencap/69c3c1845d6f2.jpg",
+      "absoluteNumber": 59,
+      "name": "Sendai Colony",
+      "seasonNumber": 3,
+      "number": 12,
+      "aired": "2026-03-27"
+    }
+  ]
+}
