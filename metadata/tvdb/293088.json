@@ -1,0 +1,429 @@
+{
+  "cachedAt": 1780471092007,
+  "data": [
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/5353882.jpg",
+      "absoluteNumber": 19,
+      "name": "Road to Hero",
+      "seasonNumber": 0,
+      "number": 1,
+      "aired": "2015-12-04"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/5446926.jpg",
+      "absoluteNumber": 3,
+      "name": "The Shadow That Snuck Up Too Close",
+      "seasonNumber": 0,
+      "number": 2,
+      "aired": "2015-12-24"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/5446928.jpg",
+      "absoluteNumber": 5,
+      "name": "The Disciple Who Sucks at Storytelling",
+      "seasonNumber": 0,
+      "number": 3,
+      "aired": "2016-01-29"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/5450221.jpg",
+      "absoluteNumber": 8,
+      "name": "The Overly-Complicated Ninja",
+      "seasonNumber": 0,
+      "number": 4,
+      "aired": "2016-02-24"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/5450222.jpg",
+      "absoluteNumber": 11,
+      "name": "The Excessively Pushy Bang",
+      "seasonNumber": 0,
+      "number": 5,
+      "aired": "2016-03-25"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/5450223.jpg",
+      "absoluteNumber": 14,
+      "name": "The Sisters With Too Much Going On",
+      "seasonNumber": 0,
+      "number": 6,
+      "aired": "2016-04-22"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/5450224.jpg",
+      "absoluteNumber": 18,
+      "name": "The Far Too Impossible Case of Murder",
+      "seasonNumber": 0,
+      "number": 7,
+      "aired": "2016-05-27"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/7118727.jpg",
+      "absoluteNumber": 0,
+      "name": "A Super Serious Look Back!",
+      "seasonNumber": 0,
+      "number": 8,
+      "aired": "2019-04-03"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/7440636.jpg",
+      "absoluteNumber": 20,
+      "name": "Saitama and the Mediocre Gang",
+      "seasonNumber": 0,
+      "number": 9,
+      "aired": "2019-10-17"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/293088/episodes/7440638.jpg",
+      "absoluteNumber": 21,
+      "name": "Fishing With the Old Boys",
+      "seasonNumber": 0,
+      "number": 10,
+      "aired": "2019-11-26"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/293088/episodes/5fc544e49d741.jpg",
+      "absoluteNumber": 24,
+      "name": "Genos and Amnesia",
+      "seasonNumber": 0,
+      "number": 11,
+      "aired": "2019-12-25"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/293088/episodes/5fc5766a9d52e.jpg",
+      "absoluteNumber": 25,
+      "name": "Games and Rivals",
+      "seasonNumber": 0,
+      "number": 12,
+      "aired": "2020-01-28"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/293088/episodes/5fc5672b8e149.jpg",
+      "absoluteNumber": 27,
+      "name": "Puri-Puri Prisoner and the Jailbreak",
+      "seasonNumber": 0,
+      "number": 13,
+      "aired": "2020-02-27"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/293088/episodes/5fc581f3ba277.jpg",
+      "absoluteNumber": 37,
+      "name": "The Murder Case That Is Just Too Impossible 2: Snowed-in Heroes and the Mountain Retreat",
+      "seasonNumber": 0,
+      "number": 14,
+      "aired": "2020-03-27"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "An Evening with the Cast and Staff of One Punch Man",
+      "seasonNumber": 0,
+      "number": 16,
+      "aired": null
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11380082/screencap/68e35b197eac8.jpg",
+      "absoluteNumber": 0,
+      "name": "Broadcast Commemorative Episode: a Serious Look Back at the Anime One-Punch Man Season 2",
+      "seasonNumber": 0,
+      "number": 17,
+      "aired": "2025-10-05"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11612570/screencap/698f6730464aa.jpg",
+      "absoluteNumber": 0,
+      "name": "Go! Saitama",
+      "seasonNumber": 0,
+      "number": 18,
+      "aired": "2021-09-23"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/5155243.jpg",
+      "absoluteNumber": 1,
+      "name": "The Strongest Man",
+      "seasonNumber": 1,
+      "number": 1,
+      "aired": "2015-10-04"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/5343660.jpg",
+      "absoluteNumber": 2,
+      "name": "The Lone Cyborg",
+      "seasonNumber": 1,
+      "number": 2,
+      "aired": "2015-10-11"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/5343661.jpg",
+      "absoluteNumber": 4,
+      "name": "The Obsessive Scientist",
+      "seasonNumber": 1,
+      "number": 3,
+      "aired": "2015-10-18"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/5343662.jpg",
+      "absoluteNumber": 6,
+      "name": "The Modern Ninja",
+      "seasonNumber": 1,
+      "number": 4,
+      "aired": "2015-10-26"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/5355670.jpg",
+      "absoluteNumber": 7,
+      "name": "The Ultimate Master",
+      "seasonNumber": 1,
+      "number": 5,
+      "aired": "2015-11-01"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/5355671.jpg",
+      "absoluteNumber": 9,
+      "name": "The Terrifying City",
+      "seasonNumber": 1,
+      "number": 6,
+      "aired": "2015-11-08"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/5355672.jpg",
+      "absoluteNumber": 10,
+      "name": "The Ultimate Disciple",
+      "seasonNumber": 1,
+      "number": 7,
+      "aired": "2015-11-15"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/5356994.jpg",
+      "absoluteNumber": 12,
+      "name": "The Deep Sea King",
+      "seasonNumber": 1,
+      "number": 8,
+      "aired": "2015-11-22"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/5356995.jpg",
+      "absoluteNumber": 13,
+      "name": "Unyielding Justice",
+      "seasonNumber": 1,
+      "number": 9,
+      "aired": "2015-11-29"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/5356996.jpg",
+      "absoluteNumber": 15,
+      "name": "Unparalleled Peril",
+      "seasonNumber": 1,
+      "number": 10,
+      "aired": "2015-12-06"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/5356997.jpg",
+      "absoluteNumber": 16,
+      "name": "The Dominator of the Universe",
+      "seasonNumber": 1,
+      "number": 11,
+      "aired": "2015-12-13"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/5356998.jpg",
+      "absoluteNumber": 17,
+      "name": "The Strongest Hero",
+      "seasonNumber": 1,
+      "number": 12,
+      "aired": "2015-12-20"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/6950609.jpg",
+      "absoluteNumber": 22,
+      "name": "Return of the Hero",
+      "seasonNumber": 2,
+      "number": 1,
+      "aired": "2019-04-10"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/7096156.jpg",
+      "absoluteNumber": 23,
+      "name": "Human Monster",
+      "seasonNumber": 2,
+      "number": 2,
+      "aired": "2019-04-17"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/7096157.jpg",
+      "absoluteNumber": 26,
+      "name": "The Hunt Begins",
+      "seasonNumber": 2,
+      "number": 3,
+      "aired": "2019-04-24"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/7096158.jpg",
+      "absoluteNumber": 28,
+      "name": "Metal Bat",
+      "seasonNumber": 2,
+      "number": 4,
+      "aired": "2019-05-01"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/7096159.jpg",
+      "absoluteNumber": 29,
+      "name": "Martial Arts Tournament",
+      "seasonNumber": 2,
+      "number": 5,
+      "aired": "2019-05-08"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/7096160.jpg",
+      "absoluteNumber": 30,
+      "name": "The Uprising of the Monsters",
+      "seasonNumber": 2,
+      "number": 6,
+      "aired": "2019-05-15"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/7096161.jpg",
+      "absoluteNumber": 31,
+      "name": "Class S Heroes",
+      "seasonNumber": 2,
+      "number": 7,
+      "aired": "2019-05-22"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/7096162.jpg",
+      "absoluteNumber": 32,
+      "name": "The Strong Ones Fight Back",
+      "seasonNumber": 2,
+      "number": 8,
+      "aired": "2019-05-29"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/7096163.jpg",
+      "absoluteNumber": 33,
+      "name": "The Ultimate Dilemma",
+      "seasonNumber": 2,
+      "number": 9,
+      "aired": "2019-06-12"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/7096164.jpg",
+      "absoluteNumber": 34,
+      "name": "The Encircling Net of Justice",
+      "seasonNumber": 2,
+      "number": 10,
+      "aired": "2019-06-19"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/7096165.jpg",
+      "absoluteNumber": 35,
+      "name": "Everyone's Dignity",
+      "seasonNumber": 2,
+      "number": 11,
+      "aired": "2019-06-26"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/293088/7096166.jpg",
+      "absoluteNumber": 36,
+      "name": "Cleaning Up the Disciple's Mess",
+      "seasonNumber": 2,
+      "number": 12,
+      "aired": "2019-07-02"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10106205/screencap/68dfa64da027a.jpg",
+      "absoluteNumber": 38,
+      "name": "Strategy Meeting",
+      "seasonNumber": 3,
+      "number": 1,
+      "aired": "2025-10-12"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367842/screencap/68f08f29c207a.jpg",
+      "absoluteNumber": 39,
+      "name": "Monster Traits",
+      "seasonNumber": 3,
+      "number": 2,
+      "aired": "2025-10-19"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367843/screencap/68f9f422af544.jpg",
+      "absoluteNumber": 40,
+      "name": "Organism Limits",
+      "seasonNumber": 3,
+      "number": 3,
+      "aired": "2025-10-26"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367844/screencap/69031466c2475.jpg",
+      "absoluteNumber": 41,
+      "name": "Counterattack Signal",
+      "seasonNumber": 3,
+      "number": 4,
+      "aired": "2025-11-02"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367845/screencap/690c4b6b2510a.jpg",
+      "absoluteNumber": 42,
+      "name": "Monster King",
+      "seasonNumber": 3,
+      "number": 5,
+      "aired": "2025-11-09"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367846/screencap/6915893888297.jpg",
+      "absoluteNumber": 43,
+      "name": "Motley Heroes",
+      "seasonNumber": 3,
+      "number": 6,
+      "aired": "2025-11-16"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367847/screencap/691ec13841a60.jpg",
+      "absoluteNumber": 44,
+      "name": "Counterstrike",
+      "seasonNumber": 3,
+      "number": 7,
+      "aired": "2025-11-23"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367848/screencap/69282c74752d2.jpg",
+      "absoluteNumber": 45,
+      "name": "Ninja Tale",
+      "seasonNumber": 3,
+      "number": 8,
+      "aired": "2025-11-30"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367849/screencap/693134de9fb8f.jpg",
+      "absoluteNumber": 46,
+      "name": "Brave Child",
+      "seasonNumber": 3,
+      "number": 9,
+      "aired": "2025-12-07"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367850/screencap/693a9e6c5c2ae.jpg",
+      "absoluteNumber": 47,
+      "name": "Immortal Bloodbath",
+      "seasonNumber": 3,
+      "number": 10,
+      "aired": "2025-12-14"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367851/screencap/6943b00e7cf3a.jpg",
+      "absoluteNumber": 48,
+      "name": "Top Dragons",
+      "seasonNumber": 3,
+      "number": 11,
+      "aired": "2025-12-21"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367852/screencap/694cafab73cbc.jpg",
+      "absoluteNumber": 49,
+      "name": "Ultimate Lifeform",
+      "seasonNumber": 3,
+      "number": 12,
+      "aired": "2025-12-28"
+    }
+  ]
+}
