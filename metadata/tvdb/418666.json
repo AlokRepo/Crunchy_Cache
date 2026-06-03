@@ -1,0 +1,109 @@
+{
+  "cachedAt": 1780464640813,
+  "data": [
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9095554/screencap/69d3be32f4098.jpg",
+      "absoluteNumber": 1,
+      "name": "The Magic That Started Everything",
+      "seasonNumber": 1,
+      "number": 1,
+      "aired": "2026-04-06"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11697830/screencap/69d3be6050ebd.jpg",
+      "absoluteNumber": 2,
+      "name": "The School of the Grassland",
+      "seasonNumber": 1,
+      "number": 2,
+      "aired": "2026-04-13"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11697831/screencap/69e6319dcd1eb.jpg",
+      "absoluteNumber": 3,
+      "name": "The Dadah Range Test",
+      "seasonNumber": 1,
+      "number": 3,
+      "aired": "2026-04-20"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11697832/screencap/69ef6c06d1410.jpg",
+      "absoluteNumber": 4,
+      "name": "Meeting in Kalhn",
+      "seasonNumber": 1,
+      "number": 4,
+      "aired": "2026-04-27"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11697833/screencap/69f8ac92ba21a.jpg",
+      "absoluteNumber": 5,
+      "name": "The Dragon's Labyrinth",
+      "seasonNumber": 1,
+      "number": 5,
+      "aired": "2026-05-04"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11697834/screencap/69fdf253c34c4.jpg",
+      "absoluteNumber": 6,
+      "name": "A Light on a Rainy Day",
+      "seasonNumber": 1,
+      "number": 6,
+      "aired": "2026-05-11"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11697835/screencap/6a070247b9300.jpg",
+      "absoluteNumber": 7,
+      "name": "Who Is Magic For?",
+      "seasonNumber": 1,
+      "number": 7,
+      "aired": "2026-05-18"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11697836/screencap/6a1065cf264d0.jpg",
+      "absoluteNumber": 8,
+      "name": "The Misgivings of the Knights Moralis",
+      "seasonNumber": 1,
+      "number": 8,
+      "aired": "2026-05-25"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11697837/screencap/6a19babdcbd2e.jpg",
+      "absoluteNumber": 9,
+      "name": "A Nightmare Stained in Black",
+      "seasonNumber": 1,
+      "number": 9,
+      "aired": "2026-06-01"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11697838/screencap/6a1d909eb9fdd.jpg",
+      "absoluteNumber": 10,
+      "name": "A Promise in Silver",
+      "seasonNumber": 1,
+      "number": 10,
+      "aired": "2026-06-08"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 11,
+      "name": "The Test in Serpentback Cave",
+      "seasonNumber": 1,
+      "number": 11,
+      "aired": "2026-06-15"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 12,
+      "name": null,
+      "seasonNumber": 1,
+      "number": 12,
+      "aired": "2026-06-22"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 13,
+      "name": null,
+      "seasonNumber": 1,
+      "number": 13,
+      "aired": "2026-06-29"
+    }
+  ]
+}
