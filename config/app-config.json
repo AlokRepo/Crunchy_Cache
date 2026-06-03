@@ -1,5 +1,5 @@
 {
-  "forceUpdate": true,
+  "forceUpdate": false,
   "appVersion": "1.0.0",
   "telegramUrl": "https://t.me/crunchyscroll",
   "updateMessage": "A new version of CrunchyScroll is available! Get it now from our Telegram channel to unlock the latest features and fixes.",
