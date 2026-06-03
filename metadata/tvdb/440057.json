@@ -1,0 +1,101 @@
+{
+  "cachedAt": 1780464574353,
+  "data": [
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10050356/screencap/69d4784d5a46e.jpg",
+      "absoluteNumber": 1,
+      "name": "The Girl Named Asanagi Umi",
+      "seasonNumber": 1,
+      "number": 1,
+      "aired": "2026-04-07"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703525/screencap/69d8e92dce1c4.jpg",
+      "absoluteNumber": 2,
+      "name": "Asanagi Umi and Amami Yuu",
+      "seasonNumber": 1,
+      "number": 2,
+      "aired": "2026-04-14"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703526/screencap/69e210d08155e.jpg",
+      "absoluteNumber": 3,
+      "name": "The Second Prettiest Girl in Class",
+      "seasonNumber": 1,
+      "number": 3,
+      "aired": "2026-04-21"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703527/screencap/69eb426975a78.jpg",
+      "absoluteNumber": 4,
+      "name": "The Two and Their School Festival",
+      "seasonNumber": 1,
+      "number": 4,
+      "aired": "2026-04-28"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703528/screencap/69f47a9a94cbb.jpg",
+      "absoluteNumber": 5,
+      "name": "From Now On, and Then On",
+      "seasonNumber": 1,
+      "number": 5,
+      "aired": "2026-05-05"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703529/screencap/69fdae0f3d9f9.jpg",
+      "absoluteNumber": 6,
+      "name": "December With Friends",
+      "seasonNumber": 1,
+      "number": 6,
+      "aired": "2026-05-12"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703530/screencap/6a06e9bf77692.jpg",
+      "absoluteNumber": 7,
+      "name": "First Date With a Friend",
+      "seasonNumber": 1,
+      "number": 7,
+      "aired": "2026-05-19"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703531/screencap/6a10259c5e7e7.jpg",
+      "absoluteNumber": 8,
+      "name": "Family Sights",
+      "seasonNumber": 1,
+      "number": 8,
+      "aired": "2026-05-26"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703532/screencap/6a196077aa292.jpg",
+      "absoluteNumber": 9,
+      "name": "Family Sights: Part Two",
+      "seasonNumber": 1,
+      "number": 9,
+      "aired": "2026-06-02"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 10,
+      "name": "One Last Tantrum",
+      "seasonNumber": 1,
+      "number": 10,
+      "aired": "2026-06-09"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 11,
+      "name": null,
+      "seasonNumber": 1,
+      "number": 11,
+      "aired": "2026-06-16"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 12,
+      "name": null,
+      "seasonNumber": 1,
+      "number": 12,
+      "aired": "2026-06-23"
+    }
+  ]
+}
