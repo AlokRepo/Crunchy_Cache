@@ -1,8 +1,11 @@
 {
-  "sub_megaplay": "https://megaplay.buzz/stream/mal/9253/1/sub",
-  "sub_nest": "https://vidnest.fun/anime/9253/1/sub?color=e47521",
-  "sub_cage": "https://vidnest.fun/animepahe/9253/1/sub?color=e47521",
-  "dub_megaplay": "https://megaplay.buzz/stream/mal/9253/1/dub",
-  "dub_nest": "https://vidnest.fun/anime/9253/1/dub?color=e47521",
-  "dub_cage": "https://vidnest.fun/animepahe/9253/1/dub?color=e47521"
+  "cachedAt": 1780464490801,
+  "data": {
+    "sub_megaplay": "https://megaplay.buzz/stream/mal/9253/1/sub",
+    "sub_nest": "https://vidnest.fun/anime/9253/1/sub?color=e47521",
+    "sub_cage": "https://vidnest.fun/animepahe/9253/1/sub?color=e47521",
+    "dub_megaplay": "https://megaplay.buzz/stream/mal/9253/1/dub",
+    "dub_nest": "https://vidnest.fun/anime/9253/1/dub?color=e47521",
+    "dub_cage": "https://vidnest.fun/animepahe/9253/1/dub?color=e47521"
+  }
 }
