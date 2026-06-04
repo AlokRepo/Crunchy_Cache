@@ -1,5 +1,5 @@
 {
-  "cachedAt": 1780423717896,
+  "cachedAt": 1780575935864,
   "data": [
     {
       "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/5f91416ec2dfa.jpg",
@@ -28,7 +28,7 @@
     {
       "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/6915147.jpg",
       "absoluteNumber": 1,
-      "name": "STONE WORLD",
+      "name": "Stone World",
       "seasonNumber": 1,
       "number": 1,
       "aired": "2019-07-05"
@@ -36,7 +36,7 @@
     {
       "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7223682.jpg",
       "absoluteNumber": 2,
-      "name": "KING OF THE STONE WORLD",
+      "name": "King of the Stone World",
       "seasonNumber": 1,
       "number": 2,
       "aired": "2019-07-12"
@@ -60,7 +60,7 @@
     {
       "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7223686.jpg",
       "absoluteNumber": 5,
-      "name": "STONE WORLD THE BEGINNING",
+      "name": "Stone World the Beginning",
       "seasonNumber": 1,
       "number": 5,
       "aired": "2019-08-02"
@@ -84,7 +84,7 @@
     {
       "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7223691.jpg",
       "absoluteNumber": 8,
-      "name": "STONE ROAD",
+      "name": "Stone Road",
       "seasonNumber": 1,
       "number": 8,
       "aired": "2019-08-23"
@@ -108,7 +108,7 @@
     {
       "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7223698.jpg",
       "absoluteNumber": 11,
-      "name": "CLEAR WORLD",
+      "name": "Clear World",
       "seasonNumber": 1,
       "number": 11,
       "aired": "2019-09-13"
@@ -132,7 +132,7 @@
     {
       "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366287.jpg",
       "absoluteNumber": 14,
-      "name": "MASTER OF FLAME",
+      "name": "Master of Flame",
       "seasonNumber": 1,
       "number": 14,
       "aired": "2019-10-04"
@@ -164,7 +164,7 @@
     {
       "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366899.jpg",
       "absoluteNumber": 18,
-      "name": "STONE WARS",
+      "name": "Stone Wars",
       "seasonNumber": 1,
       "number": 18,
       "aired": "2019-11-01"
@@ -196,7 +196,7 @@
     {
       "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/7366907.jpg",
       "absoluteNumber": 22,
-      "name": "THE TREASURE",
+      "name": "The Treasure",
       "seasonNumber": 1,
       "number": 22,
       "aired": "2019-11-29"
@@ -308,7 +308,7 @@
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/9372021/screencap/642ed86e305a9.jpg",
       "absoluteNumber": 37,
-      "name": "NEW WORLD MAP",
+      "name": "New World Map",
       "seasonNumber": 3,
       "number": 1,
       "aired": "2023-04-06"
@@ -348,7 +348,7 @@
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/9687333/screencap/645907558c18f.jpg",
       "absoluteNumber": 42,
-      "name": "TREASURE BOX",
+      "name": "Treasure Box",
       "seasonNumber": 3,
       "number": 6,
       "aired": "2023-05-11"
@@ -380,7 +380,7 @@
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/9687337/screencap/647e2147549f0.jpg",
       "absoluteNumber": 46,
-      "name": "SCIENCE WARS",
+      "name": "Science Wars",
       "seasonNumber": 3,
       "number": 10,
       "aired": "2023-06-08"
@@ -436,7 +436,7 @@
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/9971413/screencap/6550f17c8289b.jpg",
       "absoluteNumber": 53,
-      "name": "JOKER",
+      "name": "Joker",
       "seasonNumber": 3,
       "number": 17,
       "aired": "2023-11-16"
@@ -452,7 +452,7 @@
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/9971415/screencap/6562a8970cd04.jpg",
       "absoluteNumber": 55,
-      "name": "LAST MAN STANDING",
+      "name": "Last Man Standing",
       "seasonNumber": 3,
       "number": 19,
       "aired": "2023-11-30"
@@ -460,7 +460,7 @@
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/9971416/screencap/656f446f14ad8.jpg",
       "absoluteNumber": 56,
-      "name": "FIRST DREAM",
+      "name": "First Dream",
       "seasonNumber": 3,
       "number": 20,
       "aired": "2023-12-07"
@@ -476,7 +476,7 @@
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/9971418/screencap/65806887db021.jpg",
       "absoluteNumber": 58,
-      "name": "BEYOND THE NEW WORLD",
+      "name": "Beyond the New World",
       "seasonNumber": 3,
       "number": 22,
       "aired": "2023-12-21"
