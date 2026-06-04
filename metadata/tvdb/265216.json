@@ -1,0 +1,3597 @@
+{
+  "cachedAt": 1780592280813,
+  "data": [
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Gegege no Kitaro Movie (1968)",
+      "seasonNumber": 0,
+      "number": 1,
+      "aired": "1968-07-21"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The All Seeing Eye",
+      "seasonNumber": 0,
+      "number": 2,
+      "aired": "1980-07-12"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Yokai Army",
+      "seasonNumber": 0,
+      "number": 3,
+      "aired": "1985-12-21"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Great Yokai War",
+      "seasonNumber": 0,
+      "number": 4,
+      "aired": "1986-03-15"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Strongest Ghost Army! Landing in Japan!!",
+      "seasonNumber": 0,
+      "number": 5,
+      "aired": "1986-07-12"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Duel!! The Great Inter-Dimensional Yokai Uprising",
+      "seasonNumber": 0,
+      "number": 6,
+      "aired": "1986-12-20"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Giant Sea Monster",
+      "seasonNumber": 0,
+      "number": 7,
+      "aired": "1996-07-06"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Ghost Nighter",
+      "seasonNumber": 0,
+      "number": 8,
+      "aired": "1997-03-08"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Express! The Phantom Train",
+      "seasonNumber": 0,
+      "number": 9,
+      "aired": "1997-07-12"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Japan Explodes!!",
+      "seasonNumber": 0,
+      "number": 10,
+      "aired": "2008-12-20"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 1,
+      "name": "Ghost Nighter",
+      "seasonNumber": 1,
+      "number": 1,
+      "aired": "1968-01-03"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 2,
+      "name": "Yaksha",
+      "seasonNumber": 1,
+      "number": 2,
+      "aired": "1968-01-10"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 3,
+      "name": "Youkai Castle",
+      "seasonNumber": 1,
+      "number": 3,
+      "aired": "1968-01-17"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 4,
+      "name": "Vampire La Seine",
+      "seasonNumber": 1,
+      "number": 4,
+      "aired": "1968-01-24"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 5,
+      "name": "Great Sea Beast (Part 1)",
+      "seasonNumber": 1,
+      "number": 5,
+      "aired": "1968-01-31"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 6,
+      "name": "Great Sea Beast (Part 2)",
+      "seasonNumber": 1,
+      "number": 6,
+      "aired": "1968-02-07"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 7,
+      "name": "Ghost Train",
+      "seasonNumber": 1,
+      "number": 7,
+      "aired": "1968-02-14"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 8,
+      "name": "Old Man of the Mirror",
+      "seasonNumber": 1,
+      "number": 8,
+      "aired": "1968-02-21"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 9,
+      "name": "The Look-up Priest",
+      "seasonNumber": 1,
+      "number": 9,
+      "aired": "1968-02-28"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 10,
+      "name": "Great Youkai War (Part 1)",
+      "seasonNumber": 1,
+      "number": 10,
+      "aired": "1968-03-06"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 11,
+      "name": "Great Youkai War (Part 2)",
+      "seasonNumber": 1,
+      "number": 11,
+      "aired": "1968-03-13"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 12,
+      "name": "The Youkai Nurarihyon",
+      "seasonNumber": 1,
+      "number": 12,
+      "aired": "1968-03-20"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 13,
+      "name": "Hell Cruise",
+      "seasonNumber": 1,
+      "number": 13,
+      "aired": "1968-03-27"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 14,
+      "name": "Water Tiger",
+      "seasonNumber": 1,
+      "number": 14,
+      "aired": "1968-04-07"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 15,
+      "name": "Vampire Elite (Part 1)",
+      "seasonNumber": 1,
+      "number": 15,
+      "aired": "1968-04-14"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 16,
+      "name": "Vampire Elite (Part 2)",
+      "seasonNumber": 1,
+      "number": 16,
+      "aired": "1968-04-21"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 17,
+      "name": "Cat Hermit",
+      "seasonNumber": 1,
+      "number": 17,
+      "aired": "1968-04-28"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 18,
+      "name": "Witch Doll",
+      "seasonNumber": 1,
+      "number": 18,
+      "aired": "1968-05-05"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 19,
+      "name": "Blood Sucking Tree",
+      "seasonNumber": 1,
+      "number": 19,
+      "aired": "1968-05-12"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 20,
+      "name": "Cat-girl and Rat-man",
+      "seasonNumber": 1,
+      "number": 20,
+      "aired": "1968-05-19"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 21,
+      "name": "Youkai Beast (Part 1)",
+      "seasonNumber": 1,
+      "number": 21,
+      "aired": "1968-05-26"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 22,
+      "name": "Youkai Beast (Part 2)",
+      "seasonNumber": 1,
+      "number": 22,
+      "aired": "1968-06-02"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 23,
+      "name": "Youkai of the Pass",
+      "seasonNumber": 1,
+      "number": 23,
+      "aired": "1968-06-09"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 24,
+      "name": "Hakusanbo",
+      "seasonNumber": 1,
+      "number": 24,
+      "aired": "1968-06-16"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 25,
+      "name": "Electric Youkai",
+      "seasonNumber": 1,
+      "number": 25,
+      "aired": "1968-06-23"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 26,
+      "name": "Boss of the Sea",
+      "seasonNumber": 1,
+      "number": 26,
+      "aired": "1968-06-30"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 27,
+      "name": "Creepy Mane",
+      "seasonNumber": 1,
+      "number": 27,
+      "aired": "1968-07-07"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 28,
+      "name": "The Pillow Switcher",
+      "seasonNumber": 1,
+      "number": 28,
+      "aired": "1968-07-14"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 29,
+      "name": "Mirror Battle",
+      "seasonNumber": 1,
+      "number": 29,
+      "aired": "1968-07-21"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 30,
+      "name": "Devil Belial",
+      "seasonNumber": 1,
+      "number": 30,
+      "aired": "1968-07-28"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 31,
+      "name": "Moryo",
+      "seasonNumber": 1,
+      "number": 31,
+      "aired": "1968-08-04"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 32,
+      "name": "Youkai Flower",
+      "seasonNumber": 1,
+      "number": 32,
+      "aired": "1968-08-11"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 33,
+      "name": "Turban Shell Demon",
+      "seasonNumber": 1,
+      "number": 33,
+      "aired": "1968-08-18"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 34,
+      "name": "Plate Boy",
+      "seasonNumber": 1,
+      "number": 34,
+      "aired": "1968-08-25"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 35,
+      "name": "Top Youkai",
+      "seasonNumber": 1,
+      "number": 35,
+      "aired": "1968-09-01"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 36,
+      "name": "Diamond Youkai",
+      "seasonNumber": 1,
+      "number": 36,
+      "aired": "1968-09-08"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 37,
+      "name": "Eyes on Hand",
+      "seasonNumber": 1,
+      "number": 37,
+      "aired": "1968-09-15"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 38,
+      "name": "Folding Monk",
+      "seasonNumber": 1,
+      "number": 38,
+      "aired": "1968-09-22"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 39,
+      "name": "Youkai Corps",
+      "seasonNumber": 1,
+      "number": 39,
+      "aired": "1968-09-29"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 40,
+      "name": "Youkai of Obebe Swamp",
+      "seasonNumber": 1,
+      "number": 40,
+      "aired": "1968-10-06"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 41,
+      "name": "Cat Ghoul",
+      "seasonNumber": 1,
+      "number": 41,
+      "aired": "1968-10-13"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 42,
+      "name": "The Man Eating Island",
+      "seasonNumber": 1,
+      "number": 42,
+      "aired": "1968-10-20"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 43,
+      "name": "God of Drought",
+      "seasonNumber": 1,
+      "number": 43,
+      "aired": "1968-10-27"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 44,
+      "name": "Sandal Battle",
+      "seasonNumber": 1,
+      "number": 44,
+      "aired": "1968-11-03"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 45,
+      "name": "The No Face",
+      "seasonNumber": 1,
+      "number": 45,
+      "aired": "1968-11-10"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 46,
+      "name": "Birthing Woman Ghost",
+      "seasonNumber": 1,
+      "number": 46,
+      "aired": "1968-11-17"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 47,
+      "name": "Amanojaku",
+      "seasonNumber": 1,
+      "number": 47,
+      "aired": "1968-11-24"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 48,
+      "name": "Snow Woman",
+      "seasonNumber": 1,
+      "number": 48,
+      "aired": "1968-12-01"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 49,
+      "name": "Tenko",
+      "seasonNumber": 1,
+      "number": 49,
+      "aired": "1968-12-08"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 50,
+      "name": "Youkai Sekigahara",
+      "seasonNumber": 1,
+      "number": 50,
+      "aired": "1968-12-15"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 51,
+      "name": "Mine Shaft Monk",
+      "seasonNumber": 1,
+      "number": 51,
+      "aired": "1968-12-22"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 52,
+      "name": "Vampire Youkai Corps",
+      "seasonNumber": 1,
+      "number": 52,
+      "aired": "1968-12-29"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 53,
+      "name": "Youkai President",
+      "seasonNumber": 1,
+      "number": 53,
+      "aired": "1969-01-05"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 54,
+      "name": "Youkai Rally",
+      "seasonNumber": 1,
+      "number": 54,
+      "aired": "1969-01-12"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 55,
+      "name": "Youkai Fuzzy Hair",
+      "seasonNumber": 1,
+      "number": 55,
+      "aired": "1969-01-19"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 56,
+      "name": "Seashore Woman",
+      "seasonNumber": 1,
+      "number": 56,
+      "aired": "1969-01-26"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 57,
+      "name": "Invisible Magic",
+      "seasonNumber": 1,
+      "number": 57,
+      "aired": "1969-02-02"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 58,
+      "name": "Hazy Cart",
+      "seasonNumber": 1,
+      "number": 58,
+      "aired": "1969-02-09"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 59,
+      "name": "Daruma",
+      "seasonNumber": 1,
+      "number": 59,
+      "aired": "1969-02-16"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 60,
+      "name": "The Hat Guardian",
+      "seasonNumber": 1,
+      "number": 60,
+      "aired": "1969-02-23"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 61,
+      "name": "The Abrupt God",
+      "seasonNumber": 1,
+      "number": 61,
+      "aired": "1969-03-02"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 62,
+      "name": "Old Man Sea",
+      "seasonNumber": 1,
+      "number": 62,
+      "aired": "1969-03-09"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 63,
+      "name": "Namahage",
+      "seasonNumber": 1,
+      "number": 63,
+      "aired": "1969-03-16"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 64,
+      "name": "Reincarnated Demon",
+      "seasonNumber": 1,
+      "number": 64,
+      "aired": "1969-03-23"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 65,
+      "name": "Youkai Apprentice",
+      "seasonNumber": 1,
+      "number": 65,
+      "aired": "1969-03-30"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Yokai Return",
+      "seasonNumber": 2,
+      "number": 1,
+      "aired": "1971-10-07"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Cloth",
+      "seasonNumber": 2,
+      "number": 2,
+      "aired": "1971-10-18"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Great Yokai Trial",
+      "seasonNumber": 2,
+      "number": 3,
+      "aired": "1971-10-21"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Rainy Tengu",
+      "seasonNumber": 2,
+      "number": 4,
+      "aired": "1971-10-28"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Leg Wrapper",
+      "seasonNumber": 2,
+      "number": 5,
+      "aired": "1971-11-04"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Corpse User",
+      "seasonNumber": 2,
+      "number": 6,
+      "aired": "1971-11-11"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Two-Tailed Cat",
+      "seasonNumber": 2,
+      "number": 7,
+      "aired": "1971-11-18"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Mammoth Flower",
+      "seasonNumber": 2,
+      "number": 8,
+      "aired": "1971-11-25"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Hair God",
+      "seasonNumber": 2,
+      "number": 9,
+      "aired": "1971-12-02"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Ghost of Angkor Wat",
+      "seasonNumber": 2,
+      "number": 10,
+      "aired": "1971-12-09"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Earth Snatcher",
+      "seasonNumber": 2,
+      "number": 11,
+      "aired": "1971-12-16"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Eight-Headed Snake",
+      "seasonNumber": 2,
+      "number": 12,
+      "aired": "1971-12-23"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Fish Cakes",
+      "seasonNumber": 2,
+      "number": 13,
+      "aired": "1971-12-30"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Ghost Car",
+      "seasonNumber": 2,
+      "number": 14,
+      "aired": "1972-01-06"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Demon Ox",
+      "seasonNumber": 2,
+      "number": 15,
+      "aired": "1972-01-13"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Invitation from the South",
+      "seasonNumber": 2,
+      "number": 16,
+      "aired": "1972-01-20"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Break-Up Bug",
+      "seasonNumber": 2,
+      "number": 17,
+      "aired": "1972-01-27"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Monster Called Happiness",
+      "seasonNumber": 2,
+      "number": 18,
+      "aired": "1972-02-03"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Cauldron Dweller",
+      "seasonNumber": 2,
+      "number": 19,
+      "aired": "1972-02-10"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Fukuro-sage",
+      "seasonNumber": 2,
+      "number": 20,
+      "aired": "1972-02-17"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Worry Inn",
+      "seasonNumber": 2,
+      "number": 21,
+      "aired": "1972-02-24"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Water of Hell",
+      "seasonNumber": 2,
+      "number": 22,
+      "aired": "1972-03-02"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Gyaku-Mochi Killer",
+      "seasonNumber": 2,
+      "number": 23,
+      "aired": "1972-03-09"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Umbrella Spirit",
+      "seasonNumber": 2,
+      "number": 24,
+      "aired": "1972-03-23"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Phantom Train",
+      "seasonNumber": 2,
+      "number": 25,
+      "aired": "1972-03-30"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Giant Head",
+      "seasonNumber": 2,
+      "number": 26,
+      "aired": "1972-04-06"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Iyami",
+      "seasonNumber": 2,
+      "number": 27,
+      "aired": "1972-04-13"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Filth Licker",
+      "seasonNumber": 2,
+      "number": 28,
+      "aired": "1972-04-20"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Giant Priest",
+      "seasonNumber": 2,
+      "number": 29,
+      "aired": "1972-04-27"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Death God",
+      "seasonNumber": 2,
+      "number": 30,
+      "aired": "1972-05-04"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Red Tongue",
+      "seasonNumber": 2,
+      "number": 31,
+      "aired": "1972-05-11"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Many Eyes",
+      "seasonNumber": 2,
+      "number": 32,
+      "aired": "1972-05-25"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Demon Buer",
+      "seasonNumber": 2,
+      "number": 33,
+      "aired": "1972-06-01"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Death God and Satori",
+      "seasonNumber": 2,
+      "number": 34,
+      "aired": "1972-06-15"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Strange Tale of Easter Island",
+      "seasonNumber": 2,
+      "number": 35,
+      "aired": "1972-06-22"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai House",
+      "seasonNumber": 2,
+      "number": 36,
+      "aired": "1972-06-29"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Divining Eye",
+      "seasonNumber": 2,
+      "number": 37,
+      "aired": "1972-07-13"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Death God's Hidden Village",
+      "seasonNumber": 2,
+      "number": 38,
+      "aired": "1972-07-20"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Water Wheel",
+      "seasonNumber": 2,
+      "number": 39,
+      "aired": "1972-07-27"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Caveman-san",
+      "seasonNumber": 2,
+      "number": 40,
+      "aired": "1972-08-10"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Ghostly Operation",
+      "seasonNumber": 2,
+      "number": 41,
+      "aired": "1972-08-17"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Death God and the God of Poverty",
+      "seasonNumber": 2,
+      "number": 42,
+      "aired": "1972-08-24"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Creepy Footprints",
+      "seasonNumber": 2,
+      "number": 43,
+      "aired": "1972-09-07"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Rain God Yumchaac",
+      "seasonNumber": 2,
+      "number": 44,
+      "aired": "1972-09-21"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Death God's Quota",
+      "seasonNumber": 2,
+      "number": 45,
+      "aired": "1972-09-28"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Mysterious Yokai Castle Appears!!",
+      "seasonNumber": 3,
+      "number": 1,
+      "aired": "1985-10-12"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Old Man in the Mirror",
+      "seasonNumber": 3,
+      "number": 2,
+      "aired": "1985-10-19"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Cat Hermit",
+      "seasonNumber": 3,
+      "number": 3,
+      "aired": "1985-10-26"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Yokai Nurarihyon",
+      "seasonNumber": 3,
+      "number": 4,
+      "aired": "1985-11-02"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Diamond Yokai Wheel Monk",
+      "seasonNumber": 3,
+      "number": 5,
+      "aired": "1985-11-09"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Going to Hell! The Ghost Train!!",
+      "seasonNumber": 3,
+      "number": 6,
+      "aired": "1985-11-16"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Yokai Iso-Onna and Her Child",
+      "seasonNumber": 3,
+      "number": 7,
+      "aired": "1985-11-23"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Daruma's Yokai Consultation Bureau",
+      "seasonNumber": 3,
+      "number": 8,
+      "aired": "1985-11-30"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Immortal Yokai Water Tiger",
+      "seasonNumber": 3,
+      "number": 9,
+      "aired": "1985-12-07"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yaksha's Demonic Melody",
+      "seasonNumber": 3,
+      "number": 10,
+      "aired": "1985-12-14"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Fox Hakusanbo",
+      "seasonNumber": 3,
+      "number": 11,
+      "aired": "1985-12-21"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "House Guardian and Hat Guardian",
+      "seasonNumber": 3,
+      "number": 12,
+      "aired": "1985-12-28"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Folding Monk",
+      "seasonNumber": 3,
+      "number": 13,
+      "aired": "1986-01-04"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Ageless Yokai Turban Shell Devil!?",
+      "seasonNumber": 3,
+      "number": 14,
+      "aired": "1986-01-11"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Freezing Yokai Snow Woman",
+      "seasonNumber": 3,
+      "number": 15,
+      "aired": "1986-01-18"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai No-Face",
+      "seasonNumber": 3,
+      "number": 16,
+      "aired": "1986-01-25"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Ancient Yokai Fuzzy Hair",
+      "seasonNumber": 3,
+      "number": 17,
+      "aired": "1986-02-01"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Tenko's Counterattack from the Earth's Core",
+      "seasonNumber": 3,
+      "number": 18,
+      "aired": "1986-02-08"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Dream Yokai Pillow Switcher",
+      "seasonNumber": 3,
+      "number": 19,
+      "aired": "1986-02-15"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Mermaid Love",
+      "seasonNumber": 3,
+      "number": 20,
+      "aired": "1986-02-22"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Top Yokai Amamehagi",
+      "seasonNumber": 3,
+      "number": 21,
+      "aired": "1986-03-01"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Mean-Spirited Yokai Amanojaku",
+      "seasonNumber": 3,
+      "number": 22,
+      "aired": "1986-03-08"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Electric Yokai Kaminari",
+      "seasonNumber": 3,
+      "number": 23,
+      "aired": "1986-03-15"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Children are Disappearing!? Yokai Ubume",
+      "seasonNumber": 3,
+      "number": 24,
+      "aired": "1986-03-22"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Shiver",
+      "seasonNumber": 3,
+      "number": 25,
+      "aired": "1986-03-29"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Ghost Nighter",
+      "seasonNumber": 3,
+      "number": 26,
+      "aired": "1986-04-05"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Drooping Sack",
+      "seasonNumber": 3,
+      "number": 27,
+      "aired": "1986-04-12"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Return the Land!! Yokai Mud Monk",
+      "seasonNumber": 3,
+      "number": 28,
+      "aired": "1986-04-19"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Drought God",
+      "seasonNumber": 3,
+      "number": 29,
+      "aired": "1986-05-03"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Look Up Monk",
+      "seasonNumber": 3,
+      "number": 30,
+      "aired": "1986-05-10"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Yokai of Obebe Swamp",
+      "seasonNumber": 3,
+      "number": 31,
+      "aired": "1986-05-17"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Kitaro in Danger! The Great Yokai Trial",
+      "seasonNumber": 3,
+      "number": 32,
+      "aired": "1986-05-24"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Filth Licker's Sad Counterattack",
+      "seasonNumber": 3,
+      "number": 33,
+      "aired": "1986-05-31"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Cat Ghoul of Highway 0",
+      "seasonNumber": 3,
+      "number": 34,
+      "aired": "1986-06-14"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Red Tongue's 1,000 Year Kingdom",
+      "seasonNumber": 3,
+      "number": 35,
+      "aired": "1986-06-28"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Dimensional Yokai Cauldron Dweller",
+      "seasonNumber": 3,
+      "number": 36,
+      "aired": "1986-07-05"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Creepy Mane",
+      "seasonNumber": 3,
+      "number": 37,
+      "aired": "1986-07-12"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "A Divine Curse!? Yokai Earth Snatcher",
+      "seasonNumber": 3,
+      "number": 38,
+      "aired": "1986-07-19"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Granny Datsue of the Sanzu River",
+      "seasonNumber": 3,
+      "number": 39,
+      "aired": "1986-08-02"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Mt. Fuji Erupts!? Yokai Giant Head",
+      "seasonNumber": 3,
+      "number": 40,
+      "aired": "1986-08-09"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Fierce Battle! The Yokai Seikigahara",
+      "seasonNumber": 3,
+      "number": 41,
+      "aired": "1986-08-23"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Ox Devil",
+      "seasonNumber": 3,
+      "number": 42,
+      "aired": "1986-08-30"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Plate Boy's Yokai Song Award",
+      "seasonNumber": 3,
+      "number": 43,
+      "aired": "1986-09-06"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Messenger from Another World, Death God",
+      "seasonNumber": 3,
+      "number": 44,
+      "aired": "1986-09-13"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Save the Yokai Flower!!",
+      "seasonNumber": 3,
+      "number": 45,
+      "aired": "1986-09-20"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai President Winged Cat",
+      "seasonNumber": 3,
+      "number": 46,
+      "aired": "1986-09-27"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Grow Up and the Vampire Tree",
+      "seasonNumber": 3,
+      "number": 47,
+      "aired": "1986-10-04"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Iyami",
+      "seasonNumber": 3,
+      "number": 48,
+      "aired": "1986-10-11"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Reincarnated Devil's Yokai Murder Case",
+      "seasonNumber": 3,
+      "number": 49,
+      "aired": "1986-10-18"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Sea Boss' Rage",
+      "seasonNumber": 3,
+      "number": 50,
+      "aired": "1986-10-25"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The World Yokai Rally",
+      "seasonNumber": 3,
+      "number": 51,
+      "aired": "1986-11-01"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Burning Nezumi-Otoko's Geta Battle",
+      "seasonNumber": 3,
+      "number": 52,
+      "aired": "1986-11-08"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Moryo of Plate Mansion",
+      "seasonNumber": 3,
+      "number": 53,
+      "aired": "1986-11-15"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Demon Belial",
+      "seasonNumber": 3,
+      "number": 54,
+      "aired": "1986-11-22"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Secret Orders!! Nezumi-Otoko Gets the Death Penalty",
+      "seasonNumber": 3,
+      "number": 55,
+      "aired": "1986-11-29"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Tanuki Army Conquers Japan!! (Part 1)",
+      "seasonNumber": 3,
+      "number": 56,
+      "aired": "1986-12-06"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Tanuki Army Conquers Japan!! (Part 2)",
+      "seasonNumber": 3,
+      "number": 57,
+      "aired": "1986-12-13"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Many Eyes of Yokai Castle",
+      "seasonNumber": 3,
+      "number": 58,
+      "aired": "1986-12-20"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Evening Primrose Abrupt God",
+      "seasonNumber": 3,
+      "number": 59,
+      "aired": "1986-12-27"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Giant Yokai Daidarabotchi",
+      "seasonNumber": 3,
+      "number": 60,
+      "aired": "1987-01-03"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Phantom Train",
+      "seasonNumber": 3,
+      "number": 61,
+      "aired": "1987-01-10"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Fiery Chariot Gyaku-Mochi Goroshi",
+      "seasonNumber": 3,
+      "number": 62,
+      "aired": "1987-01-17"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Demon Buer and Hanging Kettle",
+      "seasonNumber": 3,
+      "number": 63,
+      "aired": "1987-01-24"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Cave Monk",
+      "seasonNumber": 3,
+      "number": 64,
+      "aired": "1987-01-31"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Hundred Eyes Goes to Hell",
+      "seasonNumber": 3,
+      "number": 65,
+      "aired": "1987-02-07"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Korean Yokai No Face",
+      "seasonNumber": 3,
+      "number": 66,
+      "aired": "1987-02-14"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Great Jungle Sea Monster",
+      "seasonNumber": 3,
+      "number": 67,
+      "aired": "1987-02-21"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Great Sea Monster's Angry Counterattack",
+      "seasonNumber": 3,
+      "number": 68,
+      "aired": "1987-02-28"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Matasaburo of the Wind",
+      "seasonNumber": 3,
+      "number": 69,
+      "aired": "1987-03-07"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Mirror Hell! Yokai Ungaikyo",
+      "seasonNumber": 3,
+      "number": 70,
+      "aired": "1987-03-14"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Gashadokuro of Yokai Flower Forest",
+      "seasonNumber": 3,
+      "number": 71,
+      "aired": "1987-03-21"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Heh-heh-Hair! The Great Yokai Hair-sama",
+      "seasonNumber": 3,
+      "number": 72,
+      "aired": "1987-03-28"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Shisa Appears!! The Great Battle in Okinawa",
+      "seasonNumber": 3,
+      "number": 73,
+      "aired": "1987-04-04"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai 10,000 Year Old Bamboo",
+      "seasonNumber": 3,
+      "number": 74,
+      "aired": "1987-04-11"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Adzuki Allied Forces",
+      "seasonNumber": 3,
+      "number": 75,
+      "aired": "1987-04-18"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Man Eating Island and the Sea Priest",
+      "seasonNumber": 3,
+      "number": 76,
+      "aired": "1987-04-25"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Eyes on Hand and the Hell Child",
+      "seasonNumber": 3,
+      "number": 77,
+      "aired": "1987-05-02"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Mammoth Flower and Mountain Man",
+      "seasonNumber": 3,
+      "number": 78,
+      "aired": "1987-05-16"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Eight Headed Snake",
+      "seasonNumber": 3,
+      "number": 79,
+      "aired": "1987-05-23"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Granny Fire Snuff's Pro Wrestling Hell",
+      "seasonNumber": 3,
+      "number": 80,
+      "aired": "1987-05-30"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Combo Long Arm Long Leg",
+      "seasonNumber": 3,
+      "number": 81,
+      "aired": "1987-06-06"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Skewer Monk",
+      "seasonNumber": 3,
+      "number": 82,
+      "aired": "1987-06-13"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Legend of the Rain god Yumchaac",
+      "seasonNumber": 3,
+      "number": 83,
+      "aired": "1987-06-20"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "All Around Hell! The Yokai Marathon",
+      "seasonNumber": 3,
+      "number": 84,
+      "aired": "1987-06-27"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Kappa Family and Takuro-bi",
+      "seasonNumber": 3,
+      "number": 85,
+      "aired": "1987-07-04"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Censer's Dream Demon Army",
+      "seasonNumber": 3,
+      "number": 86,
+      "aired": "1987-07-11"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Parasitic Yokai Penanggalan",
+      "seasonNumber": 3,
+      "number": 87,
+      "aired": "1987-07-25"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Mysterious Yokai Dog Taro",
+      "seasonNumber": 3,
+      "number": 88,
+      "aired": "1987-08-01"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Tree Child and Yokai Mountain Tengu",
+      "seasonNumber": 3,
+      "number": 89,
+      "aired": "1987-08-15"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Blue Tears of the Fairy Nix",
+      "seasonNumber": 3,
+      "number": 90,
+      "aired": "1987-08-22"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Hunter Family Hi",
+      "seasonNumber": 3,
+      "number": 91,
+      "aired": "1987-08-29"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Rattling of Cannibal House and Yokai House",
+      "seasonNumber": 3,
+      "number": 92,
+      "aired": "1987-09-26"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Evolved Yokai Otter",
+      "seasonNumber": 3,
+      "number": 93,
+      "aired": "1987-10-03"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Red Hot Yokai Removable Neck",
+      "seasonNumber": 3,
+      "number": 94,
+      "aired": "1987-10-10"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Laughing Yokai Henra-hera-hera",
+      "seasonNumber": 3,
+      "number": 95,
+      "aired": "1987-10-17"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Blood Battle!! Yokai Vampire Army",
+      "seasonNumber": 3,
+      "number": 96,
+      "aired": "1987-10-24"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Married Yokai!? Plate Counter",
+      "seasonNumber": 3,
+      "number": 97,
+      "aired": "1987-10-31"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Tsunami Yokai Fierce Ghost Hassan",
+      "seasonNumber": 3,
+      "number": 98,
+      "aired": "1987-11-07"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Footwear Yokai Ghoul Zori",
+      "seasonNumber": 3,
+      "number": 99,
+      "aired": "1987-11-14"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Devil Miko's Kitaro Destruction Plan",
+      "seasonNumber": 3,
+      "number": 100,
+      "aired": "1987-11-21"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Detective Story, The Cat Riot",
+      "seasonNumber": 3,
+      "number": 101,
+      "aired": "1987-12-12"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Tomboy Witch Jiniya",
+      "seasonNumber": 3,
+      "number": 102,
+      "aired": "1987-12-19"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "True Love: Nurikabe and Face Powder Girl",
+      "seasonNumber": 3,
+      "number": 103,
+      "aired": "1987-12-26"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Mysterious Yokai Hunter Tour",
+      "seasonNumber": 3,
+      "number": 104,
+      "aired": "1988-01-09"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Menko Tengu",
+      "seasonNumber": 3,
+      "number": 105,
+      "aired": "1988-01-16"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Tofu Kid and Mountain God",
+      "seasonNumber": 3,
+      "number": 106,
+      "aired": "1988-01-23"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Smoke Yokai Enra-enra",
+      "seasonNumber": 3,
+      "number": 107,
+      "aired": "1988-01-30"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Kitaro Family Forever",
+      "seasonNumber": 3,
+      "number": 108,
+      "aired": "1988-02-06"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Hell Arc 1: A Journey to Hell in Search of Mother",
+      "seasonNumber": 3,
+      "number": 109,
+      "aired": "1988-02-08"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Hell Arc 2: Bloody Battle on the Sanzu River",
+      "seasonNumber": 3,
+      "number": 110,
+      "aired": "1988-02-15"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Hell Arc 3: Kitaro vs the Prince of Hell",
+      "seasonNumber": 3,
+      "number": 111,
+      "aired": "1988-02-22"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Hell Arc 4: Trap of the Two Great Yokai",
+      "seasonNumber": 3,
+      "number": 112,
+      "aired": "1988-02-29"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Hell Arc 5: Execution Strategy of the Hell Warriors!!",
+      "seasonNumber": 3,
+      "number": 113,
+      "aired": "1988-03-07"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Hell Arc 6: Nururibo, the Blood Lake Yokai",
+      "seasonNumber": 3,
+      "number": 114,
+      "aired": "1988-03-14"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Hell Arc 7: Kitaro's Final Encounter!!",
+      "seasonNumber": 3,
+      "number": 115,
+      "aired": "1988-03-21"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Yokai Look Up Monk!",
+      "seasonNumber": 4,
+      "number": 1,
+      "aired": "1996-01-07"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Tears of the Yokai Many Eyes!",
+      "seasonNumber": 4,
+      "number": 2,
+      "aired": "1996-01-14"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Trembling Guitar! Yaksha",
+      "seasonNumber": 4,
+      "number": 3,
+      "aired": "1996-01-21"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Terrifying Kagami-Jijii of Mirror Country!",
+      "seasonNumber": 4,
+      "number": 4,
+      "aired": "1996-01-28"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Diamond Yokai Wheel Monk",
+      "seasonNumber": 4,
+      "number": 5,
+      "aired": "1996-02-04"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Running Wild! Kitaro the Gyuki",
+      "seasonNumber": 4,
+      "number": 6,
+      "aired": "1996-02-11"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai No Face!",
+      "seasonNumber": 4,
+      "number": 7,
+      "aired": "1996-02-18"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Crab Priest and Kappa",
+      "seasonNumber": 4,
+      "number": 8,
+      "aired": "1996-02-25"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Running Wild! The Kitaro Express",
+      "seasonNumber": 4,
+      "number": 9,
+      "aired": "1996-03-03"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Bizarre Yokai Mannendake!",
+      "seasonNumber": 4,
+      "number": 10,
+      "aired": "1996-03-10"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Keukegen and Gashadokuro",
+      "seasonNumber": 4,
+      "number": 11,
+      "aired": "1996-03-17"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Conspiracy! Cat Hermit's Cat Kingdom",
+      "seasonNumber": 4,
+      "number": 12,
+      "aired": "1996-03-24"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Welcome to Yokai Manor",
+      "seasonNumber": 4,
+      "number": 13,
+      "aired": "1996-03-31"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Mirage Water Dragon Mizuchi",
+      "seasonNumber": 4,
+      "number": 14,
+      "aired": "1996-04-07"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Bad Dream! The Yokai Pillow Switcher",
+      "seasonNumber": 4,
+      "number": 15,
+      "aired": "1996-04-14"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Filth Licker and White Wave",
+      "seasonNumber": 4,
+      "number": 16,
+      "aired": "1996-04-21"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Strange Sea! Yokai Turban Shell Devil",
+      "seasonNumber": 4,
+      "number": 17,
+      "aired": "1996-04-28"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Miracle from the Depths! Whale Ghoul",
+      "seasonNumber": 4,
+      "number": 18,
+      "aired": "1996-05-05"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Terrifying Yokai Hanging Devil!",
+      "seasonNumber": 4,
+      "number": 19,
+      "aired": "1996-05-12"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Distant Sea Adventure to the Man Eating Island!",
+      "seasonNumber": 4,
+      "number": 20,
+      "aired": "1996-05-19"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Granny Face Powder and No Face",
+      "seasonNumber": 4,
+      "number": 21,
+      "aired": "1996-05-26"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Uprising! The Yokai Mud Man",
+      "seasonNumber": 4,
+      "number": 22,
+      "aired": "1996-06-02"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Wind Demon! The Yokai Rainy Tengu",
+      "seasonNumber": 4,
+      "number": 23,
+      "aired": "1996-06-09"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Ghost Story! The Yokai Reincarnated Devil",
+      "seasonNumber": 4,
+      "number": 24,
+      "aired": "1996-06-16"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": null,
+      "seasonNumber": 4,
+      "number": 25,
+      "aired": "1996-06-23"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Return of the Yokai Amanojaku!",
+      "seasonNumber": 4,
+      "number": 26,
+      "aired": "1996-06-30"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Suck Demon! The Yokai Nozuchi",
+      "seasonNumber": 4,
+      "number": 27,
+      "aired": "1996-07-07"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Mysterious Words: A Ticket to Cat Street",
+      "seasonNumber": 4,
+      "number": 28,
+      "aired": "1996-07-21"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Giant Legend of Daidarabotchi",
+      "seasonNumber": 4,
+      "number": 29,
+      "aired": "1996-07-28"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Flower! Memory of a Summer Day",
+      "seasonNumber": 4,
+      "number": 30,
+      "aired": "1996-08-04"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Shapeshifter! Umbrella Ghoul",
+      "seasonNumber": 4,
+      "number": 31,
+      "aired": "1996-08-11"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Electric Yokai Kaminari!",
+      "seasonNumber": 4,
+      "number": 32,
+      "aired": "1996-08-18"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Counterattack! The Yokai Plate Boy",
+      "seasonNumber": 4,
+      "number": 33,
+      "aired": "1996-08-25"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Wandering Yokai Azuki Cleaner",
+      "seasonNumber": 4,
+      "number": 34,
+      "aired": "1996-09-01"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Kitaro Goes to Hell",
+      "seasonNumber": 4,
+      "number": 35,
+      "aired": "1996-09-08"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Amazing Folding Monk!",
+      "seasonNumber": 4,
+      "number": 36,
+      "aired": "1996-09-15"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Great Chase! The Yokai Car",
+      "seasonNumber": 4,
+      "number": 37,
+      "aired": "1996-09-22"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Bloody Battle! Creepy Mane",
+      "seasonNumber": 4,
+      "number": 38,
+      "aired": "1996-09-29"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Fox, Hakusanbo's Bride",
+      "seasonNumber": 4,
+      "number": 39,
+      "aired": "1996-10-06"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Games in the Graveyard at Night!",
+      "seasonNumber": 4,
+      "number": 40,
+      "aired": "1996-10-13"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Pickling Yokai Penghou",
+      "seasonNumber": 4,
+      "number": 41,
+      "aired": "1996-10-20"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Beach Boy and Nezumi-Otoko",
+      "seasonNumber": 4,
+      "number": 42,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Revolt! The Yokai Zouri Ghoul",
+      "seasonNumber": 4,
+      "number": 43,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Western Demon Beliel",
+      "seasonNumber": 4,
+      "number": 44,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Fiery Chariot Mochi-goroshi",
+      "seasonNumber": 4,
+      "number": 45,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Great Yokai Trial (Part 1)",
+      "seasonNumber": 4,
+      "number": 46,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Great Yokai Trial (Part 2)",
+      "seasonNumber": 4,
+      "number": 47,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "King Yama and Neko-Musume",
+      "seasonNumber": 4,
+      "number": 48,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Water Yokai Red Tongue's Sprint",
+      "seasonNumber": 4,
+      "number": 49,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Granny Fire Snuff of the Amusement Park",
+      "seasonNumber": 4,
+      "number": 50,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Snow Falls! Hat Gaurdian",
+      "seasonNumber": 4,
+      "number": 51,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Top Yokai Amamehagi",
+      "seasonNumber": 4,
+      "number": 52,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "To Ghost Land, the Ghost Train",
+      "seasonNumber": 4,
+      "number": 53,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Jami and Frog Hermit",
+      "seasonNumber": 4,
+      "number": 54,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "House Diety and Yokai Abrupt God",
+      "seasonNumber": 4,
+      "number": 55,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Water Shapeshifter! The Yokai Water Tiger",
+      "seasonNumber": 4,
+      "number": 56,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Vampire Elite!",
+      "seasonNumber": 4,
+      "number": 57,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Freezing Yokai Snow Woman",
+      "seasonNumber": 4,
+      "number": 58,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Piggy Back",
+      "seasonNumber": 4,
+      "number": 59,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Nurarihyon's Plot",
+      "seasonNumber": 4,
+      "number": 60,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Beware of the Yokai Iyami",
+      "seasonNumber": 4,
+      "number": 61,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Bizarre Cat Ghoul Highway",
+      "seasonNumber": 4,
+      "number": 62,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Welcome to Yokai Hotel",
+      "seasonNumber": 4,
+      "number": 63,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Running Straight! The Yokai Rally",
+      "seasonNumber": 4,
+      "number": 64,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Wondrous Mammoth Flower",
+      "seasonNumber": 4,
+      "number": 65,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "In the Clouds! The Yokai Castle (Part 1)",
+      "seasonNumber": 4,
+      "number": 66,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "In the Clouds! The Yokai Castle (Part 2)",
+      "seasonNumber": 4,
+      "number": 67,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Legend of the Rough Seas: Seashore Woman",
+      "seasonNumber": 4,
+      "number": 68,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Demon Buer and Hanging Kettle",
+      "seasonNumber": 4,
+      "number": 69,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Strange Atmosphere! The Yokai Decrepit Woman",
+      "seasonNumber": 4,
+      "number": 70,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Yokai of Obebe Swamp",
+      "seasonNumber": 4,
+      "number": 71,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "It's Here! Tenko's Underground Kingdom",
+      "seasonNumber": 4,
+      "number": 72,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Bursting Forward! The Enraged Earth Snatcher",
+      "seasonNumber": 4,
+      "number": 73,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Great Serpent God, Eight Headed Snake",
+      "seasonNumber": 4,
+      "number": 74,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Yokai Arts: Mirror Battle",
+      "seasonNumber": 4,
+      "number": 75,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Scorching Hot Yokai, Drought God",
+      "seasonNumber": 4,
+      "number": 76,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Sea Priest and the Ghost Ship",
+      "seasonNumber": 4,
+      "number": 77,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Nurarihyon and Granny Snake Skin",
+      "seasonNumber": 4,
+      "number": 78,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Chinese Yokai Invasion! (Part 1)",
+      "seasonNumber": 4,
+      "number": 79,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Chinese Yokai Invasion! (Part 2)",
+      "seasonNumber": 4,
+      "number": 80,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Child Rearing Yokai Ubume!",
+      "seasonNumber": 4,
+      "number": 81,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Ancient Yokai Giant Head",
+      "seasonNumber": 4,
+      "number": 82,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Geta Battle! The Yokai Upside Down Pillar",
+      "seasonNumber": 4,
+      "number": 83,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Bizarre Man-Eating Portrait",
+      "seasonNumber": 4,
+      "number": 84,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Ghost Cave of Ground Spider Mountain",
+      "seasonNumber": 4,
+      "number": 85,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Death User Moryo",
+      "seasonNumber": 4,
+      "number": 86,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Lost Home Storehouse Child",
+      "seasonNumber": 4,
+      "number": 87,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Yokai Drooping Sack's Trap",
+      "seasonNumber": 4,
+      "number": 88,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Hair Hell! Rakshasa",
+      "seasonNumber": 4,
+      "number": 89,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Rift Yokai Shiver",
+      "seasonNumber": 4,
+      "number": 90,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Scary Night! Ogres from the Night Parade of 100 Demons",
+      "seasonNumber": 4,
+      "number": 91,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Hundred Eyes and Nurarihyon",
+      "seasonNumber": 4,
+      "number": 92,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai from the Moon: Katsura Man",
+      "seasonNumber": 4,
+      "number": 93,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Kitaro Fish and the Abandoned Canal",
+      "seasonNumber": 4,
+      "number": 94,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Power Thief: Cauldron Dweller",
+      "seasonNumber": 4,
+      "number": 95,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Yokai King Nurarihyon",
+      "seasonNumber": 4,
+      "number": 96,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "After Them! The Western Yokai Four Devas",
+      "seasonNumber": 4,
+      "number": 97,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Ordeal: The Path to Monster Castle",
+      "seasonNumber": 4,
+      "number": 98,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Showdown! The Yokai King vs Kitaro",
+      "seasonNumber": 4,
+      "number": 99,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Dark Invitation: The Yokai Shadow Woman",
+      "seasonNumber": 4,
+      "number": 100,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Word User's Trap",
+      "seasonNumber": 4,
+      "number": 101,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Brutal Chinese Yokai Xingtian",
+      "seasonNumber": 4,
+      "number": 102,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Rat Ghoul! The Yokai Kyuso",
+      "seasonNumber": 4,
+      "number": 103,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Terrifying Vampiric Yokai Island",
+      "seasonNumber": 4,
+      "number": 104,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Labyrinth: The Yokai Daruma Kingdom",
+      "seasonNumber": 4,
+      "number": 105,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Bad Dream! Yokai Hell",
+      "seasonNumber": 4,
+      "number": 106,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Mountain God, Cave Monk",
+      "seasonNumber": 4,
+      "number": 107,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Ageless Cat Sho",
+      "seasonNumber": 4,
+      "number": 108,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Mystery of the Snowy Mountains: Grow Up",
+      "seasonNumber": 4,
+      "number": 109,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The 808 Tanuki Rebellion (Part 1)",
+      "seasonNumber": 4,
+      "number": 110,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The 808 Tanuki Rebellion (Part 2)",
+      "seasonNumber": 4,
+      "number": 111,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Devil Hair and Black Haircutter",
+      "seasonNumber": 4,
+      "number": 112,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Kitaro vs the Three Assassins",
+      "seasonNumber": 4,
+      "number": 113,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Desperate Situation! The Death God's Trap",
+      "seasonNumber": 4,
+      "number": 114,
+      "aired": "1998-03-29"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Streets where Monsters Dwell",
+      "seasonNumber": 5,
+      "number": 1,
+      "aired": "2007-04-01"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "BI BI BI!!! The Rat Man!",
+      "seasonNumber": 5,
+      "number": 2,
+      "aired": "2007-04-08"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Mysterious Melody! Yasha",
+      "seasonNumber": 5,
+      "number": 3,
+      "aired": "2007-04-15"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Man! Ittan Momen",
+      "seasonNumber": 5,
+      "number": 4,
+      "aired": "2007-04-22"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Cursed Movie",
+      "seasonNumber": 5,
+      "number": 5,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Big Panic! The Monster Alley",
+      "seasonNumber": 5,
+      "number": 6,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Flame On! Uncle Eyeball",
+      "seasonNumber": 5,
+      "number": 7,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "An Old Adversary! Nurarihyon",
+      "seasonNumber": 5,
+      "number": 8,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Spirit Train, That Netherworld Divide",
+      "seasonNumber": 5,
+      "number": 9,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Almighty God! The Thunder Beast",
+      "seasonNumber": 5,
+      "number": 10,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Spiritual Comic Dialogue",
+      "seasonNumber": 5,
+      "number": 11,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Ringtone from the Spiritual World",
+      "seasonNumber": 5,
+      "number": 12,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Struggle! The Bodyguard",
+      "seasonNumber": 5,
+      "number": 13,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Kitaro Dies!? Cow Demon Revives",
+      "seasonNumber": 5,
+      "number": 14,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Work! Eyeball Oyaji",
+      "seasonNumber": 5,
+      "number": 15,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Monsters are Game Masters?!",
+      "seasonNumber": 5,
+      "number": 16,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Wandering Priest",
+      "seasonNumber": 5,
+      "number": 17,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Black Eyes that Glow in the Old Castle",
+      "seasonNumber": 5,
+      "number": 18,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Sumo Wrestling Rally in the Kappa Pond",
+      "seasonNumber": 5,
+      "number": 19,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Voice From the Dark! Ghost Spot",
+      "seasonNumber": 5,
+      "number": 20,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Only the Neck? Monsters' Love Story",
+      "seasonNumber": 5,
+      "number": 21,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Fake Kitaro Appears!!",
+      "seasonNumber": 5,
+      "number": 22,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Epicure!? Sazaeki",
+      "seasonNumber": 5,
+      "number": 23,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Battle in the Dreams! Pillow Return",
+      "seasonNumber": 5,
+      "number": 24,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Monsters' Sports Meet",
+      "seasonNumber": 5,
+      "number": 25,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Monsters Idol!?",
+      "seasonNumber": 5,
+      "number": 26,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The rule of hell! Running mouse mouse\t",
+      "seasonNumber": 5,
+      "number": 27,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Kitaro dinosaurs appear!",
+      "seasonNumber": 5,
+      "number": 28,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Cat daughter's Yokai bus tour",
+      "seasonNumber": 5,
+      "number": 29,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Kitaro killing strategy",
+      "seasonNumber": 5,
+      "number": 30,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Youkai Comics Turn round!",
+      "seasonNumber": 5,
+      "number": 31,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Landing! The Western Youkai of the threat",
+      "seasonNumber": 5,
+      "number": 32,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Great counterattack! Japan yokai",
+      "seasonNumber": 5,
+      "number": 33,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Hell sink of Yokai Alley",
+      "seasonNumber": 5,
+      "number": 34,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Shinigami's paradise tour",
+      "seasonNumber": 5,
+      "number": 35,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Rescue eyeball Oyaji",
+      "seasonNumber": 5,
+      "number": 36,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Kitaro defeat! Demon hair of grudge",
+      "seasonNumber": 5,
+      "number": 37,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Male female becoming a dad",
+      "seasonNumber": 5,
+      "number": 38,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Nurarihyonan Last Day",
+      "seasonNumber": 5,
+      "number": 39,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Great Fever! Kitaro Goods",
+      "seasonNumber": 5,
+      "number": 40,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Defeat Kitaro! Moushi man's counterattack",
+      "seasonNumber": 5,
+      "number": 41,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Obey swamp youkai!",
+      "seasonNumber": 5,
+      "number": 42,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Youkai Mystery Train!",
+      "seasonNumber": 5,
+      "number": 43,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Choi evil! Eyeball father",
+      "seasonNumber": 5,
+      "number": 44,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Cat daughter noisy !? Youkai maid cafe",
+      "seasonNumber": 5,
+      "number": 45,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Snake female gorgon dinner party",
+      "seasonNumber": 5,
+      "number": 46,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai big case",
+      "seasonNumber": 5,
+      "number": 47,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Fight! Gegege House",
+      "seasonNumber": 5,
+      "number": 48,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Seven of the other world Misaki",
+      "seasonNumber": 5,
+      "number": 49,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Curse of the bride!",
+      "seasonNumber": 5,
+      "number": 50,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Sightseeing of Tokyo daughter's Tokyo youkai",
+      "seasonNumber": 5,
+      "number": 51,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Fear! Night road monster",
+      "seasonNumber": 5,
+      "number": 52,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Hakusanbo Viva! Haunted house",
+      "seasonNumber": 5,
+      "number": 53,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Vampire elite",
+      "seasonNumber": 5,
+      "number": 54,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Curse of the hundred",
+      "seasonNumber": 5,
+      "number": 55,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Forbidden cape! Iso woman",
+      "seasonNumber": 5,
+      "number": 56,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The legendary great youka",
+      "seasonNumber": 5,
+      "number": 57,
+      "aired": null
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/265216/6844210.jpg",
+      "absoluteNumber": 0,
+      "name": "Pet youkai! White swell",
+      "seasonNumber": 5,
+      "number": 58,
+      "aired": null
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/265216/6844211.jpg",
+      "absoluteNumber": 0,
+      "name": "Gremlin to land Tokyo!!",
+      "seasonNumber": 5,
+      "number": 59,
+      "aired": null
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/265216/6844212.jpg",
+      "absoluteNumber": 0,
+      "name": "Work!! Yukai Bali Bali",
+      "seasonNumber": 5,
+      "number": 60,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Youkobo of Youkai Castle",
+      "seasonNumber": 5,
+      "number": 61,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "A neck demon leads to death",
+      "seasonNumber": 5,
+      "number": 62,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Japan all youkai annihilation!? Yokai cloth!!",
+      "seasonNumber": 5,
+      "number": 63,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Monday night",
+      "seasonNumber": 5,
+      "number": 64,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "A bird of curse! Uplus dances\t",
+      "seasonNumber": 5,
+      "number": 65,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "More Kinjo! Yokai Hit Chart",
+      "seasonNumber": 5,
+      "number": 66,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Walking blood-sucking tree! Takiko",
+      "seasonNumber": 5,
+      "number": 67,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Hell super-battle war! Total Westerner youkai appeared!",
+      "seasonNumber": 5,
+      "number": 68,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Kitaro major incident! Hollow dugong entrance",
+      "seasonNumber": 5,
+      "number": 69,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "It is impossible to get rid of it!\t",
+      "seasonNumber": 5,
+      "number": 70,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "South Okamoto Japan landing!\t",
+      "seasonNumber": 5,
+      "number": 71,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Youkai Castle Start !! Vermillion War\t",
+      "seasonNumber": 5,
+      "number": 72,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Mystery of Yokai 47\t",
+      "seasonNumber": 5,
+      "number": 73,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "I am sorry for this! Kagoshima Battle Battle !!\t",
+      "seasonNumber": 5,
+      "number": 74,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "A spectator school of looking up entrance\t",
+      "seasonNumber": 5,
+      "number": 75,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The strongest tag !! Southern & Chinese youkai !!\t",
+      "seasonNumber": 5,
+      "number": 76,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Snow Woman! Beautiful Revenge Demon\t",
+      "seasonNumber": 5,
+      "number": 77,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Angry fellows! God Hidaru\t",
+      "seasonNumber": 5,
+      "number": 78,
+      "aired": null
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/265216/6844233.jpg",
+      "absoluteNumber": 0,
+      "name": "Voyeurism of the oblivion! Child of the hammer",
+      "seasonNumber": 5,
+      "number": 79,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Beauty and sleeping! Continuous Yokai incident\t",
+      "seasonNumber": 5,
+      "number": 80,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Duel! Yokai hunter vs. girlfriend",
+      "seasonNumber": 5,
+      "number": 81,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Life Karakara! Red hot springs\t",
+      "seasonNumber": 5,
+      "number": 82,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Burn it! Red Bean Association\t",
+      "seasonNumber": 5,
+      "number": 83,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Noboru Bell! Echoing in the darkness of the night\t",
+      "seasonNumber": 5,
+      "number": 84,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Kitaro screaming! Trump card for youkai castle !!\t",
+      "seasonNumber": 5,
+      "number": 85,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The fear approaching behind!\t",
+      "seasonNumber": 5,
+      "number": 86,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Giant! Gearm's tears\t",
+      "seasonNumber": 5,
+      "number": 87,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "A youkai desperate! Hell crossing quiz !!\t",
+      "seasonNumber": 5,
+      "number": 88,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Shingo no Miracle! Kitaro Big Leopard !!\t",
+      "seasonNumber": 5,
+      "number": 89,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "New Year's big runaway! Kitaro fire car\t",
+      "seasonNumber": 5,
+      "number": 90,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Youkai Brushman! The First Eyelet",
+      "seasonNumber": 5,
+      "number": 91,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Furious! Youkai Mill !!\t",
+      "seasonNumber": 5,
+      "number": 92,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Ghost in a ghostbill 's youkai!",
+      "seasonNumber": 5,
+      "number": 93,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The true character of Okinawa's guardian shrine!",
+      "seasonNumber": 5,
+      "number": 94,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Yokai Suites! Strategy of Valentines\t",
+      "seasonNumber": 5,
+      "number": 95,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Romantic Romance! Invitation of Youkai\t",
+      "seasonNumber": 5,
+      "number": 96,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Impact! Become a Kitaro cat!\t",
+      "seasonNumber": 5,
+      "number": 97,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Oyaji big blood congestion! Brave Kitaro !!\t",
+      "seasonNumber": 5,
+      "number": 98,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The castle town of the city! Yokai Kamuhime\t",
+      "seasonNumber": 5,
+      "number": 99,
+      "aired": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Farewell, Father! Tengu king of threat\t",
+      "seasonNumber": 5,
+      "number": 100,
+      "aired": "2009-03-29"
+    }
+  ]
+}
