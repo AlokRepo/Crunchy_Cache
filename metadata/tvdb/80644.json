@@ -1,0 +1,455 @@
+{
+  "cachedAt": 1780593909954,
+  "data": [
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d97bcdff72.jpg",
+      "absoluteNumber": 23,
+      "name": "The Events of Summer Holidays",
+      "seasonNumber": 0,
+      "number": 1,
+      "aired": "2008-03-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d989772c77.jpg",
+      "absoluteNumber": 24,
+      "name": "Another World: Tomoyo Chapter",
+      "seasonNumber": 0,
+      "number": 2,
+      "aired": "2008-07-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9a7fd41a3.jpg",
+      "absoluteNumber": 49,
+      "name": "Another World: Kyou Chapter",
+      "seasonNumber": 0,
+      "number": 3,
+      "aired": "2009-07-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/80644/376965.jpg",
+      "absoluteNumber": 0,
+      "name": "Clannad the Motion Picture",
+      "seasonNumber": 0,
+      "number": 4,
+      "aired": "2007-09-15",
+      "runtime": 95
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d90637791f.jpg",
+      "absoluteNumber": 1,
+      "name": "On the Hillside Path Where the Cherry Blossoms Flutter",
+      "seasonNumber": 1,
+      "number": 1,
+      "aired": "2007-10-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9148ba26e.jpg",
+      "absoluteNumber": 2,
+      "name": "The First Step",
+      "seasonNumber": 1,
+      "number": 2,
+      "aired": "2007-10-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d91b6bb919.jpg",
+      "absoluteNumber": 3,
+      "name": "Once Again After Crying",
+      "seasonNumber": 1,
+      "number": 3,
+      "aired": "2007-10-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d91e4cdadf.jpg",
+      "absoluteNumber": 4,
+      "name": "Let's Find Friends",
+      "seasonNumber": 1,
+      "number": 4,
+      "aired": "2007-10-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d92141a087.jpg",
+      "absoluteNumber": 5,
+      "name": "The Scenery with a Carving",
+      "seasonNumber": 1,
+      "number": 5,
+      "aired": "2007-11-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d926a0fcda.jpg",
+      "absoluteNumber": 6,
+      "name": "The Older and Younger Sister's Founder's Festival",
+      "seasonNumber": 1,
+      "number": 6,
+      "aired": "2007-11-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d92a31c11b.jpg",
+      "absoluteNumber": 7,
+      "name": "Star-Shaped Feelings",
+      "seasonNumber": 1,
+      "number": 7,
+      "aired": "2007-11-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d92e9c94b4.jpg",
+      "absoluteNumber": 8,
+      "name": "The Wind That Vanishes Into Dusk",
+      "seasonNumber": 1,
+      "number": 8,
+      "aired": "2007-11-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d932bbe615.jpg",
+      "absoluteNumber": 9,
+      "name": "Until the End of the Dream",
+      "seasonNumber": 1,
+      "number": 9,
+      "aired": "2007-11-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9391a9bd5.jpg",
+      "absoluteNumber": 10,
+      "name": "The Girl Genius' Challenge",
+      "seasonNumber": 1,
+      "number": 10,
+      "aired": "2007-12-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d93d91290f.jpg",
+      "absoluteNumber": 11,
+      "name": "The After School Rhapsody",
+      "seasonNumber": 1,
+      "number": 11,
+      "aired": "2007-12-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9410ef1d2.jpg",
+      "absoluteNumber": 12,
+      "name": "Hidden World",
+      "seasonNumber": 1,
+      "number": 12,
+      "aired": "2007-12-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9478215df.jpg",
+      "absoluteNumber": 13,
+      "name": "Garden of Memories",
+      "seasonNumber": 1,
+      "number": 13,
+      "aired": "2008-01-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d94b5a29f4.jpg",
+      "absoluteNumber": 14,
+      "name": "Theory of Everything",
+      "seasonNumber": 1,
+      "number": 14,
+      "aired": "2008-01-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d952ae46b9.jpg",
+      "absoluteNumber": 15,
+      "name": "Stuck Problem",
+      "seasonNumber": 1,
+      "number": 15,
+      "aired": "2008-01-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9582049fa.jpg",
+      "absoluteNumber": 16,
+      "name": "3 on 3",
+      "seasonNumber": 1,
+      "number": 16,
+      "aired": "2008-02-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d95b9c0924.jpg",
+      "absoluteNumber": 17,
+      "name": "A Room Without Anyone",
+      "seasonNumber": 1,
+      "number": 17,
+      "aired": "2008-02-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d95de9db96.jpg",
+      "absoluteNumber": 18,
+      "name": "Counter Measures",
+      "seasonNumber": 1,
+      "number": 18,
+      "aired": "2008-02-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9626e75fe.jpg",
+      "absoluteNumber": 19,
+      "name": "A New Life",
+      "seasonNumber": 1,
+      "number": 19,
+      "aired": "2008-02-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d965299000.jpg",
+      "absoluteNumber": 20,
+      "name": "A Hidden Past",
+      "seasonNumber": 1,
+      "number": 20,
+      "aired": "2008-03-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d96b02f7e0.jpg",
+      "absoluteNumber": 21,
+      "name": "Face Toward the School Festival",
+      "seasonNumber": 1,
+      "number": 21,
+      "aired": "2008-03-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9737ce759.jpg",
+      "absoluteNumber": 22,
+      "name": "Two Shadows",
+      "seasonNumber": 1,
+      "number": 22,
+      "aired": "2008-03-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9ac2a94e4.jpg",
+      "absoluteNumber": 25,
+      "name": "A Farewell to the End of Summer",
+      "seasonNumber": 2,
+      "number": 1,
+      "aired": "2008-10-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9b14d03b5.jpg",
+      "absoluteNumber": 26,
+      "name": "In Search of False Love",
+      "seasonNumber": 2,
+      "number": 2,
+      "aired": "2008-10-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9b4be3224.jpg",
+      "absoluteNumber": 27,
+      "name": "Hearts Out of Synch",
+      "seasonNumber": 2,
+      "number": 3,
+      "aired": "2008-10-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9b86a6c6d.jpg",
+      "absoluteNumber": 28,
+      "name": "With the Same Smile as That Day",
+      "seasonNumber": 2,
+      "number": 4,
+      "aired": "2008-10-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9bafae10c.jpg",
+      "absoluteNumber": 29,
+      "name": "The Season You Were There",
+      "seasonNumber": 2,
+      "number": 5,
+      "aired": "2008-10-31",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9bdc079ac.jpg",
+      "absoluteNumber": 30,
+      "name": "Forever by Your Side",
+      "seasonNumber": 2,
+      "number": 6,
+      "aired": "2008-11-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9c6918ac3.jpg",
+      "absoluteNumber": 31,
+      "name": "Where She Belongs",
+      "seasonNumber": 2,
+      "number": 7,
+      "aired": "2008-11-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9ca5e1e6a.jpg",
+      "absoluteNumber": 32,
+      "name": "A Courageous Battle",
+      "seasonNumber": 2,
+      "number": 8,
+      "aired": "2008-11-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9cde65b9b.jpg",
+      "absoluteNumber": 33,
+      "name": "Along the Path",
+      "seasonNumber": 2,
+      "number": 9,
+      "aired": "2008-11-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9d77d276a.jpg",
+      "absoluteNumber": 34,
+      "name": "A Season of Beginnings",
+      "seasonNumber": 2,
+      "number": 10,
+      "aired": "2008-12-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9d9b1f01b.jpg",
+      "absoluteNumber": 35,
+      "name": "The Founder's Day Festival Promise",
+      "seasonNumber": 2,
+      "number": 11,
+      "aired": "2008-12-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9dbbe6486.jpg",
+      "absoluteNumber": 36,
+      "name": "A Sudden Happening",
+      "seasonNumber": 2,
+      "number": 12,
+      "aired": "2008-12-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9e00e33ed.jpg",
+      "absoluteNumber": 37,
+      "name": "Graduation",
+      "seasonNumber": 2,
+      "number": 13,
+      "aired": "2009-01-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9e45e3d80.jpg",
+      "absoluteNumber": 38,
+      "name": "A New Family",
+      "seasonNumber": 2,
+      "number": 14,
+      "aired": "2009-01-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9e70129a7.jpg",
+      "absoluteNumber": 39,
+      "name": "In the Remains of Summer",
+      "seasonNumber": 2,
+      "number": 15,
+      "aired": "2009-01-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9eb8f10f8.jpg",
+      "absoluteNumber": 40,
+      "name": "White Darkness",
+      "seasonNumber": 2,
+      "number": 16,
+      "aired": "2009-01-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9ef407b8a.jpg",
+      "absoluteNumber": 41,
+      "name": "Summertime",
+      "seasonNumber": 2,
+      "number": 17,
+      "aired": "2009-02-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9f300b260.jpg",
+      "absoluteNumber": 42,
+      "name": "The Ends of the Earth",
+      "seasonNumber": 2,
+      "number": 18,
+      "aired": "2009-02-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9fb4c0f29.jpg",
+      "absoluteNumber": 43,
+      "name": "The Road Home",
+      "seasonNumber": 2,
+      "number": 19,
+      "aired": "2009-02-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9ffe2c400.jpg",
+      "absoluteNumber": 44,
+      "name": "The Tidal Breeze's Mischief",
+      "seasonNumber": 2,
+      "number": 20,
+      "aired": "2009-02-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8da03d187b3.jpg",
+      "absoluteNumber": 45,
+      "name": "The End of the World",
+      "seasonNumber": 2,
+      "number": 21,
+      "aired": "2009-03-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8da091e8c96.jpg",
+      "absoluteNumber": 46,
+      "name": "Small Palms",
+      "seasonNumber": 2,
+      "number": 22,
+      "aired": "2009-03-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d994d95375.jpg",
+      "absoluteNumber": 47,
+      "name": "The Event from One Year Before",
+      "seasonNumber": 2,
+      "number": 23,
+      "aired": "2009-03-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/80644/episodes/5e8d9a1dafefa.jpg",
+      "absoluteNumber": 48,
+      "name": "Under the Green Tree",
+      "seasonNumber": 2,
+      "number": 24,
+      "aired": "2009-03-27",
+      "runtime": 25
+    }
+  ]
+}
