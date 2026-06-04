@@ -1,0 +1,997 @@
+{
+  "cachedAt": 1780544553478,
+  "data": [
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4439303.jpg",
+      "absoluteNumber": 0,
+      "name": "Sword Art Offline 1",
+      "seasonNumber": 0,
+      "number": 1,
+      "aired": "2012-10-24"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4451543.jpg",
+      "absoluteNumber": 0,
+      "name": "Sword Art Offline 2",
+      "seasonNumber": 0,
+      "number": 2,
+      "aired": "2012-12-03"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4451544.jpg",
+      "absoluteNumber": 0,
+      "name": "Sword Art Offline 3",
+      "seasonNumber": 0,
+      "number": 3,
+      "aired": "2012-12-26"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4451545.jpg",
+      "absoluteNumber": 0,
+      "name": "Sword Art Offline 4",
+      "seasonNumber": 0,
+      "number": 4,
+      "aired": "2013-01-23"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4451546.jpg",
+      "absoluteNumber": 0,
+      "name": "Sword Art Offline 5",
+      "seasonNumber": 0,
+      "number": 5,
+      "aired": "2013-02-27"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4626857.jpg",
+      "absoluteNumber": 0,
+      "name": "Sword Art Offline 6",
+      "seasonNumber": 0,
+      "number": 6,
+      "aired": "2013-03-27"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4626858.jpg",
+      "absoluteNumber": 0,
+      "name": "Sword Art Offline 7",
+      "seasonNumber": 0,
+      "number": 7,
+      "aired": "2013-04-24"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4626859.jpg",
+      "absoluteNumber": 0,
+      "name": "Sword Art Offline 8",
+      "seasonNumber": 0,
+      "number": 8,
+      "aired": "2013-05-22"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4626860.jpg",
+      "absoluteNumber": 0,
+      "name": "Sword Art Offline 9",
+      "seasonNumber": 0,
+      "number": 9,
+      "aired": "2013-06-26"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/4737289.jpg",
+      "absoluteNumber": 0,
+      "name": "Sword Art Online: Extra Edition",
+      "seasonNumber": 0,
+      "number": 10,
+      "aired": "2013-12-31"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/5151638.jpg",
+      "absoluteNumber": 0,
+      "name": "Sword Art Offline: Extra Edition",
+      "seasonNumber": 0,
+      "number": 11,
+      "aired": "2014-12-23"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/4921285.jpg",
+      "absoluteNumber": 0,
+      "name": "Debriefing",
+      "seasonNumber": 0,
+      "number": 12,
+      "aired": "2014-10-11"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Sword Art Offline II 1",
+      "seasonNumber": 0,
+      "number": 13,
+      "aired": "2014-10-22"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Sword Art Offline II 2",
+      "seasonNumber": 0,
+      "number": 14,
+      "aired": "2014-11-26"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Sword Art Offline II 3",
+      "seasonNumber": 0,
+      "number": 15,
+      "aired": "2014-12-24"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Sword Art Offline II 4",
+      "seasonNumber": 0,
+      "number": 16,
+      "aired": "2015-01-28"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Sword Art Offline II 5",
+      "seasonNumber": 0,
+      "number": 17,
+      "aired": "2015-02-25"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Sword Art Offline II 6",
+      "seasonNumber": 0,
+      "number": 18,
+      "aired": "2015-03-25"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Sword Art Offline II 7",
+      "seasonNumber": 0,
+      "number": 19,
+      "aired": "2015-04-22"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Sword Art Offline II 8",
+      "seasonNumber": 0,
+      "number": 20,
+      "aired": "2015-05-27"
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Sword Art Offline II 9",
+      "seasonNumber": 0,
+      "number": 21,
+      "aired": "2015-06-24"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/6134733.jpg",
+      "absoluteNumber": 50,
+      "name": "Sword Art Online The Movie: Ordinal Scale",
+      "seasonNumber": 0,
+      "number": 22,
+      "aired": "2017-02-18"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/6459412.jpg",
+      "absoluteNumber": 0,
+      "name": "Sword Art Online Movie: Ordinal Scale - Sword Art Offline",
+      "seasonNumber": 0,
+      "number": 23,
+      "aired": "2017-09-27"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/6946527.jpg",
+      "absoluteNumber": 0,
+      "name": "Alicization 18.5: Recollection",
+      "seasonNumber": 0,
+      "number": 24,
+      "aired": "2019-02-17"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/7391391.jpg",
+      "absoluteNumber": 0,
+      "name": "Alicization 24.5: Reflection",
+      "seasonNumber": 0,
+      "number": 25,
+      "aired": "2019-10-06"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/5f00746badde5.jpg",
+      "absoluteNumber": 0,
+      "name": "Alicization - War of Underworld 12.5: Reminiscence",
+      "seasonNumber": 0,
+      "number": 26,
+      "aired": "2020-04-19"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8035773/screencap/62cd5fecee72e.jpg",
+      "absoluteNumber": 0,
+      "name": "Sword Art Online the Movie: Progressive - Aria of a Starless Night",
+      "seasonNumber": 0,
+      "number": 27,
+      "aired": "2021-10-30"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9815924/screencap/6619b71b3a2ef.jpg",
+      "absoluteNumber": 0,
+      "name": "Sword Art Online the Movie: Progressive - Scherzo of Deep Night",
+      "seasonNumber": 0,
+      "number": 28,
+      "aired": "2022-10-22"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4350133.jpg",
+      "absoluteNumber": 1,
+      "name": "The World of Swords",
+      "seasonNumber": 1,
+      "number": 1,
+      "aired": "2012-07-08"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4354382.jpg",
+      "absoluteNumber": 2,
+      "name": "Beater",
+      "seasonNumber": 1,
+      "number": 2,
+      "aired": "2012-07-15"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4354383.jpg",
+      "absoluteNumber": 3,
+      "name": "The Red-Nosed Reindeer",
+      "seasonNumber": 1,
+      "number": 3,
+      "aired": "2012-07-22"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4354384.jpg",
+      "absoluteNumber": 4,
+      "name": "The Black Swordsman",
+      "seasonNumber": 1,
+      "number": 4,
+      "aired": "2012-07-29"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4357550.jpg",
+      "absoluteNumber": 5,
+      "name": "Murder in the Safe Zone",
+      "seasonNumber": 1,
+      "number": 5,
+      "aired": "2012-08-05"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4357551.jpg",
+      "absoluteNumber": 6,
+      "name": "Illusionary Avenger",
+      "seasonNumber": 1,
+      "number": 6,
+      "aired": "2012-08-12"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4357552.jpg",
+      "absoluteNumber": 7,
+      "name": "The Temperature of the Heart",
+      "seasonNumber": 1,
+      "number": 7,
+      "aired": "2012-08-19"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4357553.jpg",
+      "absoluteNumber": 8,
+      "name": "The Sword Dance of Black and White",
+      "seasonNumber": 1,
+      "number": 8,
+      "aired": "2012-08-26"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4357554.jpg",
+      "absoluteNumber": 9,
+      "name": "The Blue-Eyed Demon",
+      "seasonNumber": 1,
+      "number": 9,
+      "aired": "2012-09-02"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4357555.jpg",
+      "absoluteNumber": 10,
+      "name": "Crimson Killing Intent",
+      "seasonNumber": 1,
+      "number": 10,
+      "aired": "2012-09-09"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4357556.jpg",
+      "absoluteNumber": 11,
+      "name": "The Girl of Morning Dew",
+      "seasonNumber": 1,
+      "number": 11,
+      "aired": "2012-09-16"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4357557.jpg",
+      "absoluteNumber": 12,
+      "name": "Yui's Heart",
+      "seasonNumber": 1,
+      "number": 12,
+      "aired": "2012-09-23"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4357558.jpg",
+      "absoluteNumber": 13,
+      "name": "Edge of Hell's Abyss",
+      "seasonNumber": 1,
+      "number": 13,
+      "aired": "2012-09-30"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4357559.jpg",
+      "absoluteNumber": 14,
+      "name": "The End of the World",
+      "seasonNumber": 1,
+      "number": 14,
+      "aired": "2012-10-07"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4357560.jpg",
+      "absoluteNumber": 15,
+      "name": "Return",
+      "seasonNumber": 1,
+      "number": 15,
+      "aired": "2012-10-14"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4357561.jpg",
+      "absoluteNumber": 16,
+      "name": "Land of the Fairies",
+      "seasonNumber": 1,
+      "number": 16,
+      "aired": "2012-10-21"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4357562.jpg",
+      "absoluteNumber": 17,
+      "name": "Captive Queen",
+      "seasonNumber": 1,
+      "number": 17,
+      "aired": "2012-10-28"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4357563.jpg",
+      "absoluteNumber": 18,
+      "name": "To the World Tree",
+      "seasonNumber": 1,
+      "number": 18,
+      "aired": "2012-11-04"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4357564.jpg",
+      "absoluteNumber": 19,
+      "name": "The Lugru Corridor",
+      "seasonNumber": 1,
+      "number": 19,
+      "aired": "2012-11-11"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4357565.jpg",
+      "absoluteNumber": 20,
+      "name": "General of the Blazing Flame",
+      "seasonNumber": 1,
+      "number": 20,
+      "aired": "2012-11-18"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4357566.jpg",
+      "absoluteNumber": 21,
+      "name": "The Truth About Alfheim",
+      "seasonNumber": 1,
+      "number": 21,
+      "aired": "2012-11-25"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4357567.jpg",
+      "absoluteNumber": 22,
+      "name": "The Grand Quest",
+      "seasonNumber": 1,
+      "number": 22,
+      "aired": "2012-12-02"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4357568.jpg",
+      "absoluteNumber": 23,
+      "name": "Bonds",
+      "seasonNumber": 1,
+      "number": 23,
+      "aired": "2012-12-09"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4357569.jpg",
+      "absoluteNumber": 24,
+      "name": "Gilded Hero",
+      "seasonNumber": 1,
+      "number": 24,
+      "aired": "2012-12-16"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4357570.jpg",
+      "absoluteNumber": 25,
+      "name": "The World Seed",
+      "seasonNumber": 1,
+      "number": 25,
+      "aired": "2012-12-23"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4754073.jpg",
+      "absoluteNumber": 26,
+      "name": "The World of Guns",
+      "seasonNumber": 2,
+      "number": 1,
+      "aired": "2014-07-05"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4889021.jpg",
+      "absoluteNumber": 27,
+      "name": "Cold-Hearted Sniper",
+      "seasonNumber": 2,
+      "number": 2,
+      "aired": "2014-07-12"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4889022.jpg",
+      "absoluteNumber": 28,
+      "name": "Memories of Blood",
+      "seasonNumber": 2,
+      "number": 3,
+      "aired": "2014-07-19"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4889023.jpg",
+      "absoluteNumber": 29,
+      "name": "GGO (Gun Gale Online)",
+      "seasonNumber": 2,
+      "number": 4,
+      "aired": "2014-07-26"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4889024.jpg",
+      "absoluteNumber": 30,
+      "name": "Guns and Swords",
+      "seasonNumber": 2,
+      "number": 5,
+      "aired": "2014-08-02"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4889025.jpg",
+      "absoluteNumber": 31,
+      "name": "Showdown in the Wilderness",
+      "seasonNumber": 2,
+      "number": 6,
+      "aired": "2014-08-09"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4889026.jpg",
+      "absoluteNumber": 32,
+      "name": "Crimson Memories",
+      "seasonNumber": 2,
+      "number": 7,
+      "aired": "2014-08-16"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4889027.jpg",
+      "absoluteNumber": 33,
+      "name": "Bullet of Bullets",
+      "seasonNumber": 2,
+      "number": 8,
+      "aired": "2014-08-23"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4889028.jpg",
+      "absoluteNumber": 34,
+      "name": "Death Gun",
+      "seasonNumber": 2,
+      "number": 9,
+      "aired": "2014-08-30"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4889029.jpg",
+      "absoluteNumber": 35,
+      "name": "Death Chaser",
+      "seasonNumber": 2,
+      "number": 10,
+      "aired": "2014-09-06"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4889030.jpg",
+      "absoluteNumber": 36,
+      "name": "What It Means To Be Strong",
+      "seasonNumber": 2,
+      "number": 11,
+      "aired": "2014-09-13"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4889031.jpg",
+      "absoluteNumber": 37,
+      "name": "Bullet of a Phantom",
+      "seasonNumber": 2,
+      "number": 12,
+      "aired": "2014-09-20"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4889032.jpg",
+      "absoluteNumber": 38,
+      "name": "Phantom Bullet",
+      "seasonNumber": 2,
+      "number": 13,
+      "aired": "2014-09-27"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4921284.jpg",
+      "absoluteNumber": 39,
+      "name": "One Little Step",
+      "seasonNumber": 2,
+      "number": 14,
+      "aired": "2014-10-04"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4921286.jpg",
+      "absoluteNumber": 40,
+      "name": "The Queen of the Lake",
+      "seasonNumber": 2,
+      "number": 15,
+      "aired": "2014-10-18"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4921287.jpg",
+      "absoluteNumber": 41,
+      "name": "The King of the Giants",
+      "seasonNumber": 2,
+      "number": 16,
+      "aired": "2014-10-25"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4921288.jpg",
+      "absoluteNumber": 42,
+      "name": "Excalibur",
+      "seasonNumber": 2,
+      "number": 17,
+      "aired": "2014-11-01"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4921289.jpg",
+      "absoluteNumber": 43,
+      "name": "Forest House",
+      "seasonNumber": 2,
+      "number": 18,
+      "aired": "2014-11-08"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4921290.jpg",
+      "absoluteNumber": 44,
+      "name": "Zekken",
+      "seasonNumber": 2,
+      "number": 19,
+      "aired": "2014-11-15"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4921291.jpg",
+      "absoluteNumber": 45,
+      "name": "The Sleeping Knights",
+      "seasonNumber": 2,
+      "number": 20,
+      "aired": "2014-11-22"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4921292.jpg",
+      "absoluteNumber": 46,
+      "name": "The Monument of Swordsmen",
+      "seasonNumber": 2,
+      "number": 21,
+      "aired": "2014-11-29"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4921293.jpg",
+      "absoluteNumber": 47,
+      "name": "The End of the Journey",
+      "seasonNumber": 2,
+      "number": 22,
+      "aired": "2014-12-06"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/4921294.jpg",
+      "absoluteNumber": 48,
+      "name": "The Dream Begins",
+      "seasonNumber": 2,
+      "number": 23,
+      "aired": "2014-12-13"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/5015447.jpg",
+      "absoluteNumber": 49,
+      "name": "Mother's Rosario",
+      "seasonNumber": 2,
+      "number": 24,
+      "aired": "2014-12-20"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/6653987.jpg",
+      "absoluteNumber": 51,
+      "name": "Underworld",
+      "seasonNumber": 3,
+      "number": 1,
+      "aired": "2018-10-07"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/6827226.jpg",
+      "absoluteNumber": 52,
+      "name": "The Demon Tree",
+      "seasonNumber": 3,
+      "number": 2,
+      "aired": "2018-10-14"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/6827227.jpg",
+      "absoluteNumber": 53,
+      "name": "The End Mountains",
+      "seasonNumber": 3,
+      "number": 3,
+      "aired": "2018-10-21"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/6827228.jpg",
+      "absoluteNumber": 54,
+      "name": "Departure",
+      "seasonNumber": 3,
+      "number": 4,
+      "aired": "2018-10-28"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/6827229.jpg",
+      "absoluteNumber": 55,
+      "name": "Ocean Turtle",
+      "seasonNumber": 3,
+      "number": 5,
+      "aired": "2018-11-04"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/6827230.jpg",
+      "absoluteNumber": 56,
+      "name": "Project Alicization",
+      "seasonNumber": 3,
+      "number": 6,
+      "aired": "2018-11-11"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/6827231.jpg",
+      "absoluteNumber": 57,
+      "name": "Swordcraft Academy",
+      "seasonNumber": 3,
+      "number": 7,
+      "aired": "2018-11-18"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/6827232.jpg",
+      "absoluteNumber": 58,
+      "name": "Swordsman's Pride",
+      "seasonNumber": 3,
+      "number": 8,
+      "aired": "2018-11-25"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/6827233.jpg",
+      "absoluteNumber": 59,
+      "name": "Nobleman's Responsibilities",
+      "seasonNumber": 3,
+      "number": 9,
+      "aired": "2018-12-02"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/6827234.jpg",
+      "absoluteNumber": 60,
+      "name": "Taboo Index",
+      "seasonNumber": 3,
+      "number": 10,
+      "aired": "2018-12-09"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/6827235.jpg",
+      "absoluteNumber": 61,
+      "name": "Central Cathedral",
+      "seasonNumber": 3,
+      "number": 11,
+      "aired": "2018-12-16"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/6827236.jpg",
+      "absoluteNumber": 62,
+      "name": "The Sage of the Library",
+      "seasonNumber": 3,
+      "number": 12,
+      "aired": "2018-12-23"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/6946521.jpg",
+      "absoluteNumber": 63,
+      "name": "Ruler and Mediator",
+      "seasonNumber": 3,
+      "number": 13,
+      "aired": "2019-01-06"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/6946522.jpg",
+      "absoluteNumber": 64,
+      "name": "The Crimson Knight",
+      "seasonNumber": 3,
+      "number": 14,
+      "aired": "2019-01-13"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/6946523.jpg",
+      "absoluteNumber": 65,
+      "name": "The Relentless Knight",
+      "seasonNumber": 3,
+      "number": 15,
+      "aired": "2019-01-20"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/6946524.jpg",
+      "absoluteNumber": 66,
+      "name": "The Osmanthus Knight",
+      "seasonNumber": 3,
+      "number": 16,
+      "aired": "2019-01-27"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/6946525.jpg",
+      "absoluteNumber": 67,
+      "name": "Truce",
+      "seasonNumber": 3,
+      "number": 17,
+      "aired": "2019-02-03"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/6946526.jpg",
+      "absoluteNumber": 68,
+      "name": "The Legendary Hero",
+      "seasonNumber": 3,
+      "number": 18,
+      "aired": "2019-02-10"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/6946528.jpg",
+      "absoluteNumber": 69,
+      "name": "The Seal of the Right Eye",
+      "seasonNumber": 3,
+      "number": 19,
+      "aired": "2019-02-24"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/6946529.jpg",
+      "absoluteNumber": 70,
+      "name": "Synthesis",
+      "seasonNumber": 3,
+      "number": 20,
+      "aired": "2019-03-03"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/6946530.jpg",
+      "absoluteNumber": 71,
+      "name": "The 32nd Knight",
+      "seasonNumber": 3,
+      "number": 21,
+      "aired": "2019-03-10"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/6946531.jpg",
+      "absoluteNumber": 72,
+      "name": "Titan of the Sword",
+      "seasonNumber": 3,
+      "number": 22,
+      "aired": "2019-03-17"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/6946532.jpg",
+      "absoluteNumber": 73,
+      "name": "Administrator",
+      "seasonNumber": 3,
+      "number": 23,
+      "aired": "2019-03-24"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/259640/7038359.jpg",
+      "absoluteNumber": 74,
+      "name": "My Hero",
+      "seasonNumber": 3,
+      "number": 24,
+      "aired": "2019-03-31"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/5f05ffcfaacba.jpg",
+      "absoluteNumber": 75,
+      "name": "In the Far North",
+      "seasonNumber": 4,
+      "number": 1,
+      "aired": "2019-10-13"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/7391436.jpg",
+      "absoluteNumber": 76,
+      "name": "Raids",
+      "seasonNumber": 4,
+      "number": 2,
+      "aired": "2019-10-20"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/7391437.jpg",
+      "absoluteNumber": 77,
+      "name": "The Final Load Test",
+      "seasonNumber": 4,
+      "number": 3,
+      "aired": "2019-10-27"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/7391440.jpg",
+      "absoluteNumber": 78,
+      "name": "Dark Territory",
+      "seasonNumber": 4,
+      "number": 4,
+      "aired": "2019-11-03"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/7430557.jpg",
+      "absoluteNumber": 79,
+      "name": "The Night Before Battle",
+      "seasonNumber": 4,
+      "number": 5,
+      "aired": "2019-11-10"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/7430559.jpg",
+      "absoluteNumber": 80,
+      "name": "Battle of the Knights",
+      "seasonNumber": 4,
+      "number": 6,
+      "aired": "2019-11-17"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/7450950.jpg",
+      "absoluteNumber": 81,
+      "name": "Stigma of the Disqualified",
+      "seasonNumber": 4,
+      "number": 7,
+      "aired": "2019-11-24"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/7452294.jpg",
+      "absoluteNumber": 82,
+      "name": "Blood and Life",
+      "seasonNumber": 4,
+      "number": 8,
+      "aired": "2019-12-01"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/7478613.jpg",
+      "absoluteNumber": 83,
+      "name": "Sword and Fist",
+      "seasonNumber": 4,
+      "number": 9,
+      "aired": "2019-12-08"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/7478616.jpg",
+      "absoluteNumber": 84,
+      "name": "Stacia, the Goddess of Creation",
+      "seasonNumber": 4,
+      "number": 10,
+      "aired": "2019-12-15"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/7478618.jpg",
+      "absoluteNumber": 85,
+      "name": "Heartless Choice",
+      "seasonNumber": 4,
+      "number": 11,
+      "aired": "2019-12-22"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/7478621.jpg",
+      "absoluteNumber": 86,
+      "name": "Ray of Light",
+      "seasonNumber": 4,
+      "number": 12,
+      "aired": "2019-12-29"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/5f05ff7bb0c23.jpg",
+      "absoluteNumber": 87,
+      "name": "The War of Underworld",
+      "seasonNumber": 4,
+      "number": 13,
+      "aired": "2020-07-12"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/5f11a7e97af6a.jpg",
+      "absoluteNumber": 88,
+      "name": "End to Eternity",
+      "seasonNumber": 4,
+      "number": 14,
+      "aired": "2020-07-19"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/5f1aee55d2d29.jpg",
+      "absoluteNumber": 89,
+      "name": "Instigation",
+      "seasonNumber": 4,
+      "number": 15,
+      "aired": "2020-07-26"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/5f22e5e078789.jpg",
+      "absoluteNumber": 90,
+      "name": "Code 871",
+      "seasonNumber": 4,
+      "number": 16,
+      "aired": "2020-08-02"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/5f2cfc7058a44.jpg",
+      "absoluteNumber": 91,
+      "name": "Prince of Hell",
+      "seasonNumber": 4,
+      "number": 17,
+      "aired": "2020-08-09"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/5f36f7e748fb6.jpg",
+      "absoluteNumber": 92,
+      "name": "Memories",
+      "seasonNumber": 4,
+      "number": 18,
+      "aired": "2020-08-16"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/5f401be2883b7.jpg",
+      "absoluteNumber": 93,
+      "name": "Awakening",
+      "seasonNumber": 4,
+      "number": 19,
+      "aired": "2020-08-23"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/5f49eec25bea2.jpg",
+      "absoluteNumber": 94,
+      "name": "The Night-Sky Blade",
+      "seasonNumber": 4,
+      "number": 20,
+      "aired": "2020-08-30"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/5f534c608a3f7.jpg",
+      "absoluteNumber": 95,
+      "name": "Beyond Time",
+      "seasonNumber": 4,
+      "number": 21,
+      "aired": "2020-09-06"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/5f5c7b27ac5eb.jpg",
+      "absoluteNumber": 96,
+      "name": "Alice",
+      "seasonNumber": 4,
+      "number": 22,
+      "aired": "2020-09-13"
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/259640/episodes/5f64df33a0dea.jpg",
+      "absoluteNumber": 97,
+      "name": "New World",
+      "seasonNumber": 4,
+      "number": 23,
+      "aired": "2020-09-20"
+    }
+  ]
+}
