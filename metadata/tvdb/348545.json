@@ -1,5 +1,5 @@
 {
-  "cachedAt": 1780582589058,
+  "cachedAt": 1780672475652,
   "data": [
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/5ecfba95ac40e.jpg",
@@ -7,7 +7,8 @@
       "name": "Movie: Sibling's Bond",
       "seasonNumber": 0,
       "number": 1,
-      "aired": "2019-03-29"
+      "aired": "2019-03-29",
+      "runtime": 105
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/7766161/screencap/60805986343c9.jpg",
@@ -15,7 +16,8 @@
       "name": "Demon Slayer Movie: Mugen Train",
       "seasonNumber": 0,
       "number": 2,
-      "aired": "2020-10-16"
+      "aired": "2020-10-16",
+      "runtime": 117
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8861068/screencap/61ca4e4ff0b53.jpg",
@@ -23,7 +25,8 @@
       "name": "Junior High and High School!! Kimetsu Academy Story: Valentine Edition Episode 1",
       "seasonNumber": 0,
       "number": 3,
-      "aired": "2021-02-14"
+      "aired": "2021-02-14",
+      "runtime": 2
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8861069/screencap/61ca4f5c886b8.jpg",
@@ -31,7 +34,8 @@
       "name": "Junior High and High School!! Kimetsu Academy Story: Valentine Edition Episode 2",
       "seasonNumber": 0,
       "number": 4,
-      "aired": "2021-02-14"
+      "aired": "2021-02-14",
+      "runtime": 2
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8861070/screencap/61ca4f75bbfb1.jpg",
@@ -39,7 +43,8 @@
       "name": "Junior High and High School!! Kimetsu Academy Story: Valentine Edition Episode 3",
       "seasonNumber": 0,
       "number": 5,
-      "aired": "2021-02-14"
+      "aired": "2021-02-14",
+      "runtime": 2
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8861071/screencap/61ca4f9c2ffd7.jpg",
@@ -47,7 +52,8 @@
       "name": "Junior High and High School!! Kimetsu Academy Story: Valentine Edition Episode 4",
       "seasonNumber": 0,
       "number": 6,
-      "aired": "2021-02-14"
+      "aired": "2021-02-14",
+      "runtime": 2
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8863223/screencap/61a926e98c462.jpg",
@@ -55,7 +61,8 @@
       "name": "First Night: Brother and Sister's Bond",
       "seasonNumber": 0,
       "number": 7,
-      "aired": "2021-09-11"
+      "aired": "2021-09-11",
+      "runtime": 110
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8863224/screencap/61a9270ab016a.jpg",
@@ -63,7 +70,8 @@
       "name": "Second Night: Asakusa",
       "seasonNumber": 0,
       "number": 8,
-      "aired": "2021-09-12"
+      "aired": "2021-09-12",
+      "runtime": 102
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8863225/screencap/61a92725eb9b0.jpg",
@@ -71,7 +79,8 @@
       "name": "Third Night: Tsuzumi Mansion",
       "seasonNumber": 0,
       "number": 9,
-      "aired": "2021-09-18"
+      "aired": "2021-09-18",
+      "runtime": 87
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8863226/screencap/61a92743eaf94.jpg",
@@ -79,7 +88,8 @@
       "name": "Fourth Night: Mt. Natagumo",
       "seasonNumber": 0,
       "number": 10,
-      "aired": "2021-09-19"
+      "aired": "2021-09-19",
+      "runtime": 139
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8863227/screencap/61a9275f76825.jpg",
@@ -87,7 +97,8 @@
       "name": "Fifth Night: The Hashira Meeting/Butterfly Mansion",
       "seasonNumber": 0,
       "number": 11,
-      "aired": "2021-09-23"
+      "aired": "2021-09-23",
+      "runtime": 108
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/9820500/screencap/66d455cedc0c2.jpg",
@@ -95,7 +106,8 @@
       "name": "Kimetsu no Utage Special Edition Episode 1",
       "seasonNumber": 0,
       "number": 12,
-      "aired": "2020-08-26"
+      "aired": "2020-08-26",
+      "runtime": 1
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/9820501/screencap/66d455e970f20.jpg",
@@ -103,7 +115,8 @@
       "name": "Kimetsu no Utage Special Edition Episode 2",
       "seasonNumber": 0,
       "number": 13,
-      "aired": "2020-08-26"
+      "aired": "2020-08-26",
+      "runtime": 1
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/9820502/screencap/66d45604b43cb.jpg",
@@ -111,7 +124,8 @@
       "name": "Kimetsu no Utage Special Edition Episode 3",
       "seasonNumber": 0,
       "number": 14,
-      "aired": "2020-08-26"
+      "aired": "2020-08-26",
+      "runtime": 1
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/10398960/screencap/68f03711e745b.jpg",
@@ -119,7 +133,8 @@
       "name": "Kimetsu no Yaiba: Hashira Geiko-hen",
       "seasonNumber": 0,
       "number": 15,
-      "aired": "2024-02-02"
+      "aired": "2024-02-02",
+      "runtime": 103
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/11573737/screencap/697324c0b6255.jpg",
@@ -127,7 +142,8 @@
       "name": "Demon Slayer: Kimetsu no Yaiba - Infinity Castle",
       "seasonNumber": 0,
       "number": 16,
-      "aired": "2025-07-18"
+      "aired": "2025-07-18",
+      "runtime": 156
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/7122169.jpg",
@@ -135,7 +151,8 @@
       "name": "Cruelty",
       "seasonNumber": 1,
       "number": 1,
-      "aired": "2019-04-06"
+      "aired": "2019-04-06",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/7081351.jpg",
@@ -143,7 +160,8 @@
       "name": "Trainer Sakonji Urokodaki",
       "seasonNumber": 1,
       "number": 2,
-      "aired": "2019-04-13"
+      "aired": "2019-04-13",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/7081355.jpg",
@@ -151,7 +169,8 @@
       "name": "Sabito and Makomo",
       "seasonNumber": 1,
       "number": 3,
-      "aired": "2019-04-20"
+      "aired": "2019-04-20",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/7081358.jpg",
@@ -159,7 +178,8 @@
       "name": "Final Selection",
       "seasonNumber": 1,
       "number": 4,
-      "aired": "2019-04-27"
+      "aired": "2019-04-27",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/7081360.jpg",
@@ -167,7 +187,8 @@
       "name": "My Own Steel",
       "seasonNumber": 1,
       "number": 5,
-      "aired": "2019-05-04"
+      "aired": "2019-05-04",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/7081361.jpg",
@@ -175,7 +196,8 @@
       "name": "Swordsman Accompanying a Demon",
       "seasonNumber": 1,
       "number": 6,
-      "aired": "2019-05-11"
+      "aired": "2019-05-11",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/7081364.jpg",
@@ -183,7 +205,8 @@
       "name": "Muzan Kibutsuji",
       "seasonNumber": 1,
       "number": 7,
-      "aired": "2019-05-18"
+      "aired": "2019-05-18",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/7081365.jpg",
@@ -191,7 +214,8 @@
       "name": "The Smell of Enchanting Blood",
       "seasonNumber": 1,
       "number": 8,
-      "aired": "2019-05-25"
+      "aired": "2019-05-25",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/7081367.jpg",
@@ -199,7 +223,8 @@
       "name": "Temari Demon and Arrow Demon",
       "seasonNumber": 1,
       "number": 9,
-      "aired": "2019-06-01"
+      "aired": "2019-06-01",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/7081370.jpg",
@@ -207,7 +232,8 @@
       "name": "Together Forever",
       "seasonNumber": 1,
       "number": 10,
-      "aired": "2019-06-08"
+      "aired": "2019-06-08",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/7081372.jpg",
@@ -215,7 +241,8 @@
       "name": "Tsuzumi Mansion",
       "seasonNumber": 1,
       "number": 11,
-      "aired": "2019-06-15"
+      "aired": "2019-06-15",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/7081374.jpg",
@@ -223,7 +250,8 @@
       "name": "The Boar Bares Its Fangs, Zenitsu Sleeps",
       "seasonNumber": 1,
       "number": 12,
-      "aired": "2019-06-22"
+      "aired": "2019-06-22",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/7222634.jpg",
@@ -231,7 +259,8 @@
       "name": "Something More Important Than Life",
       "seasonNumber": 1,
       "number": 13,
-      "aired": "2019-06-29"
+      "aired": "2019-06-29",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/7222635.jpg",
@@ -239,7 +268,8 @@
       "name": "The House With the Wisteria Family Crest",
       "seasonNumber": 1,
       "number": 14,
-      "aired": "2019-07-06"
+      "aired": "2019-07-06",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/7222637.jpg",
@@ -247,7 +277,8 @@
       "name": "Mount Natagumo",
       "seasonNumber": 1,
       "number": 15,
-      "aired": "2019-07-13"
+      "aired": "2019-07-13",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/7222638.jpg",
@@ -255,7 +286,8 @@
       "name": "Letting Someone Else Go First",
       "seasonNumber": 1,
       "number": 16,
-      "aired": "2019-07-20"
+      "aired": "2019-07-20",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/7222640.jpg",
@@ -263,7 +295,8 @@
       "name": "You Must Master a Single Thing",
       "seasonNumber": 1,
       "number": 17,
-      "aired": "2019-07-27"
+      "aired": "2019-07-27",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/7222643.jpg",
@@ -271,7 +304,8 @@
       "name": "A Forged Bond",
       "seasonNumber": 1,
       "number": 18,
-      "aired": "2019-08-03"
+      "aired": "2019-08-03",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/7222645.jpg",
@@ -279,7 +313,8 @@
       "name": "Hinokami",
       "seasonNumber": 1,
       "number": 19,
-      "aired": "2019-08-10"
+      "aired": "2019-08-10",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/7222646.jpg",
@@ -287,7 +322,8 @@
       "name": "Pretend Family",
       "seasonNumber": 1,
       "number": 20,
-      "aired": "2019-08-17"
+      "aired": "2019-08-17",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/7222649.jpg",
@@ -295,7 +331,8 @@
       "name": "Against Corps Rules",
       "seasonNumber": 1,
       "number": 21,
-      "aired": "2019-08-24"
+      "aired": "2019-08-24",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/7222652.jpg",
@@ -303,7 +340,8 @@
       "name": "Master of the Mansion",
       "seasonNumber": 1,
       "number": 22,
-      "aired": "2019-08-31"
+      "aired": "2019-08-31",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/7222655.jpg",
@@ -311,7 +349,8 @@
       "name": "Hashira Meeting",
       "seasonNumber": 1,
       "number": 23,
-      "aired": "2019-09-07"
+      "aired": "2019-09-07",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/7222656.jpg",
@@ -319,7 +358,8 @@
       "name": "Rehabilitation Training",
       "seasonNumber": 1,
       "number": 24,
-      "aired": "2019-09-14"
+      "aired": "2019-09-14",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/7222659.jpg",
@@ -327,7 +367,8 @@
       "name": "Tsuguko, Kanao Tsuyuri",
       "seasonNumber": 1,
       "number": 25,
-      "aired": "2019-09-21"
+      "aired": "2019-09-21",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/348545/episodes/7222660.jpg",
@@ -335,7 +376,8 @@
       "name": "New Mission",
       "seasonNumber": 1,
       "number": 26,
-      "aired": "2019-09-28"
+      "aired": "2019-09-28",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8747422/screencap/61630d597f2e3.jpg",
@@ -343,7 +385,8 @@
       "name": "Flame Hashira Kyojuro Rengoku",
       "seasonNumber": 2,
       "number": 1,
-      "aired": "2021-10-10"
+      "aired": "2021-10-10",
+      "runtime": 26
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8747423/screencap/616c5c60c8549.jpg",
@@ -351,7 +394,8 @@
       "name": "Deep Sleep",
       "seasonNumber": 2,
       "number": 2,
-      "aired": "2021-10-17"
+      "aired": "2021-10-17",
+      "runtime": 23
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8747424/screencap/61764de9e6ed7.jpg",
@@ -359,7 +403,8 @@
       "name": "Should Have Been",
       "seasonNumber": 2,
       "number": 3,
-      "aired": "2021-10-24"
+      "aired": "2021-10-24",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8747425/screencap/617df0c1ccd61.jpg",
@@ -367,7 +412,8 @@
       "name": "Insult",
       "seasonNumber": 2,
       "number": 4,
-      "aired": "2021-11-07"
+      "aired": "2021-11-07",
+      "runtime": 23
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8747426/screencap/61915626ec668.jpg",
@@ -375,7 +421,8 @@
       "name": "Move Forward!",
       "seasonNumber": 2,
       "number": 5,
-      "aired": "2021-11-14"
+      "aired": "2021-11-14",
+      "runtime": 21
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8747427/screencap/619aa02e1c836.jpg",
@@ -383,7 +430,8 @@
       "name": "Akaza",
       "seasonNumber": 2,
       "number": 6,
-      "aired": "2021-11-21"
+      "aired": "2021-11-21",
+      "runtime": 23
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8747428/screencap/61a3ec23a5875.jpg",
@@ -391,7 +439,8 @@
       "name": "Set Your Heart Ablaze",
       "seasonNumber": 2,
       "number": 7,
-      "aired": "2021-11-28"
+      "aired": "2021-11-28",
+      "runtime": 26
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8729902/screencap/61ace61b5f24b.jpg",
@@ -399,7 +448,8 @@
       "name": "Sound Hashira Tengen Uzui",
       "seasonNumber": 3,
       "number": 1,
-      "aired": "2021-12-05"
+      "aired": "2021-12-05",
+      "runtime": 47
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8747432/screencap/61ace64c44acf.jpg",
@@ -407,7 +457,8 @@
       "name": "Infiltrating the Entertainment District",
       "seasonNumber": 3,
       "number": 2,
-      "aired": "2021-12-12"
+      "aired": "2021-12-12",
+      "runtime": 23
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8747433/screencap/61b64de078720.jpg",
@@ -415,7 +466,8 @@
       "name": "What Are You?",
       "seasonNumber": 3,
       "number": 3,
-      "aired": "2021-12-19"
+      "aired": "2021-12-19",
+      "runtime": 23
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8747434/screencap/61bf663826b66.jpg",
@@ -423,7 +475,8 @@
       "name": "Tonight",
       "seasonNumber": 3,
       "number": 4,
-      "aired": "2021-12-26"
+      "aired": "2021-12-26",
+      "runtime": 23
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8747435/screencap/61c896ebc3060.jpg",
@@ -431,7 +484,8 @@
       "name": "Things Are Gonna Get Real Flashy!!",
       "seasonNumber": 3,
       "number": 5,
-      "aired": "2022-01-02"
+      "aired": "2022-01-02",
+      "runtime": 23
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8747436/screencap/61d1e46db7664.jpg",
@@ -439,7 +493,8 @@
       "name": "Layered Memories",
       "seasonNumber": 3,
       "number": 6,
-      "aired": "2022-01-09"
+      "aired": "2022-01-09",
+      "runtime": 23
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8747437/screencap/61db19c1549db.jpg",
@@ -447,7 +502,8 @@
       "name": "Transformation",
       "seasonNumber": 3,
       "number": 7,
-      "aired": "2022-01-16"
+      "aired": "2022-01-16",
+      "runtime": 23
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8747438/screencap/61e4469034090.jpg",
@@ -455,7 +511,8 @@
       "name": "Gathering",
       "seasonNumber": 3,
       "number": 8,
-      "aired": "2022-01-23"
+      "aired": "2022-01-23",
+      "runtime": 23
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8747439/screencap/61ed7cde881ab.jpg",
@@ -463,7 +520,8 @@
       "name": "Defeating an Upper Rank Demon",
       "seasonNumber": 3,
       "number": 9,
-      "aired": "2022-01-30"
+      "aired": "2022-01-30",
+      "runtime": 23
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8747440/screencap/61f6c35d5c981.jpg",
@@ -471,7 +529,8 @@
       "name": "Never Give Up",
       "seasonNumber": 3,
       "number": 10,
-      "aired": "2022-02-06"
+      "aired": "2022-02-06",
+      "runtime": 23
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/8747441/screencap/6209271683087.jpg",
@@ -479,7 +538,8 @@
       "name": "No Matter How Many Lives",
       "seasonNumber": 3,
       "number": 11,
-      "aired": "2022-02-13"
+      "aired": "2022-02-13",
+      "runtime": 32
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/9499909/screencap/642fffbc110cc.jpg",
@@ -487,7 +547,8 @@
       "name": "Someone's Dream",
       "seasonNumber": 4,
       "number": 1,
-      "aired": "2023-04-09"
+      "aired": "2023-04-09",
+      "runtime": 49
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/9704254/screencap/643c3b0c3c74a.jpg",
@@ -495,7 +556,8 @@
       "name": "Yoriichi Type Zero",
       "seasonNumber": 4,
       "number": 2,
-      "aired": "2023-04-16"
+      "aired": "2023-04-16",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/9704255/screencap/643c3c0bef8aa.jpg",
@@ -503,7 +565,8 @@
       "name": "A Sword From Over 300 Years Ago",
       "seasonNumber": 4,
       "number": 3,
-      "aired": "2023-04-23"
+      "aired": "2023-04-23",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/9704256/screencap/64459a15da0ae.jpg",
@@ -511,7 +574,8 @@
       "name": "Thank You, Tokito",
       "seasonNumber": 4,
       "number": 4,
-      "aired": "2023-04-30"
+      "aired": "2023-04-30",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/9704257/screencap/644ead83aa42c.jpg",
@@ -519,7 +583,8 @@
       "name": "Bright Red Sword",
       "seasonNumber": 4,
       "number": 5,
-      "aired": "2023-05-07"
+      "aired": "2023-05-07",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/9704258/screencap/645817319b99c.jpg",
@@ -527,7 +592,8 @@
       "name": "Aren't You Going to Become a Hashira?",
       "seasonNumber": 4,
       "number": 6,
-      "aired": "2023-05-14"
+      "aired": "2023-05-14",
+      "runtime": 23
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/9704259/screencap/6460f896164af.jpg",
@@ -535,7 +601,8 @@
       "name": "Awful Villain",
       "seasonNumber": 4,
       "number": 7,
-      "aired": "2023-05-21"
+      "aired": "2023-05-21",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/9704260/screencap/646a483b27a81.jpg",
@@ -543,7 +610,8 @@
       "name": "The Mu in Muichiro",
       "seasonNumber": 4,
       "number": 8,
-      "aired": "2023-05-28"
+      "aired": "2023-05-28",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/9704261/screencap/64739e9266ec7.jpg",
@@ -551,7 +619,8 @@
       "name": "Mist Hashira Muichiro Tokito",
       "seasonNumber": 4,
       "number": 9,
-      "aired": "2023-06-04"
+      "aired": "2023-06-04",
+      "runtime": 23
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/9704262/screencap/647cb291be15d.jpg",
@@ -559,7 +628,8 @@
       "name": "Love Hashira Mitsuri Kanroji",
       "seasonNumber": 4,
       "number": 10,
-      "aired": "2023-06-11"
+      "aired": "2023-06-11",
+      "runtime": 24
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/9704263/screencap/64875461324ee.jpg",
@@ -567,7 +637,8 @@
       "name": "A Connected Bond: Daybreak and First Light",
       "seasonNumber": 4,
       "number": 11,
-      "aired": "2023-06-18"
+      "aired": "2023-06-18",
+      "runtime": 52
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/10402475/screencap/66362bac7016c.jpg",
@@ -575,7 +646,8 @@
       "name": "To Defeat Muzan Kibutsuji",
       "seasonNumber": 5,
       "number": 1,
-      "aired": "2024-05-12"
+      "aired": "2024-05-12",
+      "runtime": 49
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/10445764/screencap/6640ec1e65265.jpg",
@@ -583,7 +655,8 @@
       "name": "Water Hashira Giyu Tomioka's Pain",
       "seasonNumber": 5,
       "number": 2,
-      "aired": "2024-05-19"
+      "aired": "2024-05-19",
+      "runtime": 23
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/10445765/screencap/664a1212d9f9c.jpg",
@@ -591,7 +664,8 @@
       "name": "Fully Recovered Tanjiro Joins the Hashira Training!!",
       "seasonNumber": 5,
       "number": 3,
-      "aired": "2024-05-26"
+      "aired": "2024-05-26",
+      "runtime": 23
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/10445766/screencap/665362d8058d4.jpg",
@@ -599,7 +673,8 @@
       "name": "To Bring a Smile to One's Face",
       "seasonNumber": 5,
       "number": 4,
-      "aired": "2024-06-02"
+      "aired": "2024-06-02",
+      "runtime": 23
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/10445767/screencap/665c9dec4c533.jpg",
@@ -607,7 +682,8 @@
       "name": "I Even Ate Demons...",
       "seasonNumber": 5,
       "number": 5,
-      "aired": "2024-06-09"
+      "aired": "2024-06-09",
+      "runtime": 23
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/10445768/screencap/6665d0a39b395.jpg",
@@ -615,7 +691,8 @@
       "name": "The Strongest of the Demon Slayer Corps",
       "seasonNumber": 5,
       "number": 6,
-      "aired": "2024-06-16"
+      "aired": "2024-06-16",
+      "runtime": 23
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/10445769/screencap/666efc67075fa.jpg",
@@ -623,7 +700,8 @@
       "name": "Stone Hashira Gyomei Himejima",
       "seasonNumber": 5,
       "number": 7,
-      "aired": "2024-06-23"
+      "aired": "2024-06-23",
+      "runtime": 32
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/10445770/screencap/66783fd088d9b.jpg",
@@ -631,7 +709,8 @@
       "name": "The Hashira Unite",
       "seasonNumber": 5,
       "number": 8,
-      "aired": "2024-06-30"
+      "aired": "2024-06-30",
+      "runtime": 40
     }
   ]
 }
