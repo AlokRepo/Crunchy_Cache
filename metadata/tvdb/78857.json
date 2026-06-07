@@ -1,5 +1,5 @@
 {
-  "cachedAt": 1780488998073,
+  "cachedAt": 1780824988029,
   "data": [
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/332098.jpg",
@@ -7,7 +7,8 @@
       "name": "Naruto OVA: Find the Crimson Four-Leaf Clover!",
       "seasonNumber": 0,
       "number": 1,
-      "aired": "2002-12-01"
+      "aired": "2002-12-01",
+      "runtime": 18
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/332099.jpg",
@@ -15,7 +16,8 @@
       "name": "Naruto OVA 2: Battle in the Hidden Falls! I AM a Hero!!!",
       "seasonNumber": 0,
       "number": 2,
-      "aired": "2003-12-01"
+      "aired": "2003-12-01",
+      "runtime": 40
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/332097.jpg",
@@ -23,7 +25,8 @@
       "name": "Naruto OVA 3: Hidden Leaf Village Grand Sports Festival",
       "seasonNumber": 0,
       "number": 3,
-      "aired": "2004-08-21"
+      "aired": "2004-08-21",
+      "runtime": 12
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/332094.jpg",
@@ -31,7 +34,8 @@
       "name": "Naruto the Movie: Ninja Clash in the Land of Snow",
       "seasonNumber": 0,
       "number": 4,
-      "aired": "2004-08-21"
+      "aired": "2004-08-21",
+      "runtime": 85
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/332095.jpg",
@@ -39,7 +43,8 @@
       "name": "Naruto the Movie 2: Legend of the Stone of Gelel",
       "seasonNumber": 0,
       "number": 5,
-      "aired": "2005-08-06"
+      "aired": "2005-08-06",
+      "runtime": 97
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/339046.jpg",
@@ -47,7 +52,8 @@
       "name": "Naruto OVA 4: Finally a clash! Jounin VS. Genin!! Indiscriminate Grand Melee Tournament!!",
       "seasonNumber": 0,
       "number": 6,
-      "aired": "2005-12-22"
+      "aired": "2005-12-22",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/332096.jpg",
@@ -55,7 +61,8 @@
       "name": "Naruto the Movie 3: Guardians of the Crescent Moon Kingdom",
       "seasonNumber": 0,
       "number": 7,
-      "aired": "2006-08-05"
+      "aired": "2006-08-05",
+      "runtime": 100
     },
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/4905326/screencap/653e606cd84d7.jpg",
@@ -63,7 +70,8 @@
       "name": "Naruto OVA 5: Shippū! Konoha High School!",
       "seasonNumber": 0,
       "number": 8,
-      "aired": "2008-02-06"
+      "aired": "2008-02-06",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/4905327.jpg",
@@ -71,7 +79,8 @@
       "name": "Naruto OVA 6: The Cross Roads",
       "seasonNumber": 0,
       "number": 9,
-      "aired": "2009-12-19"
+      "aired": "2009-12-19",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/series/78857/episodes/5fd0f72866c51.jpg",
@@ -79,7 +88,8 @@
       "name": "Naruto OVA 7: Gentle Breeze Chronicles the Film: Naruto, the Genie, and the Three Wishes Dattebayo!!",
       "seasonNumber": 0,
       "number": 10,
-      "aired": "2010-07-31"
+      "aired": "2010-07-31",
+      "runtime": 14
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/296975.jpg",
@@ -87,7 +97,8 @@
       "name": "Enter: Naruto Uzumaki!",
       "seasonNumber": 1,
       "number": 1,
-      "aired": "2002-10-03"
+      "aired": "2002-10-03",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/296976.jpg",
@@ -95,7 +106,8 @@
       "name": "My Name Is Konohamaru!",
       "seasonNumber": 1,
       "number": 2,
-      "aired": "2002-10-10"
+      "aired": "2002-10-10",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/296977.jpg",
@@ -103,7 +115,8 @@
       "name": "Sasuke and Sakura: Friends or Foes?",
       "seasonNumber": 1,
       "number": 3,
-      "aired": "2002-10-17"
+      "aired": "2002-10-17",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/296978.jpg",
@@ -111,7 +124,8 @@
       "name": "Pass or Fail: Survival Test",
       "seasonNumber": 1,
       "number": 4,
-      "aired": "2002-10-24"
+      "aired": "2002-10-24",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/296979.jpg",
@@ -119,7 +133,8 @@
       "name": "You Failed! Kakashi's Final Decision",
       "seasonNumber": 1,
       "number": 5,
-      "aired": "2002-10-31"
+      "aired": "2002-10-31",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/296980.jpg",
@@ -127,7 +142,8 @@
       "name": "A Dangerous Mission! Journey to the Land of Waves!",
       "seasonNumber": 1,
       "number": 6,
-      "aired": "2002-11-07"
+      "aired": "2002-11-07",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/296981.jpg",
@@ -135,7 +151,8 @@
       "name": "The Assassin of the Mist!",
       "seasonNumber": 1,
       "number": 7,
-      "aired": "2002-11-14"
+      "aired": "2002-11-14",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/296982.jpg",
@@ -143,7 +160,8 @@
       "name": "The Oath of Pain",
       "seasonNumber": 1,
       "number": 8,
-      "aired": "2002-11-21"
+      "aired": "2002-11-21",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/296983.jpg",
@@ -151,7 +169,8 @@
       "name": "Kakashi: Sharingan Warrior!",
       "seasonNumber": 1,
       "number": 9,
-      "aired": "2002-11-28"
+      "aired": "2002-11-28",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/296984.jpg",
@@ -159,7 +178,8 @@
       "name": "The Forest of Chakra",
       "seasonNumber": 1,
       "number": 10,
-      "aired": "2002-12-05"
+      "aired": "2002-12-05",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/296985.jpg",
@@ -167,7 +187,8 @@
       "name": "The Land Where a Hero Once Lived",
       "seasonNumber": 1,
       "number": 11,
-      "aired": "2002-12-12"
+      "aired": "2002-12-12",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/296986.jpg",
@@ -175,7 +196,8 @@
       "name": "Battle on the Bridge! Zabuza Returns!",
       "seasonNumber": 1,
       "number": 12,
-      "aired": "2002-12-19"
+      "aired": "2002-12-19",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/296987.jpg",
@@ -183,7 +205,8 @@
       "name": "Haku's Secret Jutsu: Demonic Mirroring Ice Crystals",
       "seasonNumber": 1,
       "number": 13,
-      "aired": "2002-12-26"
+      "aired": "2002-12-26",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/296988.jpg",
@@ -191,7 +214,8 @@
       "name": "The Number One Hyperactive, Knucklehead Ninja Joins the Fight!",
       "seasonNumber": 1,
       "number": 14,
-      "aired": "2003-01-09"
+      "aired": "2003-01-09",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/296989.jpg",
@@ -199,7 +223,8 @@
       "name": "Zero Visibility: The Sharingan Shatters",
       "seasonNumber": 1,
       "number": 15,
-      "aired": "2003-01-16"
+      "aired": "2003-01-16",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/296990.jpg",
@@ -207,7 +232,8 @@
       "name": "The Broken Seal",
       "seasonNumber": 1,
       "number": 16,
-      "aired": "2003-01-23"
+      "aired": "2003-01-23",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/296991.jpg",
@@ -215,7 +241,8 @@
       "name": "White Past: Hidden Ambition",
       "seasonNumber": 1,
       "number": 17,
-      "aired": "2003-01-30"
+      "aired": "2003-01-30",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/296992.jpg",
@@ -223,7 +250,8 @@
       "name": "The Weapons Known as Shinobi",
       "seasonNumber": 1,
       "number": 18,
-      "aired": "2003-02-06"
+      "aired": "2003-02-06",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/296993.jpg",
@@ -231,7 +259,8 @@
       "name": "The Demon in the Snow",
       "seasonNumber": 1,
       "number": 19,
-      "aired": "2003-02-13"
+      "aired": "2003-02-13",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/296994.jpg",
@@ -239,7 +268,8 @@
       "name": "A New Chapter Begins: The Chūnin Exam!",
       "seasonNumber": 1,
       "number": 20,
-      "aired": "2003-02-20"
+      "aired": "2003-02-20",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/296995.jpg",
@@ -247,7 +277,8 @@
       "name": "Identify Yourself: Powerful New Rivals",
       "seasonNumber": 1,
       "number": 21,
-      "aired": "2003-02-27"
+      "aired": "2003-02-27",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/296996.jpg",
@@ -255,7 +286,8 @@
       "name": "Chūnin Challenge: Rock Lee vs. Sasuke!",
       "seasonNumber": 1,
       "number": 22,
-      "aired": "2003-03-06"
+      "aired": "2003-03-06",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/296997.jpg",
@@ -263,7 +295,8 @@
       "name": "Genin Takedown! All Nine Rookies Face Off!",
       "seasonNumber": 1,
       "number": 23,
-      "aired": "2003-03-13"
+      "aired": "2003-03-13",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/296998.jpg",
@@ -271,7 +304,8 @@
       "name": "Start Your Engines: The Chūnin Exam Begins!",
       "seasonNumber": 1,
       "number": 24,
-      "aired": "2003-03-20"
+      "aired": "2003-03-20",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/296999.jpg",
@@ -279,7 +313,8 @@
       "name": "The Tenth Question: All or Nothing!",
       "seasonNumber": 1,
       "number": 25,
-      "aired": "2003-03-27"
+      "aired": "2003-03-27",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297001.jpg",
@@ -287,7 +322,8 @@
       "name": "Special Report: Live from the Forest of Death!",
       "seasonNumber": 1,
       "number": 26,
-      "aired": "2003-04-02"
+      "aired": "2003-04-02",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297002.jpg",
@@ -295,7 +331,8 @@
       "name": "The Chūnin Exam Stage 2: The Forest of Death",
       "seasonNumber": 1,
       "number": 27,
-      "aired": "2003-04-02"
+      "aired": "2003-04-02",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297000.jpg",
@@ -303,7 +340,8 @@
       "name": "Eat or Be Eaten: Panic in the Forest",
       "seasonNumber": 1,
       "number": 28,
-      "aired": "2003-04-09"
+      "aired": "2003-04-09",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297003.jpg",
@@ -311,7 +349,8 @@
       "name": "Naruto's Counterattack: Never Give In!",
       "seasonNumber": 1,
       "number": 29,
-      "aired": "2003-04-16"
+      "aired": "2003-04-16",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297004.jpg",
@@ -319,7 +358,8 @@
       "name": "The Sharingan Revived: Dragon-Flame Jutsu!",
       "seasonNumber": 1,
       "number": 30,
-      "aired": "2003-04-23"
+      "aired": "2003-04-23",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297005.jpg",
@@ -327,7 +367,8 @@
       "name": "Bushy Brow's Pledge: Undying Love and Protection",
       "seasonNumber": 1,
       "number": 31,
-      "aired": "2003-04-30"
+      "aired": "2003-04-30",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297006.jpg",
@@ -335,7 +376,8 @@
       "name": "Sakura Blossoms!",
       "seasonNumber": 1,
       "number": 32,
-      "aired": "2003-05-07"
+      "aired": "2003-05-07",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297007.jpg",
@@ -343,7 +385,8 @@
       "name": "Battle Formation: Ino-Shika-Cho!",
       "seasonNumber": 1,
       "number": 33,
-      "aired": "2003-05-14"
+      "aired": "2003-05-14",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297008.jpg",
@@ -351,7 +394,8 @@
       "name": "Akamaru Trembles: Gaara's Cruel Strength!",
       "seasonNumber": 1,
       "number": 34,
-      "aired": "2003-05-21"
+      "aired": "2003-05-21",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297009.jpg",
@@ -359,7 +403,8 @@
       "name": "The Scroll's Secret: No Peeking Allowed",
       "seasonNumber": 1,
       "number": 35,
-      "aired": "2003-05-28"
+      "aired": "2003-05-28",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297010.jpg",
@@ -367,7 +412,8 @@
       "name": "Clone vs. Clone: Mine Are Better Than Yours!",
       "seasonNumber": 2,
       "number": 1,
-      "aired": "2003-06-04"
+      "aired": "2003-06-04",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297011.jpg",
@@ -375,7 +421,8 @@
       "name": "Surviving the Cut! The Rookie Nine Together Again!",
       "seasonNumber": 2,
       "number": 2,
-      "aired": "2003-06-11"
+      "aired": "2003-06-11",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297012.jpg",
@@ -383,7 +430,8 @@
       "name": "Narrowing the Field: Sudden Death Elimination!",
       "seasonNumber": 2,
       "number": 3,
-      "aired": "2003-06-18"
+      "aired": "2003-06-18",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297013.jpg",
@@ -391,7 +439,8 @@
       "name": "Bushy Brow's Jealousy: Lions Barrage Unleashed!",
       "seasonNumber": 2,
       "number": 4,
-      "aired": "2003-07-02"
+      "aired": "2003-07-02",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297014.jpg",
@@ -399,7 +448,8 @@
       "name": "Kakashi and Orochimaru: Face-to-Face!",
       "seasonNumber": 2,
       "number": 5,
-      "aired": "2003-07-09"
+      "aired": "2003-07-09",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297015.jpg",
@@ -407,7 +457,8 @@
       "name": "Kunoichi Rumble: The Rivals Get Serious!",
       "seasonNumber": 2,
       "number": 6,
-      "aired": "2003-07-16"
+      "aired": "2003-07-16",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297016.jpg",
@@ -415,7 +466,8 @@
       "name": "The Ultimate Battle: Cha!",
       "seasonNumber": 2,
       "number": 7,
-      "aired": "2003-07-23"
+      "aired": "2003-07-23",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297017.jpg",
@@ -423,7 +475,8 @@
       "name": "Killer Kunoichi and a Shaky Shikamaru",
       "seasonNumber": 2,
       "number": 8,
-      "aired": "2003-07-30"
+      "aired": "2003-07-30",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297018.jpg",
@@ -431,7 +484,8 @@
       "name": "Akamaru Unleashed! Who's Top Dog Now?",
       "seasonNumber": 2,
       "number": 9,
-      "aired": "2003-08-06"
+      "aired": "2003-08-06",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297019.jpg",
@@ -439,7 +493,8 @@
       "name": "Surprise Attack! Naruto's Secret Weapon!",
       "seasonNumber": 2,
       "number": 10,
-      "aired": "2003-08-13"
+      "aired": "2003-08-13",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297020.jpg",
@@ -447,7 +502,8 @@
       "name": "Byakugan Battle: Hinata Grows Bold!",
       "seasonNumber": 2,
       "number": 11,
-      "aired": "2003-08-20"
+      "aired": "2003-08-20",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297021.jpg",
@@ -455,7 +511,8 @@
       "name": "A Failure Stands Tall!",
       "seasonNumber": 2,
       "number": 12,
-      "aired": "2003-08-27"
+      "aired": "2003-08-27",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297022.jpg",
@@ -463,7 +520,8 @@
       "name": "Gaara vs. Rock Lee: The Power of Youth Explodes!",
       "seasonNumber": 2,
       "number": 13,
-      "aired": "2003-09-03"
+      "aired": "2003-09-03",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297023.jpg",
@@ -471,7 +529,8 @@
       "name": "Lee's Hidden Strength: Forbidden Secret Jutsu!",
       "seasonNumber": 2,
       "number": 14,
-      "aired": "2003-09-10"
+      "aired": "2003-09-10",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297024.jpg",
@@ -479,7 +538,8 @@
       "name": "The Fifth Gate: A Splendid Ninja Is Born",
       "seasonNumber": 2,
       "number": 15,
-      "aired": "2003-09-17"
+      "aired": "2003-09-17",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297025.jpg",
@@ -487,7 +547,8 @@
       "name": "A Shadow in the Darkness: Danger Approaches Sasuke",
       "seasonNumber": 2,
       "number": 16,
-      "aired": "2003-09-24"
+      "aired": "2003-09-24",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297026.jpg",
@@ -495,7 +556,8 @@
       "name": "Ebisu Returns: Naruto's Toughest Training Yet!",
       "seasonNumber": 2,
       "number": 17,
-      "aired": "2003-10-01"
+      "aired": "2003-10-01",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/421980.jpg",
@@ -503,7 +565,8 @@
       "name": "Long Time No See: Jiraiya Returns!",
       "seasonNumber": 2,
       "number": 18,
-      "aired": "2003-10-08"
+      "aired": "2003-10-08",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297030.jpg",
@@ -511,7 +574,8 @@
       "name": "The Summoning Jutsu: Wisdom of the Pervy Sage!",
       "seasonNumber": 2,
       "number": 19,
-      "aired": "2003-10-15"
+      "aired": "2003-10-15",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297031.jpg",
@@ -519,7 +583,8 @@
       "name": "A Feeling of Yearning, a Flower Full of Hope",
       "seasonNumber": 2,
       "number": 20,
-      "aired": "2003-10-22"
+      "aired": "2003-10-22",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297032.jpg",
@@ -527,7 +592,8 @@
       "name": "Live or Die: Risk It All to Win It All!",
       "seasonNumber": 2,
       "number": 21,
-      "aired": "2003-10-29"
+      "aired": "2003-10-29",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297033.jpg",
@@ -535,7 +601,8 @@
       "name": "He Flies! He Jumps! He Lurks! Chief Toad Appears!",
       "seasonNumber": 2,
       "number": 22,
-      "aired": "2003-11-05"
+      "aired": "2003-11-05",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297034.jpg",
@@ -543,7 +610,8 @@
       "name": "Hospital Besieged: The Evil Hand Revealed!",
       "seasonNumber": 2,
       "number": 23,
-      "aired": "2003-11-12"
+      "aired": "2003-11-12",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297035.jpg",
@@ -551,7 +619,8 @@
       "name": "The Final Rounds: Rush to the Battle Arena!",
       "seasonNumber": 2,
       "number": 24,
-      "aired": "2003-11-19"
+      "aired": "2003-11-19",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297036.jpg",
@@ -559,7 +628,8 @@
       "name": "Byakugan vs. Shadow Clone Technique!",
       "seasonNumber": 2,
       "number": 25,
-      "aired": "2003-11-26"
+      "aired": "2003-11-26",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297037.jpg",
@@ -567,7 +637,8 @@
       "name": "Ultimate Defense: Zero Blind Spot!",
       "seasonNumber": 2,
       "number": 26,
-      "aired": "2003-12-03"
+      "aired": "2003-12-03",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297038.jpg",
@@ -575,7 +646,8 @@
       "name": "A Failure's True Power",
       "seasonNumber": 2,
       "number": 27,
-      "aired": "2003-12-10"
+      "aired": "2003-12-10",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297039.jpg",
@@ -583,7 +655,8 @@
       "name": "Hit It or Quit It: The Final Rounds Get Complicated!",
       "seasonNumber": 2,
       "number": 28,
-      "aired": "2003-12-17"
+      "aired": "2003-12-17",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297040.jpg",
@@ -591,7 +664,8 @@
       "name": "Zero Motivation: The Guy with Cloud Envy!",
       "seasonNumber": 2,
       "number": 29,
-      "aired": "2003-12-24"
+      "aired": "2003-12-24",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297041.jpg",
@@ -599,7 +673,8 @@
       "name": "Dancing Leaf, Squirming Sand",
       "seasonNumber": 2,
       "number": 30,
-      "aired": "2004-01-07"
+      "aired": "2004-01-07",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297042.jpg",
@@ -607,7 +682,8 @@
       "name": "Bushy Brow's Jutsu: Sasuke Style!",
       "seasonNumber": 2,
       "number": 31,
-      "aired": "2004-01-14"
+      "aired": "2004-01-14",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297043.jpg",
@@ -615,7 +691,8 @@
       "name": "Late for the Show, But Ready to Go! The Ultimate Secret Technique Is Born!",
       "seasonNumber": 2,
       "number": 32,
-      "aired": "2004-01-14"
+      "aired": "2004-01-14",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297044.jpg",
@@ -623,7 +700,8 @@
       "name": "Zero Hour! The Destruction of the Hidden Leaf Village Begins!",
       "seasonNumber": 2,
       "number": 33,
-      "aired": "2004-01-28"
+      "aired": "2004-01-28",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297045.jpg",
@@ -631,7 +709,8 @@
       "name": "Village in Distress: A New A-Ranked Mission!",
       "seasonNumber": 2,
       "number": 34,
-      "aired": "2004-02-04"
+      "aired": "2004-02-04",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297046.jpg",
@@ -639,7 +718,8 @@
       "name": "A Shirker's Call to Action: A Layabout No More!",
       "seasonNumber": 2,
       "number": 35,
-      "aired": "2004-02-11"
+      "aired": "2004-02-11",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297047.jpg",
@@ -647,7 +727,8 @@
       "name": "An Unrivaled Match: Hokage Battle Royale!",
       "seasonNumber": 2,
       "number": 36,
-      "aired": "2004-02-18"
+      "aired": "2004-02-18",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297048.jpg",
@@ -655,7 +736,8 @@
       "name": "A Mistake from the Past: A Face Revealed!",
       "seasonNumber": 2,
       "number": 37,
-      "aired": "2004-02-25"
+      "aired": "2004-02-25",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297049.jpg",
@@ -663,7 +745,8 @@
       "name": "Forbidden Secret Technique: Reaper Death Seal!",
       "seasonNumber": 2,
       "number": 38,
-      "aired": "2004-03-03"
+      "aired": "2004-03-03",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297050.jpg",
@@ -671,7 +754,8 @@
       "name": "Astonishing Truth! Gaara's Identity Emerges!",
       "seasonNumber": 2,
       "number": 39,
-      "aired": "2004-03-10"
+      "aired": "2004-03-10",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297051.jpg",
@@ -679,7 +763,8 @@
       "name": "Sasuke's Decision: Pushed to the Edge!",
       "seasonNumber": 2,
       "number": 40,
-      "aired": "2004-03-17"
+      "aired": "2004-03-17",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297052.jpg",
@@ -687,7 +772,8 @@
       "name": "Assassin of the Moonlit Night",
       "seasonNumber": 2,
       "number": 41,
-      "aired": "2004-03-24"
+      "aired": "2004-03-24",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297053.jpg",
@@ -695,7 +781,8 @@
       "name": "Light vs. Dark: The Two Faces of Gaara",
       "seasonNumber": 2,
       "number": 42,
-      "aired": "2004-03-31"
+      "aired": "2004-03-31",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/421973.jpg",
@@ -703,7 +790,8 @@
       "name": "Naruto's Ninja Handbook",
       "seasonNumber": 2,
       "number": 43,
-      "aired": "2004-04-07"
+      "aired": "2004-04-07",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297056.jpg",
@@ -711,7 +799,8 @@
       "name": "Beyond the Limit of Darkness and Light",
       "seasonNumber": 2,
       "number": 44,
-      "aired": "2004-04-14"
+      "aired": "2004-04-14",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297057.jpg",
@@ -719,7 +808,8 @@
       "name": "The Third Hokage, Forever…",
       "seasonNumber": 2,
       "number": 45,
-      "aired": "2004-04-21"
+      "aired": "2004-04-21",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297058.jpg",
@@ -727,7 +817,8 @@
       "name": "Return of the Morning Mist",
       "seasonNumber": 2,
       "number": 46,
-      "aired": "2004-04-28"
+      "aired": "2004-04-28",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297059.jpg",
@@ -735,7 +826,8 @@
       "name": "Eye to Eye: Sharingan vs. Sharingan!",
       "seasonNumber": 2,
       "number": 47,
-      "aired": "2004-05-05"
+      "aired": "2004-05-05",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297060.jpg",
@@ -743,7 +835,8 @@
       "name": "Jiraiya: Naruto's Potential Disaster!",
       "seasonNumber": 2,
       "number": 48,
-      "aired": "2004-05-12"
+      "aired": "2004-05-12",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297061.jpg",
@@ -751,7 +844,8 @@
       "name": "Roar, Chidori! Brother vs. Brother!",
       "seasonNumber": 3,
       "number": 1,
-      "aired": "2004-05-19"
+      "aired": "2004-05-19",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297062.jpg",
@@ -759,7 +853,8 @@
       "name": "Hate Among the Uchihas: The Last of the Clan!",
       "seasonNumber": 3,
       "number": 2,
-      "aired": "2004-05-26"
+      "aired": "2004-05-26",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297063.jpg",
@@ -767,7 +862,8 @@
       "name": "A New Training Begins: I Will Be Strong!",
       "seasonNumber": 3,
       "number": 3,
-      "aired": "2004-06-02"
+      "aired": "2004-06-02",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297064.jpg",
@@ -775,7 +871,8 @@
       "name": "Keep on Training: Pop Goes the Water Balloon!",
       "seasonNumber": 3,
       "number": 4,
-      "aired": "2004-06-09"
+      "aired": "2004-06-09",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297065.jpg",
@@ -783,7 +880,8 @@
       "name": "Focal Point: The Mark of the Leaf",
       "seasonNumber": 3,
       "number": 5,
-      "aired": "2004-06-16"
+      "aired": "2004-06-16",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297066.jpg",
@@ -791,7 +889,8 @@
       "name": "An Impossible Choice: The Pain Within Tsunade's Heart",
       "seasonNumber": 3,
       "number": 6,
-      "aired": "2004-06-23"
+      "aired": "2004-06-23",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297067.jpg",
@@ -799,7 +898,8 @@
       "name": "Unforgivable! A Total Lack of Respect!",
       "seasonNumber": 3,
       "number": 7,
-      "aired": "2004-07-07"
+      "aired": "2004-07-07",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297068.jpg",
@@ -807,7 +907,8 @@
       "name": "Inheritance! The Necklace of Death!",
       "seasonNumber": 3,
       "number": 8,
-      "aired": "2004-07-14"
+      "aired": "2004-07-14",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297069.jpg",
@@ -815,7 +916,8 @@
       "name": "A Dubious Offer! Tsunade's Choice!",
       "seasonNumber": 3,
       "number": 9,
-      "aired": "2004-07-21"
+      "aired": "2004-07-21",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297070.jpg",
@@ -823,7 +925,8 @@
       "name": "Breakdown! The Deal Is Off!",
       "seasonNumber": 3,
       "number": 10,
-      "aired": "2004-07-28"
+      "aired": "2004-07-28",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297071.jpg",
@@ -831,7 +934,8 @@
       "name": "Attack! Fury of the Rasengan!",
       "seasonNumber": 3,
       "number": 11,
-      "aired": "2004-08-04"
+      "aired": "2004-08-04",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297072.jpg",
@@ -839,7 +943,8 @@
       "name": "The Fifth Hokage! A Life on the Line!",
       "seasonNumber": 3,
       "number": 12,
-      "aired": "2004-08-11"
+      "aired": "2004-08-11",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297073.jpg",
@@ -847,7 +952,8 @@
       "name": "Deadlock! Sannin Showdown!",
       "seasonNumber": 3,
       "number": 13,
-      "aired": "2004-08-11"
+      "aired": "2004-08-11",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297074.jpg",
@@ -855,7 +961,8 @@
       "name": "Kidnapped! Naruto's Hot Spring Adventure!",
       "seasonNumber": 3,
       "number": 14,
-      "aired": "2004-08-18"
+      "aired": "2004-08-18",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297075.jpg",
@@ -863,7 +970,8 @@
       "name": "Tsunade's Warning: Ninja No More!",
       "seasonNumber": 3,
       "number": 15,
-      "aired": "2004-08-25"
+      "aired": "2004-08-25",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297076.jpg",
@@ -871,7 +979,8 @@
       "name": "The Will of Fire Still Burns!",
       "seasonNumber": 3,
       "number": 16,
-      "aired": "2004-09-01"
+      "aired": "2004-09-01",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297077.jpg",
@@ -879,7 +988,8 @@
       "name": "Sensei and Student: The Bond of the Shinobi",
       "seasonNumber": 3,
       "number": 17,
-      "aired": "2004-09-08"
+      "aired": "2004-09-08",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297078.jpg",
@@ -887,7 +997,8 @@
       "name": "Gotta See! Gotta Know! Kakashi-Sensei's True Face!",
       "seasonNumber": 3,
       "number": 18,
-      "aired": "2004-09-15"
+      "aired": "2004-09-15",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297079.jpg",
@@ -895,7 +1006,8 @@
       "name": "Mission: Help an Old Friend in the Land of Tea",
       "seasonNumber": 3,
       "number": 19,
-      "aired": "2004-09-22"
+      "aired": "2004-09-22",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297080.jpg",
@@ -903,7 +1015,8 @@
       "name": "The Race Is On! Trouble on the High Seas!",
       "seasonNumber": 3,
       "number": 20,
-      "aired": "2004-09-29"
+      "aired": "2004-09-29",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/422014.jpg",
@@ -911,7 +1024,8 @@
       "name": "Run Idate, Run! Nagi Island Awaits!",
       "seasonNumber": 3,
       "number": 21,
-      "aired": "2004-10-13"
+      "aired": "2004-10-13",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297083.jpg",
@@ -919,7 +1033,8 @@
       "name": "A Fierce Battle of Rolling Thunder!",
       "seasonNumber": 3,
       "number": 22,
-      "aired": "2004-10-20"
+      "aired": "2004-10-20",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297084.jpg",
@@ -927,7 +1042,8 @@
       "name": "The Last Leg: A Final Act of Desperation",
       "seasonNumber": 3,
       "number": 23,
-      "aired": "2004-10-27"
+      "aired": "2004-10-27",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297085.jpg",
@@ -935,7 +1051,8 @@
       "name": "The Battle Begins: Naruto vs. Sasuke",
       "seasonNumber": 3,
       "number": 24,
-      "aired": "2004-11-03"
+      "aired": "2004-11-03",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297086.jpg",
@@ -943,7 +1060,8 @@
       "name": "Bitter Rivals and Broken Bonds",
       "seasonNumber": 3,
       "number": 25,
-      "aired": "2004-11-10"
+      "aired": "2004-11-10",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297087.jpg",
@@ -951,7 +1069,8 @@
       "name": "An Invitation from the Sound",
       "seasonNumber": 3,
       "number": 26,
-      "aired": "2004-11-17"
+      "aired": "2004-11-17",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297088.jpg",
@@ -959,7 +1078,8 @@
       "name": "Formation! The Sasuke Retrieval Squad",
       "seasonNumber": 3,
       "number": 27,
-      "aired": "2004-11-24"
+      "aired": "2004-11-24",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297089.jpg",
@@ -967,7 +1087,8 @@
       "name": "Sound vs. Leaf",
       "seasonNumber": 3,
       "number": 28,
-      "aired": "2004-11-24"
+      "aired": "2004-11-24",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297090.jpg",
@@ -975,7 +1096,8 @@
       "name": "Squad Mutiny: Everything Falls Apart!",
       "seasonNumber": 3,
       "number": 29,
-      "aired": "2004-12-01"
+      "aired": "2004-12-01",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297091.jpg",
@@ -983,7 +1105,8 @@
       "name": "Full Throttle Power! Choji, Ablaze!",
       "seasonNumber": 3,
       "number": 30,
-      "aired": "2004-12-08"
+      "aired": "2004-12-08",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297092.jpg",
@@ -991,7 +1114,8 @@
       "name": "Good-bye Old Friend…! I'll Always Believe in You!",
       "seasonNumber": 3,
       "number": 31,
-      "aired": "2004-12-15"
+      "aired": "2004-12-15",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297093.jpg",
@@ -999,7 +1123,8 @@
       "name": "Your Opponent Is Me!",
       "seasonNumber": 3,
       "number": 32,
-      "aired": "2004-12-22"
+      "aired": "2004-12-22",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297094.jpg",
@@ -1007,7 +1132,8 @@
       "name": "360 Degrees of Vision: The Byakugan's Blind Spot",
       "seasonNumber": 3,
       "number": 33,
-      "aired": "2005-01-05"
+      "aired": "2005-01-05",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297095.jpg",
@@ -1015,7 +1141,8 @@
       "name": "Losing Is Not an Option!",
       "seasonNumber": 3,
       "number": 34,
-      "aired": "2005-01-05"
+      "aired": "2005-01-05",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297096.jpg",
@@ -1023,7 +1150,8 @@
       "name": "The Vessel Arrives Too Late",
       "seasonNumber": 3,
       "number": 35,
-      "aired": "2005-01-12"
+      "aired": "2005-01-12",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297097.jpg",
@@ -1031,7 +1159,8 @@
       "name": "Miscalculation: A New Enemy Appears!",
       "seasonNumber": 3,
       "number": 36,
-      "aired": "2005-01-19"
+      "aired": "2005-01-19",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297098.jpg",
@@ -1039,7 +1168,8 @@
       "name": "Roar and Howl! The Ultimate Tag Team",
       "seasonNumber": 3,
       "number": 37,
-      "aired": "2005-02-02"
+      "aired": "2005-02-02",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297099.jpg",
@@ -1047,7 +1177,8 @@
       "name": "To Each His Own Battle",
       "seasonNumber": 3,
       "number": 38,
-      "aired": "2005-02-09"
+      "aired": "2005-02-09",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297100.jpg",
@@ -1055,7 +1186,8 @@
       "name": "Fakeout: Shikamaru's Comeback!",
       "seasonNumber": 3,
       "number": 39,
-      "aired": "2005-02-16"
+      "aired": "2005-02-16",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297101.jpg",
@@ -1063,7 +1195,8 @@
       "name": "The Leaf's Handsome Devil!",
       "seasonNumber": 3,
       "number": 40,
-      "aired": "2005-02-23"
+      "aired": "2005-02-23",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297102.jpg",
@@ -1071,7 +1204,8 @@
       "name": "The Beast Within",
       "seasonNumber": 3,
       "number": 41,
-      "aired": "2005-03-02"
+      "aired": "2005-03-02",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297103.jpg",
@@ -1079,7 +1213,8 @@
       "name": "The Sand Shinobi: Allies of the Leaf",
       "seasonNumber": 3,
       "number": 42,
-      "aired": "2005-03-09"
+      "aired": "2005-03-09",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297104.jpg",
@@ -1087,7 +1222,8 @@
       "name": "Showdown: Gaara vs. Kimimaro!",
       "seasonNumber": 3,
       "number": 43,
-      "aired": "2005-03-16"
+      "aired": "2005-03-16",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297105.jpg",
@@ -1095,7 +1231,8 @@
       "name": "Vengeful Strike! The Bracken Dance",
       "seasonNumber": 3,
       "number": 44,
-      "aired": "2005-03-30"
+      "aired": "2005-03-30",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297106.jpg",
@@ -1103,7 +1240,8 @@
       "name": "A Cry on Deaf Ears",
       "seasonNumber": 3,
       "number": 45,
-      "aired": "2005-03-30"
+      "aired": "2005-03-30",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297082.jpg",
@@ -1111,7 +1249,8 @@
       "name": "Brothers: Distance Among the Uchiha",
       "seasonNumber": 3,
       "number": 46,
-      "aired": "2005-04-06"
+      "aired": "2005-04-06",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/431793.jpg",
@@ -1119,7 +1258,8 @@
       "name": "Father and Son, the Broken Crest",
       "seasonNumber": 3,
       "number": 47,
-      "aired": "2005-04-13"
+      "aired": "2005-04-13",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297109.jpg",
@@ -1127,7 +1267,8 @@
       "name": "The Secrets of the Mangekyō Sharingan",
       "seasonNumber": 3,
       "number": 48,
-      "aired": "2005-04-20"
+      "aired": "2005-04-20",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297110.jpg",
@@ -1135,7 +1276,8 @@
       "name": "For a Friend",
       "seasonNumber": 4,
       "number": 1,
-      "aired": "2005-04-27"
+      "aired": "2005-04-27",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297111.jpg",
@@ -1143,7 +1285,8 @@
       "name": "A Plea from a Friend",
       "seasonNumber": 4,
       "number": 2,
-      "aired": "2005-05-04"
+      "aired": "2005-05-04",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297112.jpg",
@@ -1151,7 +1294,8 @@
       "name": "The End of Tears",
       "seasonNumber": 4,
       "number": 3,
-      "aired": "2005-05-11"
+      "aired": "2005-05-11",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297113.jpg",
@@ -1159,7 +1303,8 @@
       "name": "The Promise That Could Not Be Kept",
       "seasonNumber": 4,
       "number": 4,
-      "aired": "2005-05-18"
+      "aired": "2005-05-18",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297114.jpg",
@@ -1167,7 +1312,8 @@
       "name": "Deep Cover?! A Super S-Ranked Mission!",
       "seasonNumber": 4,
       "number": 5,
-      "aired": "2005-05-25"
+      "aired": "2005-05-25",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297115.jpg",
@@ -1175,7 +1321,8 @@
       "name": "A Town of Outlaws, the Shadow of the Fuma Clan",
       "seasonNumber": 4,
       "number": 6,
-      "aired": "2005-06-01"
+      "aired": "2005-06-01",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297116.jpg",
@@ -1183,7 +1330,8 @@
       "name": "Pure Betrayal, and a Fleeting Plea!",
       "seasonNumber": 4,
       "number": 7,
-      "aired": "2005-06-08"
+      "aired": "2005-06-08",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297117.jpg",
@@ -1191,7 +1339,8 @@
       "name": "Pure Terror! The House of Orochimaru",
       "seasonNumber": 4,
       "number": 8,
-      "aired": "2005-06-15"
+      "aired": "2005-06-15",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297118.jpg",
@@ -1199,7 +1348,8 @@
       "name": "Two Heartbeats: Kabuto's Trap",
       "seasonNumber": 4,
       "number": 9,
-      "aired": "2005-06-22"
+      "aired": "2005-06-22",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297119.jpg",
@@ -1207,7 +1357,8 @@
       "name": "Sakura's Determination",
       "seasonNumber": 4,
       "number": 10,
-      "aired": "2005-06-29"
+      "aired": "2005-06-29",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297120.jpg",
@@ -1215,7 +1366,8 @@
       "name": "The Three Villains from the Maximum Security Prison",
       "seasonNumber": 4,
       "number": 11,
-      "aired": "2005-07-06"
+      "aired": "2005-07-06",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297121.jpg",
@@ -1223,7 +1375,8 @@
       "name": "Tonton! I'm Counting on You!",
       "seasonNumber": 4,
       "number": 12,
-      "aired": "2005-07-13"
+      "aired": "2005-07-13",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297122.jpg",
@@ -1231,7 +1384,8 @@
       "name": "A New Squad! Two People and a Dog?!",
       "seasonNumber": 4,
       "number": 13,
-      "aired": "2005-07-20"
+      "aired": "2005-07-20",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297123.jpg",
@@ -1239,7 +1393,8 @@
       "name": "A New Formation: Ino-Shika-Cho!",
       "seasonNumber": 4,
       "number": 14,
-      "aired": "2005-07-27"
+      "aired": "2005-07-27",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297124.jpg",
@@ -1247,7 +1402,8 @@
       "name": "Orochimaru's Shadow",
       "seasonNumber": 4,
       "number": 15,
-      "aired": "2005-08-10"
+      "aired": "2005-08-10",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297125.jpg",
@@ -1255,7 +1411,8 @@
       "name": "A Clash of Fate: You Can't Bring Me Down",
       "seasonNumber": 4,
       "number": 16,
-      "aired": "2005-08-17"
+      "aired": "2005-08-17",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297126.jpg",
@@ -1263,7 +1420,8 @@
       "name": "Search for the Rare Bikochu Beetle",
       "seasonNumber": 4,
       "number": 17,
-      "aired": "2005-08-17"
+      "aired": "2005-08-17",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297127.jpg",
@@ -1271,7 +1429,8 @@
       "name": "What's the Difference? Don't All Insects Look Alike?",
       "seasonNumber": 4,
       "number": 18,
-      "aired": "2005-08-24"
+      "aired": "2005-08-24",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/297128.jpg",
@@ -1279,7 +1438,8 @@
       "name": "A Battle of Bugs: The Deceivers and the Deceived",
       "seasonNumber": 4,
       "number": 19,
-      "aired": "2005-08-31"
+      "aired": "2005-08-31",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/299357.jpg",
@@ -1287,7 +1447,8 @@
       "name": "Blaze Away, Byakugan! This Is My Ninja Way",
       "seasonNumber": 4,
       "number": 20,
-      "aired": "2005-09-14"
+      "aired": "2005-09-14",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/299358.jpg",
@@ -1295,7 +1456,8 @@
       "name": "Funeral March for the Living",
       "seasonNumber": 4,
       "number": 21,
-      "aired": "2005-09-21"
+      "aired": "2005-09-21",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/299359.jpg",
@@ -1303,7 +1465,8 @@
       "name": "A Lesson Learned: The Iron Fist of Love",
       "seasonNumber": 4,
       "number": 22,
-      "aired": "2005-09-28"
+      "aired": "2005-09-28",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/446682.jpg",
@@ -1311,7 +1474,8 @@
       "name": "The Enemy of the Byakugan",
       "seasonNumber": 4,
       "number": 23,
-      "aired": "2005-10-05"
+      "aired": "2005-10-05",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/446683.jpg",
@@ -1319,7 +1483,8 @@
       "name": "The Dark Creeping Clouds",
       "seasonNumber": 4,
       "number": 24,
-      "aired": "2005-10-12"
+      "aired": "2005-10-12",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/446684.jpg",
@@ -1327,7 +1492,8 @@
       "name": "Raiga's Counterattack",
       "seasonNumber": 4,
       "number": 25,
-      "aired": "2005-10-19"
+      "aired": "2005-10-19",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/300692.jpg",
@@ -1335,7 +1501,8 @@
       "name": "Run! The Curry of Life",
       "seasonNumber": 4,
       "number": 26,
-      "aired": "2005-10-26"
+      "aired": "2005-10-26",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/301011.jpg",
@@ -1343,7 +1510,8 @@
       "name": "Everyone, Come with Me! Great Sweat and Tears Survival Plan",
       "seasonNumber": 4,
       "number": 27,
-      "aired": "2005-11-02"
+      "aired": "2005-11-02",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/301135.jpg",
@@ -1351,7 +1519,8 @@
       "name": "Bounty Hunter from the Wilderness",
       "seasonNumber": 4,
       "number": 28,
-      "aired": "2005-11-09"
+      "aired": "2005-11-09",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/301230.jpg",
@@ -1359,7 +1528,8 @@
       "name": "Hunt or Be Hunted?! Showdown at the O.K. Temple!",
       "seasonNumber": 4,
       "number": 29,
-      "aired": "2005-11-16"
+      "aired": "2005-11-16",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/301231.jpg",
@@ -1367,7 +1537,8 @@
       "name": "The Appearance of Strange Visitors",
       "seasonNumber": 4,
       "number": 30,
-      "aired": "2005-11-23"
+      "aired": "2005-11-23",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/301232.jpg",
@@ -1375,7 +1546,8 @@
       "name": "The Cursed Warrior",
       "seasonNumber": 4,
       "number": 31,
-      "aired": "2005-11-30"
+      "aired": "2005-11-30",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/301233.jpg",
@@ -1383,7 +1555,8 @@
       "name": "The Tactician's Intent",
       "seasonNumber": 4,
       "number": 32,
-      "aired": "2005-12-07"
+      "aired": "2005-12-07",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/302472.jpg",
@@ -1391,7 +1564,8 @@
       "name": "Too Late for Help",
       "seasonNumber": 4,
       "number": 33,
-      "aired": "2005-12-14"
+      "aired": "2005-12-14",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/302473.jpg",
@@ -1399,7 +1573,8 @@
       "name": "The Death of Naruto",
       "seasonNumber": 4,
       "number": 34,
-      "aired": "2005-12-21"
+      "aired": "2005-12-21",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/302474.jpg",
@@ -1407,7 +1582,8 @@
       "name": "When Time Stands Still",
       "seasonNumber": 4,
       "number": 35,
-      "aired": "2006-01-04"
+      "aired": "2006-01-04",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/302475.jpg",
@@ -1415,7 +1591,8 @@
       "name": "When Egrets Flap Their Wings",
       "seasonNumber": 4,
       "number": 36,
-      "aired": "2006-01-04"
+      "aired": "2006-01-04",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/302476.jpg",
@@ -1423,7 +1600,8 @@
       "name": "Mix It, Stretch It, Boil It Up! Burn, Copper Pot, Burn!",
       "seasonNumber": 4,
       "number": 37,
-      "aired": "2006-01-18"
+      "aired": "2006-01-18",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310567.jpg",
@@ -1431,7 +1609,8 @@
       "name": "Remembrance: The Lost Page",
       "seasonNumber": 4,
       "number": 38,
-      "aired": "2006-01-25"
+      "aired": "2006-01-25",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310568.jpg",
@@ -1439,7 +1618,8 @@
       "name": "The Closed Door",
       "seasonNumber": 4,
       "number": 39,
-      "aired": "2006-02-01"
+      "aired": "2006-02-01",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310569.jpg",
@@ -1447,7 +1627,8 @@
       "name": "Infiltration: The Set-Up!",
       "seasonNumber": 4,
       "number": 40,
-      "aired": "2006-02-08"
+      "aired": "2006-02-08",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310570.jpg",
@@ -1455,7 +1636,8 @@
       "name": "Despair: A Fractured Heart",
       "seasonNumber": 4,
       "number": 41,
-      "aired": "2006-02-15"
+      "aired": "2006-02-15",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310571.jpg",
@@ -1463,7 +1645,8 @@
       "name": "The Battle at Sea: The Power Unleashed!",
       "seasonNumber": 4,
       "number": 42,
-      "aired": "2006-02-22"
+      "aired": "2006-02-22",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310572.jpg",
@@ -1471,7 +1654,8 @@
       "name": "Impossible! Celebrity Ninja Art: Money-Style Jutsu!",
       "seasonNumber": 4,
       "number": 43,
-      "aired": "2006-03-01"
+      "aired": "2006-03-01",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310573.jpg",
@@ -1479,7 +1663,8 @@
       "name": "The Treasure Hunt Is On!",
       "seasonNumber": 4,
       "number": 44,
-      "aired": "2006-03-08"
+      "aired": "2006-03-08",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310574.jpg",
@@ -1487,7 +1672,8 @@
       "name": "Run, Dodge, Zigzag! Chase or Be Chased!",
       "seasonNumber": 4,
       "number": 45,
-      "aired": "2006-03-15"
+      "aired": "2006-03-15",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310575.jpg",
@@ -1495,7 +1681,8 @@
       "name": "Please, Mr. Postman!",
       "seasonNumber": 4,
       "number": 46,
-      "aired": "2006-03-22"
+      "aired": "2006-03-22",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310576.jpg",
@@ -1503,7 +1690,8 @@
       "name": "Encounter! The Boy with a Star's Name",
       "seasonNumber": 4,
       "number": 47,
-      "aired": "2006-03-29"
+      "aired": "2006-03-29",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/446685.jpg",
@@ -1511,7 +1699,8 @@
       "name": "The Remembered Lullaby",
       "seasonNumber": 4,
       "number": 48,
-      "aired": "2006-04-05"
+      "aired": "2006-04-05",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/446686.jpg",
@@ -1519,7 +1708,8 @@
       "name": "Hidden Jutsu! The Price of the Ninja Art: Kujaku",
       "seasonNumber": 5,
       "number": 1,
-      "aired": "2006-04-12"
+      "aired": "2006-04-12",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/446687.jpg",
@@ -1527,7 +1717,8 @@
       "name": "Hoshikage: The Buried Truth",
       "seasonNumber": 5,
       "number": 2,
-      "aired": "2006-04-19"
+      "aired": "2006-04-19",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/446692.jpg",
@@ -1535,7 +1726,8 @@
       "name": "Reunion: The Remaining Time",
       "seasonNumber": 5,
       "number": 3,
-      "aired": "2006-04-26"
+      "aired": "2006-04-26",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310581.jpg",
@@ -1543,7 +1735,8 @@
       "name": "The Star's Radiance",
       "seasonNumber": 5,
       "number": 4,
-      "aired": "2006-05-03"
+      "aired": "2006-05-03",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310582.jpg",
@@ -1551,7 +1744,8 @@
       "name": "Kiba's Long Day!",
       "seasonNumber": 5,
       "number": 5,
-      "aired": "2006-05-10"
+      "aired": "2006-05-10",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310583.jpg",
@@ -1559,7 +1753,8 @@
       "name": "A Legend from the Hidden Leaf: The Onbaa!",
       "seasonNumber": 5,
       "number": 6,
-      "aired": "2006-05-17"
+      "aired": "2006-05-17",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310584.jpg",
@@ -1567,7 +1762,8 @@
       "name": "Laughing Shino",
       "seasonNumber": 5,
       "number": 7,
-      "aired": "2006-05-24"
+      "aired": "2006-05-24",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310585.jpg",
@@ -1575,7 +1771,8 @@
       "name": "Open for Business! The Leaf Moving Service",
       "seasonNumber": 5,
       "number": 8,
-      "aired": "2006-05-31"
+      "aired": "2006-05-31",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310586.jpg",
@@ -1583,7 +1780,8 @@
       "name": "Mystery of the Targeted Merchants",
       "seasonNumber": 5,
       "number": 9,
-      "aired": "2006-06-07"
+      "aired": "2006-06-07",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310587.jpg",
@@ -1591,7 +1789,8 @@
       "name": "A Limitless Supply of Ninja Tools",
       "seasonNumber": 5,
       "number": 10,
-      "aired": "2006-06-14"
+      "aired": "2006-06-14",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310588.jpg",
@@ -1599,7 +1798,8 @@
       "name": "The Byakugan Sees the Blind Spot",
       "seasonNumber": 5,
       "number": 11,
-      "aired": "2006-06-21"
+      "aired": "2006-06-21",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310589.jpg",
@@ -1607,7 +1807,8 @@
       "name": "Forecast: Death! Cloudy with Chance of Sun",
       "seasonNumber": 5,
       "number": 12,
-      "aired": "2006-06-28"
+      "aired": "2006-06-28",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310590.jpg",
@@ -1615,7 +1816,8 @@
       "name": "Ino Screams! Chubby Paradise!",
       "seasonNumber": 5,
       "number": 13,
-      "aired": "2006-07-05"
+      "aired": "2006-07-05",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310591.jpg",
@@ -1623,7 +1825,8 @@
       "name": "Viva Dojo Challenge! Youth Is All About Passion!",
       "seasonNumber": 5,
       "number": 14,
-      "aired": "2006-07-12"
+      "aired": "2006-07-12",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310592.jpg",
@@ -1631,7 +1834,8 @@
       "name": "The Mysterious Curse of the Haunted Castle",
       "seasonNumber": 5,
       "number": 15,
-      "aired": "2006-07-19"
+      "aired": "2006-07-19",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310593.jpg",
@@ -1639,7 +1843,8 @@
       "name": "The Third Super-Beast!",
       "seasonNumber": 5,
       "number": 16,
-      "aired": "2006-07-26"
+      "aired": "2006-07-26",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310594.jpg",
@@ -1647,7 +1852,8 @@
       "name": "Hot-Blooded Confrontation: Student vs. Sensei",
       "seasonNumber": 5,
       "number": 17,
-      "aired": "2006-08-09"
+      "aired": "2006-08-09",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310595.jpg",
@@ -1655,7 +1861,8 @@
       "name": "Crisis! The Hidden Leaf 11 Gather!",
       "seasonNumber": 5,
       "number": 18,
-      "aired": "2006-08-16"
+      "aired": "2006-08-16",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310596.jpg",
@@ -1663,7 +1870,8 @@
       "name": "The ANBU Gives Up? Naruto's Recollection",
       "seasonNumber": 5,
       "number": 19,
-      "aired": "2006-08-23"
+      "aired": "2006-08-23",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310597.jpg",
@@ -1671,7 +1879,8 @@
       "name": "The Missed Target",
       "seasonNumber": 5,
       "number": 20,
-      "aired": "2006-08-30"
+      "aired": "2006-08-30",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310598.jpg",
@@ -1679,7 +1888,8 @@
       "name": "The Powerful Helper",
       "seasonNumber": 5,
       "number": 21,
-      "aired": "2006-09-13"
+      "aired": "2006-09-13",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310599.jpg",
@@ -1687,7 +1897,8 @@
       "name": "Multiple Traps! Countdown to Destruction",
       "seasonNumber": 5,
       "number": 22,
-      "aired": "2006-09-20"
+      "aired": "2006-09-20",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310600.jpg",
@@ -1695,7 +1906,8 @@
       "name": "The Top 5 Ninja Battles",
       "seasonNumber": 5,
       "number": 23,
-      "aired": "2006-09-27"
+      "aired": "2006-09-27",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/446713.jpg",
@@ -1703,7 +1915,8 @@
       "name": "Kurenai's Decision: Squad 8 Left Behind",
       "seasonNumber": 5,
       "number": 24,
-      "aired": "2006-10-05"
+      "aired": "2006-10-05",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/446714.jpg",
@@ -1711,7 +1924,8 @@
       "name": "Yakumo's Sealed Ability",
       "seasonNumber": 5,
       "number": 25,
-      "aired": "2006-10-05"
+      "aired": "2006-10-05",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/446715.jpg",
@@ -1719,7 +1933,8 @@
       "name": "Kurenai's Top-Secret Mission: The Promise with the Third Hokage",
       "seasonNumber": 5,
       "number": 26,
-      "aired": "2006-10-05"
+      "aired": "2006-10-05",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/446716.jpg",
@@ -1727,7 +1942,8 @@
       "name": "Genjutsu or Reality?",
       "seasonNumber": 5,
       "number": 27,
-      "aired": "2006-10-19"
+      "aired": "2006-10-19",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/446717.jpg",
@@ -1735,7 +1951,8 @@
       "name": "The Supposed Sealed Ability",
       "seasonNumber": 5,
       "number": 28,
-      "aired": "2006-10-26"
+      "aired": "2006-10-26",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/446718.jpg",
@@ -1743,7 +1960,8 @@
       "name": "The Weight of the Prized Artifact!",
       "seasonNumber": 5,
       "number": 29,
-      "aired": "2006-11-02"
+      "aired": "2006-11-02",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/310607.jpg",
@@ -1751,7 +1969,8 @@
       "name": "The Enemy: Ninja Dropouts",
       "seasonNumber": 5,
       "number": 30,
-      "aired": "2006-11-09"
+      "aired": "2006-11-09",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/312246.jpg",
@@ -1759,7 +1978,8 @@
       "name": "The Bewildering Forest",
       "seasonNumber": 5,
       "number": 31,
-      "aired": "2006-11-16"
+      "aired": "2006-11-16",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/312247.jpg",
@@ -1767,7 +1987,8 @@
       "name": "Memory of Flames",
       "seasonNumber": 5,
       "number": 32,
-      "aired": "2006-11-30"
+      "aired": "2006-11-30",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/312248.jpg",
@@ -1775,7 +1996,8 @@
       "name": "To Each His Own Path",
       "seasonNumber": 5,
       "number": 33,
-      "aired": "2006-12-07"
+      "aired": "2006-12-07",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/313635.jpg",
@@ -1783,7 +2005,8 @@
       "name": "Vanished Memories",
       "seasonNumber": 5,
       "number": 34,
-      "aired": "2006-12-14"
+      "aired": "2006-12-14",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/314730.jpg",
@@ -1791,7 +2014,8 @@
       "name": "Bringing Back Reality",
       "seasonNumber": 5,
       "number": 35,
-      "aired": "2006-12-21"
+      "aired": "2006-12-21",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/314731.jpg",
@@ -1799,7 +2023,8 @@
       "name": "A Past to Be Erased",
       "seasonNumber": 5,
       "number": 36,
-      "aired": "2006-12-21"
+      "aired": "2006-12-21",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/315315.jpg",
@@ -1807,7 +2032,8 @@
       "name": "The Targeted Shukaku",
       "seasonNumber": 5,
       "number": 37,
-      "aired": "2007-01-11"
+      "aired": "2007-01-11",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/315316.jpg",
@@ -1815,7 +2041,8 @@
       "name": "Sand Alliance with the Leaf Shinobi",
       "seasonNumber": 5,
       "number": 38,
-      "aired": "2007-01-18"
+      "aired": "2007-01-18",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/316583.jpg",
@@ -1823,7 +2050,8 @@
       "name": "The Counterattack!",
       "seasonNumber": 5,
       "number": 39,
-      "aired": "2007-01-25"
+      "aired": "2007-01-25",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/317091.jpg",
@@ -1831,7 +2059,8 @@
       "name": "The Ultimate Weapon Reborn",
       "seasonNumber": 5,
       "number": 40,
-      "aired": "2007-02-01"
+      "aired": "2007-02-01",
+      "runtime": 25
     },
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/78857/317092.jpg",
@@ -1839,7 +2068,8 @@
       "name": "Departure",
       "seasonNumber": 5,
       "number": 41,
-      "aired": "2007-02-08"
+      "aired": "2007-02-08",
+      "runtime": 25
     }
   ]
 }
