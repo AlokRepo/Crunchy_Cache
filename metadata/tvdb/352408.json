@@ -1,0 +1,995 @@
+{
+  "cachedAt": 1780977159952,
+  "data": [
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/352408/7104556.jpg",
+      "absoluteNumber": 0,
+      "name": "Tales: Veldora's Journal",
+      "seasonNumber": 0,
+      "number": 1,
+      "aired": "2019-03-26",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/352408/7205861.jpg",
+      "absoluteNumber": 0,
+      "name": "The Tragedy of M?",
+      "seasonNumber": 0,
+      "number": 2,
+      "aired": "2019-07-09",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/352408/episodes/7205862.jpg",
+      "absoluteNumber": 0,
+      "name": "Hey! Butts!",
+      "seasonNumber": 0,
+      "number": 3,
+      "aired": "2019-12-04",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/352408/episodes/5e7d60149b599.jpg",
+      "absoluteNumber": 0,
+      "name": "Extra: Rimuru's Glamorous Life as a Teacher, Part 1",
+      "seasonNumber": 0,
+      "number": 4,
+      "aired": "2020-03-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/352408/episodes/5f06c238d81d1.jpg",
+      "absoluteNumber": 0,
+      "name": "Extra: Rimuru's Glamorous Life as a Teacher, Part 2",
+      "seasonNumber": 0,
+      "number": 5,
+      "aired": "2020-07-09",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/352408/episodes/5fc1807bd3847.jpg",
+      "absoluteNumber": 0,
+      "name": "Extra: Rimuru's Glamorous Life as a Teacher, Part 3",
+      "seasonNumber": 0,
+      "number": 6,
+      "aired": "2020-11-27",
+      "runtime": 23
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/352408/episodes/5ffab5eb01544.jpg",
+      "absoluteNumber": 0,
+      "name": "Digression: Hinata Sakaguchi",
+      "seasonNumber": 0,
+      "number": 7,
+      "aired": "2021-01-05",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8517725/screencap/60ded9c67ab06.jpg",
+      "absoluteNumber": 0,
+      "name": "Tales: Veldora's Journal 2",
+      "seasonNumber": 0,
+      "number": 8,
+      "aired": "2021-06-29",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9684709/screencap/645131336e97d.jpg",
+      "absoluteNumber": 0,
+      "name": "Scarlet Bond",
+      "seasonNumber": 0,
+      "number": 9,
+      "aired": "2022-11-25",
+      "runtime": 108
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9684710/screencap/654144fb0b929.jpg",
+      "absoluteNumber": 0,
+      "name": "Visions of Coleus: To Coleus",
+      "seasonNumber": 0,
+      "number": 10,
+      "aired": "2023-11-01",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9684711/screencap/6541452b700a3.jpg",
+      "absoluteNumber": 0,
+      "name": "Visions of Coleus: Great Phantom Thief Satoru",
+      "seasonNumber": 0,
+      "number": 11,
+      "aired": "2023-11-01",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9754331/screencap/65414583646af.jpg",
+      "absoluteNumber": 0,
+      "name": "Visions of Coleus: Purple and Roses",
+      "seasonNumber": 0,
+      "number": 12,
+      "aired": "2023-11-01",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9990274/screencap/6606f7c3832e2.jpg",
+      "absoluteNumber": 0,
+      "name": "Digression: Diablo's Journal",
+      "seasonNumber": 0,
+      "number": 13,
+      "aired": "2024-03-30",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10655050/screencap/66cb356c4ed39.jpg",
+      "absoluteNumber": 0,
+      "name": "Digression: Luminus Memories",
+      "seasonNumber": 0,
+      "number": 14,
+      "aired": "2024-08-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/352408/6814223.jpg",
+      "absoluteNumber": 1,
+      "name": "The Storm Dragon, Veldora",
+      "seasonNumber": 1,
+      "number": 1,
+      "aired": "2018-10-02",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/352408/6843176.jpg",
+      "absoluteNumber": 2,
+      "name": "Meeting the Goblins",
+      "seasonNumber": 1,
+      "number": 2,
+      "aired": "2018-10-09",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/352408/6843178.jpg",
+      "absoluteNumber": 3,
+      "name": "Battle at the Goblin Village",
+      "seasonNumber": 1,
+      "number": 3,
+      "aired": "2018-10-16",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/352408/6843179.jpg",
+      "absoluteNumber": 4,
+      "name": "In the Kingdom of the Dwarves",
+      "seasonNumber": 1,
+      "number": 4,
+      "aired": "2018-10-23",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/352408/6843180.jpg",
+      "absoluteNumber": 5,
+      "name": "Hero King, Gazel Dwargo",
+      "seasonNumber": 1,
+      "number": 5,
+      "aired": "2018-10-30",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/352408/6843181.jpg",
+      "absoluteNumber": 6,
+      "name": "Shizu",
+      "seasonNumber": 1,
+      "number": 6,
+      "aired": "2018-11-06",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/352408/6843182.jpg",
+      "absoluteNumber": 7,
+      "name": "Conqueror of Flames",
+      "seasonNumber": 1,
+      "number": 7,
+      "aired": "2018-11-13",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/352408/6843183.jpg",
+      "absoluteNumber": 8,
+      "name": "Inherited Will",
+      "seasonNumber": 1,
+      "number": 8,
+      "aired": "2018-11-20",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/352408/6843184.jpg",
+      "absoluteNumber": 9,
+      "name": "Attack of the Ogres",
+      "seasonNumber": 1,
+      "number": 9,
+      "aired": "2018-11-27",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/352408/6843185.jpg",
+      "absoluteNumber": 10,
+      "name": "The Orc Lord",
+      "seasonNumber": 1,
+      "number": 10,
+      "aired": "2018-12-04",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/352408/6843186.jpg",
+      "absoluteNumber": 11,
+      "name": "Gabiru is Here!",
+      "seasonNumber": 1,
+      "number": 11,
+      "aired": "2018-12-11",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/352408/6843187.jpg",
+      "absoluteNumber": 12,
+      "name": "The Gears Spin Out of Control",
+      "seasonNumber": 1,
+      "number": 12,
+      "aired": "2018-12-18",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/352408/6932357.jpg",
+      "absoluteNumber": 13,
+      "name": "The Great Clash",
+      "seasonNumber": 1,
+      "number": 13,
+      "aired": "2018-12-25",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/352408/6932358.jpg",
+      "absoluteNumber": 14,
+      "name": "The One Who Devours All",
+      "seasonNumber": 1,
+      "number": 14,
+      "aired": "2019-01-08",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/352408/6932359.jpg",
+      "absoluteNumber": 15,
+      "name": "The Jura Forest Alliance",
+      "seasonNumber": 1,
+      "number": 15,
+      "aired": "2019-01-15",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/352408/6932361.jpg",
+      "absoluteNumber": 16,
+      "name": "Demon Lord Milim Attacks",
+      "seasonNumber": 1,
+      "number": 16,
+      "aired": "2019-01-22",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/352408/6932362.jpg",
+      "absoluteNumber": 17,
+      "name": "The Gathering",
+      "seasonNumber": 1,
+      "number": 17,
+      "aired": "2019-01-29",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/352408/6932364.jpg",
+      "absoluteNumber": 18,
+      "name": "Evil Creeps Closer",
+      "seasonNumber": 1,
+      "number": 18,
+      "aired": "2019-02-05",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/352408/6945225.jpg",
+      "absoluteNumber": 19,
+      "name": "Charybdis",
+      "seasonNumber": 1,
+      "number": 19,
+      "aired": "2019-02-12",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/352408/6945226.jpg",
+      "absoluteNumber": 20,
+      "name": "Yuuki Kagurazaka",
+      "seasonNumber": 1,
+      "number": 20,
+      "aired": "2019-02-19",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/352408/6945227.jpg",
+      "absoluteNumber": 21,
+      "name": "Shizu-san's Students",
+      "seasonNumber": 1,
+      "number": 21,
+      "aired": "2019-02-26",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/352408/6945228.jpg",
+      "absoluteNumber": 22,
+      "name": "Conquering the Labyrinth",
+      "seasonNumber": 1,
+      "number": 22,
+      "aired": "2019-03-05",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/352408/6945229.jpg",
+      "absoluteNumber": 23,
+      "name": "Saved Souls",
+      "seasonNumber": 1,
+      "number": 23,
+      "aired": "2019-03-12",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/352408/6945230.jpg",
+      "absoluteNumber": 24,
+      "name": "Black and the Mask",
+      "seasonNumber": 1,
+      "number": 24,
+      "aired": "2019-03-19",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/352408/episodes/5ffd63f3c46a7.jpg",
+      "absoluteNumber": 25,
+      "name": "Rimuru's Busy Life",
+      "seasonNumber": 2,
+      "number": 1,
+      "aired": "2021-01-12",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/352408/episodes/60058eeb7a88b.jpg",
+      "absoluteNumber": 26,
+      "name": "Trade with the Animal Kingdom",
+      "seasonNumber": 2,
+      "number": 2,
+      "aired": "2021-01-19",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/352408/episodes/600ee153899da.jpg",
+      "absoluteNumber": 27,
+      "name": "Paradise, Once More",
+      "seasonNumber": 2,
+      "number": 3,
+      "aired": "2021-01-26",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/352408/episodes/60183921abe7f.jpg",
+      "absoluteNumber": 28,
+      "name": "The Scheming Kingdom of Falmuth",
+      "seasonNumber": 2,
+      "number": 4,
+      "aired": "2021-02-02",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/352408/episodes/60216b05c10e5.jpg",
+      "absoluteNumber": 29,
+      "name": "Prelude to the Disaster",
+      "seasonNumber": 2,
+      "number": 5,
+      "aired": "2021-02-09",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/352408/episodes/602b69169d9f6.jpg",
+      "absoluteNumber": 30,
+      "name": "The Beauty Makes Her Move",
+      "seasonNumber": 2,
+      "number": 6,
+      "aired": "2021-02-16",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/352408/episodes/6033f56054fe3.jpg",
+      "absoluteNumber": 31,
+      "name": "Despair",
+      "seasonNumber": 2,
+      "number": 7,
+      "aired": "2021-02-23",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/352408/episodes/603d120abb8a2.jpg",
+      "absoluteNumber": 32,
+      "name": "Hope",
+      "seasonNumber": 2,
+      "number": 8,
+      "aired": "2021-03-02",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8236025/screencap/604725805cf3b.jpg",
+      "absoluteNumber": 33,
+      "name": "Putting Everything on the Line",
+      "seasonNumber": 2,
+      "number": 9,
+      "aired": "2021-03-09",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8236026/screencap/604f8132f2ce3.jpg",
+      "absoluteNumber": 34,
+      "name": "Megiddo",
+      "seasonNumber": 2,
+      "number": 10,
+      "aired": "2021-03-16",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8236027/screencap/6058e453390f3.jpg",
+      "absoluteNumber": 35,
+      "name": "Birth of a Demon Lord",
+      "seasonNumber": 2,
+      "number": 11,
+      "aired": "2021-03-23",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8236028/screencap/6061962da6b06.jpg",
+      "absoluteNumber": 36,
+      "name": "The One Unleashed",
+      "seasonNumber": 2,
+      "number": 12,
+      "aired": "2021-03-30",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8336715/screencap/60e4723b8c2b0.jpg",
+      "absoluteNumber": 37,
+      "name": "The Visitors",
+      "seasonNumber": 2,
+      "number": 13,
+      "aired": "2021-07-06",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8336714/screencap/60edc4b34ca47.jpg",
+      "absoluteNumber": 38,
+      "name": "A Meeting of Humans and Monsters",
+      "seasonNumber": 2,
+      "number": 14,
+      "aired": "2021-07-13",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8336716/screencap/60f6ef2e23602.jpg",
+      "absoluteNumber": 39,
+      "name": "Ramiris's Warning",
+      "seasonNumber": 2,
+      "number": 15,
+      "aired": "2021-07-20",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8336717/screencap/610030ec083bf.jpg",
+      "absoluteNumber": 40,
+      "name": "The Congress Dances",
+      "seasonNumber": 2,
+      "number": 16,
+      "aired": "2021-07-27",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8336718/screencap/61095d64b444b.jpg",
+      "absoluteNumber": 41,
+      "name": "The Eve of Battle",
+      "seasonNumber": 2,
+      "number": 17,
+      "aired": "2021-08-03",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8336719/screencap/61129533d7666.jpg",
+      "absoluteNumber": 42,
+      "name": "The Demon Lords",
+      "seasonNumber": 2,
+      "number": 18,
+      "aired": "2021-08-10",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8336720/screencap/611be123dbaa6.jpg",
+      "absoluteNumber": 43,
+      "name": "The Signal to Begin the Banquet",
+      "seasonNumber": 2,
+      "number": 19,
+      "aired": "2021-08-17",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8336721/screencap/612523ec9db8d.jpg",
+      "absoluteNumber": 44,
+      "name": "On This Land Where It All Happened",
+      "seasonNumber": 2,
+      "number": 20,
+      "aired": "2021-08-24",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8432231/screencap/612e5972e2383.jpg",
+      "absoluteNumber": 45,
+      "name": "Adalman, the Index Finger",
+      "seasonNumber": 2,
+      "number": 21,
+      "aired": "2021-08-31",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8432232/screencap/61379b2bdd2e6.jpg",
+      "absoluteNumber": 46,
+      "name": "Demon Lords' Banquet ~Walpurgis~",
+      "seasonNumber": 2,
+      "number": 22,
+      "aired": "2021-09-07",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8432233/screencap/6140cf843575f.jpg",
+      "absoluteNumber": 47,
+      "name": "Returning from the Brink",
+      "seasonNumber": 2,
+      "number": 23,
+      "aired": "2021-09-14",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8432234/screencap/6149f441aa422.jpg",
+      "absoluteNumber": 48,
+      "name": "Octagram",
+      "seasonNumber": 2,
+      "number": 24,
+      "aired": "2021-09-21",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10414027/screencap/661028d7107cc.jpg",
+      "absoluteNumber": 49,
+      "name": "Demons and Strategies",
+      "seasonNumber": 3,
+      "number": 1,
+      "aired": "2024-04-05",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10383071/screencap/6619c694c7205.jpg",
+      "absoluteNumber": 50,
+      "name": "The Saint's Intentions",
+      "seasonNumber": 3,
+      "number": 2,
+      "aired": "2024-04-12",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10383072/screencap/6622902bdefe0.jpg",
+      "absoluteNumber": 51,
+      "name": "Peaceful Days",
+      "seasonNumber": 3,
+      "number": 3,
+      "aired": "2024-04-19",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10383073/screencap/662869e71c0a1.jpg",
+      "absoluteNumber": 52,
+      "name": "Everyone Has a Part to Play",
+      "seasonNumber": 3,
+      "number": 4,
+      "aired": "2024-04-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10383096/screencap/6635046ae0005.jpg",
+      "absoluteNumber": 53,
+      "name": "Meeting of Both Sides",
+      "seasonNumber": 3,
+      "number": 5,
+      "aired": "2024-05-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10383097/screencap/663eb5e768489.jpg",
+      "absoluteNumber": 54,
+      "name": "Those Approaching",
+      "seasonNumber": 3,
+      "number": 6,
+      "aired": "2024-05-10",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10383098/screencap/66478fc83bd37.jpg",
+      "absoluteNumber": 55,
+      "name": "Saint and Demon Clash",
+      "seasonNumber": 3,
+      "number": 7,
+      "aired": "2024-05-17",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10383099/screencap/664e17ccd567a.jpg",
+      "absoluteNumber": 56,
+      "name": "Misunderstanding",
+      "seasonNumber": 3,
+      "number": 8,
+      "aired": "2024-05-24",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10383078/screencap/6657400e429b3.jpg",
+      "absoluteNumber": 57,
+      "name": "The Scheming of the Seven Days",
+      "seasonNumber": 3,
+      "number": 9,
+      "aired": "2024-05-31",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10383101/screencap/665fe95db4622.jpg",
+      "absoluteNumber": 58,
+      "name": "God and Demon Lord",
+      "seasonNumber": 3,
+      "number": 10,
+      "aired": "2024-06-07",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10383080/screencap/6668c13f2565c.jpg",
+      "absoluteNumber": 59,
+      "name": "Reconciliation and Agreement",
+      "seasonNumber": 3,
+      "number": 11,
+      "aired": "2024-06-14",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10383103/screencap/667448fd4a098.jpg",
+      "absoluteNumber": 60,
+      "name": "Festival Preparations",
+      "seasonNumber": 3,
+      "number": 12,
+      "aired": "2024-06-21",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10383082/screencap/667ad805144fc.jpg",
+      "absoluteNumber": 61,
+      "name": "Invitations for All Nations",
+      "seasonNumber": 3,
+      "number": 13,
+      "aired": "2024-06-28",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10383105/screencap/6684972b58a0d.jpg",
+      "absoluteNumber": 62,
+      "name": "Labyrinth and Storm Dragon",
+      "seasonNumber": 3,
+      "number": 14,
+      "aired": "2024-07-05",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10383084/screencap/66967e7bdab5e.jpg",
+      "absoluteNumber": 63,
+      "name": "Audience",
+      "seasonNumber": 3,
+      "number": 15,
+      "aired": "2024-07-19",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10383107/screencap/669fc90cf0489.jpg",
+      "absoluteNumber": 64,
+      "name": "Benimaru's Ordeal",
+      "seasonNumber": 3,
+      "number": 16,
+      "aired": "2024-07-26",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10383086/screencap/66a865094f888.jpg",
+      "absoluteNumber": 65,
+      "name": "The Lightspeed Hero",
+      "seasonNumber": 3,
+      "number": 17,
+      "aired": "2024-08-02",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10383109/screencap/66be122c8a195.jpg",
+      "absoluteNumber": 66,
+      "name": "A Throng of Visitors",
+      "seasonNumber": 3,
+      "number": 18,
+      "aired": "2024-08-16",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10383088/screencap/66c68d2873888.jpg",
+      "absoluteNumber": 67,
+      "name": "Festival Eve",
+      "seasonNumber": 3,
+      "number": 19,
+      "aired": "2024-08-23",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10383089/screencap/66d10cfd12522.jpg",
+      "absoluteNumber": 68,
+      "name": "Nation's Opening Festival",
+      "seasonNumber": 3,
+      "number": 20,
+      "aired": "2024-08-30",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10383090/screencap/66d790a9e6dc3.jpg",
+      "absoluteNumber": 69,
+      "name": "The Martial Arts Tournament",
+      "seasonNumber": 3,
+      "number": 21,
+      "aired": "2024-09-06",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10383091/screencap/66e0774b3ac95.jpg",
+      "absoluteNumber": 70,
+      "name": "Settling the Score With the Hero",
+      "seasonNumber": 3,
+      "number": 22,
+      "aired": "2024-09-13",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10383092/screencap/66eaec52e25a0.jpg",
+      "absoluteNumber": 71,
+      "name": "The Labyrinth Is Opened",
+      "seasonNumber": 3,
+      "number": 23,
+      "aired": "2024-09-20",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10403221/screencap/66f4ce5c66d8e.jpg",
+      "absoluteNumber": 72,
+      "name": "After the Festival",
+      "seasonNumber": 3,
+      "number": 24,
+      "aired": "2024-09-27",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11561313/screencap/69cbb9ad64647.jpg",
+      "absoluteNumber": 73,
+      "name": "New Days",
+      "seasonNumber": 4,
+      "number": 1,
+      "aired": "2026-04-03",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696720/screencap/69d59d2930387.jpg",
+      "absoluteNumber": 74,
+      "name": "The Dungeon Evolves",
+      "seasonNumber": 4,
+      "number": 2,
+      "aired": "2026-04-10",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696721/screencap/69e2170496c9a.jpg",
+      "absoluteNumber": 75,
+      "name": "The Avatar Team Is Formed",
+      "seasonNumber": 4,
+      "number": 3,
+      "aired": "2026-04-17",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696722/screencap/69ea877d2a96c.jpg",
+      "absoluteNumber": 76,
+      "name": "Invitation",
+      "seasonNumber": 4,
+      "number": 4,
+      "aired": "2026-04-24",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696723/screencap/69f79e4fee55e.jpg",
+      "absoluteNumber": 77,
+      "name": "The First Step",
+      "seasonNumber": 4,
+      "number": 5,
+      "aired": "2026-05-08",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696725/screencap/6a03bd43472a2.jpg",
+      "absoluteNumber": 78,
+      "name": "The Council of the West",
+      "seasonNumber": 4,
+      "number": 6,
+      "aired": "2026-05-15",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696727/screencap/6a0dece1b4360.jpg",
+      "absoluteNumber": 79,
+      "name": "The Mastermind's Identity",
+      "seasonNumber": 4,
+      "number": 7,
+      "aired": "2026-05-22",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696729/screencap/6a158a7ae26b4.jpg",
+      "absoluteNumber": 80,
+      "name": "The Groundwork of Greed",
+      "seasonNumber": 4,
+      "number": 8,
+      "aired": "2026-05-29",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696731/screencap/6a1ec613445a0.jpg",
+      "absoluteNumber": 81,
+      "name": "Investigating the Ruins",
+      "seasonNumber": 4,
+      "number": 9,
+      "aired": "2026-06-05",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 82,
+      "name": "The Master of Greed",
+      "seasonNumber": 4,
+      "number": 10,
+      "aired": "2026-06-12",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 83,
+      "name": null,
+      "seasonNumber": 4,
+      "number": 11,
+      "aired": "2026-06-19",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 84,
+      "name": null,
+      "seasonNumber": 4,
+      "number": 12,
+      "aired": "2026-06-26",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 85,
+      "name": null,
+      "seasonNumber": 4,
+      "number": 13,
+      "aired": "2026-07-03",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 86,
+      "name": null,
+      "seasonNumber": 4,
+      "number": 14,
+      "aired": "2026-07-10",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 87,
+      "name": null,
+      "seasonNumber": 4,
+      "number": 15,
+      "aired": "2026-07-17",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 88,
+      "name": null,
+      "seasonNumber": 4,
+      "number": 16,
+      "aired": "2026-07-24",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 89,
+      "name": null,
+      "seasonNumber": 4,
+      "number": 17,
+      "aired": "2026-07-31",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 90,
+      "name": null,
+      "seasonNumber": 4,
+      "number": 18,
+      "aired": "2026-08-07",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 91,
+      "name": null,
+      "seasonNumber": 4,
+      "number": 19,
+      "aired": "2026-08-14",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 92,
+      "name": null,
+      "seasonNumber": 4,
+      "number": 20,
+      "aired": "2026-08-21",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 93,
+      "name": null,
+      "seasonNumber": 4,
+      "number": 21,
+      "aired": "2026-08-28",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 94,
+      "name": null,
+      "seasonNumber": 4,
+      "number": 22,
+      "aired": "2026-08-28",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 95,
+      "name": null,
+      "seasonNumber": 4,
+      "number": 23,
+      "aired": "2026-09-11",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 96,
+      "name": null,
+      "seasonNumber": 4,
+      "number": 24,
+      "aired": "2026-09-18",
+      "runtime": 24
+    }
+  ]
+}
