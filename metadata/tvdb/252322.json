@@ -1,0 +1,1355 @@
+{
+  "cachedAt": 1781316632731,
+  "data": [
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4625868.jpg",
+      "absoluteNumber": 149,
+      "name": "Hunter x Hunter: Phantom Rouge",
+      "seasonNumber": 0,
+      "number": 1,
+      "aired": "2013-01-12",
+      "runtime": 97
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4714556.jpg",
+      "absoluteNumber": 150,
+      "name": "Hunter x Hunter: The Last Mission",
+      "seasonNumber": 0,
+      "number": 2,
+      "aired": "2013-12-27",
+      "runtime": 97
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4180539.jpg",
+      "absoluteNumber": 1,
+      "name": "Departure x And x Friends",
+      "seasonNumber": 1,
+      "number": 1,
+      "aired": "2011-10-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4181834.jpg",
+      "absoluteNumber": 2,
+      "name": "Test x Of x Tests",
+      "seasonNumber": 1,
+      "number": 2,
+      "aired": "2011-10-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4188272.jpg",
+      "absoluteNumber": 3,
+      "name": "Rivals x In x Survival",
+      "seasonNumber": 1,
+      "number": 3,
+      "aired": "2011-10-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4188248.jpg",
+      "absoluteNumber": 4,
+      "name": "Hope x And x Ambition",
+      "seasonNumber": 1,
+      "number": 4,
+      "aired": "2011-10-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4188249.jpg",
+      "absoluteNumber": 5,
+      "name": "Hisoka x Is x Sneaky",
+      "seasonNumber": 1,
+      "number": 5,
+      "aired": "2011-10-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4188250.jpg",
+      "absoluteNumber": 6,
+      "name": "A x Surprising x Challenge",
+      "seasonNumber": 1,
+      "number": 6,
+      "aired": "2011-11-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4188251.jpg",
+      "absoluteNumber": 7,
+      "name": "Showdown x On x The Airship",
+      "seasonNumber": 1,
+      "number": 7,
+      "aired": "2011-11-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4188252.jpg",
+      "absoluteNumber": 8,
+      "name": "Decision x By x Majority Rule?",
+      "seasonNumber": 1,
+      "number": 8,
+      "aired": "2011-11-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4188253.jpg",
+      "absoluteNumber": 9,
+      "name": "Beware x Of x Prisoners",
+      "seasonNumber": 1,
+      "number": 9,
+      "aired": "2011-11-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4188254.jpg",
+      "absoluteNumber": 10,
+      "name": "Trick x To x The Trick",
+      "seasonNumber": 1,
+      "number": 10,
+      "aired": "2011-12-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4188255.jpg",
+      "absoluteNumber": 11,
+      "name": "Trouble x With x The Gamble",
+      "seasonNumber": 1,
+      "number": 11,
+      "aired": "2011-12-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4188256.jpg",
+      "absoluteNumber": 12,
+      "name": "Last x Test x Of Resolve",
+      "seasonNumber": 1,
+      "number": 12,
+      "aired": "2011-12-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4188257.jpg",
+      "absoluteNumber": 13,
+      "name": "Letter x From x Gon",
+      "seasonNumber": 1,
+      "number": 13,
+      "aired": "2011-12-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4225824.jpg",
+      "absoluteNumber": 14,
+      "name": "Hit x the x Target",
+      "seasonNumber": 1,
+      "number": 14,
+      "aired": "2012-01-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4229917.jpg",
+      "absoluteNumber": 15,
+      "name": "Explosion x Of x Deception",
+      "seasonNumber": 1,
+      "number": 15,
+      "aired": "2012-01-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4229916.jpg",
+      "absoluteNumber": 16,
+      "name": "Defeat x And x Disgrace",
+      "seasonNumber": 1,
+      "number": 16,
+      "aired": "2012-01-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4229915.jpg",
+      "absoluteNumber": 17,
+      "name": "Trap x In x The Hole",
+      "seasonNumber": 1,
+      "number": 17,
+      "aired": "2012-01-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4229914.jpg",
+      "absoluteNumber": 18,
+      "name": "Big x Time x Interview",
+      "seasonNumber": 1,
+      "number": 18,
+      "aired": "2012-02-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4229913.jpg",
+      "absoluteNumber": 19,
+      "name": "Can't Win x and x Can't Lose",
+      "seasonNumber": 1,
+      "number": 19,
+      "aired": "2012-02-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4229912.jpg",
+      "absoluteNumber": 20,
+      "name": "Baffling Turn x Of x Events",
+      "seasonNumber": 1,
+      "number": 20,
+      "aired": "2012-02-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4229911.jpg",
+      "absoluteNumber": 21,
+      "name": "Some x Brother x Trouble",
+      "seasonNumber": 1,
+      "number": 21,
+      "aired": "2012-03-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4229910.jpg",
+      "absoluteNumber": 22,
+      "name": "A x Dangerous x Watchdog",
+      "seasonNumber": 1,
+      "number": 22,
+      "aired": "2012-03-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4229909.jpg",
+      "absoluteNumber": 23,
+      "name": "The x Guard's x Duty",
+      "seasonNumber": 1,
+      "number": 23,
+      "aired": "2012-03-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4229908.jpg",
+      "absoluteNumber": 24,
+      "name": "The x Zoldyck x Family",
+      "seasonNumber": 1,
+      "number": 24,
+      "aired": "2012-03-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4229907.jpg",
+      "absoluteNumber": 25,
+      "name": "Can't See x if x You're Blind",
+      "seasonNumber": 1,
+      "number": 25,
+      "aired": "2012-04-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4292703.jpg",
+      "absoluteNumber": 26,
+      "name": "Then x And x After",
+      "seasonNumber": 1,
+      "number": 26,
+      "aired": "2012-04-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4298326.jpg",
+      "absoluteNumber": 27,
+      "name": "Arrival x At x The Arena",
+      "seasonNumber": 1,
+      "number": 27,
+      "aired": "2012-04-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4298325.jpg",
+      "absoluteNumber": 28,
+      "name": "Nen x and x Nen",
+      "seasonNumber": 1,
+      "number": 28,
+      "aired": "2012-04-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4298324.jpg",
+      "absoluteNumber": 29,
+      "name": "Awakening x And x Potential",
+      "seasonNumber": 1,
+      "number": 29,
+      "aired": "2012-04-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4298323.jpg",
+      "absoluteNumber": 30,
+      "name": "Fierce x and x Ferocious",
+      "seasonNumber": 1,
+      "number": 30,
+      "aired": "2012-05-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4298322.jpg",
+      "absoluteNumber": 31,
+      "name": "Destiny x and x Tenacity",
+      "seasonNumber": 1,
+      "number": 31,
+      "aired": "2012-05-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4298321.jpg",
+      "absoluteNumber": 32,
+      "name": "A x Surprising x Win",
+      "seasonNumber": 1,
+      "number": 32,
+      "aired": "2012-05-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4298320.jpg",
+      "absoluteNumber": 33,
+      "name": "An x Empty x Threat",
+      "seasonNumber": 1,
+      "number": 33,
+      "aired": "2012-05-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4298319.jpg",
+      "absoluteNumber": 34,
+      "name": "Power x To x Avenge",
+      "seasonNumber": 1,
+      "number": 34,
+      "aired": "2012-06-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4298318.jpg",
+      "absoluteNumber": 35,
+      "name": "The x True x Pass",
+      "seasonNumber": 1,
+      "number": 35,
+      "aired": "2012-06-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4298317.jpg",
+      "absoluteNumber": 36,
+      "name": "A Big Debt x And x A Small Kick",
+      "seasonNumber": 1,
+      "number": 36,
+      "aired": "2012-06-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4298316.jpg",
+      "absoluteNumber": 37,
+      "name": "Ging x And x Gon",
+      "seasonNumber": 1,
+      "number": 37,
+      "aired": "2012-07-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4341414.jpg",
+      "absoluteNumber": 38,
+      "name": "Reply x From x Dad",
+      "seasonNumber": 1,
+      "number": 38,
+      "aired": "2012-07-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4341415.jpg",
+      "absoluteNumber": 39,
+      "name": "Wish x And x Promise",
+      "seasonNumber": 1,
+      "number": 39,
+      "aired": "2012-07-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4341416.jpg",
+      "absoluteNumber": 40,
+      "name": "Nen x Users x Unite?",
+      "seasonNumber": 1,
+      "number": 40,
+      "aired": "2012-07-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4354712.jpg",
+      "absoluteNumber": 41,
+      "name": "Gathering x Of x Heroes",
+      "seasonNumber": 1,
+      "number": 41,
+      "aired": "2012-07-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4354696.jpg",
+      "absoluteNumber": 42,
+      "name": "Defend x and x Attack",
+      "seasonNumber": 1,
+      "number": 42,
+      "aired": "2012-08-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4354697.jpg",
+      "absoluteNumber": 43,
+      "name": "A x Shocking x Tragedy",
+      "seasonNumber": 1,
+      "number": 43,
+      "aired": "2012-08-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4354698.jpg",
+      "absoluteNumber": 44,
+      "name": "Buildup x To A x Fierce Battle",
+      "seasonNumber": 1,
+      "number": 44,
+      "aired": "2012-08-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4354699.jpg",
+      "absoluteNumber": 45,
+      "name": "Restraint x And x Vow",
+      "seasonNumber": 1,
+      "number": 45,
+      "aired": "2012-09-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4354700.jpg",
+      "absoluteNumber": 46,
+      "name": "Chasing x and x Waiting",
+      "seasonNumber": 1,
+      "number": 46,
+      "aired": "2012-09-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4354701.jpg",
+      "absoluteNumber": 47,
+      "name": "Condition x and x Condition",
+      "seasonNumber": 1,
+      "number": 47,
+      "aired": "2012-09-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4354703.jpg",
+      "absoluteNumber": 48,
+      "name": "Very x Sharp x Eye",
+      "seasonNumber": 1,
+      "number": 48,
+      "aired": "2012-09-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4354704.jpg",
+      "absoluteNumber": 49,
+      "name": "Pursuit x and x Analysis",
+      "seasonNumber": 1,
+      "number": 49,
+      "aired": "2012-09-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4354705.jpg",
+      "absoluteNumber": 50,
+      "name": "Ally x and x Sword",
+      "seasonNumber": 1,
+      "number": 50,
+      "aired": "2012-10-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4414964.jpg",
+      "absoluteNumber": 51,
+      "name": "A x Brutal x Battlefield",
+      "seasonNumber": 1,
+      "number": 51,
+      "aired": "2012-10-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4417609.jpg",
+      "absoluteNumber": 52,
+      "name": "Assault x And x Impact",
+      "seasonNumber": 1,
+      "number": 52,
+      "aired": "2012-10-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4420731.jpg",
+      "absoluteNumber": 53,
+      "name": "Fake x And x Psyche",
+      "seasonNumber": 1,
+      "number": 53,
+      "aired": "2012-10-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4420732.jpg",
+      "absoluteNumber": 54,
+      "name": "Fortunes x Aren't x Right",
+      "seasonNumber": 1,
+      "number": 54,
+      "aired": "2012-11-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4420733.jpg",
+      "absoluteNumber": 55,
+      "name": "Allies x And x Lies",
+      "seasonNumber": 1,
+      "number": 55,
+      "aired": "2012-11-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4420734.jpg",
+      "absoluteNumber": 56,
+      "name": "Beloved x And x Beleaguered",
+      "seasonNumber": 1,
+      "number": 56,
+      "aired": "2012-11-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4420735.jpg",
+      "absoluteNumber": 57,
+      "name": "Initiative x And x Law",
+      "seasonNumber": 1,
+      "number": 57,
+      "aired": "2012-12-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4420736.jpg",
+      "absoluteNumber": 58,
+      "name": "Signal x To x Retreat",
+      "seasonNumber": 1,
+      "number": 58,
+      "aired": "2012-12-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4420737.jpg",
+      "absoluteNumber": 59,
+      "name": "Bid x And x Haste",
+      "seasonNumber": 2,
+      "number": 1,
+      "aired": "2012-12-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4470494.jpg",
+      "absoluteNumber": 60,
+      "name": "End x And x Beginning",
+      "seasonNumber": 2,
+      "number": 2,
+      "aired": "2012-12-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4470495.jpg",
+      "absoluteNumber": 61,
+      "name": "Invitation x And x Friend",
+      "seasonNumber": 2,
+      "number": 3,
+      "aired": "2013-01-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4470369.jpg",
+      "absoluteNumber": 62,
+      "name": "Reality x And x Raw",
+      "seasonNumber": 2,
+      "number": 4,
+      "aired": "2013-01-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4475752.jpg",
+      "absoluteNumber": 63,
+      "name": "A x Hard x Master",
+      "seasonNumber": 2,
+      "number": 5,
+      "aired": "2013-01-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4481731.jpg",
+      "absoluteNumber": 64,
+      "name": "Strengthen x And x Threaten",
+      "seasonNumber": 2,
+      "number": 6,
+      "aired": "2013-01-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4488123.jpg",
+      "absoluteNumber": 65,
+      "name": "Evil Fist x And x Rock, Paper, Scissors",
+      "seasonNumber": 2,
+      "number": 7,
+      "aired": "2013-02-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4493083.jpg",
+      "absoluteNumber": 66,
+      "name": "Strategy x And x Scheme",
+      "seasonNumber": 2,
+      "number": 8,
+      "aired": "2013-02-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4498516.jpg",
+      "absoluteNumber": 67,
+      "name": "15 x 15",
+      "seasonNumber": 2,
+      "number": 9,
+      "aired": "2013-02-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4504220.jpg",
+      "absoluteNumber": 68,
+      "name": "Pirates x And x Guesses",
+      "seasonNumber": 2,
+      "number": 10,
+      "aired": "2013-02-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4508443.jpg",
+      "absoluteNumber": 69,
+      "name": "A x Heated x Showdown",
+      "seasonNumber": 2,
+      "number": 11,
+      "aired": "2013-03-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4515270.jpg",
+      "absoluteNumber": 70,
+      "name": "Guts x And x Courage",
+      "seasonNumber": 2,
+      "number": 12,
+      "aired": "2013-03-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4519746.jpg",
+      "absoluteNumber": 71,
+      "name": "Bargain x And x Deal",
+      "seasonNumber": 2,
+      "number": 13,
+      "aired": "2013-03-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4525331.jpg",
+      "absoluteNumber": 72,
+      "name": "Chase x And x Chance",
+      "seasonNumber": 2,
+      "number": 14,
+      "aired": "2013-03-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4530930.jpg",
+      "absoluteNumber": 73,
+      "name": "Insanity x And x Sanity",
+      "seasonNumber": 2,
+      "number": 15,
+      "aired": "2013-03-31",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4536622.jpg",
+      "absoluteNumber": 74,
+      "name": "Victor x And x Loser",
+      "seasonNumber": 2,
+      "number": 16,
+      "aired": "2013-04-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4541062.jpg",
+      "absoluteNumber": 75,
+      "name": "Ging's Friends x And x True Friends",
+      "seasonNumber": 2,
+      "number": 17,
+      "aired": "2013-04-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4546620.jpg",
+      "absoluteNumber": 76,
+      "name": "Reunion x And x Understanding",
+      "seasonNumber": 2,
+      "number": 18,
+      "aired": "2013-04-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4548291.jpg",
+      "absoluteNumber": 77,
+      "name": "Unease x And x Sighting",
+      "seasonNumber": 2,
+      "number": 19,
+      "aired": "2013-04-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4548295.jpg",
+      "absoluteNumber": 78,
+      "name": "Very x Rapid x Reproduction",
+      "seasonNumber": 2,
+      "number": 20,
+      "aired": "2013-05-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4562021.jpg",
+      "absoluteNumber": 79,
+      "name": "No x Good x NGL",
+      "seasonNumber": 2,
+      "number": 21,
+      "aired": "2013-05-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4567216.jpg",
+      "absoluteNumber": 80,
+      "name": "Evil x And x Terrible",
+      "seasonNumber": 2,
+      "number": 22,
+      "aired": "2013-05-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4574974.jpg",
+      "absoluteNumber": 81,
+      "name": "The x Fight x Begins",
+      "seasonNumber": 2,
+      "number": 23,
+      "aired": "2013-05-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4579034.jpg",
+      "absoluteNumber": 82,
+      "name": "Kite x And x Slots",
+      "seasonNumber": 2,
+      "number": 24,
+      "aired": "2013-06-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4579035.jpg",
+      "absoluteNumber": 83,
+      "name": "Inspiration x To x Evolve",
+      "seasonNumber": 2,
+      "number": 25,
+      "aired": "2013-06-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4589443.jpg",
+      "absoluteNumber": 84,
+      "name": "A x Fated x Awakening",
+      "seasonNumber": 2,
+      "number": 26,
+      "aired": "2013-06-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4593944.jpg",
+      "absoluteNumber": 85,
+      "name": "Light x And x Dark",
+      "seasonNumber": 2,
+      "number": 27,
+      "aired": "2013-06-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4598417.jpg",
+      "absoluteNumber": 86,
+      "name": "Promise x And x Reunion",
+      "seasonNumber": 2,
+      "number": 28,
+      "aired": "2013-06-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4603263.jpg",
+      "absoluteNumber": 87,
+      "name": "Duel x And x Escape",
+      "seasonNumber": 2,
+      "number": 29,
+      "aired": "2013-07-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4606965.jpg",
+      "absoluteNumber": 88,
+      "name": "Rock, Paper, Scissors x And x Weakness",
+      "seasonNumber": 2,
+      "number": 30,
+      "aired": "2013-07-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4612688.jpg",
+      "absoluteNumber": 89,
+      "name": "Compassion x And x Strength",
+      "seasonNumber": 2,
+      "number": 31,
+      "aired": "2013-07-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4615635.jpg",
+      "absoluteNumber": 90,
+      "name": "Interest x And x Curse",
+      "seasonNumber": 2,
+      "number": 32,
+      "aired": "2013-07-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4621962.jpg",
+      "absoluteNumber": 91,
+      "name": "The Strong x And x The Weak",
+      "seasonNumber": 2,
+      "number": 33,
+      "aired": "2013-08-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4627383.jpg",
+      "absoluteNumber": 92,
+      "name": "One Wish x And x Two Promises",
+      "seasonNumber": 2,
+      "number": 34,
+      "aired": "2013-08-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4632409.jpg",
+      "absoluteNumber": 93,
+      "name": "Date x With x Palm",
+      "seasonNumber": 2,
+      "number": 35,
+      "aired": "2013-08-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4637825.jpg",
+      "absoluteNumber": 94,
+      "name": "Friend x And x Journey",
+      "seasonNumber": 2,
+      "number": 36,
+      "aired": "2013-09-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4649574.jpg",
+      "absoluteNumber": 95,
+      "name": "Grudge x And x Dread",
+      "seasonNumber": 2,
+      "number": 37,
+      "aired": "2013-09-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4653442.jpg",
+      "absoluteNumber": 96,
+      "name": "A x Lawless x Home",
+      "seasonNumber": 2,
+      "number": 38,
+      "aired": "2013-09-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4659581.jpg",
+      "absoluteNumber": 97,
+      "name": "Carnage x And x Devastation",
+      "seasonNumber": 2,
+      "number": 39,
+      "aired": "2013-09-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4666481.jpg",
+      "absoluteNumber": 98,
+      "name": "Infiltration x And x Selection",
+      "seasonNumber": 2,
+      "number": 40,
+      "aired": "2013-09-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4670829.jpg",
+      "absoluteNumber": 99,
+      "name": "Combination x And x Evolution",
+      "seasonNumber": 2,
+      "number": 41,
+      "aired": "2013-10-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4686353.jpg",
+      "absoluteNumber": 100,
+      "name": "Tracking x And x Pursuit",
+      "seasonNumber": 2,
+      "number": 42,
+      "aired": "2013-10-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4691514.jpg",
+      "absoluteNumber": 101,
+      "name": "Ikalgo x And x Lightning",
+      "seasonNumber": 2,
+      "number": 43,
+      "aired": "2013-10-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4695663.jpg",
+      "absoluteNumber": 102,
+      "name": "Power x And x Games",
+      "seasonNumber": 2,
+      "number": 44,
+      "aired": "2013-10-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4703839.jpg",
+      "absoluteNumber": 103,
+      "name": "Check x And x Mate",
+      "seasonNumber": 2,
+      "number": 45,
+      "aired": "2013-11-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4707211.jpg",
+      "absoluteNumber": 104,
+      "name": "Doubt x And x Hesitation",
+      "seasonNumber": 2,
+      "number": 46,
+      "aired": "2013-11-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4710755.jpg",
+      "absoluteNumber": 105,
+      "name": "Resolve x And x Awakening",
+      "seasonNumber": 2,
+      "number": 47,
+      "aired": "2013-11-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4722843.jpg",
+      "absoluteNumber": 106,
+      "name": "Knov x And x Morel",
+      "seasonNumber": 2,
+      "number": 48,
+      "aired": "2013-11-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4724255.jpg",
+      "absoluteNumber": 107,
+      "name": "Return x And x Retire",
+      "seasonNumber": 2,
+      "number": 49,
+      "aired": "2013-12-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4729509.jpg",
+      "absoluteNumber": 108,
+      "name": "Gungi x Of x Komugi",
+      "seasonNumber": 2,
+      "number": 50,
+      "aired": "2013-12-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4736318.jpg",
+      "absoluteNumber": 109,
+      "name": "Taking Stock x And x Taking Action",
+      "seasonNumber": 2,
+      "number": 51,
+      "aired": "2013-12-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4740645.jpg",
+      "absoluteNumber": 110,
+      "name": "Confusion x And x Expectation",
+      "seasonNumber": 2,
+      "number": 52,
+      "aired": "2013-12-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4750841.jpg",
+      "absoluteNumber": 111,
+      "name": "Charge x And x Invade",
+      "seasonNumber": 2,
+      "number": 53,
+      "aired": "2014-01-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4762378.jpg",
+      "absoluteNumber": 112,
+      "name": "Monster x And x Monster",
+      "seasonNumber": 2,
+      "number": 54,
+      "aired": "2014-01-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4770088.jpg",
+      "absoluteNumber": 113,
+      "name": "An x Indebted x Insect",
+      "seasonNumber": 2,
+      "number": 55,
+      "aired": "2014-01-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4770089.jpg",
+      "absoluteNumber": 114,
+      "name": "Divide x And x Conquer",
+      "seasonNumber": 2,
+      "number": 56,
+      "aired": "2014-01-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4782281.jpg",
+      "absoluteNumber": 115,
+      "name": "Duty x and x Question",
+      "seasonNumber": 2,
+      "number": 57,
+      "aired": "2014-02-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4796470.jpg",
+      "absoluteNumber": 116,
+      "name": "Revenge x And x Recovery",
+      "seasonNumber": 2,
+      "number": 58,
+      "aired": "2014-02-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4798644.jpg",
+      "absoluteNumber": 117,
+      "name": "Insult x And x Payback",
+      "seasonNumber": 2,
+      "number": 59,
+      "aired": "2014-02-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4803027.jpg",
+      "absoluteNumber": 118,
+      "name": "A x False x Rage",
+      "seasonNumber": 2,
+      "number": 60,
+      "aired": "2014-02-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4805438.jpg",
+      "absoluteNumber": 119,
+      "name": "Strong x Or x Weak",
+      "seasonNumber": 2,
+      "number": 61,
+      "aired": "2014-03-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4805439.jpg",
+      "absoluteNumber": 120,
+      "name": "Fake x And x Real",
+      "seasonNumber": 2,
+      "number": 62,
+      "aired": "2014-03-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4805440.jpg",
+      "absoluteNumber": 121,
+      "name": "Defeat x And x Dignity",
+      "seasonNumber": 2,
+      "number": 63,
+      "aired": "2014-03-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4805441.jpg",
+      "absoluteNumber": 122,
+      "name": "Pose x And x Name",
+      "seasonNumber": 2,
+      "number": 64,
+      "aired": "2014-03-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4839884.jpg",
+      "absoluteNumber": 123,
+      "name": "Centipede x And x Memory",
+      "seasonNumber": 2,
+      "number": 65,
+      "aired": "2014-04-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4839887.jpg",
+      "absoluteNumber": 124,
+      "name": "Breakdown x And x Awakening",
+      "seasonNumber": 2,
+      "number": 66,
+      "aired": "2014-04-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4839888.jpg",
+      "absoluteNumber": 125,
+      "name": "Great Power x And x Ultimate Power",
+      "seasonNumber": 2,
+      "number": 67,
+      "aired": "2014-04-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4839889.jpg",
+      "absoluteNumber": 126,
+      "name": "Zero x And x Rose",
+      "seasonNumber": 2,
+      "number": 68,
+      "aired": "2014-04-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4839890.jpg",
+      "absoluteNumber": 127,
+      "name": "Hostility x And x Determination",
+      "seasonNumber": 2,
+      "number": 69,
+      "aired": "2014-04-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4870970.jpg",
+      "absoluteNumber": 128,
+      "name": "Unparalleled Joy x And x Unconditional Love",
+      "seasonNumber": 2,
+      "number": 70,
+      "aired": "2014-05-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4876781.jpg",
+      "absoluteNumber": 129,
+      "name": "Formidable Enemy x And x Clear Objective",
+      "seasonNumber": 2,
+      "number": 71,
+      "aired": "2014-05-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4884760.jpg",
+      "absoluteNumber": 130,
+      "name": "Magic x to x Destroy",
+      "seasonNumber": 2,
+      "number": 72,
+      "aired": "2014-05-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4888651.jpg",
+      "absoluteNumber": 131,
+      "name": "Anger x And x Light",
+      "seasonNumber": 2,
+      "number": 73,
+      "aired": "2014-05-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4893739.jpg",
+      "absoluteNumber": 132,
+      "name": "Flash x And x Start",
+      "seasonNumber": 2,
+      "number": 74,
+      "aired": "2014-06-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4900249.jpg",
+      "absoluteNumber": 133,
+      "name": "Deadline x To x Live",
+      "seasonNumber": 2,
+      "number": 75,
+      "aired": "2014-06-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4905356.jpg",
+      "absoluteNumber": 134,
+      "name": "The Word x Is x You",
+      "seasonNumber": 2,
+      "number": 76,
+      "aired": "2014-06-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4910983.jpg",
+      "absoluteNumber": 135,
+      "name": "This Person x And x This Moment",
+      "seasonNumber": 2,
+      "number": 77,
+      "aired": "2014-06-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4917135.jpg",
+      "absoluteNumber": 136,
+      "name": "Homecoming x And x True Name",
+      "seasonNumber": 2,
+      "number": 78,
+      "aired": "2014-07-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4917136.jpg",
+      "absoluteNumber": 137,
+      "name": "Debate x Among x Zodiacs",
+      "seasonNumber": 3,
+      "number": 1,
+      "aired": "2014-07-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4933367.jpg",
+      "absoluteNumber": 138,
+      "name": "Request x And x Wish",
+      "seasonNumber": 3,
+      "number": 2,
+      "aired": "2014-07-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4931382.jpg",
+      "absoluteNumber": 139,
+      "name": "Alluka x And x Something",
+      "seasonNumber": 3,
+      "number": 3,
+      "aired": "2014-07-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4939587.jpg",
+      "absoluteNumber": 140,
+      "name": "Joining the Fray x And x Open Hostilities",
+      "seasonNumber": 3,
+      "number": 4,
+      "aired": "2014-07-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4945477.jpg",
+      "absoluteNumber": 141,
+      "name": "Magician x And x Butler",
+      "seasonNumber": 3,
+      "number": 5,
+      "aired": "2014-08-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4955588.jpg",
+      "absoluteNumber": 142,
+      "name": "Needles x And x Debt",
+      "seasonNumber": 3,
+      "number": 6,
+      "aired": "2014-08-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4964002.jpg",
+      "absoluteNumber": 143,
+      "name": "Sin x And x Claw",
+      "seasonNumber": 3,
+      "number": 7,
+      "aired": "2014-08-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4965906.jpg",
+      "absoluteNumber": 144,
+      "name": "Approval x And x Coalition",
+      "seasonNumber": 3,
+      "number": 8,
+      "aired": "2014-08-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4965907.jpg",
+      "absoluteNumber": 145,
+      "name": "Defeat x And x Reunion",
+      "seasonNumber": 3,
+      "number": 9,
+      "aired": "2014-09-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4965908.jpg",
+      "absoluteNumber": 146,
+      "name": "Chairman x And x Release",
+      "seasonNumber": 3,
+      "number": 10,
+      "aired": "2014-09-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4965909.jpg",
+      "absoluteNumber": 147,
+      "name": "Salvation x And x Future",
+      "seasonNumber": 3,
+      "number": 11,
+      "aired": "2014-09-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/252322/4965910.jpg",
+      "absoluteNumber": 148,
+      "name": "Past x And x Future",
+      "seasonNumber": 3,
+      "number": 12,
+      "aired": "2014-09-24",
+      "runtime": 25
+    }
+  ]
+}
