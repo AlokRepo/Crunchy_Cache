@@ -1,0 +1,239 @@
+{
+  "cachedAt": 1781617989084,
+  "data": [
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": null,
+      "seasonNumber": 0,
+      "number": 1,
+      "aired": "2024-07-28",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11719510/screencap/69d30aa3c008f.jpg",
+      "absoluteNumber": 0,
+      "name": "Season 2 Broadcast Commemorative - Wistoria: Wand and Sword Special Compilation Episode",
+      "seasonNumber": 0,
+      "number": 2,
+      "aired": "2026-04-05",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10299050/screencap/6687eeb421480.jpg",
+      "absoluteNumber": 1,
+      "name": "Like a Lone Sword",
+      "seasonNumber": 1,
+      "number": 1,
+      "aired": "2024-07-07",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10531686/screencap/668ff1f045603.jpg",
+      "absoluteNumber": 2,
+      "name": "As Though Undaunted",
+      "seasonNumber": 1,
+      "number": 2,
+      "aired": "2024-07-14",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10531687/screencap/6699a27e979bb.jpg",
+      "absoluteNumber": 3,
+      "name": "Order & Watcher",
+      "seasonNumber": 1,
+      "number": 3,
+      "aired": "2024-07-21",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10531688/screencap/66ab9fb273867.jpg",
+      "absoluteNumber": 4,
+      "name": "The Eve of the Grand Festival",
+      "seasonNumber": 1,
+      "number": 4,
+      "aired": "2024-08-04",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10531689/screencap/66b5183bf188c.jpg",
+      "absoluteNumber": 5,
+      "name": "Raise the Starting Pistol",
+      "seasonNumber": 1,
+      "number": 5,
+      "aired": "2024-08-11",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10531690/screencap/66bebbd9e5698.jpg",
+      "absoluteNumber": 6,
+      "name": "Between Pride and Passion",
+      "seasonNumber": 1,
+      "number": 6,
+      "aired": "2024-08-18",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10532202/screencap/66ca2d1a3e536.jpg",
+      "absoluteNumber": 7,
+      "name": "Twelve Secret Ice Magics, El Glace Frosse",
+      "seasonNumber": 1,
+      "number": 7,
+      "aired": "2024-08-25",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10532203/screencap/66d0ba953268a.jpg",
+      "absoluteNumber": 8,
+      "name": "Shall we date?",
+      "seasonNumber": 1,
+      "number": 8,
+      "aired": "2024-09-01",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10532204/screencap/66da58813c11a.jpg",
+      "absoluteNumber": 9,
+      "name": "Praxis Begins",
+      "seasonNumber": 1,
+      "number": 9,
+      "aired": "2024-09-08",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10532205/screencap/66e2fdf0933da.jpg",
+      "absoluteNumber": 10,
+      "name": "Our Dream",
+      "seasonNumber": 1,
+      "number": 10,
+      "aired": "2024-09-15",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10532206/screencap/66ec30a17673c.jpg",
+      "absoluteNumber": 11,
+      "name": "The True Name of Cowards",
+      "seasonNumber": 1,
+      "number": 11,
+      "aired": "2024-09-22",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10532207/screencap/66f6d52cca111.jpg",
+      "absoluteNumber": 12,
+      "name": "Wand and Sword",
+      "seasonNumber": 1,
+      "number": 12,
+      "aired": "2024-09-29",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10720711/screencap/6a2562cc85a19.jpg",
+      "absoluteNumber": 13,
+      "name": "Barrier Day",
+      "seasonNumber": 2,
+      "number": 1,
+      "aired": "2026-04-12",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703642/screencap/6a256284d10fc.jpg",
+      "absoluteNumber": 14,
+      "name": "The Party from Hell Begins",
+      "seasonNumber": 2,
+      "number": 2,
+      "aired": "2026-04-19",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703643/screencap/6a25626171079.jpg",
+      "absoluteNumber": 15,
+      "name": "One Single Magic Spell",
+      "seasonNumber": 2,
+      "number": 3,
+      "aired": "2026-04-26",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703644/screencap/6a25624a7b4c9.jpg",
+      "absoluteNumber": 16,
+      "name": "And the Story Begins",
+      "seasonNumber": 2,
+      "number": 4,
+      "aired": "2026-05-03",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703645/screencap/6a25622e8019b.jpg",
+      "absoluteNumber": 17,
+      "name": "The Day of Departure",
+      "seasonNumber": 2,
+      "number": 5,
+      "aired": "2026-05-10",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703646/screencap/6a2562056f9fc.jpg",
+      "absoluteNumber": 18,
+      "name": "The First Bloom",
+      "seasonNumber": 2,
+      "number": 6,
+      "aired": "2026-05-17",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703647/screencap/6a2561c34da0f.jpg",
+      "absoluteNumber": 19,
+      "name": "He Said He Would No Longer Hang His Head",
+      "seasonNumber": 2,
+      "number": 7,
+      "aired": "2026-05-24",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703648/screencap/6a1c3d46ea018.jpg",
+      "absoluteNumber": 20,
+      "name": "Teachings of the Witch",
+      "seasonNumber": 2,
+      "number": 8,
+      "aired": "2026-05-31",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703649/screencap/6a2ebd1a3a93e.jpg",
+      "absoluteNumber": 21,
+      "name": "The Page to Be Turned",
+      "seasonNumber": 2,
+      "number": 9,
+      "aired": "2026-06-07",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703650/screencap/6a2ea8356a014.jpg",
+      "absoluteNumber": 22,
+      "name": "Hoping, Blooming, Thundering",
+      "seasonNumber": 2,
+      "number": 10,
+      "aired": "2026-06-14",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 23,
+      "name": "A Roar of Ice and Lightning",
+      "seasonNumber": 2,
+      "number": 11,
+      "aired": "2026-06-21",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 24,
+      "name": null,
+      "seasonNumber": 2,
+      "number": 12,
+      "aired": "2026-06-28",
+      "runtime": 24
+    }
+  ]
+}
