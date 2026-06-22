@@ -1,0 +1,221 @@
+{
+  "cachedAt": 1782096728475,
+  "data": [
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11231088/screencap/69c92289cda6a.jpg",
+      "absoluteNumber": 1,
+      "name": "Asa and Yuru",
+      "seasonNumber": 1,
+      "number": 1,
+      "aired": "2026-04-04",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591469/screencap/69d4dbb223e62.jpg",
+      "absoluteNumber": 2,
+      "name": "Right and Left",
+      "seasonNumber": 1,
+      "number": 2,
+      "aired": "2026-04-11",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591470/screencap/69de2e89b871e.jpg",
+      "absoluteNumber": 3,
+      "name": "Dera and Hana",
+      "seasonNumber": 1,
+      "number": 3,
+      "aired": "2026-04-18",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591471/screencap/69e740f2b7d74.jpg",
+      "absoluteNumber": 4,
+      "name": "Jin and Yuru",
+      "seasonNumber": 1,
+      "number": 4,
+      "aired": "2026-04-25",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591472/screencap/69f084066a8af.jpg",
+      "absoluteNumber": 5,
+      "name": "Hare and Tortoise",
+      "seasonNumber": 1,
+      "number": 5,
+      "aired": "2026-05-02",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591473/screencap/69f9ba1cc1c1c.jpg",
+      "absoluteNumber": 6,
+      "name": "The Kagemori Clan and the Unknown Assailants",
+      "seasonNumber": 1,
+      "number": 6,
+      "aired": "2026-05-09",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591474/screencap/6a02f7de60004.jpg",
+      "absoluteNumber": 7,
+      "name": "Asa and Break",
+      "seasonNumber": 1,
+      "number": 7,
+      "aired": "2026-05-16",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591475/screencap/6a0c2a2fa4c23.jpg",
+      "absoluteNumber": 8,
+      "name": "Suspicion and Conviction",
+      "seasonNumber": 1,
+      "number": 8,
+      "aired": "2026-05-23",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591476/screencap/6a1565f2d4fee.jpg",
+      "absoluteNumber": 9,
+      "name": "Embrace and Whisper",
+      "seasonNumber": 1,
+      "number": 9,
+      "aired": "2026-05-30",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591477/screencap/6a1ea254bffa1.jpg",
+      "absoluteNumber": 10,
+      "name": "Long-Arm and Long-Leg",
+      "seasonNumber": 1,
+      "number": 10,
+      "aired": "2026-06-06",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591478/screencap/6a27da364c2a7.jpg",
+      "absoluteNumber": 11,
+      "name": "Big Brother and Little Brother",
+      "seasonNumber": 1,
+      "number": 11,
+      "aired": "2026-06-13",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591479/screencap/6a312b5addea9.jpg",
+      "absoluteNumber": 12,
+      "name": "Retainer and Shaman",
+      "seasonNumber": 1,
+      "number": 12,
+      "aired": "2026-06-20",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 13,
+      "name": "Daikyo and Shokyo",
+      "seasonNumber": 1,
+      "number": 13,
+      "aired": "2026-06-27",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 14,
+      "name": null,
+      "seasonNumber": 1,
+      "number": 14,
+      "aired": "2026-07-04",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 15,
+      "name": null,
+      "seasonNumber": 1,
+      "number": 15,
+      "aired": "2026-07-11",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 16,
+      "name": null,
+      "seasonNumber": 1,
+      "number": 16,
+      "aired": "2026-07-18",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 17,
+      "name": null,
+      "seasonNumber": 1,
+      "number": 17,
+      "aired": "2026-07-25",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 18,
+      "name": null,
+      "seasonNumber": 1,
+      "number": 18,
+      "aired": "2026-08-01",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 19,
+      "name": null,
+      "seasonNumber": 1,
+      "number": 19,
+      "aired": "2026-08-08",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 20,
+      "name": null,
+      "seasonNumber": 1,
+      "number": 20,
+      "aired": "2026-08-15",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 21,
+      "name": null,
+      "seasonNumber": 1,
+      "number": 21,
+      "aired": "2026-08-22",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 22,
+      "name": null,
+      "seasonNumber": 1,
+      "number": 22,
+      "aired": "2026-08-29",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 23,
+      "name": null,
+      "seasonNumber": 1,
+      "number": 23,
+      "aired": "2026-09-05",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 24,
+      "name": null,
+      "seasonNumber": 1,
+      "number": 24,
+      "aired": "2026-09-12",
+      "runtime": 24
+    }
+  ]
+}
