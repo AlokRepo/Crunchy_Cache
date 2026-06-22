@@ -1,0 +1,482 @@
+{
+  "cachedAt": 1782108012745,
+  "data": [
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/5353877.jpg",
+      "absoluteNumber": 50,
+      "name": "Tokyo Ghoul: Jack (OVA)",
+      "seasonNumber": 0,
+      "number": 1,
+      "aired": "2015-09-30",
+      "runtime": 30
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/5353876.jpg",
+      "absoluteNumber": 49,
+      "name": "Tokyo Ghoul: Pinto (OVA)",
+      "seasonNumber": 0,
+      "number": 2,
+      "aired": "2015-12-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8088053/screencap/653e837669f8b.jpg",
+      "absoluteNumber": 0,
+      "name": "Tokyo Ghoul",
+      "seasonNumber": 0,
+      "number": 3,
+      "aired": "2017-07-16",
+      "runtime": 119
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Tokyo Ghoul S",
+      "seasonNumber": 0,
+      "number": 5,
+      "aired": "2019-07-19",
+      "runtime": 97
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Kaneki in Black and White",
+      "seasonNumber": 0,
+      "number": 6,
+      "aired": "2014-09-01",
+      "runtime": 28
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/4872381.jpg",
+      "absoluteNumber": 1,
+      "name": "Tragedy",
+      "seasonNumber": 1,
+      "number": 1,
+      "aired": "2014-07-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/4922954.jpg",
+      "absoluteNumber": 2,
+      "name": "Incubation",
+      "seasonNumber": 1,
+      "number": 2,
+      "aired": "2014-07-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/4922955.jpg",
+      "absoluteNumber": 3,
+      "name": "Dove",
+      "seasonNumber": 1,
+      "number": 3,
+      "aired": "2014-07-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/4922956.jpg",
+      "absoluteNumber": 4,
+      "name": "Supper",
+      "seasonNumber": 1,
+      "number": 4,
+      "aired": "2014-07-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/4922957.jpg",
+      "absoluteNumber": 5,
+      "name": "Scars",
+      "seasonNumber": 1,
+      "number": 5,
+      "aired": "2014-08-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/4922958.jpg",
+      "absoluteNumber": 6,
+      "name": "Cloudburst",
+      "seasonNumber": 1,
+      "number": 6,
+      "aired": "2014-08-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/4922959.jpg",
+      "absoluteNumber": 7,
+      "name": "Captivity",
+      "seasonNumber": 1,
+      "number": 7,
+      "aired": "2014-08-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/4922960.jpg",
+      "absoluteNumber": 8,
+      "name": "Circular",
+      "seasonNumber": 1,
+      "number": 8,
+      "aired": "2014-08-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/4922961.jpg",
+      "absoluteNumber": 9,
+      "name": "Birdcage",
+      "seasonNumber": 1,
+      "number": 9,
+      "aired": "2014-08-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/4922962.jpg",
+      "absoluteNumber": 10,
+      "name": "Aogiri",
+      "seasonNumber": 1,
+      "number": 10,
+      "aired": "2014-09-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/4922963.jpg",
+      "absoluteNumber": 11,
+      "name": "High Spirits",
+      "seasonNumber": 1,
+      "number": 11,
+      "aired": "2014-09-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/4922964.jpg",
+      "absoluteNumber": 12,
+      "name": "Ghoul",
+      "seasonNumber": 1,
+      "number": 12,
+      "aired": "2014-09-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/5014092.jpg",
+      "absoluteNumber": 13,
+      "name": "New Surge",
+      "seasonNumber": 2,
+      "number": 1,
+      "aired": "2015-01-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/5095838.jpg",
+      "absoluteNumber": 14,
+      "name": "Dancing Flowers",
+      "seasonNumber": 2,
+      "number": 2,
+      "aired": "2015-01-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/5095839.jpg",
+      "absoluteNumber": 15,
+      "name": "Hangman",
+      "seasonNumber": 2,
+      "number": 3,
+      "aired": "2015-01-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/5095840.jpg",
+      "absoluteNumber": 16,
+      "name": "Deeper Layers",
+      "seasonNumber": 2,
+      "number": 4,
+      "aired": "2015-01-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/5107721.jpg",
+      "absoluteNumber": 17,
+      "name": "Rift",
+      "seasonNumber": 2,
+      "number": 5,
+      "aired": "2015-02-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/5107722.jpg",
+      "absoluteNumber": 18,
+      "name": "Thousand Paths",
+      "seasonNumber": 2,
+      "number": 6,
+      "aired": "2015-02-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/5111740.jpg",
+      "absoluteNumber": 19,
+      "name": "Permeation",
+      "seasonNumber": 2,
+      "number": 7,
+      "aired": "2015-02-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/5111741.jpg",
+      "absoluteNumber": 20,
+      "name": "Old Nines",
+      "seasonNumber": 2,
+      "number": 8,
+      "aired": "2015-02-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/5111742.jpg",
+      "absoluteNumber": 21,
+      "name": "City in Waiting",
+      "seasonNumber": 2,
+      "number": 9,
+      "aired": "2015-03-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/5111743.jpg",
+      "absoluteNumber": 22,
+      "name": "Last Rain",
+      "seasonNumber": 2,
+      "number": 10,
+      "aired": "2015-03-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/5150515.jpg",
+      "absoluteNumber": 23,
+      "name": "Deluge of Flowers",
+      "seasonNumber": 2,
+      "number": 11,
+      "aired": "2015-03-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/5150516.jpg",
+      "absoluteNumber": 24,
+      "name": "Ken",
+      "seasonNumber": 2,
+      "number": 12,
+      "aired": "2015-03-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/6348927.jpg",
+      "absoluteNumber": 25,
+      "name": "Those Who Hunt: START",
+      "seasonNumber": 3,
+      "number": 1,
+      "aired": "2018-04-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/6632156.jpg",
+      "absoluteNumber": 26,
+      "name": "Member: Fragments",
+      "seasonNumber": 3,
+      "number": 2,
+      "aired": "2018-04-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/6641289.jpg",
+      "absoluteNumber": 27,
+      "name": "Fresh: Eve",
+      "seasonNumber": 3,
+      "number": 3,
+      "aired": "2018-04-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/6644044.jpg",
+      "absoluteNumber": 28,
+      "name": "Main: Auction",
+      "seasonNumber": 3,
+      "number": 4,
+      "aired": "2018-04-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/6656305.jpg",
+      "absoluteNumber": 29,
+      "name": "Press: Night of Scattering",
+      "seasonNumber": 3,
+      "number": 5,
+      "aired": "2018-05-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/6656306.jpg",
+      "absoluteNumber": 30,
+      "name": "Turn: In the End",
+      "seasonNumber": 3,
+      "number": 6,
+      "aired": "2018-05-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/6656307.jpg",
+      "absoluteNumber": 31,
+      "name": "Mind: Days of Recollections",
+      "seasonNumber": 3,
+      "number": 7,
+      "aired": "2018-05-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/6656308.jpg",
+      "absoluteNumber": 32,
+      "name": "Take: The One That Wriggles",
+      "seasonNumber": 3,
+      "number": 8,
+      "aired": "2018-05-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/6656309.jpg",
+      "absoluteNumber": 33,
+      "name": "Play: Ghost",
+      "seasonNumber": 3,
+      "number": 9,
+      "aired": "2018-05-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/6656310.jpg",
+      "absoluteNumber": 34,
+      "name": "Think: Wavering",
+      "seasonNumber": 3,
+      "number": 10,
+      "aired": "2018-06-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/6656311.jpg",
+      "absoluteNumber": 35,
+      "name": "Write: Failure",
+      "seasonNumber": 3,
+      "number": 11,
+      "aired": "2018-06-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/6656312.jpg",
+      "absoluteNumber": 36,
+      "name": "Beautiful Dream: Dawn",
+      "seasonNumber": 3,
+      "number": 12,
+      "aired": "2018-06-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/6725812.jpg",
+      "absoluteNumber": 37,
+      "name": "Place: And So, Once Again",
+      "seasonNumber": 3,
+      "number": 13,
+      "aired": "2018-10-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/6827309.jpg",
+      "absoluteNumber": 38,
+      "name": "Volt: White Darkness",
+      "seasonNumber": 3,
+      "number": 14,
+      "aired": "2018-10-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/6827310.jpg",
+      "absoluteNumber": 39,
+      "name": "Union: Cross Game",
+      "seasonNumber": 3,
+      "number": 15,
+      "aired": "2018-10-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/6827312.jpg",
+      "absoluteNumber": 40,
+      "name": "Vive: Those Left Behind",
+      "seasonNumber": 3,
+      "number": 16,
+      "aired": "2018-10-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/6827314.jpg",
+      "absoluteNumber": 41,
+      "name": "Move: Confluence, Confusion",
+      "seasonNumber": 3,
+      "number": 17,
+      "aired": "2018-11-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/6827315.jpg",
+      "absoluteNumber": 42,
+      "name": "Face: Effulgence",
+      "seasonNumber": 3,
+      "number": 18,
+      "aired": "2018-11-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/6827316.jpg",
+      "absoluteNumber": 43,
+      "name": "Proof: Bonds",
+      "seasonNumber": 3,
+      "number": 19,
+      "aired": "2018-11-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/6827318.jpg",
+      "absoluteNumber": 44,
+      "name": "Incarnation: Awakened Child",
+      "seasonNumber": 3,
+      "number": 20,
+      "aired": "2018-11-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/6827319.jpg",
+      "absoluteNumber": 45,
+      "name": "Morse: Remembrances",
+      "seasonNumber": 3,
+      "number": 21,
+      "aired": "2018-12-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/6827320.jpg",
+      "absoluteNumber": 46,
+      "name": "Call: The Far Side of Tragedy",
+      "seasonNumber": 3,
+      "number": 22,
+      "aired": "2018-12-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/6827321.jpg",
+      "absoluteNumber": 47,
+      "name": "Act: Encounters",
+      "seasonNumber": 3,
+      "number": 23,
+      "aired": "2018-12-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/281249/6827324.jpg",
+      "absoluteNumber": 48,
+      "name": "The Final Episode",
+      "seasonNumber": 3,
+      "number": 24,
+      "aired": "2018-12-25",
+      "runtime": 25
+    }
+  ]
+}
