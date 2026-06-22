@@ -1,5 +1,5 @@
 {
-  "cachedAt": 1781617989084,
+  "cachedAt": 1782096643457,
   "data": [
     {
       "image": "",
@@ -218,7 +218,7 @@
       "runtime": 24
     },
     {
-      "image": "",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703651/screencap/6a3757bb1a048.jpg",
       "absoluteNumber": 23,
       "name": "A Roar of Ice and Lightning",
       "seasonNumber": 2,
@@ -229,7 +229,7 @@
     {
       "image": "",
       "absoluteNumber": 24,
-      "name": null,
+      "name": "A Story of a Dream With No End",
       "seasonNumber": 2,
       "number": 12,
       "aired": "2026-06-28",
