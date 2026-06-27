@@ -1,5 +1,5 @@
 {
-  "cachedAt": 1781618089146,
+  "cachedAt": 1782522755739,
   "data": [
     {
       "image": "https://artworks.thetvdb.com/banners/series/355774/episodes/5f91416ec2dfa.jpg",
@@ -866,9 +866,9 @@
       "runtime": 24
     },
     {
-      "image": "",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11728112/screencap/6a3d36940f1d8.jpg",
       "absoluteNumber": 95,
-      "name": null,
+      "name": "Ushers of an Exhilarating Future",
       "seasonNumber": 4,
       "number": 37,
       "aired": "2026-06-25",
