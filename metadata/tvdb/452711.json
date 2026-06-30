@@ -1,5 +1,5 @@
 {
-  "cachedAt": 1782096728475,
+  "cachedAt": 1782820130435,
   "data": [
     {
       "image": "https://artworks.thetvdb.com/banners/v4/episode/11231088/screencap/69c92289cda6a.jpg",
@@ -110,12 +110,12 @@
       "runtime": 24
     },
     {
-      "image": "",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591480/screencap/6a438c9df1261.jpg",
       "absoluteNumber": 13,
       "name": "Daikyo and Shokyo",
       "seasonNumber": 1,
       "number": 13,
-      "aired": "2026-06-27",
+      "aired": "2026-07-04",
       "runtime": 24
     },
     {
@@ -124,7 +124,7 @@
       "name": null,
       "seasonNumber": 1,
       "number": 14,
-      "aired": "2026-07-04",
+      "aired": "2026-07-11",
       "runtime": 24
     },
     {
@@ -133,7 +133,7 @@
       "name": null,
       "seasonNumber": 1,
       "number": 15,
-      "aired": "2026-07-11",
+      "aired": "2026-07-18",
       "runtime": 24
     },
     {
@@ -142,7 +142,7 @@
       "name": null,
       "seasonNumber": 1,
       "number": 16,
-      "aired": "2026-07-18",
+      "aired": "2026-07-25",
       "runtime": 24
     },
     {
@@ -151,7 +151,7 @@
       "name": null,
       "seasonNumber": 1,
       "number": 17,
-      "aired": "2026-07-25",
+      "aired": "2026-08-01",
       "runtime": 24
     },
     {
@@ -160,7 +160,7 @@
       "name": null,
       "seasonNumber": 1,
       "number": 18,
-      "aired": "2026-08-01",
+      "aired": "2026-08-08",
       "runtime": 24
     },
     {
@@ -169,7 +169,7 @@
       "name": null,
       "seasonNumber": 1,
       "number": 19,
-      "aired": "2026-08-08",
+      "aired": "2026-08-15",
       "runtime": 24
     },
     {
@@ -178,7 +178,7 @@
       "name": null,
       "seasonNumber": 1,
       "number": 20,
-      "aired": "2026-08-15",
+      "aired": "2026-08-22",
       "runtime": 24
     },
     {
@@ -187,7 +187,7 @@
       "name": null,
       "seasonNumber": 1,
       "number": 21,
-      "aired": "2026-08-22",
+      "aired": "2026-08-29",
       "runtime": 24
     },
     {
@@ -196,7 +196,7 @@
       "name": null,
       "seasonNumber": 1,
       "number": 22,
-      "aired": "2026-08-29",
+      "aired": "2026-09-05",
       "runtime": 24
     },
     {
@@ -205,7 +205,7 @@
       "name": null,
       "seasonNumber": 1,
       "number": 23,
-      "aired": "2026-09-05",
+      "aired": "2026-09-12",
       "runtime": 24
     },
     {
@@ -214,7 +214,7 @@
       "name": null,
       "seasonNumber": 1,
       "number": 24,
-      "aired": "2026-09-12",
+      "aired": "2026-09-19",
       "runtime": 24
     }
   ]
