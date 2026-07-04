@@ -1,5 +1,5 @@
 {
-  "cachedAt": 1781070272128,
+  "cachedAt": 1783141852144,
   "data": [
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/352408/7104556.jpg",
@@ -866,27 +866,27 @@
       "runtime": 24
     },
     {
-      "image": "",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696735/screencap/6a31572fee81d.jpg",
       "absoluteNumber": 83,
-      "name": null,
+      "name": "Milim's Friend",
       "seasonNumber": 4,
       "number": 11,
       "aired": "2026-06-19",
       "runtime": 24
     },
     {
-      "image": "",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696738/screencap/6a3c1de78428f.jpg",
       "absoluteNumber": 84,
-      "name": null,
+      "name": "Tempest Evolves",
       "seasonNumber": 4,
       "number": 12,
       "aired": "2026-06-26",
       "runtime": 24
     },
     {
-      "image": "",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696740/screencap/6a43a74531cf6.jpg",
       "absoluteNumber": 85,
-      "name": null,
+      "name": "New Companions",
       "seasonNumber": 4,
       "number": 13,
       "aired": "2026-07-03",
@@ -895,7 +895,7 @@
     {
       "image": "",
       "absoluteNumber": 86,
-      "name": null,
+      "name": "The Black Numbers",
       "seasonNumber": 4,
       "number": 14,
       "aired": "2026-07-10",
@@ -970,7 +970,7 @@
       "name": null,
       "seasonNumber": 4,
       "number": 22,
-      "aired": "2026-08-28",
+      "aired": "2026-09-04",
       "runtime": 24
     },
     {
