@@ -1,0 +1,3524 @@
+{
+  "cachedAt": 1783263709153,
+  "data": [
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/361821.jpg",
+      "absoluteNumber": 0,
+      "name": "Jump Festa 2005",
+      "seasonNumber": 0,
+      "number": 1,
+      "aired": "2005-09-24",
+      "runtime": 33
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/2231271.jpg",
+      "absoluteNumber": 0,
+      "name": "Jump Anime Tour 2008: Birth of White Demon",
+      "seasonNumber": 0,
+      "number": 2,
+      "aired": "2008-09-21",
+      "runtime": 10
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4395836.jpg",
+      "absoluteNumber": 0,
+      "name": "Spring Festival 2010",
+      "seasonNumber": 0,
+      "number": 3,
+      "aired": "2010-03-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/3960941.jpg",
+      "absoluteNumber": 0,
+      "name": "Gintama: The Movie",
+      "seasonNumber": 0,
+      "number": 4,
+      "aired": "2010-04-24",
+      "runtime": 95
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Benizakura Arc",
+      "seasonNumber": 0,
+      "number": 5,
+      "aired": "2010-12-15",
+      "runtime": 11
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Sakura Festival 2011",
+      "seasonNumber": 0,
+      "number": 6,
+      "aired": "2012-08-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4395827.jpg",
+      "absoluteNumber": 0,
+      "name": "Gintama: The Movie: The Final Chapter: Be Forever Yorozuya",
+      "seasonNumber": 0,
+      "number": 7,
+      "aired": "2013-07-06",
+      "runtime": 110
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Zenya Festival 2013",
+      "seasonNumber": 0,
+      "number": 8,
+      "aired": "2013-06-29",
+      "runtime": 145
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5091182.jpg",
+      "absoluteNumber": 0,
+      "name": "Jump Festa 2014",
+      "seasonNumber": 0,
+      "number": 9,
+      "aired": "2014-11-09",
+      "runtime": 25
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Best of Gintama on Theater 2D: Shinsengumi Crisis Arc",
+      "seasonNumber": 0,
+      "number": 10,
+      "aired": "2012-08-26",
+      "runtime": 96
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "The Best of Gintama on Theater 2D: Four Devas Arc",
+      "seasonNumber": 0,
+      "number": 11,
+      "aired": "2012-08-26",
+      "runtime": 25
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Jump Festa 2015",
+      "seasonNumber": 0,
+      "number": 12,
+      "aired": "2015-11-03",
+      "runtime": 11
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5448074.jpg",
+      "absoluteNumber": 0,
+      "name": "A Heart Without Love Does Not Smoke",
+      "seasonNumber": 0,
+      "number": 13,
+      "aired": "2016-08-04",
+      "runtime": 26
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5448075.jpg",
+      "absoluteNumber": 0,
+      "name": "An Everlasting Flower",
+      "seasonNumber": 0,
+      "number": 14,
+      "aired": "2016-11-04",
+      "runtime": 26
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/7580567/screencap/610fe9af934e6.jpg",
+      "absoluteNumber": 0,
+      "name": "Gintama x Monster Strike - Episode 1",
+      "seasonNumber": 0,
+      "number": 15,
+      "aired": "2019-08-29",
+      "runtime": 11
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/7580571/screencap/610fe9eaae368.jpg",
+      "absoluteNumber": 0,
+      "name": "Gintama x Monster Strike - Episode 2",
+      "seasonNumber": 0,
+      "number": 16,
+      "aired": "2019-09-04",
+      "runtime": 11
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8007046/screencap/610fea236470e.jpg",
+      "absoluteNumber": 370,
+      "name": "Gintama: The Final",
+      "seasonNumber": 0,
+      "number": 17,
+      "aired": "2021-01-08",
+      "runtime": 104
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8095519/screencap/6098a269ae62b.jpg",
+      "absoluteNumber": 368,
+      "name": "Gintama: The Semi-Final - Don't Spread the Wrapping Cloth Without Thinking Ahead",
+      "seasonNumber": 0,
+      "number": 18,
+      "aired": "2021-01-15",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8095524/screencap/6098a28eb601b.jpg",
+      "absoluteNumber": 369,
+      "name": "Gintama: The Semi-Final - Don't Make Up Your Mind Right Before The Important Decision",
+      "seasonNumber": 0,
+      "number": 19,
+      "aired": "2021-01-20",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Gintama: Dai Hanseikai",
+      "seasonNumber": 0,
+      "number": 21,
+      "aired": "2010-03-25",
+      "runtime": 14
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10857387/screencap/67623dfe8cd12.jpg",
+      "absoluteNumber": 0,
+      "name": "Gintama on Theater 2D: Thorny Arc",
+      "seasonNumber": 0,
+      "number": 22,
+      "aired": "2023-11-10",
+      "runtime": 77
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Gintama on Theater 2D: Courtesan of a Nation Arc",
+      "seasonNumber": 0,
+      "number": 23,
+      "aired": "2024-06-21",
+      "runtime": 109
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Gintama on Theater 2D: Kintama Arc",
+      "seasonNumber": 0,
+      "number": 24,
+      "aired": "2024-11-22",
+      "runtime": 97
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11606705/screencap/698a8343d9c02.jpg",
+      "absoluteNumber": 0,
+      "name": "Gintama X Mahjong Soul",
+      "seasonNumber": 0,
+      "number": 25,
+      "aired": "2025-10-03",
+      "runtime": 12
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/324783.jpg",
+      "absoluteNumber": 1,
+      "name": "You Guys!! Do You Even Have Gintama?! (1)",
+      "seasonNumber": 1,
+      "number": 1,
+      "aired": "2006-04-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/324784.jpg",
+      "absoluteNumber": 2,
+      "name": "You Guys!! Do You Even Have Gintama?! (2)",
+      "seasonNumber": 1,
+      "number": 2,
+      "aired": "2006-04-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/324785.jpg",
+      "absoluteNumber": 3,
+      "name": "Nobody with Naturally Wavy Hair Can Be That Bad",
+      "seasonNumber": 1,
+      "number": 3,
+      "aired": "2006-04-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/324786.jpg",
+      "absoluteNumber": 4,
+      "name": "Watch Out! Weekly Shonen JUMP Sometimes Comes Out on Saturdays!",
+      "seasonNumber": 1,
+      "number": 4,
+      "aired": "2006-04-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/324787.jpg",
+      "absoluteNumber": 5,
+      "name": "Make Friends You Can Call by Their Nicknames, Even When You're an Old Fart",
+      "seasonNumber": 1,
+      "number": 5,
+      "aired": "2006-05-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/324788.jpg",
+      "absoluteNumber": 6,
+      "name": "Keep Your Promise Even If It Kills You",
+      "seasonNumber": 1,
+      "number": 6,
+      "aired": "2006-05-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/326554.jpg",
+      "absoluteNumber": 7,
+      "name": "Responsible Owners Should Clean Up After Their Pets",
+      "seasonNumber": 1,
+      "number": 7,
+      "aired": "2006-05-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/326555.jpg",
+      "absoluteNumber": 8,
+      "name": "There Is Butt a Fine Line Between Persistence and Stubbornness",
+      "seasonNumber": 1,
+      "number": 8,
+      "aired": "2006-05-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/326556.jpg",
+      "absoluteNumber": 9,
+      "name": "Fighting Should Be Done with Fists",
+      "seasonNumber": 1,
+      "number": 9,
+      "aired": "2006-05-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/326557.jpg",
+      "absoluteNumber": 10,
+      "name": "Eat Something Sour When You're Tired",
+      "seasonNumber": 1,
+      "number": 10,
+      "aired": "2006-06-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/326811.jpg",
+      "absoluteNumber": 11,
+      "name": "Look, Overly Sticky Sweet Dumplings Are Not Real Dumplings, You Idiot!",
+      "seasonNumber": 1,
+      "number": 11,
+      "aired": "2006-06-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/326812.jpg",
+      "absoluteNumber": 12,
+      "name": "People Who Make Good First Impressions Usually Suck",
+      "seasonNumber": 1,
+      "number": 12,
+      "aired": "2006-06-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/327262.jpg",
+      "absoluteNumber": 13,
+      "name": "If You're Going to Cosplay, Go All Out",
+      "seasonNumber": 1,
+      "number": 13,
+      "aired": "2006-06-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/327743.jpg",
+      "absoluteNumber": 14,
+      "name": "Boys Have a Weird Ritual That Makes Them Think They Turn into Men When They Touch a Frog / You Only Gotta Wash Under Your Armpits - Just the Armpits",
+      "seasonNumber": 1,
+      "number": 14,
+      "aired": "2006-07-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/327263.jpg",
+      "absoluteNumber": 15,
+      "name": "Pets Resemble Their Owners",
+      "seasonNumber": 1,
+      "number": 15,
+      "aired": "2006-07-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/327264.jpg",
+      "absoluteNumber": 16,
+      "name": "If You Stop and Think About It, Your Life's a Lot Longer as an Old Guy Than a Kid! Whoa, Scary!",
+      "seasonNumber": 1,
+      "number": 16,
+      "aired": "2006-07-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/327742.jpg",
+      "absoluteNumber": 17,
+      "name": "Sons Only Take After Their Fathers' Negative Attributes",
+      "seasonNumber": 1,
+      "number": 17,
+      "aired": "2006-07-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/328095.jpg",
+      "absoluteNumber": 18,
+      "name": "Oh, Yeah! Our Crib Is Number One!",
+      "seasonNumber": 1,
+      "number": 18,
+      "aired": "2006-08-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/328096.jpg",
+      "absoluteNumber": 19,
+      "name": "Why Is the Sea So Salty? Because You City Folk Pee Whenever You Go Swimming!",
+      "seasonNumber": 1,
+      "number": 19,
+      "aired": "2006-08-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/328238.jpg",
+      "absoluteNumber": 20,
+      "name": "Watch Out for Conveyor Belts!",
+      "seasonNumber": 1,
+      "number": 20,
+      "aired": "2006-08-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/328239.jpg",
+      "absoluteNumber": 21,
+      "name": "If You're a Man, Try the Swordfish! / If You Go to Sleep with the Fan On You'll Get a Stomachache, So Be Careful",
+      "seasonNumber": 1,
+      "number": 21,
+      "aired": "2006-08-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/329998.jpg",
+      "absoluteNumber": 22,
+      "name": "Marriage Is Prolonging an Illusion for Your Whole Life",
+      "seasonNumber": 1,
+      "number": 22,
+      "aired": "2006-09-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/329999.jpg",
+      "absoluteNumber": 23,
+      "name": "When You're in a Fix, Keep on Laughing, Laughing…",
+      "seasonNumber": 1,
+      "number": 23,
+      "aired": "2006-09-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/330000.jpg",
+      "absoluteNumber": 24,
+      "name": "Cute Faces Are Always Hiding Something",
+      "seasonNumber": 1,
+      "number": 24,
+      "aired": "2006-09-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/330005.jpg",
+      "absoluteNumber": 25,
+      "name": "A Shared Soup Pot Is a Microcosm of Life",
+      "seasonNumber": 1,
+      "number": 25,
+      "aired": "2006-10-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/330006.jpg",
+      "absoluteNumber": 26,
+      "name": "Don't Be Shy—Just Raise Your Hand and Say It",
+      "seasonNumber": 1,
+      "number": 26,
+      "aired": "2006-10-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/330007.jpg",
+      "absoluteNumber": 27,
+      "name": "Some Things Can't Be Cut with a Sword",
+      "seasonNumber": 1,
+      "number": 27,
+      "aired": "2006-10-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/330008.jpg",
+      "absoluteNumber": 28,
+      "name": "Good Things Never Come in Twos (But Bad Things Do)",
+      "seasonNumber": 1,
+      "number": 28,
+      "aired": "2006-10-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/330009.jpg",
+      "absoluteNumber": 29,
+      "name": "Don't Panic—There's a Return Policy! / I Told You to Pay Attention to the News!",
+      "seasonNumber": 1,
+      "number": 29,
+      "aired": "2006-11-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/330010.jpg",
+      "absoluteNumber": 30,
+      "name": "Even Teen Idols Act Like You Guys",
+      "seasonNumber": 1,
+      "number": 30,
+      "aired": "2006-11-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/330011.jpg",
+      "absoluteNumber": 31,
+      "name": "You Always Remember the Things that Matter the Least",
+      "seasonNumber": 1,
+      "number": 31,
+      "aired": "2006-11-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/330012.jpg",
+      "absoluteNumber": 32,
+      "name": "Life Moves on Like a Conveyor Belt",
+      "seasonNumber": 1,
+      "number": 32,
+      "aired": "2006-11-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/330013.jpg",
+      "absoluteNumber": 33,
+      "name": "Mistaking Someone's Name Is Rude!",
+      "seasonNumber": 1,
+      "number": 33,
+      "aired": "2006-11-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/330014.jpg",
+      "absoluteNumber": 34,
+      "name": "Love Doesn't Require a Manual (1)",
+      "seasonNumber": 1,
+      "number": 34,
+      "aired": "2006-12-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/330015.jpg",
+      "absoluteNumber": 35,
+      "name": "Love Doesn't Require a Manual (2) / You Can't Judge a Person by His Appearance, Either",
+      "seasonNumber": 1,
+      "number": 35,
+      "aired": "2006-12-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/330016.jpg",
+      "absoluteNumber": 36,
+      "name": "People with Dark Pasts Can't Shut Up",
+      "seasonNumber": 1,
+      "number": 36,
+      "aired": "2006-12-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/330017.jpg",
+      "absoluteNumber": 37,
+      "name": "People Who Say that Santa Doesn't Really Exist Actually Want to Believe in Him / Prayer Won't Make Your Worldly Desires Go Away! Control Yourself",
+      "seasonNumber": 1,
+      "number": 37,
+      "aired": "2006-12-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360504.jpg",
+      "absoluteNumber": 38,
+      "name": "Only Children Play in the Snow / Eating Ice Cream in Winter Is Awesome",
+      "seasonNumber": 1,
+      "number": 38,
+      "aired": "2007-01-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360505.jpg",
+      "absoluteNumber": 39,
+      "name": "Ramen Shops with Long Menus Never Do Well",
+      "seasonNumber": 1,
+      "number": 39,
+      "aired": "2007-01-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360506.jpg",
+      "absoluteNumber": 40,
+      "name": "Give a Thought to Planned Pregnancy",
+      "seasonNumber": 1,
+      "number": 40,
+      "aired": "2007-01-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360507.jpg",
+      "absoluteNumber": 41,
+      "name": "You Can't Judge a Movie by Its Title",
+      "seasonNumber": 1,
+      "number": 41,
+      "aired": "2007-02-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360508.jpg",
+      "absoluteNumber": 42,
+      "name": "You Know What Happens If You Pee on a Worm",
+      "seasonNumber": 1,
+      "number": 42,
+      "aired": "2007-02-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360509.jpg",
+      "absoluteNumber": 43,
+      "name": "Make Characters So Anybody Can Tell Who They Are by Just Their Silhouettes / Since It Ended a Bit Early, We're Starting the Next One",
+      "seasonNumber": 1,
+      "number": 43,
+      "aired": "2007-02-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360510.jpg",
+      "absoluteNumber": 44,
+      "name": "Mom's Busy Too, So Quit Complaining About What's for Dinner",
+      "seasonNumber": 1,
+      "number": 44,
+      "aired": "2007-02-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360511.jpg",
+      "absoluteNumber": 45,
+      "name": "Walk Your Dog at an Appropriate Speed",
+      "seasonNumber": 1,
+      "number": 45,
+      "aired": "2007-03-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360512.jpg",
+      "absoluteNumber": 46,
+      "name": "Adults Only. We Wouldn't Want Anyone Immature in Here…",
+      "seasonNumber": 1,
+      "number": 46,
+      "aired": "2007-03-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360513.jpg",
+      "absoluteNumber": 47,
+      "name": "Do Cherries Come from Cherry Trees?",
+      "seasonNumber": 1,
+      "number": 47,
+      "aired": "2007-03-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360514.jpg",
+      "absoluteNumber": 48,
+      "name": "The More You're Alike, the More You Fight / Whatever You Play, Play to Win",
+      "seasonNumber": 1,
+      "number": 48,
+      "aired": "2007-03-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360515.jpg",
+      "absoluteNumber": 49,
+      "name": "A Life Without Gambling Is Like Sushi Without Wasabi",
+      "seasonNumber": 1,
+      "number": 49,
+      "aired": "2007-03-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360516.jpg",
+      "absoluteNumber": 50,
+      "name": "Pending Means Pending, It's Not Final",
+      "seasonNumber": 2,
+      "number": 1,
+      "aired": "2007-04-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360517.jpg",
+      "absoluteNumber": 51,
+      "name": "Milk Should Be Served at Body Temperature",
+      "seasonNumber": 2,
+      "number": 2,
+      "aired": "2007-04-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360518.jpg",
+      "absoluteNumber": 52,
+      "name": "If You Want to See Someone, Make an Appo First",
+      "seasonNumber": 2,
+      "number": 3,
+      "aired": "2007-04-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360519.jpg",
+      "absoluteNumber": 53,
+      "name": "Stress Makes You Bald, But It's Stressful to Avoid Stress, So You End Up Stressed Out Anyway, So in the End There's Nothing You Can Do",
+      "seasonNumber": 2,
+      "number": 4,
+      "aired": "2007-04-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360520.jpg",
+      "absoluteNumber": 54,
+      "name": "Mothers Everywhere Are All the Same",
+      "seasonNumber": 2,
+      "number": 5,
+      "aired": "2007-05-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360521.jpg",
+      "absoluteNumber": 55,
+      "name": "Don't Make Munching Noises When You Eat",
+      "seasonNumber": 2,
+      "number": 6,
+      "aired": "2007-05-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360522.jpg",
+      "absoluteNumber": 56,
+      "name": "Keep an Eye on the Chief for the Day",
+      "seasonNumber": 2,
+      "number": 7,
+      "aired": "2007-05-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360523.jpg",
+      "absoluteNumber": 57,
+      "name": "When Looking for Things You've Lost, Remember What You Were Doing on the Day You Lost It",
+      "seasonNumber": 2,
+      "number": 8,
+      "aired": "2007-05-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360524.jpg",
+      "absoluteNumber": 58,
+      "name": "Croquette Sandwiches Are Always the Most Popular Food Sold at the Stalls",
+      "seasonNumber": 2,
+      "number": 9,
+      "aired": "2007-05-31",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360525.jpg",
+      "absoluteNumber": 59,
+      "name": "Be Careful Not to Leave Your Umbrella Somewhere",
+      "seasonNumber": 2,
+      "number": 10,
+      "aired": "2007-06-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360526.jpg",
+      "absoluteNumber": 60,
+      "name": "The Sun Will Rise Again",
+      "seasonNumber": 2,
+      "number": 11,
+      "aired": "2007-06-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360527.jpg",
+      "absoluteNumber": 61,
+      "name": "On a Moonless Night, Insects Are Drawn to the Light",
+      "seasonNumber": 2,
+      "number": 12,
+      "aired": "2007-06-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360528.jpg",
+      "absoluteNumber": 62,
+      "name": "Even Mummy Hunters Sometimes Turn Into Mummys",
+      "seasonNumber": 2,
+      "number": 13,
+      "aired": "2007-06-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360529.jpg",
+      "absoluteNumber": 63,
+      "name": "The Preview Section in JUMP Is Always Unreliable",
+      "seasonNumber": 2,
+      "number": 14,
+      "aired": "2007-07-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360530.jpg",
+      "absoluteNumber": 64,
+      "name": "Eating Nmaibo Can Make You Full in No Time!",
+      "seasonNumber": 2,
+      "number": 15,
+      "aired": "2007-07-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360531.jpg",
+      "absoluteNumber": 65,
+      "name": "Rhinoceros Beetles Teach Boys that Life Is Precious",
+      "seasonNumber": 2,
+      "number": 16,
+      "aired": "2007-07-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360532.jpg",
+      "absoluteNumber": 66,
+      "name": "Dango Over Flowers",
+      "seasonNumber": 2,
+      "number": 17,
+      "aired": "2007-07-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360533.jpg",
+      "absoluteNumber": 67,
+      "name": "For the Wind Is the Life / The Ideal Girlfriend Is Always Minami",
+      "seasonNumber": 2,
+      "number": 18,
+      "aired": "2007-08-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360534.jpg",
+      "absoluteNumber": 68,
+      "name": "Like a Haunted House, Life Is Filled with Horrors",
+      "seasonNumber": 2,
+      "number": 19,
+      "aired": "2007-08-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360535.jpg",
+      "absoluteNumber": 69,
+      "name": "Please Help by Separating Your Trash",
+      "seasonNumber": 2,
+      "number": 20,
+      "aired": "2007-08-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360536.jpg",
+      "absoluteNumber": 70,
+      "name": "Too Many Cuties Can Make You Sick",
+      "seasonNumber": 2,
+      "number": 21,
+      "aired": "2007-08-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360537.jpg",
+      "absoluteNumber": 71,
+      "name": "Some Data Cannot Be Erased",
+      "seasonNumber": 2,
+      "number": 22,
+      "aired": "2007-08-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360538.jpg",
+      "absoluteNumber": 72,
+      "name": "A Dog's Paws Smell Fragrant / Drive with a \"Might\" Attitude",
+      "seasonNumber": 2,
+      "number": 23,
+      "aired": "2007-09-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360539.jpg",
+      "absoluteNumber": 73,
+      "name": "Think for a Minute Now, Do Matsutake Mushrooms Really Taste All that Good?",
+      "seasonNumber": 2,
+      "number": 24,
+      "aired": "2007-09-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360540.jpg",
+      "absoluteNumber": 74,
+      "name": "The Manga Writer Becomes a Pro, After Doing a Stock of Manuscripts",
+      "seasonNumber": 2,
+      "number": 25,
+      "aired": "2007-09-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/360541.jpg",
+      "absoluteNumber": 75,
+      "name": "Don't Complain About Your Job at Home, Do It Somewhere Else",
+      "seasonNumber": 2,
+      "number": 26,
+      "aired": "2007-09-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/387986.jpg",
+      "absoluteNumber": 76,
+      "name": "In Those Situations, Keep Quiet and Cook Red Rice with Beans",
+      "seasonNumber": 2,
+      "number": 27,
+      "aired": "2007-10-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/387987.jpg",
+      "absoluteNumber": 77,
+      "name": "Yesterday's Enemy, After All Is Said and Done, Is Still the Enemy",
+      "seasonNumber": 2,
+      "number": 28,
+      "aired": "2007-10-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/387988.jpg",
+      "absoluteNumber": 78,
+      "name": "People Who Are Picky About Food Are Also Picky About People, Too",
+      "seasonNumber": 2,
+      "number": 29,
+      "aired": "2007-10-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/387989.jpg",
+      "absoluteNumber": 79,
+      "name": "Four Heads Are Better Than One",
+      "seasonNumber": 2,
+      "number": 30,
+      "aired": "2007-10-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/387990.jpg",
+      "absoluteNumber": 80,
+      "name": "When Someone Who Wears Glasses Takes Them Off, It Looks Like Something's Missing",
+      "seasonNumber": 2,
+      "number": 31,
+      "aired": "2007-11-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/387991.jpg",
+      "absoluteNumber": 81,
+      "name": "A Woman's Best Make-Up Is Her Smile",
+      "seasonNumber": 2,
+      "number": 32,
+      "aired": "2007-11-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/387992.jpg",
+      "absoluteNumber": 82,
+      "name": "You Don't Stand in Line for the Ramen, You Stand in Line for the Self-Satisfaction / You Say Kawaii So Often, You Must Really Think You're Cute Stuff",
+      "seasonNumber": 2,
+      "number": 33,
+      "aired": "2007-11-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/387993.jpg",
+      "absoluteNumber": 83,
+      "name": "Rank Has Nothing to Do with Luck",
+      "seasonNumber": 2,
+      "number": 34,
+      "aired": "2007-11-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/387994.jpg",
+      "absoluteNumber": 84,
+      "name": "Hard-Boiled Egg on a Man's Heart",
+      "seasonNumber": 2,
+      "number": 35,
+      "aired": "2007-12-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/387995.jpg",
+      "absoluteNumber": 85,
+      "name": "Hard-Boiled Eggs Don't Crack",
+      "seasonNumber": 2,
+      "number": 36,
+      "aired": "2007-12-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/387996.jpg",
+      "absoluteNumber": 86,
+      "name": "It's Often Difficult to Sleep When You're Engrossed with Counting Sheep",
+      "seasonNumber": 2,
+      "number": 37,
+      "aired": "2007-12-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/387997.jpg",
+      "absoluteNumber": 87,
+      "name": "Perform a German Suplex on a Woman Who Asks If She or the Job Is More Important",
+      "seasonNumber": 2,
+      "number": 38,
+      "aired": "2007-12-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/387998.jpg",
+      "absoluteNumber": 88,
+      "name": "The Most Exciting Part of a Group Date Is Before It Starts",
+      "seasonNumber": 2,
+      "number": 39,
+      "aired": "2008-01-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/387999.jpg",
+      "absoluteNumber": 89,
+      "name": "What Happens Twice, Happens Thrice",
+      "seasonNumber": 2,
+      "number": 40,
+      "aired": "2008-01-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/388000.jpg",
+      "absoluteNumber": 90,
+      "name": "The More Delicious the Food, the Nastier It Is When It Goes Bad",
+      "seasonNumber": 2,
+      "number": 41,
+      "aired": "2008-01-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/388001.jpg",
+      "absoluteNumber": 91,
+      "name": "If You Want to Lose Weight, Then Stop Eating and Start Moving",
+      "seasonNumber": 2,
+      "number": 42,
+      "aired": "2008-01-31",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/388002.jpg",
+      "absoluteNumber": 92,
+      "name": "Be a Person Who Can See People's Strong Points and Not Their Weak Points",
+      "seasonNumber": 2,
+      "number": 43,
+      "aired": "2008-02-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/388003.jpg",
+      "absoluteNumber": 93,
+      "name": "Even a Hero Has Issues",
+      "seasonNumber": 2,
+      "number": 44,
+      "aired": "2008-02-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/388004.jpg",
+      "absoluteNumber": 94,
+      "name": "When Riding a Train, Make Sure You Grab the Straps with Both Hands",
+      "seasonNumber": 2,
+      "number": 45,
+      "aired": "2008-02-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/388005.jpg",
+      "absoluteNumber": 95,
+      "name": "Men, Be a Madao",
+      "seasonNumber": 2,
+      "number": 46,
+      "aired": "2008-02-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445835.jpg",
+      "absoluteNumber": 96,
+      "name": "If You're a Man, Don't Give Up",
+      "seasonNumber": 2,
+      "number": 47,
+      "aired": "2008-03-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445836.jpg",
+      "absoluteNumber": 97,
+      "name": "Exaggerate the Tales of Your Exploits by a Third, So Everyone Has a Good Time / Men Have a Weakness for Girls Who Sell Flowers and Work in Pastry Shops",
+      "seasonNumber": 2,
+      "number": 48,
+      "aired": "2008-03-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445837.jpg",
+      "absoluteNumber": 98,
+      "name": "Play Video Games for Only an Hour a Day",
+      "seasonNumber": 2,
+      "number": 49,
+      "aired": "2008-03-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445838.jpg",
+      "absoluteNumber": 99,
+      "name": "Life and Video Games Are Full of Bugs",
+      "seasonNumber": 2,
+      "number": 50,
+      "aired": "2008-03-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/402547.jpg",
+      "absoluteNumber": 100,
+      "name": "The More Something Is Disliked, the More Lovely It Is",
+      "seasonNumber": 3,
+      "number": 1,
+      "aired": "2008-04-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445833.jpg",
+      "absoluteNumber": 101,
+      "name": "Rules Are Made to Be Broken",
+      "seasonNumber": 3,
+      "number": 2,
+      "aired": "2008-04-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445834.jpg",
+      "absoluteNumber": 102,
+      "name": "Otaku Are Talkative",
+      "seasonNumber": 3,
+      "number": 3,
+      "aired": "2008-04-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445839.jpg",
+      "absoluteNumber": 103,
+      "name": "There's a Thin Line Between Strengths and Weaknesses",
+      "seasonNumber": 3,
+      "number": 4,
+      "aired": "2008-04-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445840.jpg",
+      "absoluteNumber": 104,
+      "name": "Important Things Are Hard to See",
+      "seasonNumber": 3,
+      "number": 5,
+      "aired": "2008-05-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445841.jpg",
+      "absoluteNumber": 105,
+      "name": "It's All About the Beat and Timing",
+      "seasonNumber": 3,
+      "number": 6,
+      "aired": "2008-05-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445842.jpg",
+      "absoluteNumber": 106,
+      "name": "Love Is Often Played Out in Sudden Death",
+      "seasonNumber": 3,
+      "number": 7,
+      "aired": "2008-05-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445843.jpg",
+      "absoluteNumber": 107,
+      "name": "Kids Don't Understand How Their Parents Feel",
+      "seasonNumber": 3,
+      "number": 8,
+      "aired": "2008-05-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445844.jpg",
+      "absoluteNumber": 108,
+      "name": "Some Things Are Better Left Unsaid",
+      "seasonNumber": 3,
+      "number": 9,
+      "aired": "2008-05-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445845.jpg",
+      "absoluteNumber": 109,
+      "name": "Life Is a Test",
+      "seasonNumber": 3,
+      "number": 10,
+      "aired": "2008-06-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445846.jpg",
+      "absoluteNumber": 110,
+      "name": "People Are All Escapees of Their Own Inner Prisons",
+      "seasonNumber": 3,
+      "number": 11,
+      "aired": "2008-06-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445847.jpg",
+      "absoluteNumber": 111,
+      "name": "Definitely Do Not Let Your Girlfriend See the Things You Use for Cross-Dressing / There's Almost a 100% Chance You'll Forget Your Umbrella and Hate Yourself for It",
+      "seasonNumber": 3,
+      "number": 12,
+      "aired": "2008-06-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445848.jpg",
+      "absoluteNumber": 112,
+      "name": "A Birthday in Your Twenties Has No Deep Meaning / Lucky Is a Man Who Gets Up and Goes to Work",
+      "seasonNumber": 3,
+      "number": 13,
+      "aired": "2008-06-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445849.jpg",
+      "absoluteNumber": 113,
+      "name": "Cleaning the Toilet Cleanses the Soul",
+      "seasonNumber": 3,
+      "number": 14,
+      "aired": "2008-07-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445850.jpg",
+      "absoluteNumber": 114,
+      "name": "They Say Soy Sauce on Pudding Tastes Like Sea Urchin, But Soy Sauce on Pudding Only Tastes Like Pudding and Soy Sauce",
+      "seasonNumber": 3,
+      "number": 15,
+      "aired": "2008-07-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445851.jpg",
+      "absoluteNumber": 115,
+      "name": "Summer Vacation Is the Most Fun Right Before It Begins",
+      "seasonNumber": 3,
+      "number": 16,
+      "aired": "2008-07-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445852.jpg",
+      "absoluteNumber": 116,
+      "name": "The Older, the Wiser",
+      "seasonNumber": 3,
+      "number": 17,
+      "aired": "2008-07-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445853.jpg",
+      "absoluteNumber": 117,
+      "name": "Beauty Is Like a Summer Fruit",
+      "seasonNumber": 3,
+      "number": 18,
+      "aired": "2008-07-31",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445854.jpg",
+      "absoluteNumber": 118,
+      "name": "Even If Your Back Is Bent, Go Straight Forward",
+      "seasonNumber": 3,
+      "number": 19,
+      "aired": "2008-08-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445855.jpg",
+      "absoluteNumber": 119,
+      "name": "Within Each Box of Cigarettes, Are One or Two Cigarettes that Smell Like Horse Dung",
+      "seasonNumber": 3,
+      "number": 20,
+      "aired": "2008-08-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445856.jpg",
+      "absoluteNumber": 120,
+      "name": "Japanese Restaurants Abroad Taste Pretty Much Like School Cafeteria Lunches / Once You've Taken a Dish, You Can't Put It Back",
+      "seasonNumber": 3,
+      "number": 21,
+      "aired": "2008-08-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445857.jpg",
+      "absoluteNumber": 121,
+      "name": "Novices Only Need a Flathead and a Phillips",
+      "seasonNumber": 3,
+      "number": 22,
+      "aired": "2008-08-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445858.jpg",
+      "absoluteNumber": 122,
+      "name": "Imagination Is Nurtured in the 8th Grade",
+      "seasonNumber": 3,
+      "number": 23,
+      "aired": "2008-09-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445859.jpg",
+      "absoluteNumber": 123,
+      "name": "Always Keep a Screwdriver in Your Heart",
+      "seasonNumber": 3,
+      "number": 24,
+      "aired": "2008-09-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445860.jpg",
+      "absoluteNumber": 124,
+      "name": "When Nagging Goes Too Far It Becomes Intimidating",
+      "seasonNumber": 3,
+      "number": 25,
+      "aired": "2008-09-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445861.jpg",
+      "absoluteNumber": 125,
+      "name": "Entering the Final Chapter!",
+      "seasonNumber": 3,
+      "number": 26,
+      "aired": "2008-09-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445862.jpg",
+      "absoluteNumber": 126,
+      "name": "Some Things Can Only Be Conveyed Through the Written Word",
+      "seasonNumber": 3,
+      "number": 27,
+      "aired": "2008-10-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445863.jpg",
+      "absoluteNumber": 127,
+      "name": "Sometimes You Must Meet to Understand",
+      "seasonNumber": 3,
+      "number": 28,
+      "aired": "2008-10-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445864.jpg",
+      "absoluteNumber": 128,
+      "name": "Sometimes You Can't Tell Just by Meeting Someone",
+      "seasonNumber": 3,
+      "number": 29,
+      "aired": "2008-10-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445865.jpg",
+      "absoluteNumber": 129,
+      "name": "Beware of Food You Pick Up Off the Ground",
+      "seasonNumber": 3,
+      "number": 30,
+      "aired": "2008-10-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445866.jpg",
+      "absoluteNumber": 130,
+      "name": "Cat Lovers and Dog Lovers Are Mutually Exclusive",
+      "seasonNumber": 3,
+      "number": 31,
+      "aired": "2008-10-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445867.jpg",
+      "absoluteNumber": 131,
+      "name": "Fights Often Ensue During Trips",
+      "seasonNumber": 3,
+      "number": 32,
+      "aired": "2008-11-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445868.jpg",
+      "absoluteNumber": 132,
+      "name": "Briefs Will Unavoidably Get Skidmarks",
+      "seasonNumber": 3,
+      "number": 33,
+      "aired": "2008-11-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445869.jpg",
+      "absoluteNumber": 133,
+      "name": "Gin and His Excellency's Good-for-Nothings",
+      "seasonNumber": 3,
+      "number": 34,
+      "aired": "2008-11-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445870.jpg",
+      "absoluteNumber": 134,
+      "name": "Be Very Careful When Using Ghost Stories",
+      "seasonNumber": 3,
+      "number": 35,
+      "aired": "2008-11-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445871.jpg",
+      "absoluteNumber": 135,
+      "name": "Before Thinking About the Earth, Think About the More Endangered Gintaman's Future!",
+      "seasonNumber": 3,
+      "number": 36,
+      "aired": "2008-12-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445872.jpg",
+      "absoluteNumber": 136,
+      "name": "It's Your House, You Build It",
+      "seasonNumber": 3,
+      "number": 37,
+      "aired": "2008-12-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445873.jpg",
+      "absoluteNumber": 137,
+      "name": "99% of Men Aren't Confident in Confessing Their Love / People Who Don't Believe in Santa Are the Very Ones Who Want to Believe, You Contentious Bastard",
+      "seasonNumber": 3,
+      "number": 38,
+      "aired": "2008-12-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445874.jpg",
+      "absoluteNumber": 138,
+      "name": "Let's Talk About the Old Days Once in a While",
+      "seasonNumber": 3,
+      "number": 39,
+      "aired": "2008-12-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445875.jpg",
+      "absoluteNumber": 139,
+      "name": "Don't Put Your Wallet in Your Back Pocket",
+      "seasonNumber": 3,
+      "number": 40,
+      "aired": "2009-01-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445876.jpg",
+      "absoluteNumber": 140,
+      "name": "Beware of Those Who Use an Umbrella on a Sunny Day!",
+      "seasonNumber": 3,
+      "number": 41,
+      "aired": "2009-01-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445877.jpg",
+      "absoluteNumber": 141,
+      "name": "Butting into a Fight Is Dangerous",
+      "seasonNumber": 3,
+      "number": 42,
+      "aired": "2009-01-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445878.jpg",
+      "absoluteNumber": 142,
+      "name": "Life Is About Making Consecutive Decisions",
+      "seasonNumber": 3,
+      "number": 43,
+      "aired": "2009-01-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445879.jpg",
+      "absoluteNumber": 143,
+      "name": "Those Who Stand on Four Legs Are Beasts. Those Who Stand on Two Legs, Guts, and Glory Are Men",
+      "seasonNumber": 3,
+      "number": 44,
+      "aired": "2009-02-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445880.jpg",
+      "absoluteNumber": 144,
+      "name": "Don't Trust Bedtime Stories",
+      "seasonNumber": 3,
+      "number": 45,
+      "aired": "2009-02-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445881.jpg",
+      "absoluteNumber": 145,
+      "name": "The Color for Each Person's Bond Comes in Various Colors",
+      "seasonNumber": 3,
+      "number": 46,
+      "aired": "2009-02-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445882.jpg",
+      "absoluteNumber": 146,
+      "name": "The Taste of Drinking Under Broad Daylight Is Something Special",
+      "seasonNumber": 3,
+      "number": 47,
+      "aired": "2009-02-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445883.jpg",
+      "absoluteNumber": 147,
+      "name": "All Adults Are Instructors for All Children",
+      "seasonNumber": 3,
+      "number": 48,
+      "aired": "2009-03-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445884.jpg",
+      "absoluteNumber": 148,
+      "name": "Zip Up Your Fly Nice and Slowly",
+      "seasonNumber": 3,
+      "number": 49,
+      "aired": "2009-03-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445885.jpg",
+      "absoluteNumber": 149,
+      "name": "When Breaking a Chuubert in Half, the End with the Knob Should Be Better. It's Also Tasty to Drink from There",
+      "seasonNumber": 3,
+      "number": 50,
+      "aired": "2009-03-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/445886.jpg",
+      "absoluteNumber": 150,
+      "name": "If You Can't Beat Them, Join Them",
+      "seasonNumber": 3,
+      "number": 51,
+      "aired": "2009-03-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1425591.jpg",
+      "absoluteNumber": 151,
+      "name": "A Conversation with a Barber, During a Haircut, Is the Most Pointless Thing in the World",
+      "seasonNumber": 4,
+      "number": 1,
+      "aired": "2009-04-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1425601.jpg",
+      "absoluteNumber": 152,
+      "name": "The Heavens Created Chonmage Above Man Instead of Another Man",
+      "seasonNumber": 4,
+      "number": 2,
+      "aired": "2009-04-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1425611.jpg",
+      "absoluteNumber": 153,
+      "name": "Sleep Helps a Child Grow",
+      "seasonNumber": 4,
+      "number": 3,
+      "aired": "2009-04-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1425621.jpg",
+      "absoluteNumber": 154,
+      "name": "That Person Looks Different from Usual During a Birthday Party",
+      "seasonNumber": 4,
+      "number": 4,
+      "aired": "2009-04-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1425631.jpg",
+      "absoluteNumber": 155,
+      "name": "The Other Side of the Other Side of the Other Side Would Be the Other Side",
+      "seasonNumber": 4,
+      "number": 5,
+      "aired": "2009-04-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1425641.jpg",
+      "absoluteNumber": 156,
+      "name": "It Takes a Bit of Courage to Enter a Street Vendor's Stand",
+      "seasonNumber": 4,
+      "number": 6,
+      "aired": "2009-05-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1425651.jpg",
+      "absoluteNumber": 157,
+      "name": "Any Place Can Become a Battlefield When Men Gather",
+      "seasonNumber": 4,
+      "number": 7,
+      "aired": "2009-05-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1425661.jpg",
+      "absoluteNumber": 158,
+      "name": "If a Friend Gets Injured, Take Him to the Hospital, Stat!",
+      "seasonNumber": 4,
+      "number": 8,
+      "aired": "2009-05-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1425671.jpg",
+      "absoluteNumber": 159,
+      "name": "If One Orange in the Box Is Rotten, the Rest of Them Will Become Rotten Before You Realize It",
+      "seasonNumber": 4,
+      "number": 9,
+      "aired": "2009-05-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1425681.jpg",
+      "absoluteNumber": 160,
+      "name": "From a Foreigner's Perspective, You're the Foreigner. From an Alien's Perspective, You're the Alien",
+      "seasonNumber": 4,
+      "number": 10,
+      "aired": "2009-06-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1425701.jpg",
+      "absoluteNumber": 161,
+      "name": "Laputa's Still Good After Seeing It So Many Times",
+      "seasonNumber": 4,
+      "number": 11,
+      "aired": "2009-06-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1425711.jpg",
+      "absoluteNumber": 162,
+      "name": "Love Is Unconditional",
+      "seasonNumber": 4,
+      "number": 12,
+      "aired": "2009-06-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1425721.jpg",
+      "absoluteNumber": 163,
+      "name": "The Black Ships Even Make a Scene When They Sink",
+      "seasonNumber": 4,
+      "number": 13,
+      "aired": "2009-06-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1425731.jpg",
+      "absoluteNumber": 164,
+      "name": "That Matsutake Soup Stuff Tastes Better Than the Real Deal / If a Person Is Dead, They Can't Come Back to Life",
+      "seasonNumber": 4,
+      "number": 14,
+      "aired": "2009-07-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1425741.jpg",
+      "absoluteNumber": 165,
+      "name": "If It Works Once, It'll Work Over and Over Again",
+      "seasonNumber": 4,
+      "number": 15,
+      "aired": "2009-07-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1425751.jpg",
+      "absoluteNumber": 166,
+      "name": "Two Is Better Than One. Two People Are Better Than One",
+      "seasonNumber": 4,
+      "number": 16,
+      "aired": "2009-07-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1425761.jpg",
+      "absoluteNumber": 167,
+      "name": "Smooth Polygons Smooth Men's Hearts Too",
+      "seasonNumber": 4,
+      "number": 17,
+      "aired": "2009-07-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1425771.jpg",
+      "absoluteNumber": 168,
+      "name": "The Human Body Is Like a Little Universe",
+      "seasonNumber": 4,
+      "number": 18,
+      "aired": "2009-07-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1425781.jpg",
+      "absoluteNumber": 169,
+      "name": "The Chosen Idiots",
+      "seasonNumber": 4,
+      "number": 19,
+      "aired": "2009-08-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1425791.jpg",
+      "absoluteNumber": 170,
+      "name": "And into the Legend…",
+      "seasonNumber": 4,
+      "number": 20,
+      "aired": "2009-08-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1425801.jpg",
+      "absoluteNumber": 171,
+      "name": "If You Keep Copying, They Will Retaliate / A Loss Open Your Eyes to the Love You Have",
+      "seasonNumber": 4,
+      "number": 21,
+      "aired": "2009-08-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1425811.jpg",
+      "absoluteNumber": 172,
+      "name": "Using the \"Carrot and Stick\" Method Depends on the Situation",
+      "seasonNumber": 4,
+      "number": 22,
+      "aired": "2009-08-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1425821.jpg",
+      "absoluteNumber": 173,
+      "name": "It's What's on the Inside that Counts / It's What's on the Inside that Counts, But Only to a Certain Extent",
+      "seasonNumber": 4,
+      "number": 23,
+      "aired": "2009-09-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1425831.jpg",
+      "absoluteNumber": 174,
+      "name": "Are There Still People Who Go to the Ocean and Yell Out \"Bakayaro\"? / When a Person Is Trapped, Their Inner Door Opens",
+      "seasonNumber": 4,
+      "number": 24,
+      "aired": "2009-09-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1425841.jpg",
+      "absoluteNumber": 175,
+      "name": "No Matter How Old You Get, You Still Hate the Dentist!",
+      "seasonNumber": 4,
+      "number": 25,
+      "aired": "2009-09-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1425851.jpg",
+      "absoluteNumber": 176,
+      "name": "Countdown Begins",
+      "seasonNumber": 4,
+      "number": 26,
+      "aired": "2009-09-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1429931.jpg",
+      "absoluteNumber": 177,
+      "name": "It's Bad Luck to See a Spider at Night",
+      "seasonNumber": 4,
+      "number": 27,
+      "aired": "2009-10-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1429941.jpg",
+      "absoluteNumber": 178,
+      "name": "Once You're Entangled in a Spiderweb, It's Hard to Get It Off",
+      "seasonNumber": 4,
+      "number": 28,
+      "aired": "2009-10-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1429951.jpg",
+      "absoluteNumber": 179,
+      "name": "It's the Irresponsible One Who's Scary When Pissed",
+      "seasonNumber": 4,
+      "number": 29,
+      "aired": "2009-10-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1429961.jpg",
+      "absoluteNumber": 180,
+      "name": "The More Precious the Burden, the Heavier and More Difficult It Is to Shoulder It",
+      "seasonNumber": 4,
+      "number": 30,
+      "aired": "2009-10-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1429971.jpg",
+      "absoluteNumber": 181,
+      "name": "Watch Out for a Set of Women and a Drink",
+      "seasonNumber": 4,
+      "number": 31,
+      "aired": "2009-10-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1429981.jpg",
+      "absoluteNumber": 182,
+      "name": "Screw Popularity Votes",
+      "seasonNumber": 4,
+      "number": 32,
+      "aired": "2009-11-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1429991.jpg",
+      "absoluteNumber": 183,
+      "name": "Popularity Polls Can Burn in Hell",
+      "seasonNumber": 4,
+      "number": 33,
+      "aired": "2009-11-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1430001.jpg",
+      "absoluteNumber": 184,
+      "name": "Popularity Polls Can…",
+      "seasonNumber": 4,
+      "number": 34,
+      "aired": "2009-11-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1430011.jpg",
+      "absoluteNumber": 185,
+      "name": "Hometowns and Boobs Are Best Thought of from Afar / The Whole Peeing on a Bee Sting Is a Myth. You'll Get Germs, So Don't Do It!!",
+      "seasonNumber": 4,
+      "number": 35,
+      "aired": "2009-11-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1430021.jpg",
+      "absoluteNumber": 186,
+      "name": "Beware of Foreshadows",
+      "seasonNumber": 4,
+      "number": 36,
+      "aired": "2009-12-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1430031.jpg",
+      "absoluteNumber": 187,
+      "name": "It's Goodbye Once a Flag Is Set",
+      "seasonNumber": 4,
+      "number": 37,
+      "aired": "2009-12-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1430041.jpg",
+      "absoluteNumber": 188,
+      "name": "An Observation Journal Should Be Seen Through to the Very End",
+      "seasonNumber": 4,
+      "number": 38,
+      "aired": "2009-12-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1430051.jpg",
+      "absoluteNumber": 189,
+      "name": "We Know It's Best to Finish Yearly Tasks Before the End of the Year, But Then You Put It Off 'til Next Year for a Fresh Start. That's How the End of the Year Goes",
+      "seasonNumber": 4,
+      "number": 39,
+      "aired": "2009-12-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1430061.jpg",
+      "absoluteNumber": 190,
+      "name": "When Looking for Something, Try Using Its Perspective",
+      "seasonNumber": 4,
+      "number": 40,
+      "aired": "2010-01-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1430071.jpg",
+      "absoluteNumber": 191,
+      "name": "Freedom Means to Live True to Yourself, Not Without Law!",
+      "seasonNumber": 4,
+      "number": 41,
+      "aired": "2010-01-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1430081.jpg",
+      "absoluteNumber": 192,
+      "name": "Kabukicho Stray Cat Blues",
+      "seasonNumber": 4,
+      "number": 42,
+      "aired": "2010-01-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1430091.jpg",
+      "absoluteNumber": 193,
+      "name": "Cooking Is About Guts",
+      "seasonNumber": 4,
+      "number": 43,
+      "aired": "2010-01-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1430101.jpg",
+      "absoluteNumber": 194,
+      "name": "Whenever I Hear Leviathan, I Think of Sazae-san. Stupid Me!!",
+      "seasonNumber": 4,
+      "number": 44,
+      "aired": "2010-02-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1430111.jpg",
+      "absoluteNumber": 195,
+      "name": "Not Losing to the Rain",
+      "seasonNumber": 4,
+      "number": 45,
+      "aired": "2010-02-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1430121.jpg",
+      "absoluteNumber": 196,
+      "name": "Not Losing to the Wind",
+      "seasonNumber": 4,
+      "number": 46,
+      "aired": "2010-02-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1990941.jpg",
+      "absoluteNumber": 197,
+      "name": "Not Losing to the Storm",
+      "seasonNumber": 4,
+      "number": 47,
+      "aired": "2010-02-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1990951.jpg",
+      "absoluteNumber": 198,
+      "name": "Never Losing That Smile",
+      "seasonNumber": 4,
+      "number": 48,
+      "aired": "2010-03-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1990961.jpg",
+      "absoluteNumber": 199,
+      "name": "That's How I Wish to Be, Beautiful and Strong",
+      "seasonNumber": 4,
+      "number": 49,
+      "aired": "2010-03-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1990971.jpg",
+      "absoluteNumber": 200,
+      "name": "Santa Claus Red Is Blood Red",
+      "seasonNumber": 4,
+      "number": 50,
+      "aired": "2010-03-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/1990981.jpg",
+      "absoluteNumber": 201,
+      "name": "Everybody's a Santa!",
+      "seasonNumber": 4,
+      "number": 51,
+      "aired": "2010-03-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/3700981.jpg",
+      "absoluteNumber": 202,
+      "name": "Everyone Looks a Little Grown Up After Spring Break",
+      "seasonNumber": 5,
+      "number": 1,
+      "aired": "2011-04-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4076669.jpg",
+      "absoluteNumber": 203,
+      "name": "Everyone Looks Pretty Grown Up After Summer Break",
+      "seasonNumber": 5,
+      "number": 2,
+      "aired": "2011-04-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4076949.jpg",
+      "absoluteNumber": 204,
+      "name": "Use a Calligraphy Pen for New Year Cards / The Heart Comes Before Chocolate",
+      "seasonNumber": 5,
+      "number": 3,
+      "aired": "2011-04-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4085307.jpg",
+      "absoluteNumber": 205,
+      "name": "Meals Should Be Balanced / We Are All Warriors in the Battle Against Fate",
+      "seasonNumber": 5,
+      "number": 4,
+      "aired": "2011-04-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4092363.jpg",
+      "absoluteNumber": 206,
+      "name": "It's Too Confusing When Talking About the Poster Girl for a Poster Store, So Call Her a Sandwich Board",
+      "seasonNumber": 5,
+      "number": 5,
+      "aired": "2011-05-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4096930.jpg",
+      "absoluteNumber": 207,
+      "name": "Glasses Are Part of the Soul",
+      "seasonNumber": 5,
+      "number": 6,
+      "aired": "2011-05-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4100500.jpg",
+      "absoluteNumber": 208,
+      "name": "Glasses Prevent You from Seeing Certain Things",
+      "seasonNumber": 5,
+      "number": 7,
+      "aired": "2011-05-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4100507.jpg",
+      "absoluteNumber": 209,
+      "name": "Nothing Lasts Forever, Including Parents, Money, Youth, Your Room, Dress Shirts, Me, You and the Gintama Anime",
+      "seasonNumber": 5,
+      "number": 8,
+      "aired": "2011-05-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4100508.jpg",
+      "absoluteNumber": 210,
+      "name": "A Lawless Town Tends to Attract a Bunch of Whoohooey Folk",
+      "seasonNumber": 5,
+      "number": 9,
+      "aired": "2011-05-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4100509.jpg",
+      "absoluteNumber": 211,
+      "name": "Ghosts Aren't The Only Ones Who Run Wild Around Graveyards",
+      "seasonNumber": 5,
+      "number": 10,
+      "aired": "2011-06-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4100510.jpg",
+      "absoluteNumber": 212,
+      "name": "Chains of a Warrior",
+      "seasonNumber": 5,
+      "number": 11,
+      "aired": "2011-06-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4100511.jpg",
+      "absoluteNumber": 213,
+      "name": "Iron Town",
+      "seasonNumber": 5,
+      "number": 12,
+      "aired": "2011-06-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4100512.jpg",
+      "absoluteNumber": 214,
+      "name": "'Tis an Honor!",
+      "seasonNumber": 5,
+      "number": 13,
+      "aired": "2011-06-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4100513.jpg",
+      "absoluteNumber": 215,
+      "name": "Odds or Even",
+      "seasonNumber": 5,
+      "number": 14,
+      "aired": "2011-07-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4100514.jpg",
+      "absoluteNumber": 216,
+      "name": "I Can't Remember a Damn Thing About the Factory Tour",
+      "seasonNumber": 5,
+      "number": 15,
+      "aired": "2011-07-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4100515.jpg",
+      "absoluteNumber": 217,
+      "name": "What Happen Twice Can Happen Thrice",
+      "seasonNumber": 5,
+      "number": 16,
+      "aired": "2011-07-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4100516.jpg",
+      "absoluteNumber": 218,
+      "name": "The Pincers of Crab Can Snip Through a Friendship",
+      "seasonNumber": 5,
+      "number": 17,
+      "aired": "2011-07-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4100517.jpg",
+      "absoluteNumber": 219,
+      "name": "People Forget to Return Stuff All the Time Without Even Realizing It",
+      "seasonNumber": 5,
+      "number": 18,
+      "aired": "2011-08-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4100518.jpg",
+      "absoluteNumber": 220,
+      "name": "The Bathhouse, Where You're Naked in Body and Soul",
+      "seasonNumber": 5,
+      "number": 19,
+      "aired": "2011-08-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4100519.jpg",
+      "absoluteNumber": 221,
+      "name": "Jugem",
+      "seasonNumber": 5,
+      "number": 20,
+      "aired": "2011-08-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4130091.jpg",
+      "absoluteNumber": 222,
+      "name": "The Name Reveals the Person",
+      "seasonNumber": 5,
+      "number": 21,
+      "aired": "2011-08-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4130092.jpg",
+      "absoluteNumber": 223,
+      "name": "The Man's Household Situation Is Hard , His Heart Is Soft",
+      "seasonNumber": 5,
+      "number": 22,
+      "aired": "2011-08-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4130093.jpg",
+      "absoluteNumber": 224,
+      "name": "Blue and Red Ecstasy",
+      "seasonNumber": 5,
+      "number": 23,
+      "aired": "2011-09-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4130095.jpg",
+      "absoluteNumber": 225,
+      "name": "So in the Second Season of Prison Break, They Already Broke Out of Prison, But the Name Works When You Realize That Society Is a Prison",
+      "seasonNumber": 5,
+      "number": 24,
+      "aired": "2011-09-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4130096.jpg",
+      "absoluteNumber": 226,
+      "name": "Everybody Loves Pajamas",
+      "seasonNumber": 5,
+      "number": 25,
+      "aired": "2011-09-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4130097.jpg",
+      "absoluteNumber": 227,
+      "name": "Speaking Of Crossovers , Don't Forget About Alien Vs Predator",
+      "seasonNumber": 5,
+      "number": 26,
+      "aired": "2011-09-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4182461.jpg",
+      "absoluteNumber": 228,
+      "name": "Love Is Neither Plus Nor Minus",
+      "seasonNumber": 5,
+      "number": 27,
+      "aired": "2011-10-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4186235.jpg",
+      "absoluteNumber": 229,
+      "name": "Making It Through Love",
+      "seasonNumber": 5,
+      "number": 28,
+      "aired": "2011-10-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4186236.jpg",
+      "absoluteNumber": 230,
+      "name": "It Would Take Too Much Effort to Make This Title Sound Like a Text Message Subject",
+      "seasonNumber": 5,
+      "number": 29,
+      "aired": "2011-10-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4186237.jpg",
+      "absoluteNumber": 231,
+      "name": "When You Go to a Funeral for the First Time, You're Surprised By How Happy the People Are",
+      "seasonNumber": 5,
+      "number": 30,
+      "aired": "2011-10-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4186238.jpg",
+      "absoluteNumber": 232,
+      "name": "The People You Tend to Forget Tend to Show Up After You Forget Them",
+      "seasonNumber": 5,
+      "number": 31,
+      "aired": "2011-10-31",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4186239.jpg",
+      "absoluteNumber": 233,
+      "name": "The Legendary Mercenary Tribe, Renho.  Elizabeth Was in Fact, One of Those White Demons",
+      "seasonNumber": 5,
+      "number": 32,
+      "aired": "2011-11-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4186240.jpg",
+      "absoluteNumber": 234,
+      "name": "Piggy Banks and Trash Cans",
+      "seasonNumber": 5,
+      "number": 33,
+      "aired": "2011-11-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4186241.jpg",
+      "absoluteNumber": 235,
+      "name": "Empty Planet",
+      "seasonNumber": 5,
+      "number": 34,
+      "aired": "2011-11-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4186242.jpg",
+      "absoluteNumber": 236,
+      "name": "Goodbye Lionel, Why Don't You Say Something!",
+      "seasonNumber": 5,
+      "number": 35,
+      "aired": "2011-11-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4217170.jpg",
+      "absoluteNumber": 237,
+      "name": "Please Take Me Skiing",
+      "seasonNumber": 5,
+      "number": 36,
+      "aired": "2011-12-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4218620.jpg",
+      "absoluteNumber": 238,
+      "name": "A Vacation in Disorientation",
+      "seasonNumber": 5,
+      "number": 37,
+      "aired": "2011-12-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4224670.jpg",
+      "absoluteNumber": 239,
+      "name": "There Are Some Things You Should Not Forget When Drinking Away the Past Year at Year-End Parties",
+      "seasonNumber": 5,
+      "number": 38,
+      "aired": "2011-12-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4224671.jpg",
+      "absoluteNumber": 240,
+      "name": "People Can Only Live By Forgetting the Bad",
+      "seasonNumber": 5,
+      "number": 39,
+      "aired": "2011-12-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4224672.jpg",
+      "absoluteNumber": 241,
+      "name": "We Are All Hosts, in Capital Letters",
+      "seasonNumber": 5,
+      "number": 40,
+      "aired": "2012-01-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4237808.jpg",
+      "absoluteNumber": 242,
+      "name": "Girls like Vegeta, Guys like Piccolo",
+      "seasonNumber": 5,
+      "number": 41,
+      "aired": "2012-01-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4237809.jpg",
+      "absoluteNumber": 243,
+      "name": "Draw Your Life on the Canvas We Call Manga",
+      "seasonNumber": 5,
+      "number": 42,
+      "aired": "2012-01-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4237810.jpg",
+      "absoluteNumber": 244,
+      "name": "Check It Out!",
+      "seasonNumber": 5,
+      "number": 43,
+      "aired": "2012-01-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4237811.jpg",
+      "absoluteNumber": 245,
+      "name": "Thorny and Rosy",
+      "seasonNumber": 5,
+      "number": 44,
+      "aired": "2012-02-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4237812.jpg",
+      "absoluteNumber": 246,
+      "name": "Festival of Thornies",
+      "seasonNumber": 5,
+      "number": 45,
+      "aired": "2012-02-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4237813.jpg",
+      "absoluteNumber": 247,
+      "name": "Letter from Thorny",
+      "seasonNumber": 5,
+      "number": 46,
+      "aired": "2012-02-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4237814.jpg",
+      "absoluteNumber": 248,
+      "name": "Madaodog Madaonaire",
+      "seasonNumber": 5,
+      "number": 47,
+      "aired": "2012-02-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4237815.jpg",
+      "absoluteNumber": 249,
+      "name": "Presents Are Meant to Be Given Early",
+      "seasonNumber": 5,
+      "number": 48,
+      "aired": "2012-03-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4237816.jpg",
+      "absoluteNumber": 250,
+      "name": "New Year's Envelopes Are Perfect for Dirty Jokes",
+      "seasonNumber": 5,
+      "number": 49,
+      "aired": "2012-03-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4237817.jpg",
+      "absoluteNumber": 251,
+      "name": "When Sleeping Under a Kotatsu, Make Sure You Don't Burn Your Balls",
+      "seasonNumber": 5,
+      "number": 50,
+      "aired": "2012-03-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4247535.jpg",
+      "absoluteNumber": 252,
+      "name": "We're Sorry",
+      "seasonNumber": 5,
+      "number": 51,
+      "aired": "2012-03-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4395828.jpg",
+      "absoluteNumber": 253,
+      "name": "Nobody with Natural Straight Hair Can Be That Bad",
+      "seasonNumber": 6,
+      "number": 1,
+      "aired": "2012-10-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4410838.jpg",
+      "absoluteNumber": 254,
+      "name": "Kintoki and Gintoki",
+      "seasonNumber": 6,
+      "number": 2,
+      "aired": "2012-10-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4410839.jpg",
+      "absoluteNumber": 255,
+      "name": "Kin-san's Kintama",
+      "seasonNumber": 6,
+      "number": 3,
+      "aired": "2012-10-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4410840.jpg",
+      "absoluteNumber": 256,
+      "name": "The Meaning of a Main Character",
+      "seasonNumber": 6,
+      "number": 4,
+      "aired": "2012-10-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4411092.jpg",
+      "absoluteNumber": 257,
+      "name": "Courtesan Turns the Tables",
+      "seasonNumber": 6,
+      "number": 5,
+      "aired": "2013-01-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4411093.jpg",
+      "absoluteNumber": 258,
+      "name": "Inside the Palace!!",
+      "seasonNumber": 6,
+      "number": 6,
+      "aired": "2013-01-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4411094.jpg",
+      "absoluteNumber": 259,
+      "name": "Five Pinkies",
+      "seasonNumber": 6,
+      "number": 7,
+      "aired": "2013-01-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4411095.jpg",
+      "absoluteNumber": 260,
+      "name": "Pinky Swear",
+      "seasonNumber": 6,
+      "number": 8,
+      "aired": "2013-01-31",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4411096.jpg",
+      "absoluteNumber": 261,
+      "name": "Unsetting Moon",
+      "seasonNumber": 6,
+      "number": 9,
+      "aired": "2013-02-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4411097.jpg",
+      "absoluteNumber": 262,
+      "name": "The Sound of a Beam Can Pierce Every Heart",
+      "seasonNumber": 6,
+      "number": 10,
+      "aired": "2013-03-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4411098.jpg",
+      "absoluteNumber": 263,
+      "name": "Two Brothers",
+      "seasonNumber": 6,
+      "number": 11,
+      "aired": "2013-03-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4411099.jpg",
+      "absoluteNumber": 264,
+      "name": "Liquor and Gasoline, Smiles and Tears",
+      "seasonNumber": 6,
+      "number": 12,
+      "aired": "2013-03-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/4513397.jpg",
+      "absoluteNumber": 265,
+      "name": "Dog Food Doesn't Taste Like You Think",
+      "seasonNumber": 6,
+      "number": 13,
+      "aired": "2013-03-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5079514.jpg",
+      "absoluteNumber": 266,
+      "name": "You Can Never Pause at the Perfect Time",
+      "seasonNumber": 7,
+      "number": 1,
+      "aired": "2015-04-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5167254.jpg",
+      "absoluteNumber": 267,
+      "name": "Even a Matsui Stick Can't Handle Some Kinds of Dirt",
+      "seasonNumber": 7,
+      "number": 2,
+      "aired": "2015-04-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5167255.jpg",
+      "absoluteNumber": 268,
+      "name": "An Inspector's Love Begins With an Inspection",
+      "seasonNumber": 7,
+      "number": 3,
+      "aired": "2015-04-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5167256.jpg",
+      "absoluteNumber": 269,
+      "name": "Forget Dates, Remember People / You Can Hide Your Porn Mags, But You Can't Hide Your ***",
+      "seasonNumber": 7,
+      "number": 4,
+      "aired": "2015-04-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5197981.jpg",
+      "absoluteNumber": 270,
+      "name": "A Mirror Provides a Frozen Reflection of Both Your Beautiful and Ugly Sides / Nobody Likes the Photo on Their License",
+      "seasonNumber": 7,
+      "number": 5,
+      "aired": "2015-05-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5197982.jpg",
+      "absoluteNumber": 271,
+      "name": "Arriving Late to a Reunion Makes it Hard to Enter",
+      "seasonNumber": 7,
+      "number": 6,
+      "aired": "2015-05-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5197983.jpg",
+      "absoluteNumber": 272,
+      "name": "A Reunion Also Brings to the Surface Things You Don't Want to Remember",
+      "seasonNumber": 7,
+      "number": 7,
+      "aired": "2015-05-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5197984.jpg",
+      "absoluteNumber": 273,
+      "name": "When Compared to Time in the Heavens, Fifty Years of Human Life Resembles Naught but Dreams and Lottery Tickets",
+      "seasonNumber": 7,
+      "number": 8,
+      "aired": "2015-05-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5197985.jpg",
+      "absoluteNumber": 274,
+      "name": "Guys With Big Nostrils Also Have Big Imaginations / You Never Accept a New Sentai Series at the Start, But By the Final Episode, You Don't Want It to End",
+      "seasonNumber": 7,
+      "number": 9,
+      "aired": "2015-06-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5197986.jpg",
+      "absoluteNumber": 275,
+      "name": "9 + 1 = Yagyu Jyubei",
+      "seasonNumber": 7,
+      "number": 10,
+      "aired": "2015-06-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5197987.jpg",
+      "absoluteNumber": 276,
+      "name": "Calories Come Back to Bite You Just When You've Forgotten About Them",
+      "seasonNumber": 7,
+      "number": 11,
+      "aired": "2015-06-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5197988.jpg",
+      "absoluteNumber": 277,
+      "name": "10 - 1 =",
+      "seasonNumber": 7,
+      "number": 12,
+      "aired": "2015-06-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5253772.jpg",
+      "absoluteNumber": 278,
+      "name": "All Mothers Pack Too Much Food Into a Lunch Box and Ruin the Shape",
+      "seasonNumber": 7,
+      "number": 13,
+      "aired": "2015-07-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5253773.jpg",
+      "absoluteNumber": 279,
+      "name": "The Reaper by Day and the Reaper by Night",
+      "seasonNumber": 7,
+      "number": 14,
+      "aired": "2015-07-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5253774.jpg",
+      "absoluteNumber": 280,
+      "name": "Human or Demon?",
+      "seasonNumber": 7,
+      "number": 15,
+      "aired": "2015-07-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5253775.jpg",
+      "absoluteNumber": 281,
+      "name": "Farewell, Reaper",
+      "seasonNumber": 7,
+      "number": 16,
+      "aired": "2015-07-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5263655.jpg",
+      "absoluteNumber": 282,
+      "name": "A Phoenix Rises from the Ashes  Over and Over",
+      "seasonNumber": 7,
+      "number": 17,
+      "aired": "2015-07-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5263656.jpg",
+      "absoluteNumber": 283,
+      "name": "Amen",
+      "seasonNumber": 7,
+      "number": 18,
+      "aired": "2015-08-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5263657.jpg",
+      "absoluteNumber": 284,
+      "name": "Being a Leader is Tough",
+      "seasonNumber": 7,
+      "number": 19,
+      "aired": "2015-08-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5263658.jpg",
+      "absoluteNumber": 285,
+      "name": "Love is a Roach Motel",
+      "seasonNumber": 7,
+      "number": 20,
+      "aired": "2015-08-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5263659.jpg",
+      "absoluteNumber": 286,
+      "name": "A Sizzle Summer / A Nothing Summer 2015",
+      "seasonNumber": 7,
+      "number": 21,
+      "aired": "2015-08-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5263660.jpg",
+      "absoluteNumber": 287,
+      "name": "He's the Sweet Tooth, and I'm the Mayo Guy",
+      "seasonNumber": 7,
+      "number": 22,
+      "aired": "2015-09-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5263661.jpg",
+      "absoluteNumber": 288,
+      "name": "I'm a Failure as a Leader, and He's Also a Failure as a Leader",
+      "seasonNumber": 7,
+      "number": 23,
+      "aired": "2015-09-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5263662.jpg",
+      "absoluteNumber": 289,
+      "name": "I'm Odd Jobs, and He's Shinsengumi",
+      "seasonNumber": 7,
+      "number": 24,
+      "aired": "2015-09-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5289759.jpg",
+      "absoluteNumber": 290,
+      "name": "Always Leave Enough Room for Fifty Million in Your Bag",
+      "seasonNumber": 7,
+      "number": 25,
+      "aired": "2015-09-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5330834.jpg",
+      "absoluteNumber": 291,
+      "name": "Always Leave Enough Room for Pebbles in Your Bag",
+      "seasonNumber": 7,
+      "number": 26,
+      "aired": "2015-09-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5330835.jpg",
+      "absoluteNumber": 292,
+      "name": "Style Goes Out of Fashion the Moment It's Put Into Words / There Are Two Types of People In This World: Those Who Yell Out Their Attack Names, and Those Who Don't",
+      "seasonNumber": 7,
+      "number": 27,
+      "aired": "2015-10-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5330836.jpg",
+      "absoluteNumber": 293,
+      "name": "The Two Apes",
+      "seasonNumber": 7,
+      "number": 28,
+      "aired": "2015-10-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5330837.jpg",
+      "absoluteNumber": 294,
+      "name": "Afros of Life and Death",
+      "seasonNumber": 7,
+      "number": 29,
+      "aired": "2015-10-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5330838.jpg",
+      "absoluteNumber": 295,
+      "name": "Afuro and Wolfro",
+      "seasonNumber": 7,
+      "number": 30,
+      "aired": "2015-10-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5330839.jpg",
+      "absoluteNumber": 296,
+      "name": "Take the Initial Premise Lightly, and It'll Cost You",
+      "seasonNumber": 7,
+      "number": 31,
+      "aired": "2015-11-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5330840.jpg",
+      "absoluteNumber": 297,
+      "name": "Keep Your Farewells Short",
+      "seasonNumber": 7,
+      "number": 32,
+      "aired": "2015-11-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5330841.jpg",
+      "absoluteNumber": 298,
+      "name": "One Editor Is Enough / The G-Pen Is Capricious and the Maru Pen Is Stubborn",
+      "seasonNumber": 7,
+      "number": 33,
+      "aired": "2015-11-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5330842.jpg",
+      "absoluteNumber": 299,
+      "name": "Strike When the Sword and Overlord are Hot / Oil Rain",
+      "seasonNumber": 7,
+      "number": 34,
+      "aired": "2015-11-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5330843.jpg",
+      "absoluteNumber": 300,
+      "name": "Shoguns of Light and Shadow",
+      "seasonNumber": 7,
+      "number": 35,
+      "aired": "2015-12-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5353098.jpg",
+      "absoluteNumber": 301,
+      "name": "Ninja Village",
+      "seasonNumber": 7,
+      "number": 36,
+      "aired": "2015-12-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5353099.jpg",
+      "absoluteNumber": 302,
+      "name": "Ninja Soul",
+      "seasonNumber": 7,
+      "number": 37,
+      "aired": "2015-12-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5353100.jpg",
+      "absoluteNumber": 303,
+      "name": "And Then There Were Five",
+      "seasonNumber": 7,
+      "number": 38,
+      "aired": "2015-12-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5445632.jpg",
+      "absoluteNumber": 304,
+      "name": "Those Who Protect Against All Odds",
+      "seasonNumber": 7,
+      "number": 39,
+      "aired": "2016-01-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5448430.jpg",
+      "absoluteNumber": 305,
+      "name": "Sworn Enemy",
+      "seasonNumber": 7,
+      "number": 40,
+      "aired": "2016-01-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5448431.jpg",
+      "absoluteNumber": 306,
+      "name": "The Crows Caw After the Battle Ends",
+      "seasonNumber": 7,
+      "number": 41,
+      "aired": "2016-01-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5448432.jpg",
+      "absoluteNumber": 307,
+      "name": "Farewell, Buddy",
+      "seasonNumber": 7,
+      "number": 42,
+      "aired": "2016-01-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5486929.jpg",
+      "absoluteNumber": 308,
+      "name": "The Day the Demon Cried",
+      "seasonNumber": 7,
+      "number": 43,
+      "aired": "2016-02-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5495900.jpg",
+      "absoluteNumber": 309,
+      "name": "Heroes Always Arrive Fashionably Late",
+      "seasonNumber": 7,
+      "number": 44,
+      "aired": "2016-02-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5495901.jpg",
+      "absoluteNumber": 310,
+      "name": "Lost and Found",
+      "seasonNumber": 7,
+      "number": 45,
+      "aired": "2016-02-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5495902.jpg",
+      "absoluteNumber": 311,
+      "name": "Prison Break",
+      "seasonNumber": 7,
+      "number": 46,
+      "aired": "2016-02-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5495903.jpg",
+      "absoluteNumber": 312,
+      "name": "Stray Dogs",
+      "seasonNumber": 7,
+      "number": 47,
+      "aired": "2016-03-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5495904.jpg",
+      "absoluteNumber": 313,
+      "name": "Undelivered Mail",
+      "seasonNumber": 7,
+      "number": 48,
+      "aired": "2016-03-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5495906.jpg",
+      "absoluteNumber": 314,
+      "name": "Karma",
+      "seasonNumber": 7,
+      "number": 49,
+      "aired": "2016-03-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5495907.jpg",
+      "absoluteNumber": 315,
+      "name": "Nobume",
+      "seasonNumber": 7,
+      "number": 50,
+      "aired": "2016-03-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5537040.jpg",
+      "absoluteNumber": 316,
+      "name": "Farewell Shinsengumi",
+      "seasonNumber": 7,
+      "number": 51,
+      "aired": "2016-03-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5861803.jpg",
+      "absoluteNumber": 317,
+      "name": "The Monster and the Monster's Child",
+      "seasonNumber": 8,
+      "number": 1,
+      "aired": "2017-01-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5865185.jpg",
+      "absoluteNumber": 318,
+      "name": "Leave Letter",
+      "seasonNumber": 8,
+      "number": 2,
+      "aired": "2017-01-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5865186.jpg",
+      "absoluteNumber": 319,
+      "name": "The Song of a Samurai",
+      "seasonNumber": 8,
+      "number": 3,
+      "aired": "2017-01-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5865187.jpg",
+      "absoluteNumber": 320,
+      "name": "Zura",
+      "seasonNumber": 8,
+      "number": 4,
+      "aired": "2017-01-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5938806.jpg",
+      "absoluteNumber": 321,
+      "name": "The Two Fools",
+      "seasonNumber": 8,
+      "number": 5,
+      "aired": "2017-02-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5938807.jpg",
+      "absoluteNumber": 322,
+      "name": "Ten Years",
+      "seasonNumber": 8,
+      "number": 6,
+      "aired": "2017-02-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5938808.jpg",
+      "absoluteNumber": 323,
+      "name": "Paths",
+      "seasonNumber": 8,
+      "number": 7,
+      "aired": "2017-02-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5938810.jpg",
+      "absoluteNumber": 324,
+      "name": "Master of Kouan",
+      "seasonNumber": 8,
+      "number": 8,
+      "aired": "2017-02-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5938816.jpg",
+      "absoluteNumber": 325,
+      "name": "The Lost Rabbit",
+      "seasonNumber": 8,
+      "number": 9,
+      "aired": "2017-03-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5938817.jpg",
+      "absoluteNumber": 326,
+      "name": "Siblings",
+      "seasonNumber": 8,
+      "number": 10,
+      "aired": "2017-03-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5938818.jpg",
+      "absoluteNumber": 327,
+      "name": "First Student",
+      "seasonNumber": 8,
+      "number": 11,
+      "aired": "2017-03-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/5938819.jpg",
+      "absoluteNumber": 328,
+      "name": "Hope",
+      "seasonNumber": 8,
+      "number": 12,
+      "aired": "2017-03-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6244237.jpg",
+      "absoluteNumber": 329,
+      "name": "The Stairs to Adulthood May Not Always Lead Up",
+      "seasonNumber": 9,
+      "number": 1,
+      "aired": "2017-10-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6342107.jpg",
+      "absoluteNumber": 330,
+      "name": "My Bald Dad, My Light-Haired Dad, and My Dad's Glasses",
+      "seasonNumber": 9,
+      "number": 2,
+      "aired": "2017-10-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6350883.jpg",
+      "absoluteNumber": 331,
+      "name": "A Bowl of Ramen",
+      "seasonNumber": 9,
+      "number": 3,
+      "aired": "2017-10-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6350885.jpg",
+      "absoluteNumber": 332,
+      "name": "A Family",
+      "seasonNumber": 9,
+      "number": 4,
+      "aired": "2017-10-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6350886.jpg",
+      "absoluteNumber": 333,
+      "name": "Life, Death, and Shades / All the Answers Can Be Found in the Field",
+      "seasonNumber": 9,
+      "number": 5,
+      "aired": "2017-10-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6386373.jpg",
+      "absoluteNumber": 334,
+      "name": "3000 Leagues in Search of a Scabbard",
+      "seasonNumber": 9,
+      "number": 6,
+      "aired": "2017-11-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6396329.jpg",
+      "absoluteNumber": 335,
+      "name": "The Super Sadist and the Super Sadist",
+      "seasonNumber": 9,
+      "number": 7,
+      "aired": "2017-11-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6396331.jpg",
+      "absoluteNumber": 336,
+      "name": "The Strongest Sword,  and the Dullest Ass",
+      "seasonNumber": 9,
+      "number": 8,
+      "aired": "2017-11-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6396332.jpg",
+      "absoluteNumber": 337,
+      "name": "Wash Your Hands Before a Handshake",
+      "seasonNumber": 9,
+      "number": 9,
+      "aired": "2017-11-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6396333.jpg",
+      "absoluteNumber": 338,
+      "name": "Diamonds are Unscratchable",
+      "seasonNumber": 9,
+      "number": 10,
+      "aired": "2017-12-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6396334.jpg",
+      "absoluteNumber": 339,
+      "name": "An Idol's Badge of Honor",
+      "seasonNumber": 9,
+      "number": 11,
+      "aired": "2017-12-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6396335.jpg",
+      "absoluteNumber": 340,
+      "name": "The Line Between Godlike Games and Shitty Games is Paper-Thin",
+      "seasonNumber": 9,
+      "number": 12,
+      "aired": "2017-12-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6456207.jpg",
+      "absoluteNumber": 341,
+      "name": "Guardian Spirits Are Also a Part of the Soul",
+      "seasonNumber": 9,
+      "number": 13,
+      "aired": "2017-12-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6448671.jpg",
+      "absoluteNumber": 342,
+      "name": "Try As You Might to Make a Natural Perm Go Away, It Will Always Return",
+      "seasonNumber": 10,
+      "number": 1,
+      "aired": "2018-01-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6493339.jpg",
+      "absoluteNumber": 343,
+      "name": "Flavoring Is Best in Small Quantities",
+      "seasonNumber": 10,
+      "number": 2,
+      "aired": "2018-01-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6493340.jpg",
+      "absoluteNumber": 344,
+      "name": "A Delinquent's Kid Has Long Neck Hair",
+      "seasonNumber": 10,
+      "number": 3,
+      "aired": "2018-01-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6493341.jpg",
+      "absoluteNumber": 345,
+      "name": "The Line Between Tenacious and Annoying Is Paper-Thin",
+      "seasonNumber": 10,
+      "number": 4,
+      "aired": "2018-01-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6493342.jpg",
+      "absoluteNumber": 346,
+      "name": "Geezers Carve the Things They Shouldn't Forget into Their Wrinkles",
+      "seasonNumber": 10,
+      "number": 5,
+      "aired": "2018-02-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6504678.jpg",
+      "absoluteNumber": 347,
+      "name": "Machines That Pick Up Useless Habits Are Called People",
+      "seasonNumber": 10,
+      "number": 6,
+      "aired": "2018-02-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6504679.jpg",
+      "absoluteNumber": 348,
+      "name": "Men Must Live Not Long or Thick, but Hard",
+      "seasonNumber": 10,
+      "number": 7,
+      "aired": "2018-02-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6504680.jpg",
+      "absoluteNumber": 349,
+      "name": "Ogres Are Weak Against Tiny Heroes Like the Inch-High Samurai",
+      "seasonNumber": 10,
+      "number": 8,
+      "aired": "2018-02-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6504681.jpg",
+      "absoluteNumber": 350,
+      "name": "Bragging About Your Own Heroic Deeds Will Make People Hate You, So Make Others Do It For You",
+      "seasonNumber": 10,
+      "number": 9,
+      "aired": "2018-03-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6504682.jpg",
+      "absoluteNumber": 351,
+      "name": "Jump and Power Creep Go Hand-in-Hand",
+      "seasonNumber": 10,
+      "number": 10,
+      "aired": "2018-03-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6504683.jpg",
+      "absoluteNumber": 352,
+      "name": "Peace and Destruction Are Two Sides of the Same Coin",
+      "seasonNumber": 10,
+      "number": 11,
+      "aired": "2018-03-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6504684.jpg",
+      "absoluteNumber": 353,
+      "name": "Bushido Is Found One Second Before Death",
+      "seasonNumber": 10,
+      "number": 12,
+      "aired": "2018-03-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6712925.jpg",
+      "absoluteNumber": 354,
+      "name": "The Evildoers Who Do Good",
+      "seasonNumber": 10,
+      "number": 13,
+      "aired": "2018-07-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6754021.jpg",
+      "absoluteNumber": 355,
+      "name": "Rabbits Jump High on Moonlit Nights",
+      "seasonNumber": 10,
+      "number": 14,
+      "aired": "2018-07-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6754488.jpg",
+      "absoluteNumber": 356,
+      "name": "Making a Dull World Interesting",
+      "seasonNumber": 10,
+      "number": 15,
+      "aired": "2018-07-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6764467.jpg",
+      "absoluteNumber": 357,
+      "name": "Do something uncharacteristic, and something uncharacteristic will happen",
+      "seasonNumber": 10,
+      "number": 16,
+      "aired": "2018-07-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6764468.jpg",
+      "absoluteNumber": 358,
+      "name": "Countless Kings",
+      "seasonNumber": 10,
+      "number": 17,
+      "aired": "2018-08-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6764469.jpg",
+      "absoluteNumber": 359,
+      "name": "The Unemployed Cannot Be Stained By Anything",
+      "seasonNumber": 10,
+      "number": 18,
+      "aired": "2018-08-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6782325.jpg",
+      "absoluteNumber": 360,
+      "name": "Always Hold On to Your Trump Cards",
+      "seasonNumber": 10,
+      "number": 19,
+      "aired": "2018-08-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6782327.jpg",
+      "absoluteNumber": 361,
+      "name": "The Creatures Known as Humanity",
+      "seasonNumber": 10,
+      "number": 20,
+      "aired": "2018-08-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6806085.jpg",
+      "absoluteNumber": 362,
+      "name": "Sign",
+      "seasonNumber": 10,
+      "number": 21,
+      "aired": "2018-09-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6806087.jpg",
+      "absoluteNumber": 363,
+      "name": "Specter",
+      "seasonNumber": 10,
+      "number": 22,
+      "aired": "2018-09-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6806088.jpg",
+      "absoluteNumber": 364,
+      "name": "Two in Girl Years Is Equal to Ten in Man Years",
+      "seasonNumber": 10,
+      "number": 23,
+      "aired": "2018-09-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6806089.jpg",
+      "absoluteNumber": 365,
+      "name": "Salvation",
+      "seasonNumber": 10,
+      "number": 24,
+      "aired": "2018-09-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6834009.jpg",
+      "absoluteNumber": 366,
+      "name": "Dun Dun",
+      "seasonNumber": 10,
+      "number": 25,
+      "aired": "2018-10-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/79895/6834010.jpg",
+      "absoluteNumber": 367,
+      "name": "There Are Lines Even Villains Can't Cross",
+      "seasonNumber": 10,
+      "number": 26,
+      "aired": "2018-10-08",
+      "runtime": 25
+    }
+  ]
+}
