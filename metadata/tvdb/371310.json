@@ -1,0 +1,590 @@
+{
+  "cachedAt": 1783533096451,
+  "data": [
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8839349/screencap/6230e3770ca8f.jpg",
+      "absoluteNumber": 17,
+      "name": "Eris the Goblin Slayer",
+      "seasonNumber": 0,
+      "number": 1,
+      "aired": "2022-03-16",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9810899/screencap/649c785f9fb1e.jpg",
+      "absoluteNumber": 25,
+      "name": "Guardian Fitz",
+      "seasonNumber": 0,
+      "number": 2,
+      "aired": "2023-07-03",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Mushoku Tensei II ~I'll be serious when I go to another world~ [Transfer Labyrinth Edition] Last Minute Special",
+      "seasonNumber": 0,
+      "number": 3,
+      "aired": "2024-05-19",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Mushoku Tensei II: Jobless Reincarnation II ~I Will Seriously Try If I Go to Another World~ Special Program",
+      "seasonNumber": 0,
+      "number": 4,
+      "aired": "2024-05-20",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/371310/episodes/5ff850f37df06.jpg",
+      "absoluteNumber": 1,
+      "name": "Jobless Reincarnation",
+      "seasonNumber": 1,
+      "number": 1,
+      "aired": "2021-01-11",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/371310/episodes/6003eda9cbace.jpg",
+      "absoluteNumber": 2,
+      "name": "Master",
+      "seasonNumber": 1,
+      "number": 2,
+      "aired": "2021-01-18",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/371310/episodes/600d18dd76299.jpg",
+      "absoluteNumber": 3,
+      "name": "A Friend",
+      "seasonNumber": 1,
+      "number": 3,
+      "aired": "2021-01-25",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/371310/episodes/60165b05894b2.jpg",
+      "absoluteNumber": 4,
+      "name": "Emergency Family Meeting",
+      "seasonNumber": 1,
+      "number": 4,
+      "aired": "2021-02-01",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/371310/episodes/601fc33b063e0.jpg",
+      "absoluteNumber": 5,
+      "name": "A Young Lady and Violence",
+      "seasonNumber": 1,
+      "number": 5,
+      "aired": "2021-02-08",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/371310/episodes/6028b77ee8a4f.jpg",
+      "absoluteNumber": 6,
+      "name": "A Day Off in Roa",
+      "seasonNumber": 1,
+      "number": 6,
+      "aired": "2021-02-15",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/371310/episodes/60321cc1d4c35.jpg",
+      "absoluteNumber": 7,
+      "name": "What Lies Beyond Effort",
+      "seasonNumber": 1,
+      "number": 7,
+      "aired": "2021-02-22",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/371310/episodes/603b4303a168e.jpg",
+      "absoluteNumber": 8,
+      "name": "Turning Point 1",
+      "seasonNumber": 1,
+      "number": 8,
+      "aired": "2021-03-01",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/371310/episodes/604474c1a75d3.jpg",
+      "absoluteNumber": 9,
+      "name": "A Chance Encounter",
+      "seasonNumber": 1,
+      "number": 9,
+      "aired": "2021-03-08",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8145562/screencap/604b2c030e880.jpg",
+      "absoluteNumber": 10,
+      "name": "The Value of a Life and the First Job",
+      "seasonNumber": 1,
+      "number": 10,
+      "aired": "2021-03-15",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8145563/screencap/6054792c49e40.jpg",
+      "absoluteNumber": 11,
+      "name": "Children and Warriors",
+      "seasonNumber": 1,
+      "number": 11,
+      "aired": "2021-03-22",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8414424/screencap/615437e313bc4.jpg",
+      "absoluteNumber": 12,
+      "name": "The Woman with the Demon Eyes",
+      "seasonNumber": 1,
+      "number": 12,
+      "aired": "2021-10-04",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8722586/screencap/615e0eb1067ec.jpg",
+      "absoluteNumber": 13,
+      "name": "Missed Connections",
+      "seasonNumber": 1,
+      "number": 13,
+      "aired": "2021-10-11",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8722587/screencap/616a9ae81e2ea.jpg",
+      "absoluteNumber": 14,
+      "name": "No Such Thing As a Free Lunch",
+      "seasonNumber": 1,
+      "number": 14,
+      "aired": "2021-10-18",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8722588/screencap/616fee7d32327.jpg",
+      "absoluteNumber": 15,
+      "name": "Slow Life in the Doldia Village",
+      "seasonNumber": 1,
+      "number": 15,
+      "aired": "2021-10-25",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8722589/screencap/61792b8b80cbd.jpg",
+      "absoluteNumber": 16,
+      "name": "Family Squabble",
+      "seasonNumber": 1,
+      "number": 16,
+      "aired": "2021-11-01",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8722590/screencap/6182559e74a39.jpg",
+      "absoluteNumber": 18,
+      "name": "Reunion",
+      "seasonNumber": 1,
+      "number": 17,
+      "aired": "2021-11-08",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8722591/screencap/618be687d8833.jpg",
+      "absoluteNumber": 19,
+      "name": "Separate Journeys",
+      "seasonNumber": 1,
+      "number": 18,
+      "aired": "2021-11-15",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8722592/screencap/6197b1422ea83.jpg",
+      "absoluteNumber": 20,
+      "name": "Route Selection",
+      "seasonNumber": 1,
+      "number": 19,
+      "aired": "2021-11-22",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8722593/screencap/619e21e1eee23.jpg",
+      "absoluteNumber": 21,
+      "name": "The Birth of My Little Sister, the Maid",
+      "seasonNumber": 1,
+      "number": 20,
+      "aired": "2021-11-29",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8722594/screencap/61a77aa319341.jpg",
+      "absoluteNumber": 22,
+      "name": "Turning Point 2",
+      "seasonNumber": 1,
+      "number": 21,
+      "aired": "2021-12-06",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8722595/screencap/61b0839e96d1a.jpg",
+      "absoluteNumber": 23,
+      "name": "Dreams and Reality",
+      "seasonNumber": 1,
+      "number": 22,
+      "aired": "2021-12-13",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8722596/screencap/61bc5c48d2380.jpg",
+      "absoluteNumber": 24,
+      "name": "Wake Up and Take a Step",
+      "seasonNumber": 1,
+      "number": 23,
+      "aired": "2021-12-20",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9862482/screencap/64a54002afd64.jpg",
+      "absoluteNumber": 26,
+      "name": "The Brokenhearted Mage",
+      "seasonNumber": 2,
+      "number": 1,
+      "aired": "2023-07-10",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9862483/screencap/64aeb89065dbf.jpg",
+      "absoluteNumber": 27,
+      "name": "The Forest in the Dead of Night",
+      "seasonNumber": 2,
+      "number": 2,
+      "aired": "2023-07-17",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9862484/screencap/64b8ea2d23928.jpg",
+      "absoluteNumber": 28,
+      "name": "Abrupt Approach",
+      "seasonNumber": 2,
+      "number": 3,
+      "aired": "2023-07-24",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9862485/screencap/64c0ef08a8ac6.jpg",
+      "absoluteNumber": 29,
+      "name": "Letter of Invitation",
+      "seasonNumber": 2,
+      "number": 4,
+      "aired": "2023-07-31",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9862486/screencap/64cccbec204a2.jpg",
+      "absoluteNumber": 30,
+      "name": "Ranoa University of Magic",
+      "seasonNumber": 2,
+      "number": 5,
+      "aired": "2023-08-07",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9862487/screencap/64d36d6bf2257.jpg",
+      "absoluteNumber": 31,
+      "name": "I Don't Want To Die",
+      "seasonNumber": 2,
+      "number": 6,
+      "aired": "2023-08-14",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9862488/screencap/64dcff0639dff.jpg",
+      "absoluteNumber": 32,
+      "name": "The Kidnapping and Confinement of Beast Girls",
+      "seasonNumber": 2,
+      "number": 7,
+      "aired": "2023-08-21",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9862490/screencap/64e5efc93a352.jpg",
+      "absoluteNumber": 33,
+      "name": "The Fiancé of Despair",
+      "seasonNumber": 2,
+      "number": 8,
+      "aired": "2023-08-28",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9862491/screencap/64f07c70c7f08.jpg",
+      "absoluteNumber": 34,
+      "name": "The White Mask",
+      "seasonNumber": 2,
+      "number": 9,
+      "aired": "2023-09-04",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9862492/screencap/64fb44bca1fc0.jpg",
+      "absoluteNumber": 35,
+      "name": "These Feelings",
+      "seasonNumber": 2,
+      "number": 10,
+      "aired": "2023-09-11",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9862493/screencap/65047966a4e00.jpg",
+      "absoluteNumber": 36,
+      "name": "To You",
+      "seasonNumber": 2,
+      "number": 11,
+      "aired": "2023-09-18",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9872689/screencap/650d8249e5cf5.jpg",
+      "absoluteNumber": 37,
+      "name": "I Want to Tell You",
+      "seasonNumber": 2,
+      "number": 12,
+      "aired": "2023-09-25",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9885753/screencap/660d3feb59de8.jpg",
+      "absoluteNumber": 38,
+      "name": "My Dream Home",
+      "seasonNumber": 2,
+      "number": 13,
+      "aired": "2024-04-08",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9885754/screencap/6616b32c1145f.jpg",
+      "absoluteNumber": 39,
+      "name": "Wedding Reception",
+      "seasonNumber": 2,
+      "number": 14,
+      "aired": "2024-04-15",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9885755/screencap/6622509126f11.jpg",
+      "absoluteNumber": 40,
+      "name": "Afar",
+      "seasonNumber": 2,
+      "number": 15,
+      "aired": "2024-04-22",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9885756/screencap/662947caefa0c.jpg",
+      "absoluteNumber": 41,
+      "name": "Norn and Aisha",
+      "seasonNumber": 2,
+      "number": 16,
+      "aired": "2024-04-29",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9885757/screencap/66327e3b58726.jpg",
+      "absoluteNumber": 42,
+      "name": "My Older Brother's Feelings",
+      "seasonNumber": 2,
+      "number": 17,
+      "aired": "2024-05-06",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9885758/screencap/663def27c6f0a.jpg",
+      "absoluteNumber": 43,
+      "name": "Turning Point 3",
+      "seasonNumber": 2,
+      "number": 18,
+      "aired": "2024-05-13",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9885759/screencap/664db5b87449d.jpg",
+      "absoluteNumber": 44,
+      "name": "Desert Journey",
+      "seasonNumber": 2,
+      "number": 19,
+      "aired": "2024-05-27",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9885760/screencap/66576d8d452b1.jpg",
+      "absoluteNumber": 45,
+      "name": "Into the Labyrinth",
+      "seasonNumber": 2,
+      "number": 20,
+      "aired": "2024-06-03",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9885761/screencap/66636b9ccb634.jpg",
+      "absoluteNumber": 46,
+      "name": "Magic Circle to the Sixth Stratum",
+      "seasonNumber": 2,
+      "number": 21,
+      "aired": "2024-06-10",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9885762/screencap/666c32ae016d1.jpg",
+      "absoluteNumber": 47,
+      "name": "Parents",
+      "seasonNumber": 2,
+      "number": 22,
+      "aired": "2024-06-17",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9885763/screencap/66754cf574539.jpg",
+      "absoluteNumber": 48,
+      "name": "Let's Go Home",
+      "seasonNumber": 2,
+      "number": 23,
+      "aired": "2024-06-24",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9885764/screencap/667ecbb354b5c.jpg",
+      "absoluteNumber": 49,
+      "name": "Succession",
+      "seasonNumber": 2,
+      "number": 24,
+      "aired": "2024-07-01",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10569214/screencap/6a44fa3f65126.jpg",
+      "absoluteNumber": 50,
+      "name": "Burn Bright, Mad Dog",
+      "seasonNumber": 3,
+      "number": 1,
+      "aired": "2026-07-04",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11304523/screencap/6a44fa993ae18.jpg",
+      "absoluteNumber": 51,
+      "name": "Howl, Mad Dog",
+      "seasonNumber": 3,
+      "number": 2,
+      "aired": "2026-07-04",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11863961/screencap/6a4e4197389b3.jpg",
+      "absoluteNumber": 52,
+      "name": "Life Back at Home",
+      "seasonNumber": 3,
+      "number": 3,
+      "aired": "2026-07-13",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 53,
+      "name": null,
+      "seasonNumber": 3,
+      "number": 4,
+      "aired": "2026-07-20",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 54,
+      "name": null,
+      "seasonNumber": 3,
+      "number": 5,
+      "aired": "2026-07-27",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 55,
+      "name": null,
+      "seasonNumber": 3,
+      "number": 6,
+      "aired": "2026-08-03",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 56,
+      "name": null,
+      "seasonNumber": 3,
+      "number": 7,
+      "aired": "2026-08-10",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 57,
+      "name": null,
+      "seasonNumber": 3,
+      "number": 8,
+      "aired": "2026-08-17",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 58,
+      "name": null,
+      "seasonNumber": 3,
+      "number": 9,
+      "aired": "2026-08-24",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 59,
+      "name": null,
+      "seasonNumber": 3,
+      "number": 10,
+      "aired": "2026-08-31",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 60,
+      "name": null,
+      "seasonNumber": 3,
+      "number": 11,
+      "aired": "2026-09-07",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 61,
+      "name": null,
+      "seasonNumber": 3,
+      "number": 12,
+      "aired": "2026-09-14",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 62,
+      "name": null,
+      "seasonNumber": 3,
+      "number": 13,
+      "aired": "2026-09-21",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 63,
+      "name": null,
+      "seasonNumber": 3,
+      "number": 14,
+      "aired": "2026-09-28",
+      "runtime": 24
+    }
+  ]
+}
