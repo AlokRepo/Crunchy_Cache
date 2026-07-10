@@ -1,0 +1,131 @@
+{
+  "cachedAt": 1783666045240,
+  "data": [
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Phantom Blood",
+      "seasonNumber": 0,
+      "number": 1,
+      "aired": "2007-02-17",
+      "runtime": 35
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/83950/565661.jpg",
+      "absoluteNumber": 8,
+      "name": "The Fool Iggy and The God of Prosperity N'dul Part 1",
+      "seasonNumber": 1,
+      "number": 1,
+      "aired": "1993-11-19",
+      "runtime": 35
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/83950/565671.jpg",
+      "absoluteNumber": 9,
+      "name": "The Fool Iggy and The God of Prosperity N'dul Part 2",
+      "seasonNumber": 1,
+      "number": 2,
+      "aired": "1993-12-17",
+      "runtime": 35
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/83950/565681.jpg",
+      "absoluteNumber": 10,
+      "name": "Gambler D'Arby",
+      "seasonNumber": 1,
+      "number": 3,
+      "aired": "1994-07-21",
+      "runtime": 35
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/83950/565691.jpg",
+      "absoluteNumber": 11,
+      "name": "DIO's World: The Warrior of the Void: Vanilla Ice",
+      "seasonNumber": 1,
+      "number": 4,
+      "aired": "1994-08-09",
+      "runtime": 35
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/83950/565701.jpg",
+      "absoluteNumber": 12,
+      "name": "DIO's World: Kakyoin - Duel in the Barrier",
+      "seasonNumber": 1,
+      "number": 5,
+      "aired": "1994-10-21",
+      "runtime": 35
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/83950/565711.jpg",
+      "absoluteNumber": 13,
+      "name": "DIO's World: Farewell, My Friends",
+      "seasonNumber": 1,
+      "number": 6,
+      "aired": "1994-11-18",
+      "runtime": 35
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4409319/screencap/66d66fa557d56.jpg",
+      "absoluteNumber": 1,
+      "name": "The Evil Spirit",
+      "seasonNumber": 2,
+      "number": 1,
+      "aired": "2000-05-05",
+      "runtime": 35
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4409320/screencap/66d6702052193.jpg",
+      "absoluteNumber": 2,
+      "name": "Hierophant Green",
+      "seasonNumber": 2,
+      "number": 2,
+      "aired": "2000-08-25",
+      "runtime": 35
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4409321/screencap/66d6702f1ac1a.jpg",
+      "absoluteNumber": 3,
+      "name": "Silver Chariot and Strength",
+      "seasonNumber": 2,
+      "number": 3,
+      "aired": "2000-10-27",
+      "runtime": 35
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4409322/screencap/66d6703cd3a18.jpg",
+      "absoluteNumber": 4,
+      "name": "The Emperor and the Hanged Man",
+      "seasonNumber": 2,
+      "number": 4,
+      "aired": "2001-04-27",
+      "runtime": 35
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4409323/screencap/66d670838bd76.jpg",
+      "absoluteNumber": 5,
+      "name": "The Judgement",
+      "seasonNumber": 2,
+      "number": 5,
+      "aired": "2001-07-27",
+      "runtime": 35
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4409324/screencap/66d670b34cf7f.jpg",
+      "absoluteNumber": 6,
+      "name": "The Mist of Vengeance",
+      "seasonNumber": 2,
+      "number": 6,
+      "aired": "2001-09-28",
+      "runtime": 35
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4409325/screencap/66d672df973a4.jpg",
+      "absoluteNumber": 7,
+      "name": "Justice",
+      "seasonNumber": 2,
+      "number": 7,
+      "aired": "2002-01-25",
+      "runtime": 35
+    }
+  ]
+}
