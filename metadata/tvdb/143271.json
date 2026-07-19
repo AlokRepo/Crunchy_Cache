@@ -1,0 +1,239 @@
+{
+  "cachedAt": 1784463974962,
+  "data": [
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/143271/1830861.jpg",
+      "absoluteNumber": 1,
+      "name": "Bridge",
+      "seasonNumber": 1,
+      "number": 1,
+      "aired": "2010-04-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/143271/1830871.jpg",
+      "absoluteNumber": 2,
+      "name": "2 Bridge",
+      "seasonNumber": 1,
+      "number": 2,
+      "aired": "2010-04-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/143271/1830881.jpg",
+      "absoluteNumber": 3,
+      "name": "3 Bridge",
+      "seasonNumber": 1,
+      "number": 3,
+      "aired": "2010-04-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/143271/1830891.jpg",
+      "absoluteNumber": 4,
+      "name": "4 Bridge",
+      "seasonNumber": 1,
+      "number": 4,
+      "aired": "2010-04-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/143271/1830901.jpg",
+      "absoluteNumber": 5,
+      "name": "5 Bridge",
+      "seasonNumber": 1,
+      "number": 5,
+      "aired": "2010-05-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/143271/1830911.jpg",
+      "absoluteNumber": 6,
+      "name": "6 Bridge",
+      "seasonNumber": 1,
+      "number": 6,
+      "aired": "2010-05-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/143271/1830921.jpg",
+      "absoluteNumber": 7,
+      "name": "7 Bridge",
+      "seasonNumber": 1,
+      "number": 7,
+      "aired": "2010-05-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/143271/1830931.jpg",
+      "absoluteNumber": 8,
+      "name": "8 Bridge",
+      "seasonNumber": 1,
+      "number": 8,
+      "aired": "2010-05-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/143271/1830941.jpg",
+      "absoluteNumber": 9,
+      "name": "9 Bridge",
+      "seasonNumber": 1,
+      "number": 9,
+      "aired": "2010-05-31",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/143271/1830951.jpg",
+      "absoluteNumber": 10,
+      "name": "10 Bridge",
+      "seasonNumber": 1,
+      "number": 10,
+      "aired": "2010-06-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/143271/1830961.jpg",
+      "absoluteNumber": 11,
+      "name": "11 Bridge",
+      "seasonNumber": 1,
+      "number": 11,
+      "aired": "2010-06-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/143271/1830971.jpg",
+      "absoluteNumber": 12,
+      "name": "12 Bridge",
+      "seasonNumber": 1,
+      "number": 12,
+      "aired": "2010-06-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/143271/1830981.jpg",
+      "absoluteNumber": 13,
+      "name": "13 Bridge",
+      "seasonNumber": 1,
+      "number": 13,
+      "aired": "2010-06-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/143271/2457151.jpg",
+      "absoluteNumber": 14,
+      "name": "1 Bridge * 2",
+      "seasonNumber": 2,
+      "number": 1,
+      "aired": "2010-10-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/143271/2773581.jpg",
+      "absoluteNumber": 15,
+      "name": "2 Bridge * 2",
+      "seasonNumber": 2,
+      "number": 2,
+      "aired": "2010-10-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/143271/2773591.jpg",
+      "absoluteNumber": 16,
+      "name": "3 Bridge * 2",
+      "seasonNumber": 2,
+      "number": 3,
+      "aired": "2010-10-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/143271/2773601.jpg",
+      "absoluteNumber": 17,
+      "name": "4 Bridge * 2",
+      "seasonNumber": 2,
+      "number": 4,
+      "aired": "2010-10-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/143271/2773611.jpg",
+      "absoluteNumber": 18,
+      "name": "5 Bridge * 2",
+      "seasonNumber": 2,
+      "number": 5,
+      "aired": "2010-10-31",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/143271/2773621.jpg",
+      "absoluteNumber": 19,
+      "name": "6 Bridge * 2",
+      "seasonNumber": 2,
+      "number": 6,
+      "aired": "2010-11-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/143271/2773631.jpg",
+      "absoluteNumber": 20,
+      "name": "7 Bridge * 2",
+      "seasonNumber": 2,
+      "number": 7,
+      "aired": "2010-11-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/143271/2773641.jpg",
+      "absoluteNumber": 21,
+      "name": "8 Bridge * 2",
+      "seasonNumber": 2,
+      "number": 8,
+      "aired": "2010-11-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/143271/2773651.jpg",
+      "absoluteNumber": 22,
+      "name": "9 Bridge * 2",
+      "seasonNumber": 2,
+      "number": 9,
+      "aired": "2010-11-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/143271/2773661.jpg",
+      "absoluteNumber": 23,
+      "name": "10 Bridge * 2",
+      "seasonNumber": 2,
+      "number": 10,
+      "aired": "2010-12-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/143271/2773671.jpg",
+      "absoluteNumber": 24,
+      "name": "11 Bridge * 2",
+      "seasonNumber": 2,
+      "number": 11,
+      "aired": "2010-12-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/143271/2773681.jpg",
+      "absoluteNumber": 25,
+      "name": "12 Bridge * 2",
+      "seasonNumber": 2,
+      "number": 12,
+      "aired": "2010-12-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/143271/2773691.jpg",
+      "absoluteNumber": 26,
+      "name": "13 Bridge * 2",
+      "seasonNumber": 2,
+      "number": 13,
+      "aired": "2010-12-26",
+      "runtime": 25
+    }
+  ]
+}
