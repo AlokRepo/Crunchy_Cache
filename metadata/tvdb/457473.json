@@ -1,0 +1,122 @@
+{
+  "cachedAt": 1784793508579,
+  "data": [
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Mobile Suit Gundam GQuuuuuuX -Beginning-",
+      "seasonNumber": 0,
+      "number": 1,
+      "aired": "2025-01-17",
+      "runtime": 81
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10839645/screencap/683f2686484c3.jpg",
+      "absoluteNumber": 1,
+      "name": "The Red Gundam",
+      "seasonNumber": 1,
+      "number": 1,
+      "aired": "2025-04-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11054278/screencap/683f26afdfc99.jpg",
+      "absoluteNumber": 2,
+      "name": "The White Gundam",
+      "seasonNumber": 1,
+      "number": 2,
+      "aired": "2025-04-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11054279/screencap/683f26e146824.jpg",
+      "absoluteNumber": 3,
+      "name": "Machu in Clan Battle",
+      "seasonNumber": 1,
+      "number": 3,
+      "aired": "2025-04-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11054280/screencap/683f270ed3eb0.jpg",
+      "absoluteNumber": 4,
+      "name": "The Witch's War",
+      "seasonNumber": 1,
+      "number": 4,
+      "aired": "2025-04-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11054282/screencap/681a326363d31.jpg",
+      "absoluteNumber": 5,
+      "name": "Nyaan Doesn't Know About Kira-Kira",
+      "seasonNumber": 1,
+      "number": 5,
+      "aired": "2025-05-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11054285/screencap/682485e73d821.jpg",
+      "absoluteNumber": 6,
+      "name": "The Plot to Assassinate Kycilia",
+      "seasonNumber": 1,
+      "number": 6,
+      "aired": "2025-05-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11054287/screencap/683f2756ca5ad.jpg",
+      "absoluteNumber": 7,
+      "name": "Machu's Rebellion",
+      "seasonNumber": 1,
+      "number": 7,
+      "aired": "2025-05-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11054289/screencap/68370cc54ce0a.jpg",
+      "absoluteNumber": 8,
+      "name": "Falling on the Moon",
+      "seasonNumber": 1,
+      "number": 8,
+      "aired": "2025-05-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11054292/screencap/68447f42f3c5b.jpg",
+      "absoluteNumber": 9,
+      "name": "The Rose of Sharon",
+      "seasonNumber": 1,
+      "number": 9,
+      "aired": "2025-06-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11054293/screencap/684a516296c36.jpg",
+      "absoluteNumber": 10,
+      "name": "Yomagn'tho Blockade",
+      "seasonNumber": 1,
+      "number": 10,
+      "aired": "2025-06-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11054294/screencap/6854bc38cab70.jpg",
+      "absoluteNumber": 11,
+      "name": "Alphacide",
+      "seasonNumber": 1,
+      "number": 11,
+      "aired": "2025-06-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11054295/screencap/685cbfdd60745.jpg",
+      "absoluteNumber": 12,
+      "name": "That's Why I...",
+      "seasonNumber": 1,
+      "number": 12,
+      "aired": "2025-06-25",
+      "runtime": 29
+    }
+  ]
+}
