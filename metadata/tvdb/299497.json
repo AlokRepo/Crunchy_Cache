@@ -1,0 +1,662 @@
+{
+  "cachedAt": 1784793528587,
+  "data": [
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Reflection Roundtable",
+      "seasonNumber": 0,
+      "number": 1,
+      "aired": "2016-01-09",
+      "runtime": 25
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Special Edition: Episode 1",
+      "seasonNumber": 0,
+      "number": 2,
+      "aired": "2022-04-29",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Special Edition: Episode 2",
+      "seasonNumber": 0,
+      "number": 3,
+      "aired": "2022-05-06",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Special Edition: Episode 3",
+      "seasonNumber": 0,
+      "number": 4,
+      "aired": "2022-05-13",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Special Edition: Episode 4",
+      "seasonNumber": 0,
+      "number": 5,
+      "aired": "2022-05-20",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Special Edition: Episode 5",
+      "seasonNumber": 0,
+      "number": 6,
+      "aired": "2022-05-27",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Special Edition: Episode 6",
+      "seasonNumber": 0,
+      "number": 7,
+      "aired": "2022-06-03",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Special Edition: Episode 7",
+      "seasonNumber": 0,
+      "number": 8,
+      "aired": "2022-06-10",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9175537/screencap/6288bd3309c31.jpg",
+      "absoluteNumber": 0,
+      "name": "Special Edition: Episode 8",
+      "seasonNumber": 0,
+      "number": 9,
+      "aired": "2022-06-17",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Special Edition: Episode 9",
+      "seasonNumber": 0,
+      "number": 10,
+      "aired": "2022-06-24",
+      "runtime": 24
+    },
+    {
+      "image": "",
+      "absoluteNumber": 52,
+      "name": "Urdr-Hunt 1: Hajiroboshi",
+      "seasonNumber": 0,
+      "number": 11,
+      "aired": "2022-11-12",
+      "runtime": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 53,
+      "name": "Urdr-Hunt 2: Departure",
+      "seasonNumber": 0,
+      "number": 12,
+      "aired": "2022-12-01",
+      "runtime": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 54,
+      "name": "Urdr-Hunt 3: 598",
+      "seasonNumber": 0,
+      "number": 13,
+      "aired": "2022-12-31",
+      "runtime": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 55,
+      "name": "Urdr-Hunt 4: The Corridor of Betrayal",
+      "seasonNumber": 0,
+      "number": 14,
+      "aired": "2023-02-02",
+      "runtime": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 56,
+      "name": "Urdr-Hunt 5: Owner of the Ring",
+      "seasonNumber": 0,
+      "number": 15,
+      "aired": "2023-03-01",
+      "runtime": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 57,
+      "name": "Urdr-Hunt 6: Unexpected Encounter",
+      "seasonNumber": 0,
+      "number": 16,
+      "aired": "2023-04-03",
+      "runtime": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 58,
+      "name": "Urdr-Hunt 7: Venus's Value",
+      "seasonNumber": 0,
+      "number": 17,
+      "aired": "2023-05-01",
+      "runtime": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 59,
+      "name": "Urdr-Hunt 8: Brother's Ship",
+      "seasonNumber": 0,
+      "number": 18,
+      "aired": "2023-06-01",
+      "runtime": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 60,
+      "name": "Urdr-Hunt 9: The Horn and the Flower's Shadow",
+      "seasonNumber": 0,
+      "number": 19,
+      "aired": "2023-07-01",
+      "runtime": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 61,
+      "name": "Urdr-Hunt 10: Family and Bonds",
+      "seasonNumber": 0,
+      "number": 20,
+      "aired": "2023-08-01",
+      "runtime": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 62,
+      "name": "Urdr-Hunt 11: Beyond the Outstretched Hand",
+      "seasonNumber": 0,
+      "number": 21,
+      "aired": "2023-09-01",
+      "runtime": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 63,
+      "name": "Urdr-Hunt 12: Sky of Purple Lightning",
+      "seasonNumber": 0,
+      "number": 22,
+      "aired": "2023-10-01",
+      "runtime": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 26,
+      "name": "Mobile Suit Gundam: Iron-Blooded Orphans - Urdr-Hunt: Path of the Little Challenger",
+      "seasonNumber": 0,
+      "number": 23,
+      "aired": "2025-10-31",
+      "runtime": 83
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5308210.jpg",
+      "absoluteNumber": 1,
+      "name": "Iron and Blood",
+      "seasonNumber": 1,
+      "number": 1,
+      "aired": "2015-10-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5308231.jpg",
+      "absoluteNumber": 2,
+      "name": "Barbatos",
+      "seasonNumber": 1,
+      "number": 2,
+      "aired": "2015-10-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5308232.jpg",
+      "absoluteNumber": 3,
+      "name": "Glorious Demise",
+      "seasonNumber": 1,
+      "number": 3,
+      "aired": "2015-10-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5344680.jpg",
+      "absoluteNumber": 4,
+      "name": "The Price of Life",
+      "seasonNumber": 1,
+      "number": 4,
+      "aired": "2015-10-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5344681.jpg",
+      "absoluteNumber": 5,
+      "name": "Beyond the Red Sky",
+      "seasonNumber": 1,
+      "number": 5,
+      "aired": "2015-11-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5389037.jpg",
+      "absoluteNumber": 6,
+      "name": "As for Them",
+      "seasonNumber": 1,
+      "number": 6,
+      "aired": "2015-11-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5389038.jpg",
+      "absoluteNumber": 7,
+      "name": "Whaling",
+      "seasonNumber": 1,
+      "number": 7,
+      "aired": "2015-11-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5389039.jpg",
+      "absoluteNumber": 8,
+      "name": "The Form of Closeness",
+      "seasonNumber": 1,
+      "number": 8,
+      "aired": "2015-11-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5389040.jpg",
+      "absoluteNumber": 9,
+      "name": "Sakazuki",
+      "seasonNumber": 1,
+      "number": 9,
+      "aired": "2015-11-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5389041.jpg",
+      "absoluteNumber": 10,
+      "name": "A Letter from Tomorrow",
+      "seasonNumber": 1,
+      "number": 10,
+      "aired": "2015-12-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5389042.jpg",
+      "absoluteNumber": 11,
+      "name": "Human Debris",
+      "seasonNumber": 1,
+      "number": 11,
+      "aired": "2015-12-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5389043.jpg",
+      "absoluteNumber": 12,
+      "name": "The Shoals",
+      "seasonNumber": 1,
+      "number": 12,
+      "aired": "2015-12-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5441824.jpg",
+      "absoluteNumber": 13,
+      "name": "Funeral Rites",
+      "seasonNumber": 1,
+      "number": 13,
+      "aired": "2015-12-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5441825.jpg",
+      "absoluteNumber": 14,
+      "name": "Vessel of Hope",
+      "seasonNumber": 1,
+      "number": 14,
+      "aired": "2016-01-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5441826.jpg",
+      "absoluteNumber": 15,
+      "name": "Trail of Footprints",
+      "seasonNumber": 1,
+      "number": 15,
+      "aired": "2016-01-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5466228.jpg",
+      "absoluteNumber": 16,
+      "name": "Fumitan Admoss",
+      "seasonNumber": 1,
+      "number": 16,
+      "aired": "2016-01-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5466229.jpg",
+      "absoluteNumber": 17,
+      "name": "Kudelia's Decision",
+      "seasonNumber": 1,
+      "number": 17,
+      "aired": "2016-01-31",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5466230.jpg",
+      "absoluteNumber": 18,
+      "name": "Voice",
+      "seasonNumber": 1,
+      "number": 18,
+      "aired": "2016-02-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5466231.jpg",
+      "absoluteNumber": 19,
+      "name": "The Gravity of Wishes",
+      "seasonNumber": 1,
+      "number": 19,
+      "aired": "2016-02-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5466232.jpg",
+      "absoluteNumber": 20,
+      "name": "Brother",
+      "seasonNumber": 1,
+      "number": 20,
+      "aired": "2016-02-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5466233.jpg",
+      "absoluteNumber": 21,
+      "name": "To the Place of Return",
+      "seasonNumber": 1,
+      "number": 21,
+      "aired": "2016-02-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5466234.jpg",
+      "absoluteNumber": 22,
+      "name": "Not Yet Home",
+      "seasonNumber": 1,
+      "number": 22,
+      "aired": "2016-03-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5466235.jpg",
+      "absoluteNumber": 23,
+      "name": "The Final Lie",
+      "seasonNumber": 1,
+      "number": 23,
+      "aired": "2016-03-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5466236.jpg",
+      "absoluteNumber": 24,
+      "name": "A Future Reward",
+      "seasonNumber": 1,
+      "number": 24,
+      "aired": "2016-03-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5466237.jpg",
+      "absoluteNumber": 25,
+      "name": "Tekkadan",
+      "seasonNumber": 1,
+      "number": 25,
+      "aired": "2016-03-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5675596.jpg",
+      "absoluteNumber": 27,
+      "name": "New Blood",
+      "seasonNumber": 2,
+      "number": 1,
+      "aired": "2016-10-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5764606.jpg",
+      "absoluteNumber": 28,
+      "name": "In the Midst of Jealousy",
+      "seasonNumber": 2,
+      "number": 2,
+      "aired": "2016-10-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5764607.jpg",
+      "absoluteNumber": 29,
+      "name": "Battle Before Dawn",
+      "seasonNumber": 2,
+      "number": 3,
+      "aired": "2016-10-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5764608.jpg",
+      "absoluteNumber": 30,
+      "name": "The Trigger of Success",
+      "seasonNumber": 2,
+      "number": 4,
+      "aired": "2016-10-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5809232.jpg",
+      "absoluteNumber": 31,
+      "name": "Inauguration of the Arbrau Defense Forces",
+      "seasonNumber": 2,
+      "number": 5,
+      "aired": "2016-10-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5817826.jpg",
+      "absoluteNumber": 32,
+      "name": "Silent War",
+      "seasonNumber": 2,
+      "number": 6,
+      "aired": "2016-11-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5827489.jpg",
+      "absoluteNumber": 33,
+      "name": "My Friend",
+      "seasonNumber": 2,
+      "number": 7,
+      "aired": "2016-11-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5836276.jpg",
+      "absoluteNumber": 34,
+      "name": "Sovereign of Mars",
+      "seasonNumber": 2,
+      "number": 8,
+      "aired": "2016-11-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5848666.jpg",
+      "absoluteNumber": 35,
+      "name": "Vidar Rising",
+      "seasonNumber": 2,
+      "number": 9,
+      "aired": "2016-11-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5857972.jpg",
+      "absoluteNumber": 36,
+      "name": "Awakening Calamity",
+      "seasonNumber": 2,
+      "number": 10,
+      "aired": "2016-12-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5869195.jpg",
+      "absoluteNumber": 37,
+      "name": "Stained Wings",
+      "seasonNumber": 2,
+      "number": 11,
+      "aired": "2016-12-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5877206.jpg",
+      "absoluteNumber": 38,
+      "name": "Battle for Chryse",
+      "seasonNumber": 2,
+      "number": 12,
+      "aired": "2016-12-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5886414.jpg",
+      "absoluteNumber": 39,
+      "name": "Hunter of Angels",
+      "seasonNumber": 2,
+      "number": 13,
+      "aired": "2016-12-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5906481.jpg",
+      "absoluteNumber": 40,
+      "name": "Counsel",
+      "seasonNumber": 2,
+      "number": 14,
+      "aired": "2017-01-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5906482.jpg",
+      "absoluteNumber": 41,
+      "name": "Lit by a Blazing Sun",
+      "seasonNumber": 2,
+      "number": 15,
+      "aired": "2017-01-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5906483.jpg",
+      "absoluteNumber": 42,
+      "name": "Natural for a Human",
+      "seasonNumber": 2,
+      "number": 16,
+      "aired": "2017-01-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5906484.jpg",
+      "absoluteNumber": 43,
+      "name": "Settlement",
+      "seasonNumber": 2,
+      "number": 17,
+      "aired": "2017-02-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5958610.jpg",
+      "absoluteNumber": 44,
+      "name": "Revealed Intentions",
+      "seasonNumber": 2,
+      "number": 18,
+      "aired": "2017-02-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5966975.jpg",
+      "absoluteNumber": 45,
+      "name": "The Man Who Holds the Soul",
+      "seasonNumber": 2,
+      "number": 19,
+      "aired": "2017-02-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5967953.jpg",
+      "absoluteNumber": 46,
+      "name": "If This Is the End",
+      "seasonNumber": 2,
+      "number": 20,
+      "aired": "2017-02-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5967954.jpg",
+      "absoluteNumber": 47,
+      "name": "For Whom?",
+      "seasonNumber": 2,
+      "number": 21,
+      "aired": "2017-03-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5967955.jpg",
+      "absoluteNumber": 48,
+      "name": "Scapegoat",
+      "seasonNumber": 2,
+      "number": 22,
+      "aired": "2017-03-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5983778.jpg",
+      "absoluteNumber": 49,
+      "name": "Promise",
+      "seasonNumber": 2,
+      "number": 23,
+      "aired": "2017-03-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/5983779.jpg",
+      "absoluteNumber": 50,
+      "name": "McGillis Fareed",
+      "seasonNumber": 2,
+      "number": 24,
+      "aired": "2017-03-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/299497/6012350.jpg",
+      "absoluteNumber": 51,
+      "name": "Their Place",
+      "seasonNumber": 2,
+      "number": 25,
+      "aired": "2017-04-02",
+      "runtime": 25
+    }
+  ]
+}
