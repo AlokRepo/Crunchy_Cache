@@ -1,5 +1,5 @@
 {
-  "cachedAt": 1783264185957,
+  "cachedAt": 1784865066444,
   "data": [
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/81797/619671.jpg",
@@ -11072,13 +11072,31 @@
       "runtime": 23
     },
     {
-      "image": "",
-      "absoluteNumber": 0,
-      "name": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11859547/screencap/6a4a827ff1459.jpg",
+      "absoluteNumber": 1169,
+      "name": "The Legend Lurking in Elbaph - The Identity of the Mountain-Eater",
       "seasonNumber": 23,
       "number": 14,
       "aired": "2026-07-12",
       "runtime": 23
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11882088/screencap/6a54004537f0e.jpg",
+      "absoluteNumber": 1170,
+      "name": "Get the Key! Luffy vs. Scopper Gaban",
+      "seasonNumber": 23,
+      "number": 15,
+      "aired": "2026-07-19",
+      "runtime": 23
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11890009/screencap/6a5ceadc1fa65.jpg",
+      "absoluteNumber": 0,
+      "name": "The Heinous Sinner - Loki of the Underworld Freed?!",
+      "seasonNumber": 23,
+      "number": 16,
+      "aired": "2026-07-26",
+      "runtime": null
     }
   ]
 }
