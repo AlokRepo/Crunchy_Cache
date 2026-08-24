@@ -1,5 +1,5 @@
 {
-  "cachedAt": 1786806208588,
+  "cachedAt": 1787584441861,
   "data": [
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/81797/619671.jpg",
@@ -11117,12 +11117,30 @@
       "runtime": 23
     },
     {
-      "image": "https://artworks.thetvdb.com/banners/v4/episode/11917040/screencap/6a78c8bf26a13.jpg",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11917040/screencap/6a8262659edea.jpg",
       "absoluteNumber": 1174,
       "name": "Save the Children! The Elbaph Warriors Rise Up",
       "seasonNumber": 23,
       "number": 19,
       "aired": "2026-08-16",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11927053/screencap/6a8254baaf268.jpg",
+      "absoluteNumber": 1175,
+      "name": "Elbaph in Flames! Jinbe's Shoulder Throw Explodes!",
+      "seasonNumber": 23,
+      "number": 20,
+      "aired": "2026-08-23",
+      "runtime": 24
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11937112/screencap/6a8b1af1552ee.jpg",
+      "absoluteNumber": 1176,
+      "name": "The Threat of the Arrow-Arrow Fruit - Gunko vs. the Straw Hats",
+      "seasonNumber": 23,
+      "number": 21,
+      "aired": "2026-08-30",
       "runtime": null
     }
   ]
