@@ -1,5 +1,5 @@
 {
-  "cachedAt": 1782902040299,
+  "cachedAt": 1791131986321,
   "data": [
     {
       "image": "https://artworks.thetvdb.com/banners/episodes/267440/4546796.jpg",
@@ -323,7 +323,7 @@
       "seasonNumber": 0,
       "number": 36,
       "aired": "2021-07-07",
-      "runtime": null
+      "runtime": 5
     },
     {
       "image": "",
@@ -332,7 +332,7 @@
       "seasonNumber": 0,
       "number": 37,
       "aired": "2021-08-04",
-      "runtime": null
+      "runtime": 5
     },
     {
       "image": "",
