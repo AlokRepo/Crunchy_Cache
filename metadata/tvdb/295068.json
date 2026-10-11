@@ -1,0 +1,1202 @@
+{
+  "cachedAt": 1791703093412,
+  "data": [
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6642443.jpg",
+      "absoluteNumber": 0,
+      "name": "Dragon Ball Super: Broly",
+      "seasonNumber": 0,
+      "number": 3,
+      "aired": "2018-12-14",
+      "runtime": 101
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9534474/screencap/63d936e746d20.jpg",
+      "absoluteNumber": 0,
+      "name": "Dragon Ball Super: Super Hero",
+      "seasonNumber": 0,
+      "number": 4,
+      "aired": "2022-06-11",
+      "runtime": 100
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5238715.jpg",
+      "absoluteNumber": 1,
+      "name": "A Peacetime Reward: Who Gets the 100,000,000 Zeni?!",
+      "seasonNumber": 1,
+      "number": 1,
+      "aired": "2015-07-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5268569.jpg",
+      "absoluteNumber": 2,
+      "name": "To the Promised Resort! Vegeta Takes a Family Trip!",
+      "seasonNumber": 1,
+      "number": 2,
+      "aired": "2015-07-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5271551.jpg",
+      "absoluteNumber": 3,
+      "name": "Where Does the Dream Pick Up? Find the Super Saiyan God!",
+      "seasonNumber": 1,
+      "number": 3,
+      "aired": "2015-07-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5271559.jpg",
+      "absoluteNumber": 4,
+      "name": "Bid for the Dragon Balls! Pilaf and Crew's Impossible Mission!",
+      "seasonNumber": 1,
+      "number": 4,
+      "aired": "2015-08-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5271567.jpg",
+      "absoluteNumber": 5,
+      "name": "Showdown on King Kai's World! Goku vs. Beerus the Destroyer!",
+      "seasonNumber": 1,
+      "number": 5,
+      "aired": "2015-08-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5271575.jpg",
+      "absoluteNumber": 6,
+      "name": "Don't Anger the Destroyer! A Heart-Pounding Birthday Party",
+      "seasonNumber": 1,
+      "number": 6,
+      "aired": "2015-08-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5287939.jpg",
+      "absoluteNumber": 7,
+      "name": "How Dare You Do That to My Bulma! Vegeta's Metamorphosis of Fury?",
+      "seasonNumber": 1,
+      "number": 7,
+      "aired": "2015-08-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5287940.jpg",
+      "absoluteNumber": 8,
+      "name": "Goku Makes an Entrance! A Last Chance from Lord Beerus?",
+      "seasonNumber": 1,
+      "number": 8,
+      "aired": "2015-08-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5287941.jpg",
+      "absoluteNumber": 9,
+      "name": "Thanks for Waiting, Lord Beerus! A Super Saiyan God is Born at Last!",
+      "seasonNumber": 1,
+      "number": 9,
+      "aired": "2015-09-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5287942.jpg",
+      "absoluteNumber": 10,
+      "name": "Show Us, Goku! The Power of a Super Saiyan God!",
+      "seasonNumber": 1,
+      "number": 10,
+      "aired": "2015-09-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5341605.jpg",
+      "absoluteNumber": 11,
+      "name": "Let's Keep Going, Lord Beerus! The Battle of Gods!",
+      "seasonNumber": 1,
+      "number": 11,
+      "aired": "2015-09-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5287944.jpg",
+      "absoluteNumber": 12,
+      "name": "The Universe Will Shatter? Clash! Destroyer vs. Super Saiyan God!",
+      "seasonNumber": 1,
+      "number": 12,
+      "aired": "2015-09-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5287945.jpg",
+      "absoluteNumber": 13,
+      "name": "Goku, Surpass Super Saiyan God!",
+      "seasonNumber": 1,
+      "number": 13,
+      "aired": "2015-10-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5345647.jpg",
+      "absoluteNumber": 14,
+      "name": "This is All the Power I've Got! A Settlement Between Gods",
+      "seasonNumber": 1,
+      "number": 14,
+      "aired": "2015-10-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5345648.jpg",
+      "absoluteNumber": 15,
+      "name": "Valiant Mr. Satan, Work a Miracle! A Challenge from Outer Space!",
+      "seasonNumber": 2,
+      "number": 1,
+      "aired": "2015-10-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5345649.jpg",
+      "absoluteNumber": 16,
+      "name": "Vegeta Becomes a Student?! Win Over Whis!",
+      "seasonNumber": 2,
+      "number": 2,
+      "aired": "2015-10-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5368641.jpg",
+      "absoluteNumber": 17,
+      "name": "Pan is Born! And Goku Goes on a Training Journey?!",
+      "seasonNumber": 2,
+      "number": 3,
+      "aired": "2015-11-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5368642.jpg",
+      "absoluteNumber": 18,
+      "name": "I'm Here, Too! Training Commences on Beerus' World",
+      "seasonNumber": 2,
+      "number": 4,
+      "aired": "2015-11-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5396344.jpg",
+      "absoluteNumber": 19,
+      "name": "Despair Redux! The Return of the Evil Emperor, Frieza!",
+      "seasonNumber": 2,
+      "number": 5,
+      "aired": "2015-11-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5396362.jpg",
+      "absoluteNumber": 20,
+      "name": "A Warning from Jaco! Frieza and 1,000 Soldiers Close In",
+      "seasonNumber": 2,
+      "number": 6,
+      "aired": "2015-11-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5396364.jpg",
+      "absoluteNumber": 21,
+      "name": "The Start of Vengeance! The Frieza Force's Malice Strikes Gohan!",
+      "seasonNumber": 2,
+      "number": 7,
+      "aired": "2015-11-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5411784.jpg",
+      "absoluteNumber": 22,
+      "name": "Change! An Unexpected Return! His Name is Ginyu!!",
+      "seasonNumber": 2,
+      "number": 8,
+      "aired": "2015-12-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5411785.jpg",
+      "absoluteNumber": 23,
+      "name": "Earth! Gohan! Both on the Ropes! Hurry and Get Here, Goku!!",
+      "seasonNumber": 2,
+      "number": 9,
+      "aired": "2015-12-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5434172.jpg",
+      "absoluteNumber": 24,
+      "name": "Clash! Frieza vs. Goku! This is the Result of My Training!",
+      "seasonNumber": 2,
+      "number": 10,
+      "aired": "2015-12-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5434173.jpg",
+      "absoluteNumber": 25,
+      "name": "A Full-Throttle Battle! The Vengeful Golden Frieza",
+      "seasonNumber": 2,
+      "number": 11,
+      "aired": "2015-12-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5434174.jpg",
+      "absoluteNumber": 26,
+      "name": "A Chance Appears in a Tight Spot! Launch a Counteroffensive, Goku!",
+      "seasonNumber": 2,
+      "number": 12,
+      "aired": "2016-01-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5441392.jpg",
+      "absoluteNumber": 27,
+      "name": "The Earth Explodes? A Decisive Kamehameha!",
+      "seasonNumber": 2,
+      "number": 13,
+      "aired": "2016-01-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5463233.jpg",
+      "absoluteNumber": 28,
+      "name": "The 6th Universe's Destroyer! His Name is Champa!",
+      "seasonNumber": 3,
+      "number": 1,
+      "aired": "2016-01-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5463234.jpg",
+      "absoluteNumber": 29,
+      "name": "Combat Matches Are a Go! The Captain is Someone Stronger Than Goku",
+      "seasonNumber": 3,
+      "number": 2,
+      "aired": "2016-01-31",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5469589.jpg",
+      "absoluteNumber": 30,
+      "name": "A Run-Through For the Competition! Who Are the Last Two Members?",
+      "seasonNumber": 3,
+      "number": 3,
+      "aired": "2016-02-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5507092.jpg",
+      "absoluteNumber": 31,
+      "name": "Off to See Master Zuno! Find Out Where the Super Dragon Balls Are!",
+      "seasonNumber": 3,
+      "number": 4,
+      "aired": "2016-02-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5507099.jpg",
+      "absoluteNumber": 32,
+      "name": "The Matches Begin! We're All Off to the Planet with No Name!",
+      "seasonNumber": 3,
+      "number": 5,
+      "aired": "2016-02-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5507101.jpg",
+      "absoluteNumber": 33,
+      "name": "Surprise, 6th Universe! This is Super Saiyan Goku!",
+      "seasonNumber": 3,
+      "number": 6,
+      "aired": "2016-02-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5507102.jpg",
+      "absoluteNumber": 34,
+      "name": "Piccolo vs Frost! Stake it All on the Special Beam Cannon!",
+      "seasonNumber": 3,
+      "number": 7,
+      "aired": "2016-03-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5540069.jpg",
+      "absoluteNumber": 35,
+      "name": "Turn Your Anger into Strength! Vegeta's Full-Bore Battle",
+      "seasonNumber": 3,
+      "number": 8,
+      "aired": "2016-03-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5540071.jpg",
+      "absoluteNumber": 36,
+      "name": "An Unexpectedly Uphill Battle! Vegeta's Great Blast of Fury!",
+      "seasonNumber": 3,
+      "number": 9,
+      "aired": "2016-03-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5540074.jpg",
+      "absoluteNumber": 37,
+      "name": "Don't Forget Your Saiyan Pride! Vegeta vs. The 6th Universe's Saiyan!",
+      "seasonNumber": 3,
+      "number": 10,
+      "aired": "2016-04-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5544252.jpg",
+      "absoluteNumber": 38,
+      "name": "The 6th Universe's Mightiest Warrior! Engage the Assassin Hit!",
+      "seasonNumber": 3,
+      "number": 11,
+      "aired": "2016-04-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5574387.jpg",
+      "absoluteNumber": 39,
+      "name": "A Developed \"Time Skip\" Counterstrike? Here Comes Goku's New Move!",
+      "seasonNumber": 3,
+      "number": 12,
+      "aired": "2016-04-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5574388.jpg",
+      "absoluteNumber": 40,
+      "name": "A Decision at Last! Is the Winner Beerus? Or is it Champa?",
+      "seasonNumber": 3,
+      "number": 13,
+      "aired": "2016-04-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5576555.jpg",
+      "absoluteNumber": 41,
+      "name": "Come Forth, Divine Dragon! And Grant My Wish, Peas and Carrots!",
+      "seasonNumber": 3,
+      "number": 14,
+      "aired": "2016-05-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5583991.jpg",
+      "absoluteNumber": 42,
+      "name": "A Chaotic Victory Party! Showdown at Last? Monaka vs. Goku!",
+      "seasonNumber": 3,
+      "number": 15,
+      "aired": "2016-05-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5607607.jpg",
+      "absoluteNumber": 43,
+      "name": "Goku's Energy is Out of Control? The Struggle to Look After Pan",
+      "seasonNumber": 3,
+      "number": 16,
+      "aired": "2016-05-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5607608.jpg",
+      "absoluteNumber": 44,
+      "name": "The Seal of Planet Pot-au-feu; Secrets of the Unleashed Superhuman Water!",
+      "seasonNumber": 3,
+      "number": 17,
+      "aired": "2016-05-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5607609.jpg",
+      "absoluteNumber": 45,
+      "name": "Vegeta Disappears?! Menace of the Duplicate Vegeta!",
+      "seasonNumber": 3,
+      "number": 18,
+      "aired": "2016-05-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5607610.jpg",
+      "absoluteNumber": 46,
+      "name": "Goku vs. the Duplicate Vegeta! Which One is Going to Win?",
+      "seasonNumber": 3,
+      "number": 19,
+      "aired": "2016-06-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5623198.jpg",
+      "absoluteNumber": 47,
+      "name": "SOS from the Future: A Dark New Enemy Appears!",
+      "seasonNumber": 4,
+      "number": 1,
+      "aired": "2016-06-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5645478.jpg",
+      "absoluteNumber": 48,
+      "name": "HOPE!! Redux: Awaken in the Present, Trunks",
+      "seasonNumber": 4,
+      "number": 2,
+      "aired": "2016-06-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5653003.jpg",
+      "absoluteNumber": 49,
+      "name": "A Message From the Future - The Incursion of Goku Black!",
+      "seasonNumber": 4,
+      "number": 3,
+      "aired": "2016-06-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5656824.jpg",
+      "absoluteNumber": 50,
+      "name": "Goku vs. Black! A Closed-Off Road to the Future",
+      "seasonNumber": 4,
+      "number": 4,
+      "aired": "2016-07-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5656825.jpg",
+      "absoluteNumber": 51,
+      "name": "Feelings That Transcend Time: Trunks and Mai",
+      "seasonNumber": 4,
+      "number": 5,
+      "aired": "2016-07-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5656826.jpg",
+      "absoluteNumber": 52,
+      "name": "Master and Pupil Reunited! Gohan and Future Trunks!",
+      "seasonNumber": 4,
+      "number": 6,
+      "aired": "2016-07-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5656827.jpg",
+      "absoluteNumber": 53,
+      "name": "Uncover Black's Identity! Off to the 10th Universe's World of the Kai!",
+      "seasonNumber": 4,
+      "number": 7,
+      "aired": "2016-07-31",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5667110.jpg",
+      "absoluteNumber": 54,
+      "name": "He Who is of Saiyan Blood: Trunks's Resolve",
+      "seasonNumber": 4,
+      "number": 8,
+      "aired": "2016-08-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5695493.jpg",
+      "absoluteNumber": 55,
+      "name": "I'd Like to See Goku, You See! A Summons From Grand Zeno!",
+      "seasonNumber": 4,
+      "number": 9,
+      "aired": "2016-08-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5674162.jpg",
+      "absoluteNumber": 56,
+      "name": "Rematch with Goku Black! Enter Super Saiyan Rosé",
+      "seasonNumber": 4,
+      "number": 10,
+      "aired": "2016-08-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5672934.jpg",
+      "absoluteNumber": 57,
+      "name": "A God with an Invincible Body - The Advent of Zamasu",
+      "seasonNumber": 4,
+      "number": 11,
+      "aired": "2016-09-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5705939.jpg",
+      "absoluteNumber": 58,
+      "name": "Zamasu and Black - The Duo's Mystery Deepens",
+      "seasonNumber": 4,
+      "number": 12,
+      "aired": "2016-09-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5763071.jpg",
+      "absoluteNumber": 59,
+      "name": "Protect The Supreme Kai Gowasu - Destroy Zamasu!",
+      "seasonNumber": 4,
+      "number": 13,
+      "aired": "2016-09-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5763072.jpg",
+      "absoluteNumber": 60,
+      "name": "Into the Future Once Again - Goku Black's True Identity Revealed!",
+      "seasonNumber": 4,
+      "number": 14,
+      "aired": "2016-10-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5763073.jpg",
+      "absoluteNumber": 61,
+      "name": "Zamasu's Ambition – The Storied \"Project 0 Mortals\" of Terror",
+      "seasonNumber": 4,
+      "number": 15,
+      "aired": "2016-10-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5763103.jpg",
+      "absoluteNumber": 62,
+      "name": "I Will Defend the World! Trunks' Furious Burst of Super Power!",
+      "seasonNumber": 4,
+      "number": 16,
+      "aired": "2016-10-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5763104.jpg",
+      "absoluteNumber": 63,
+      "name": "Don't You Disgrace Saiyan Cells! Vegeta's Fierce Battle Commences!",
+      "seasonNumber": 4,
+      "number": 17,
+      "aired": "2016-10-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5775462.jpg",
+      "absoluteNumber": 64,
+      "name": "Worship Me! Give Praise Unto Me! The Explosive Birth of a Merged Zamasu!",
+      "seasonNumber": 4,
+      "number": 18,
+      "aired": "2016-10-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5782302.jpg",
+      "absoluteNumber": 65,
+      "name": "Final Judgement? The Ultimate Power of an Absolute God",
+      "seasonNumber": 4,
+      "number": 19,
+      "aired": "2016-11-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5785021.jpg",
+      "absoluteNumber": 66,
+      "name": "Showdown! The Miraculous Power of Unyielding Warriors",
+      "seasonNumber": 4,
+      "number": 20,
+      "aired": "2016-11-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5785022.jpg",
+      "absoluteNumber": 67,
+      "name": "With New Hope in His Heart - Farewell, Trunks",
+      "seasonNumber": 4,
+      "number": 21,
+      "aired": "2016-11-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5785023.jpg",
+      "absoluteNumber": 68,
+      "name": "Come Forth, Shenron! Whose Wish Will Be Granted?",
+      "seasonNumber": 4,
+      "number": 22,
+      "aired": "2016-11-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5844200.jpg",
+      "absoluteNumber": 69,
+      "name": "Goku vs. Arale! An Off-the-Wall Battle Spells the End of the Earth?",
+      "seasonNumber": 4,
+      "number": 23,
+      "aired": "2016-12-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5844201.jpg",
+      "absoluteNumber": 70,
+      "name": "A Challenge From Champa! This Time, a Baseball Game!",
+      "seasonNumber": 4,
+      "number": 24,
+      "aired": "2016-12-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5844202.jpg",
+      "absoluteNumber": 71,
+      "name": "Goku Dies! An Assassination That Must Be Executed!",
+      "seasonNumber": 4,
+      "number": 25,
+      "aired": "2016-12-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5851180.jpg",
+      "absoluteNumber": 72,
+      "name": "Will He Strike Back? The Unseen Killing Technique!",
+      "seasonNumber": 4,
+      "number": 26,
+      "aired": "2016-12-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5880351.jpg",
+      "absoluteNumber": 73,
+      "name": "Gohan's Plight! The Preposterous Great Saiyaman Film Adaptation?!",
+      "seasonNumber": 4,
+      "number": 27,
+      "aired": "2017-01-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5880381.jpg",
+      "absoluteNumber": 74,
+      "name": "For My Beloved Ones! The Indomitable Great Saiyaman!",
+      "seasonNumber": 4,
+      "number": 28,
+      "aired": "2017-01-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5880397.jpg",
+      "absoluteNumber": 75,
+      "name": "Goku and Krillin! Back to the Old Familiar Training Ground!",
+      "seasonNumber": 4,
+      "number": 29,
+      "aired": "2017-01-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5880400.jpg",
+      "absoluteNumber": 76,
+      "name": "Conquer the Terrifying Foes! Krillin's Fighting Spirit Rebounds!",
+      "seasonNumber": 4,
+      "number": 30,
+      "aired": "2017-01-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5880403.jpg",
+      "absoluteNumber": 77,
+      "name": "Let's Do It, Grand Zeno! The Universes' Best Tournament!!",
+      "seasonNumber": 5,
+      "number": 1,
+      "aired": "2017-02-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5938324.jpg",
+      "absoluteNumber": 78,
+      "name": "Even the Universes' Gods are Appalled?! The Lose-and-Perish Tournament of Power",
+      "seasonNumber": 5,
+      "number": 2,
+      "aired": "2017-02-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5938437.jpg",
+      "absoluteNumber": 79,
+      "name": "The 9th Universe's Kicking Basil vs. the 7th Universe's Majin Buu!!",
+      "seasonNumber": 5,
+      "number": 3,
+      "aired": "2017-02-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5938436.jpg",
+      "absoluteNumber": 80,
+      "name": "Awaken Your Dormant Fighting Spirit! Gohan's Fight!",
+      "seasonNumber": 5,
+      "number": 4,
+      "aired": "2017-02-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5938435.jpg",
+      "absoluteNumber": 81,
+      "name": "Bergamo the Crusher vs. Goku! Whose Strength Reaches the Wild Blue Yonder?",
+      "seasonNumber": 5,
+      "number": 5,
+      "aired": "2017-03-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5993243.jpg",
+      "absoluteNumber": 82,
+      "name": "Goku Must Pay! The Warrior of Justice Top Barges In!",
+      "seasonNumber": 5,
+      "number": 6,
+      "aired": "2017-03-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5999381.jpg",
+      "absoluteNumber": 83,
+      "name": "Field the All-7th-Universe Team! Who are the Mighty Ten?",
+      "seasonNumber": 5,
+      "number": 7,
+      "aired": "2017-03-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5999382.jpg",
+      "absoluteNumber": 84,
+      "name": "Goku the Talent Scout! Recruit Krillin and Android 18",
+      "seasonNumber": 5,
+      "number": 8,
+      "aired": "2017-04-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/5999383.jpg",
+      "absoluteNumber": 85,
+      "name": "The Universes Go Into Action - Each With Their Own Motives",
+      "seasonNumber": 5,
+      "number": 9,
+      "aired": "2017-04-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6035368.jpg",
+      "absoluteNumber": 86,
+      "name": "First Time Exchanging Blows! Android 17 vs. Goku!!",
+      "seasonNumber": 5,
+      "number": 10,
+      "aired": "2017-04-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6038082.jpg",
+      "absoluteNumber": 87,
+      "name": "Hunt the Poaching Ring! Goku and Android 17's Joint Struggle!",
+      "seasonNumber": 5,
+      "number": 11,
+      "aired": "2017-04-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6038083.jpg",
+      "absoluteNumber": 88,
+      "name": "Gohan and Piccolo Master and Pupil Clash in Max Training!",
+      "seasonNumber": 5,
+      "number": 12,
+      "aired": "2017-04-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6038085.jpg",
+      "absoluteNumber": 89,
+      "name": "A Mysterious Beauty Appears! The Enigma of the Tien Shin-Style Dojo?",
+      "seasonNumber": 5,
+      "number": 13,
+      "aired": "2017-05-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6057544.jpg",
+      "absoluteNumber": 90,
+      "name": "Staring Down the Wall to be Overcome! Goku vs. Gohan",
+      "seasonNumber": 5,
+      "number": 14,
+      "aired": "2017-05-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6057545.jpg",
+      "absoluteNumber": 91,
+      "name": "Which Universe Will Win Their Place? The Mighty Warriors Gradually Assemble!",
+      "seasonNumber": 5,
+      "number": 15,
+      "aired": "2017-05-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6057546.jpg",
+      "absoluteNumber": 92,
+      "name": "A State of Emergency! Failure to Reach Ten Members!!",
+      "seasonNumber": 5,
+      "number": 16,
+      "aired": "2017-05-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6081060.jpg",
+      "absoluteNumber": 93,
+      "name": "You're Our Tenth Warrior! Goku Approaches Frieza!!",
+      "seasonNumber": 5,
+      "number": 17,
+      "aired": "2017-06-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6114467.jpg",
+      "absoluteNumber": 94,
+      "name": "The Evil Emperor Returns! A Reception from Mysterious Assassins?",
+      "seasonNumber": 5,
+      "number": 18,
+      "aired": "2017-06-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6118890.jpg",
+      "absoluteNumber": 95,
+      "name": "Most Heinous! Most Evil! Frieza's Rampage!",
+      "seasonNumber": 5,
+      "number": 19,
+      "aired": "2017-06-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6118891.jpg",
+      "absoluteNumber": 96,
+      "name": "The Time Has Come! To the Null Realm with the Universes on the Line!",
+      "seasonNumber": 5,
+      "number": 20,
+      "aired": "2017-06-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6118892.jpg",
+      "absoluteNumber": 97,
+      "name": "Survive! The \"Tournament of Power\" Begins at Last!!",
+      "seasonNumber": 5,
+      "number": 21,
+      "aired": "2017-07-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6152293.jpg",
+      "absoluteNumber": 98,
+      "name": "Ah, the Uncertainty! A Universe Despairs!",
+      "seasonNumber": 5,
+      "number": 22,
+      "aired": "2017-07-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6152299.jpg",
+      "absoluteNumber": 99,
+      "name": "Show Them! Krillin's Underlying Strength!",
+      "seasonNumber": 5,
+      "number": 23,
+      "aired": "2017-07-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6152300.jpg",
+      "absoluteNumber": 100,
+      "name": "Rampage! A Crazed Warrior's Savagery Awakens!",
+      "seasonNumber": 5,
+      "number": 24,
+      "aired": "2017-07-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6152304.jpg",
+      "absoluteNumber": 101,
+      "name": "Warriors of Justice Close In! The Pride Troopers!",
+      "seasonNumber": 5,
+      "number": 25,
+      "aired": "2017-07-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6221833.jpg",
+      "absoluteNumber": 102,
+      "name": "The Power of Love Explodes? The 2nd Universe's Witchy Warriors!",
+      "seasonNumber": 5,
+      "number": 26,
+      "aired": "2017-08-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6235874.jpg",
+      "absoluteNumber": 103,
+      "name": "Gohan, Get Ruthless! Showdown with the 10th Universe!",
+      "seasonNumber": 5,
+      "number": 27,
+      "aired": "2017-08-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6235876.jpg",
+      "absoluteNumber": 104,
+      "name": "A Transcendent Light-Speed Battle Erupts! Goku and Hit's United Front!",
+      "seasonNumber": 5,
+      "number": 28,
+      "aired": "2017-08-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6241912.jpg",
+      "absoluteNumber": 105,
+      "name": "A Valiant Fight! Master Roshi's Blaze of Glory!",
+      "seasonNumber": 5,
+      "number": 29,
+      "aired": "2017-08-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6245675.jpg",
+      "absoluteNumber": 106,
+      "name": "Find them Out! Deathmatch with a Furtive Attacker!",
+      "seasonNumber": 5,
+      "number": 30,
+      "aired": "2017-09-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6292916.jpg",
+      "absoluteNumber": 107,
+      "name": "Revenge 'F'! A Cunning Trap is Set?",
+      "seasonNumber": 5,
+      "number": 31,
+      "aired": "2017-09-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6292919.jpg",
+      "absoluteNumber": 108,
+      "name": "Frieza and Frost! A Mutual Malevolence?",
+      "seasonNumber": 5,
+      "number": 32,
+      "aired": "2017-09-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6292920.jpg",
+      "absoluteNumber": 109,
+      "name": "The Mightiest Enemy Zeroes in on Goku! Launch the Knockout Spirit Bomb Now!",
+      "seasonNumber": 5,
+      "number": 33,
+      "aired": "2017-10-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6292925.jpg",
+      "absoluteNumber": 110,
+      "name": "Goku Enkindled! The Awakened One's New Ultra Instinct!",
+      "seasonNumber": 5,
+      "number": 34,
+      "aired": "2017-10-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6326255.jpg",
+      "absoluteNumber": 111,
+      "name": "An Extra-Dimensional Ultimate Battle! Hit vs. Jiren!",
+      "seasonNumber": 5,
+      "number": 35,
+      "aired": "2017-10-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6326256.jpg",
+      "absoluteNumber": 112,
+      "name": "A Saiyan Oath! Vegeta's Resolve!",
+      "seasonNumber": 5,
+      "number": 36,
+      "aired": "2017-10-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6326257.jpg",
+      "absoluteNumber": 113,
+      "name": "With Great Joy! The Fighting Freak Saiyans' Battle Rejoined!",
+      "seasonNumber": 5,
+      "number": 37,
+      "aired": "2017-10-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6348942.jpg",
+      "absoluteNumber": 114,
+      "name": "Bloodcurdling! The Explosive Birth of a New Super Warrior!",
+      "seasonNumber": 5,
+      "number": 38,
+      "aired": "2017-11-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6376965.jpg",
+      "absoluteNumber": 115,
+      "name": "Goku vs. Kefla! Super Saiyan Blue Beaten?",
+      "seasonNumber": 5,
+      "number": 39,
+      "aired": "2017-11-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6395089.jpg",
+      "absoluteNumber": 116,
+      "name": "Signs of a Turnabout! The Autonomous Ultra Instinct Erupts!",
+      "seasonNumber": 5,
+      "number": 40,
+      "aired": "2017-11-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6399001.jpg",
+      "absoluteNumber": 117,
+      "name": "Showdown of Love! The Androids vs the 2nd Universe!",
+      "seasonNumber": 5,
+      "number": 41,
+      "aired": "2017-11-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6399013.jpg",
+      "absoluteNumber": 118,
+      "name": "Accelerating Tragedy - Vanishing Universes",
+      "seasonNumber": 5,
+      "number": 42,
+      "aired": "2017-12-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6399881.jpg",
+      "absoluteNumber": 119,
+      "name": "Unavoidable? The Ferocity of a Stealth Attack!",
+      "seasonNumber": 5,
+      "number": 43,
+      "aired": "2017-12-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6440373.jpg",
+      "absoluteNumber": 120,
+      "name": "A Perfect Survival Strategy! The 3rd Universe's Menacing Assassin!",
+      "seasonNumber": 5,
+      "number": 44,
+      "aired": "2017-12-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6443991.jpg",
+      "absoluteNumber": 121,
+      "name": "All-Out War! The Ultimate Four-Fold Union vs. the 7th Universe's Total Offensive!",
+      "seasonNumber": 5,
+      "number": 45,
+      "aired": "2017-12-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6443992.jpg",
+      "absoluteNumber": 122,
+      "name": "With His Pride on the Line! Vegeta's Challenge to Be the Strongest!",
+      "seasonNumber": 5,
+      "number": 46,
+      "aired": "2018-01-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6449963.jpg",
+      "absoluteNumber": 123,
+      "name": "Body, Soul and Power Unleashed! Goku and Vegeta!",
+      "seasonNumber": 5,
+      "number": 47,
+      "aired": "2018-01-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6470356.jpg",
+      "absoluteNumber": 124,
+      "name": "A Storm-and-Stress Assault! Gohan's Last Stand!",
+      "seasonNumber": 5,
+      "number": 48,
+      "aired": "2018-01-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6470365.jpg",
+      "absoluteNumber": 125,
+      "name": "A Commanding Presence! The Advent of Top the Destroyer!",
+      "seasonNumber": 5,
+      "number": 49,
+      "aired": "2018-01-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6470444.jpg",
+      "absoluteNumber": 126,
+      "name": "Surpass Even a God! Vegeta's Sacrifice Strike!",
+      "seasonNumber": 5,
+      "number": 50,
+      "aired": "2018-02-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6511234.jpg",
+      "absoluteNumber": 127,
+      "name": "The Approaching Wall! A Hopeful Final Barrier!",
+      "seasonNumber": 5,
+      "number": 51,
+      "aired": "2018-02-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6511235.jpg",
+      "absoluteNumber": 128,
+      "name": "With Noble Pride to the End! Vegeta Falls!",
+      "seasonNumber": 5,
+      "number": 52,
+      "aired": "2018-02-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6511236.jpg",
+      "absoluteNumber": 129,
+      "name": "A Transcendent Limit Break! Autonomous Ultra Instinct Mastered!",
+      "seasonNumber": 5,
+      "number": 53,
+      "aired": "2018-03-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6511237.jpg",
+      "absoluteNumber": 130,
+      "name": "The Greatest Showdown of All Time! The Ultimate Survival Battle!",
+      "seasonNumber": 5,
+      "number": 54,
+      "aired": "2018-03-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/295068/6511238.jpg",
+      "absoluteNumber": 131,
+      "name": "A Miraculous Conclusion! Farewell, Goku! Until the Day We Meet Again!",
+      "seasonNumber": 5,
+      "number": 55,
+      "aired": "2018-03-25",
+      "runtime": 25
+    }
+  ]
+}
