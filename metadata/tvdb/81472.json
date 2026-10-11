@@ -1,0 +1,2948 @@
+{
+  "cachedAt": 1791703385324,
+  "data": [
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8484175/screencap/63ef464140f77.jpg",
+      "absoluteNumber": 0,
+      "name": "Dead Zone",
+      "seasonNumber": 0,
+      "number": 1,
+      "aired": "1989-07-15",
+      "runtime": 42
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8486294/screencap/647484e8da1c3.jpg",
+      "absoluteNumber": 0,
+      "name": "The World's Strongest",
+      "seasonNumber": 0,
+      "number": 2,
+      "aired": "1990-03-10",
+      "runtime": 60
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8486295/screencap/6474863195ded.jpg",
+      "absoluteNumber": 0,
+      "name": "The Tree of Might",
+      "seasonNumber": 0,
+      "number": 3,
+      "aired": "1990-07-07",
+      "runtime": 65
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8486296/screencap/647482d0c9525.jpg",
+      "absoluteNumber": 0,
+      "name": "Lord Slug",
+      "seasonNumber": 0,
+      "number": 4,
+      "aired": "1991-03-09",
+      "runtime": 52
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8486297/screencap/6474867ed69de.jpg",
+      "absoluteNumber": 0,
+      "name": "Cooler's Revenge",
+      "seasonNumber": 0,
+      "number": 5,
+      "aired": "1991-07-20",
+      "runtime": 47
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8486298/screencap/647486a948796.jpg",
+      "absoluteNumber": 0,
+      "name": "The Return of Cooler",
+      "seasonNumber": 0,
+      "number": 6,
+      "aired": "1992-03-07",
+      "runtime": 46
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8486299/screencap/647486cc4ce18.jpg",
+      "absoluteNumber": 0,
+      "name": "Super Android 13!",
+      "seasonNumber": 0,
+      "number": 7,
+      "aired": "1992-07-11",
+      "runtime": 46
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411419.jpg",
+      "absoluteNumber": 0,
+      "name": "Broly: The Legendary Super Saiyan",
+      "seasonNumber": 0,
+      "number": 8,
+      "aired": "1993-03-06",
+      "runtime": 70
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411420.jpg",
+      "absoluteNumber": 0,
+      "name": "Bojack Unbound",
+      "seasonNumber": 0,
+      "number": 9,
+      "aired": "1993-07-10",
+      "runtime": 50
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411421.jpg",
+      "absoluteNumber": 0,
+      "name": "Broly: Second Coming",
+      "seasonNumber": 0,
+      "number": 10,
+      "aired": "1994-03-12",
+      "runtime": 50
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411422.jpg",
+      "absoluteNumber": 0,
+      "name": "Bio-Broly",
+      "seasonNumber": 0,
+      "number": 11,
+      "aired": "1994-07-09",
+      "runtime": 45
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411423.jpg",
+      "absoluteNumber": 0,
+      "name": "Fusion Reborn",
+      "seasonNumber": 0,
+      "number": 12,
+      "aired": "1995-03-04",
+      "runtime": 50
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411424.jpg",
+      "absoluteNumber": 0,
+      "name": "Wrath of the Dragon",
+      "seasonNumber": 0,
+      "number": 13,
+      "aired": "1995-07-15",
+      "runtime": 50
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/4663427.jpg",
+      "absoluteNumber": 0,
+      "name": "Battle of Gods",
+      "seasonNumber": 0,
+      "number": 14,
+      "aired": "2013-03-30",
+      "runtime": 85
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/5276090.jpg",
+      "absoluteNumber": 0,
+      "name": "Resurrection 'F'",
+      "seasonNumber": 0,
+      "number": 15,
+      "aired": "2015-04-18",
+      "runtime": 95
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411426.jpg",
+      "absoluteNumber": 0,
+      "name": "Bardock - The Father of Goku",
+      "seasonNumber": 0,
+      "number": 16,
+      "aired": "1990-10-17",
+      "runtime": 45
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/series/81472/episodes/5ec9901dd8693.jpg",
+      "absoluteNumber": 0,
+      "name": "Summer Vacation Special",
+      "seasonNumber": 0,
+      "number": 17,
+      "aired": "1992-08-03",
+      "runtime": 43
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411427.jpg",
+      "absoluteNumber": 0,
+      "name": "The History of Trunks",
+      "seasonNumber": 0,
+      "number": 18,
+      "aired": "1993-02-24",
+      "runtime": 45
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/4183200.jpg",
+      "absoluteNumber": 0,
+      "name": "Gather Together! Goku's World",
+      "seasonNumber": 0,
+      "number": 19,
+      "aired": "1993-12-31",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/952701.jpg",
+      "absoluteNumber": 0,
+      "name": "Plan to Eradicate the Saiyans: Earth Story (Part 1)",
+      "seasonNumber": 0,
+      "number": 20,
+      "aired": "1993-07-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/1135161.jpg",
+      "absoluteNumber": 0,
+      "name": "Plan to Eradicate the Saiyans: Space Story (Part 2)",
+      "seasonNumber": 0,
+      "number": 21,
+      "aired": "1993-08-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/7811707/screencap/65f0a38329d4c.jpg",
+      "absoluteNumber": 0,
+      "name": "The World of Dragon Ball Z",
+      "seasonNumber": 0,
+      "number": 22,
+      "aired": "2000-01-01",
+      "runtime": 20
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411425.jpg",
+      "absoluteNumber": 0,
+      "name": "Yo! Son Goku and His Friends Return!!",
+      "seasonNumber": 0,
+      "number": 23,
+      "aired": "2008-09-21",
+      "runtime": 35
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/4183187.jpg",
+      "absoluteNumber": 0,
+      "name": "Plan to Eradicate the Super Saiyans (Remake)",
+      "seasonNumber": 0,
+      "number": 24,
+      "aired": "2010-11-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/4256459.jpg",
+      "absoluteNumber": 0,
+      "name": "Episode of Bardock",
+      "seasonNumber": 0,
+      "number": 25,
+      "aired": "2011-12-17",
+      "runtime": 25
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Kyutai Panic Adventure!",
+      "seasonNumber": 0,
+      "number": 26,
+      "aired": "2003-06-01",
+      "runtime": 9
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Kyutai Panic Adventure Returns!",
+      "seasonNumber": 0,
+      "number": 27,
+      "aired": "2004-06-01",
+      "runtime": 11
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/4543895.jpg",
+      "absoluteNumber": 0,
+      "name": "Dream 9 Toriko & One Piece & Dragon Ball Z Super Collaboration Special",
+      "seasonNumber": 0,
+      "number": 28,
+      "aired": "2013-04-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9188806/screencap/62932e7a22a48.jpg",
+      "absoluteNumber": 0,
+      "name": "Looking Back at it All: The Dragon Ball Z Year-End Show!",
+      "seasonNumber": 0,
+      "number": 29,
+      "aired": "1993-12-31",
+      "runtime": 5
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": "Japan Hero Awards: Who Is the Strongest Hero?",
+      "seasonNumber": 0,
+      "number": 30,
+      "aired": "2007-04-07",
+      "runtime": 10
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9642827/screencap/64748caf03ae9.jpg",
+      "absoluteNumber": 0,
+      "name": "Resurrection 'F' - Future Trunks Edition",
+      "seasonNumber": 0,
+      "number": 32,
+      "aired": "2015-04-18",
+      "runtime": 105
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9973341/screencap/64e88be6e7c66.jpg",
+      "absoluteNumber": 0,
+      "name": "Battle of Gods (Special Extended Edition)",
+      "seasonNumber": 0,
+      "number": 33,
+      "aired": "2013-03-30",
+      "runtime": 105
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": null,
+      "seasonNumber": 0,
+      "number": 34,
+      "aired": null,
+      "runtime": 41
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": null,
+      "seasonNumber": 0,
+      "number": 35,
+      "aired": null,
+      "runtime": 7
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": null,
+      "seasonNumber": 0,
+      "number": 36,
+      "aired": "1989-04-26",
+      "runtime": null
+    },
+    {
+      "image": "",
+      "absoluteNumber": 0,
+      "name": null,
+      "seasonNumber": 0,
+      "number": 37,
+      "aired": "1993-09-08",
+      "runtime": null
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355412.jpg",
+      "absoluteNumber": 1,
+      "name": "The New Threat",
+      "seasonNumber": 1,
+      "number": 1,
+      "aired": "1989-04-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355413.jpg",
+      "absoluteNumber": 2,
+      "name": "Reunions",
+      "seasonNumber": 1,
+      "number": 2,
+      "aired": "1989-05-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355414.jpg",
+      "absoluteNumber": 3,
+      "name": "Unlikely Alliance",
+      "seasonNumber": 1,
+      "number": 3,
+      "aired": "1989-05-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355415.jpg",
+      "absoluteNumber": 4,
+      "name": "Piccolo's Plan",
+      "seasonNumber": 1,
+      "number": 4,
+      "aired": "1989-05-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355416.jpg",
+      "absoluteNumber": 5,
+      "name": "Gohan's Rage",
+      "seasonNumber": 1,
+      "number": 5,
+      "aired": "1989-05-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355417.jpg",
+      "absoluteNumber": 6,
+      "name": "No Time Like the Present",
+      "seasonNumber": 1,
+      "number": 6,
+      "aired": "1989-06-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355418.jpg",
+      "absoluteNumber": 7,
+      "name": "Day 1",
+      "seasonNumber": 1,
+      "number": 7,
+      "aired": "1989-06-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355419.jpg",
+      "absoluteNumber": 8,
+      "name": "Gohan Goes Bananas!",
+      "seasonNumber": 1,
+      "number": 8,
+      "aired": "1989-06-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355420.jpg",
+      "absoluteNumber": 9,
+      "name": "The Strangest Robot",
+      "seasonNumber": 1,
+      "number": 9,
+      "aired": "1989-06-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355421.jpg",
+      "absoluteNumber": 10,
+      "name": "A New Friend",
+      "seasonNumber": 1,
+      "number": 10,
+      "aired": "1989-07-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355422.jpg",
+      "absoluteNumber": 11,
+      "name": "Terror on Arlia",
+      "seasonNumber": 1,
+      "number": 11,
+      "aired": "1989-07-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355423.jpg",
+      "absoluteNumber": 12,
+      "name": "Global Training",
+      "seasonNumber": 1,
+      "number": 12,
+      "aired": "1989-07-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355424.jpg",
+      "absoluteNumber": 13,
+      "name": "Goz and Mez",
+      "seasonNumber": 1,
+      "number": 13,
+      "aired": "1989-07-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355425.jpg",
+      "absoluteNumber": 14,
+      "name": "Princess Snake",
+      "seasonNumber": 1,
+      "number": 14,
+      "aired": "1989-08-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355426.jpg",
+      "absoluteNumber": 15,
+      "name": "Dueling Piccolos",
+      "seasonNumber": 1,
+      "number": 15,
+      "aired": "1989-08-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355427.jpg",
+      "absoluteNumber": 16,
+      "name": "Plight of the Children",
+      "seasonNumber": 1,
+      "number": 16,
+      "aired": "1989-08-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355428.jpg",
+      "absoluteNumber": 17,
+      "name": "Pendulum Room Peril",
+      "seasonNumber": 1,
+      "number": 17,
+      "aired": "1989-08-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355429.jpg",
+      "absoluteNumber": 18,
+      "name": "The End of Snake Way",
+      "seasonNumber": 1,
+      "number": 18,
+      "aired": "1989-09-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355430.jpg",
+      "absoluteNumber": 19,
+      "name": "Defying Gravity",
+      "seasonNumber": 1,
+      "number": 19,
+      "aired": "1989-09-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355431.jpg",
+      "absoluteNumber": 20,
+      "name": "Goku's Ancestors",
+      "seasonNumber": 1,
+      "number": 20,
+      "aired": "1989-09-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355432.jpg",
+      "absoluteNumber": 21,
+      "name": "Counting Down",
+      "seasonNumber": 1,
+      "number": 21,
+      "aired": "1989-09-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355433.jpg",
+      "absoluteNumber": 22,
+      "name": "The Darkest Day",
+      "seasonNumber": 1,
+      "number": 22,
+      "aired": "1989-10-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355434.jpg",
+      "absoluteNumber": 23,
+      "name": "Saibamen Attack!",
+      "seasonNumber": 1,
+      "number": 23,
+      "aired": "1989-10-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355435.jpg",
+      "absoluteNumber": 24,
+      "name": "The Power of Nappa",
+      "seasonNumber": 1,
+      "number": 24,
+      "aired": "1989-10-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355436.jpg",
+      "absoluteNumber": 25,
+      "name": "Sacrifice",
+      "seasonNumber": 1,
+      "number": 25,
+      "aired": "1989-11-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355437.jpg",
+      "absoluteNumber": 26,
+      "name": "Nappa's Rampage",
+      "seasonNumber": 1,
+      "number": 26,
+      "aired": "1989-11-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355438.jpg",
+      "absoluteNumber": 27,
+      "name": "Nimbus Speed",
+      "seasonNumber": 1,
+      "number": 27,
+      "aired": "1989-11-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355439.jpg",
+      "absoluteNumber": 28,
+      "name": "Goku's Arrival",
+      "seasonNumber": 1,
+      "number": 28,
+      "aired": "1989-11-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355440.jpg",
+      "absoluteNumber": 29,
+      "name": "Lesson Number One",
+      "seasonNumber": 1,
+      "number": 29,
+      "aired": "1989-12-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355441.jpg",
+      "absoluteNumber": 30,
+      "name": "Goku vs. Vegeta",
+      "seasonNumber": 1,
+      "number": 30,
+      "aired": "1989-12-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355442.jpg",
+      "absoluteNumber": 31,
+      "name": "Saiyan Sized Secret",
+      "seasonNumber": 1,
+      "number": 31,
+      "aired": "1989-12-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355443.jpg",
+      "absoluteNumber": 32,
+      "name": "Spirit Bomb Away!",
+      "seasonNumber": 1,
+      "number": 32,
+      "aired": "1990-01-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355444.jpg",
+      "absoluteNumber": 33,
+      "name": "Hero in the Shadows",
+      "seasonNumber": 1,
+      "number": 33,
+      "aired": "1990-01-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355445.jpg",
+      "absoluteNumber": 34,
+      "name": "Krillin's Offensive",
+      "seasonNumber": 1,
+      "number": 34,
+      "aired": "1990-01-31",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355446.jpg",
+      "absoluteNumber": 35,
+      "name": "Mercy",
+      "seasonNumber": 1,
+      "number": 35,
+      "aired": "1990-02-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355447.jpg",
+      "absoluteNumber": 36,
+      "name": "Picking Up the Pieces",
+      "seasonNumber": 1,
+      "number": 36,
+      "aired": "1990-02-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355448.jpg",
+      "absoluteNumber": 37,
+      "name": "Plans for Departure",
+      "seasonNumber": 1,
+      "number": 37,
+      "aired": "1990-02-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355449.jpg",
+      "absoluteNumber": 38,
+      "name": "Nursing Wounds",
+      "seasonNumber": 1,
+      "number": 38,
+      "aired": "1990-02-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355450.jpg",
+      "absoluteNumber": 39,
+      "name": "Friends or Foes?",
+      "seasonNumber": 1,
+      "number": 39,
+      "aired": "1990-03-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/355451.jpg",
+      "absoluteNumber": 40,
+      "name": "Held Captive",
+      "seasonNumber": 2,
+      "number": 1,
+      "aired": "1990-03-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356280.jpg",
+      "absoluteNumber": 41,
+      "name": "Look Out Below",
+      "seasonNumber": 2,
+      "number": 2,
+      "aired": "1990-03-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356281.jpg",
+      "absoluteNumber": 42,
+      "name": "The Search Continues",
+      "seasonNumber": 2,
+      "number": 3,
+      "aired": "1990-04-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356282.jpg",
+      "absoluteNumber": 43,
+      "name": "A Friendly Surprise",
+      "seasonNumber": 2,
+      "number": 4,
+      "aired": "1990-04-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356283.jpg",
+      "absoluteNumber": 44,
+      "name": "Brood of Evil",
+      "seasonNumber": 2,
+      "number": 5,
+      "aired": "1990-04-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356284.jpg",
+      "absoluteNumber": 45,
+      "name": "Frieza Strikes!",
+      "seasonNumber": 2,
+      "number": 6,
+      "aired": "1990-04-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356285.jpg",
+      "absoluteNumber": 46,
+      "name": "Defying Orders",
+      "seasonNumber": 2,
+      "number": 7,
+      "aired": "1990-05-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356286.jpg",
+      "absoluteNumber": 47,
+      "name": "Namek's Defense",
+      "seasonNumber": 2,
+      "number": 8,
+      "aired": "1990-05-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356287.jpg",
+      "absoluteNumber": 48,
+      "name": "The Hunted",
+      "seasonNumber": 2,
+      "number": 9,
+      "aired": "1990-05-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356288.jpg",
+      "absoluteNumber": 49,
+      "name": "The Prince Fights Back",
+      "seasonNumber": 2,
+      "number": 10,
+      "aired": "1990-05-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356289.jpg",
+      "absoluteNumber": 50,
+      "name": "Unexpected Problem",
+      "seasonNumber": 2,
+      "number": 11,
+      "aired": "1990-05-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356290.jpg",
+      "absoluteNumber": 51,
+      "name": "Vegeta Has a Ball",
+      "seasonNumber": 2,
+      "number": 12,
+      "aired": "1990-06-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356291.jpg",
+      "absoluteNumber": 52,
+      "name": "The Past and Future",
+      "seasonNumber": 2,
+      "number": 13,
+      "aired": "1990-06-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356292.jpg",
+      "absoluteNumber": 53,
+      "name": "Zarbon's Surprise",
+      "seasonNumber": 2,
+      "number": 14,
+      "aired": "1990-06-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356293.jpg",
+      "absoluteNumber": 54,
+      "name": "Guru's Gift",
+      "seasonNumber": 2,
+      "number": 15,
+      "aired": "1990-07-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356294.jpg",
+      "absoluteNumber": 55,
+      "name": "Piccolo vs. Everyone",
+      "seasonNumber": 2,
+      "number": 16,
+      "aired": "1990-07-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356295.jpg",
+      "absoluteNumber": 56,
+      "name": "Zarbon's Mission",
+      "seasonNumber": 2,
+      "number": 17,
+      "aired": "1990-08-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356296.jpg",
+      "absoluteNumber": 57,
+      "name": "Gohan, the Hunted",
+      "seasonNumber": 2,
+      "number": 18,
+      "aired": "1990-08-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356297.jpg",
+      "absoluteNumber": 58,
+      "name": "Unknown Enemies",
+      "seasonNumber": 2,
+      "number": 19,
+      "aired": "1990-08-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356298.jpg",
+      "absoluteNumber": 59,
+      "name": "Destination: Guru",
+      "seasonNumber": 2,
+      "number": 20,
+      "aired": "1990-08-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356299.jpg",
+      "absoluteNumber": 60,
+      "name": "Bulma's Big Day",
+      "seasonNumber": 2,
+      "number": 21,
+      "aired": "1990-09-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356300.jpg",
+      "absoluteNumber": 61,
+      "name": "Hidden Power",
+      "seasonNumber": 2,
+      "number": 22,
+      "aired": "1990-09-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356301.jpg",
+      "absoluteNumber": 62,
+      "name": "New Ally, New Problem",
+      "seasonNumber": 2,
+      "number": 23,
+      "aired": "1990-09-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356302.jpg",
+      "absoluteNumber": 63,
+      "name": "Guldo's Mind Binds",
+      "seasonNumber": 2,
+      "number": 24,
+      "aired": "1990-09-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356303.jpg",
+      "absoluteNumber": 64,
+      "name": "Recoome Unleashed",
+      "seasonNumber": 2,
+      "number": 25,
+      "aired": "1990-10-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356304.jpg",
+      "absoluteNumber": 65,
+      "name": "Let the Battle Begin",
+      "seasonNumber": 2,
+      "number": 26,
+      "aired": "1990-10-31",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356305.jpg",
+      "absoluteNumber": 66,
+      "name": "Goku's New Power",
+      "seasonNumber": 2,
+      "number": 27,
+      "aired": "1990-11-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356306.jpg",
+      "absoluteNumber": 67,
+      "name": "A Legend Revealed",
+      "seasonNumber": 2,
+      "number": 28,
+      "aired": "1990-11-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356307.jpg",
+      "absoluteNumber": 68,
+      "name": "Ginyu Assault",
+      "seasonNumber": 2,
+      "number": 29,
+      "aired": "1990-11-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356308.jpg",
+      "absoluteNumber": 69,
+      "name": "Incredible Force!",
+      "seasonNumber": 2,
+      "number": 30,
+      "aired": "1990-11-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356309.jpg",
+      "absoluteNumber": 70,
+      "name": "Frieza Approaches",
+      "seasonNumber": 2,
+      "number": 31,
+      "aired": "1990-12-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356310.jpg",
+      "absoluteNumber": 71,
+      "name": "Goku is Ginyu and Ginyu is Goku",
+      "seasonNumber": 2,
+      "number": 32,
+      "aired": "1990-12-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/356311.jpg",
+      "absoluteNumber": 72,
+      "name": "Calling the Eternal Dragon",
+      "seasonNumber": 2,
+      "number": 33,
+      "aired": "1990-12-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372807.jpg",
+      "absoluteNumber": 73,
+      "name": "Gohan, Defeat Your Dad!!",
+      "seasonNumber": 2,
+      "number": 34,
+      "aired": "1991-01-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372808.jpg",
+      "absoluteNumber": 74,
+      "name": "Captain Ginyu...The Frog",
+      "seasonNumber": 2,
+      "number": 35,
+      "aired": "1991-01-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/365729.jpg",
+      "absoluteNumber": 75,
+      "name": "Password Is Porunga",
+      "seasonNumber": 3,
+      "number": 1,
+      "aired": "1991-01-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372922.jpg",
+      "absoluteNumber": 76,
+      "name": "Piccolo's Return",
+      "seasonNumber": 3,
+      "number": 2,
+      "aired": "1991-02-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372923.jpg",
+      "absoluteNumber": 77,
+      "name": "The Fusion",
+      "seasonNumber": 3,
+      "number": 3,
+      "aired": "1991-02-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372924.jpg",
+      "absoluteNumber": 78,
+      "name": "Fighting Power: One Million??",
+      "seasonNumber": 3,
+      "number": 4,
+      "aired": "1991-02-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372925.jpg",
+      "absoluteNumber": 79,
+      "name": "Gohan Attacks",
+      "seasonNumber": 3,
+      "number": 5,
+      "aired": "1991-02-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372926.jpg",
+      "absoluteNumber": 80,
+      "name": "Piccolo the Super-Namek",
+      "seasonNumber": 3,
+      "number": 6,
+      "aired": "1991-03-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372927.jpg",
+      "absoluteNumber": 81,
+      "name": "Déjà vu",
+      "seasonNumber": 3,
+      "number": 7,
+      "aired": "1991-03-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372928.jpg",
+      "absoluteNumber": 82,
+      "name": "Frieza's Second Transformation",
+      "seasonNumber": 3,
+      "number": 8,
+      "aired": "1991-03-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372929.jpg",
+      "absoluteNumber": 83,
+      "name": "Another Transformation?",
+      "seasonNumber": 3,
+      "number": 9,
+      "aired": "1991-03-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372930.jpg",
+      "absoluteNumber": 84,
+      "name": "Dende's Demise",
+      "seasonNumber": 3,
+      "number": 10,
+      "aired": "1991-04-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372931.jpg",
+      "absoluteNumber": 85,
+      "name": "The Renewed Goku",
+      "seasonNumber": 3,
+      "number": 11,
+      "aired": "1991-04-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372932.jpg",
+      "absoluteNumber": 86,
+      "name": "The End of Vegeta",
+      "seasonNumber": 3,
+      "number": 12,
+      "aired": "1991-04-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372933.jpg",
+      "absoluteNumber": 87,
+      "name": "The Ultimate Battle",
+      "seasonNumber": 3,
+      "number": 13,
+      "aired": "1991-04-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372934.jpg",
+      "absoluteNumber": 88,
+      "name": "Clash of the Super Powers",
+      "seasonNumber": 3,
+      "number": 14,
+      "aired": "1991-05-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372935.jpg",
+      "absoluteNumber": 89,
+      "name": "Frieza's Boast",
+      "seasonNumber": 3,
+      "number": 15,
+      "aired": "1991-05-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372936.jpg",
+      "absoluteNumber": 90,
+      "name": "Bold And Fearless",
+      "seasonNumber": 3,
+      "number": 16,
+      "aired": "1991-05-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372937.jpg",
+      "absoluteNumber": 91,
+      "name": "Embodiment Of Fire",
+      "seasonNumber": 3,
+      "number": 17,
+      "aired": "1991-05-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372938.jpg",
+      "absoluteNumber": 92,
+      "name": "Trump Card",
+      "seasonNumber": 3,
+      "number": 18,
+      "aired": "1991-05-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372939.jpg",
+      "absoluteNumber": 93,
+      "name": "Keep The Chance Alive",
+      "seasonNumber": 3,
+      "number": 19,
+      "aired": "1991-06-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372940.jpg",
+      "absoluteNumber": 94,
+      "name": "Power Of The Spirit",
+      "seasonNumber": 3,
+      "number": 20,
+      "aired": "1991-06-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372941.jpg",
+      "absoluteNumber": 95,
+      "name": "Transformed At Last",
+      "seasonNumber": 3,
+      "number": 21,
+      "aired": "1991-06-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372942.jpg",
+      "absoluteNumber": 96,
+      "name": "Explosion Of Anger",
+      "seasonNumber": 3,
+      "number": 22,
+      "aired": "1991-06-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372943.jpg",
+      "absoluteNumber": 97,
+      "name": "Namek's Destruction",
+      "seasonNumber": 3,
+      "number": 23,
+      "aired": "1991-07-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372944.jpg",
+      "absoluteNumber": 98,
+      "name": "A Final Attack",
+      "seasonNumber": 3,
+      "number": 24,
+      "aired": "1991-07-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372945.jpg",
+      "absoluteNumber": 99,
+      "name": "Approaching Destruction",
+      "seasonNumber": 3,
+      "number": 25,
+      "aired": "1991-07-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372946.jpg",
+      "absoluteNumber": 100,
+      "name": "Gohan Returns",
+      "seasonNumber": 3,
+      "number": 26,
+      "aired": "1991-07-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372947.jpg",
+      "absoluteNumber": 101,
+      "name": "The Last Wish",
+      "seasonNumber": 3,
+      "number": 27,
+      "aired": "1991-07-31",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372948.jpg",
+      "absoluteNumber": 102,
+      "name": "Duel On A Vanishing Planet",
+      "seasonNumber": 3,
+      "number": 28,
+      "aired": "1991-08-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372949.jpg",
+      "absoluteNumber": 103,
+      "name": "Pathos Of Frieza",
+      "seasonNumber": 3,
+      "number": 29,
+      "aired": "1991-08-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372950.jpg",
+      "absoluteNumber": 104,
+      "name": "Frieza Defeated!",
+      "seasonNumber": 3,
+      "number": 30,
+      "aired": "1991-08-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372951.jpg",
+      "absoluteNumber": 105,
+      "name": "Mighty Blast Of Rage",
+      "seasonNumber": 3,
+      "number": 31,
+      "aired": "1991-08-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372952.jpg",
+      "absoluteNumber": 106,
+      "name": "Namek's Explosion...Goku's End?",
+      "seasonNumber": 3,
+      "number": 32,
+      "aired": "1991-09-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/372953.jpg",
+      "absoluteNumber": 107,
+      "name": "Goku's Alive!",
+      "seasonNumber": 3,
+      "number": 33,
+      "aired": "1991-09-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378334.jpg",
+      "absoluteNumber": 108,
+      "name": "The Heavens Tremble",
+      "seasonNumber": 4,
+      "number": 1,
+      "aired": "1991-09-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378335.jpg",
+      "absoluteNumber": 109,
+      "name": "Black Fog of Terror",
+      "seasonNumber": 4,
+      "number": 2,
+      "aired": "1991-09-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378336.jpg",
+      "absoluteNumber": 110,
+      "name": "Battle in Kami's Lookout",
+      "seasonNumber": 4,
+      "number": 3,
+      "aired": "1991-10-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378337.jpg",
+      "absoluteNumber": 111,
+      "name": "Fight with Piccolo",
+      "seasonNumber": 4,
+      "number": 4,
+      "aired": "1991-10-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378338.jpg",
+      "absoluteNumber": 112,
+      "name": "Call for Restoration",
+      "seasonNumber": 4,
+      "number": 5,
+      "aired": "1991-10-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378339.jpg",
+      "absoluteNumber": 113,
+      "name": "Suicidal Course",
+      "seasonNumber": 4,
+      "number": 6,
+      "aired": "1991-10-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378340.jpg",
+      "absoluteNumber": 114,
+      "name": "Extreme Measures",
+      "seasonNumber": 4,
+      "number": 7,
+      "aired": "1991-10-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378341.jpg",
+      "absoluteNumber": 115,
+      "name": "The World Awakens",
+      "seasonNumber": 4,
+      "number": 8,
+      "aired": "1991-11-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378342.jpg",
+      "absoluteNumber": 116,
+      "name": "Brief Chance for Victory",
+      "seasonNumber": 4,
+      "number": 9,
+      "aired": "1991-11-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378343.jpg",
+      "absoluteNumber": 117,
+      "name": "Krillin's Proposal",
+      "seasonNumber": 4,
+      "number": 10,
+      "aired": "1991-11-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378344.jpg",
+      "absoluteNumber": 118,
+      "name": "Frieza's Counterattack",
+      "seasonNumber": 4,
+      "number": 11,
+      "aired": "1991-11-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378345.jpg",
+      "absoluteNumber": 119,
+      "name": "The Mysterious Youth",
+      "seasonNumber": 4,
+      "number": 12,
+      "aired": "1991-12-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378346.jpg",
+      "absoluteNumber": 120,
+      "name": "Another Super Saiyan?",
+      "seasonNumber": 4,
+      "number": 13,
+      "aired": "1991-12-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378347.jpg",
+      "absoluteNumber": 121,
+      "name": "Welcome Back Goku",
+      "seasonNumber": 4,
+      "number": 14,
+      "aired": "1991-12-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378348.jpg",
+      "absoluteNumber": 122,
+      "name": "Mystery Revealed",
+      "seasonNumber": 4,
+      "number": 15,
+      "aired": "1992-01-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378349.jpg",
+      "absoluteNumber": 123,
+      "name": "Goku's Special Technique",
+      "seasonNumber": 4,
+      "number": 16,
+      "aired": "1992-01-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378350.jpg",
+      "absoluteNumber": 124,
+      "name": "Z Warriors Prepare",
+      "seasonNumber": 4,
+      "number": 17,
+      "aired": "1992-01-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378351.jpg",
+      "absoluteNumber": 125,
+      "name": "Goku's Ordeal",
+      "seasonNumber": 4,
+      "number": 18,
+      "aired": "1992-02-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378352.jpg",
+      "absoluteNumber": 126,
+      "name": "The Androids Appear",
+      "seasonNumber": 4,
+      "number": 19,
+      "aired": "1992-02-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378353.jpg",
+      "absoluteNumber": 127,
+      "name": "A Handy Trick",
+      "seasonNumber": 4,
+      "number": 20,
+      "aired": "1992-02-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378354.jpg",
+      "absoluteNumber": 128,
+      "name": "Double Trouble for Goku",
+      "seasonNumber": 4,
+      "number": 21,
+      "aired": "1992-02-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378355.jpg",
+      "absoluteNumber": 129,
+      "name": "Upgrade to Super Saiyan",
+      "seasonNumber": 4,
+      "number": 22,
+      "aired": "1992-03-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378356.jpg",
+      "absoluteNumber": 130,
+      "name": "The Secret of Dr. Gero",
+      "seasonNumber": 4,
+      "number": 23,
+      "aired": "1992-03-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378357.jpg",
+      "absoluteNumber": 131,
+      "name": "More Androids?!",
+      "seasonNumber": 4,
+      "number": 24,
+      "aired": "1992-03-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378358.jpg",
+      "absoluteNumber": 132,
+      "name": "Follow Dr. Gero",
+      "seasonNumber": 4,
+      "number": 25,
+      "aired": "1992-03-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378359.jpg",
+      "absoluteNumber": 133,
+      "name": "Nightmare Comes True",
+      "seasonNumber": 4,
+      "number": 26,
+      "aired": "1992-04-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378360.jpg",
+      "absoluteNumber": 134,
+      "name": "Goku's Assassin",
+      "seasonNumber": 4,
+      "number": 27,
+      "aired": "1992-04-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378361.jpg",
+      "absoluteNumber": 135,
+      "name": "Deadly Beauty",
+      "seasonNumber": 4,
+      "number": 28,
+      "aired": "1992-04-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378362.jpg",
+      "absoluteNumber": 136,
+      "name": "No Match for the Androids",
+      "seasonNumber": 4,
+      "number": 29,
+      "aired": "1992-04-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378363.jpg",
+      "absoluteNumber": 137,
+      "name": "Last Ditch Effort",
+      "seasonNumber": 4,
+      "number": 30,
+      "aired": "1992-04-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378364.jpg",
+      "absoluteNumber": 138,
+      "name": "Closing In",
+      "seasonNumber": 4,
+      "number": 31,
+      "aired": "1992-05-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378365.jpg",
+      "absoluteNumber": 139,
+      "name": "Unwelcome Discovery",
+      "seasonNumber": 4,
+      "number": 32,
+      "aired": "1992-05-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378397.jpg",
+      "absoluteNumber": 140,
+      "name": "Seized with Fear",
+      "seasonNumber": 5,
+      "number": 1,
+      "aired": "1992-05-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378398.jpg",
+      "absoluteNumber": 141,
+      "name": "The Reunion",
+      "seasonNumber": 5,
+      "number": 2,
+      "aired": "1992-05-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378399.jpg",
+      "absoluteNumber": 142,
+      "name": "Borrowed Powers",
+      "seasonNumber": 5,
+      "number": 3,
+      "aired": "1992-06-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378400.jpg",
+      "absoluteNumber": 143,
+      "name": "His Name is Cell",
+      "seasonNumber": 5,
+      "number": 4,
+      "aired": "1992-06-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378401.jpg",
+      "absoluteNumber": 144,
+      "name": "Piccolo's Folly",
+      "seasonNumber": 5,
+      "number": 5,
+      "aired": "1992-06-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378402.jpg",
+      "absoluteNumber": 145,
+      "name": "Laboratory Basement",
+      "seasonNumber": 5,
+      "number": 6,
+      "aired": "1992-06-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378403.jpg",
+      "absoluteNumber": 146,
+      "name": "Our Hero Awakes",
+      "seasonNumber": 5,
+      "number": 7,
+      "aired": "1992-07-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378404.jpg",
+      "absoluteNumber": 147,
+      "name": "Time Chamber",
+      "seasonNumber": 5,
+      "number": 8,
+      "aired": "1992-07-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378405.jpg",
+      "absoluteNumber": 148,
+      "name": "The Monster is Coming",
+      "seasonNumber": 5,
+      "number": 9,
+      "aired": "1992-07-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378406.jpg",
+      "absoluteNumber": 149,
+      "name": "He's Here",
+      "seasonNumber": 5,
+      "number": 10,
+      "aired": "1992-07-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378407.jpg",
+      "absoluteNumber": 150,
+      "name": "Up to Piccolo",
+      "seasonNumber": 5,
+      "number": 11,
+      "aired": "1992-07-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378408.jpg",
+      "absoluteNumber": 151,
+      "name": "Silent Warrior",
+      "seasonNumber": 5,
+      "number": 12,
+      "aired": "1992-08-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378409.jpg",
+      "absoluteNumber": 152,
+      "name": "Say Goodbye, 17",
+      "seasonNumber": 5,
+      "number": 13,
+      "aired": "1992-08-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378410.jpg",
+      "absoluteNumber": 153,
+      "name": "Sacrifice",
+      "seasonNumber": 5,
+      "number": 14,
+      "aired": "1992-08-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378411.jpg",
+      "absoluteNumber": 154,
+      "name": "Saiyans Emerge",
+      "seasonNumber": 5,
+      "number": 15,
+      "aired": "1992-08-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378412.jpg",
+      "absoluteNumber": 155,
+      "name": "Super Vegeta",
+      "seasonNumber": 5,
+      "number": 16,
+      "aired": "1992-09-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378413.jpg",
+      "absoluteNumber": 156,
+      "name": "Bow to the Prince",
+      "seasonNumber": 5,
+      "number": 17,
+      "aired": "1992-09-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378414.jpg",
+      "absoluteNumber": 157,
+      "name": "Hour of Temptation",
+      "seasonNumber": 5,
+      "number": 18,
+      "aired": "1992-09-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378415.jpg",
+      "absoluteNumber": 158,
+      "name": "Krillin's Decision",
+      "seasonNumber": 5,
+      "number": 19,
+      "aired": "1992-09-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378416.jpg",
+      "absoluteNumber": 159,
+      "name": "The Last Defense",
+      "seasonNumber": 5,
+      "number": 20,
+      "aired": "1992-09-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378417.jpg",
+      "absoluteNumber": 160,
+      "name": "Cell is Complete",
+      "seasonNumber": 5,
+      "number": 21,
+      "aired": "1992-10-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378418.jpg",
+      "absoluteNumber": 161,
+      "name": "Vegeta Must Pay",
+      "seasonNumber": 5,
+      "number": 22,
+      "aired": "1992-10-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378419.jpg",
+      "absoluteNumber": 162,
+      "name": "Trunks Ascends",
+      "seasonNumber": 5,
+      "number": 23,
+      "aired": "1992-10-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378420.jpg",
+      "absoluteNumber": 163,
+      "name": "Saving Throw",
+      "seasonNumber": 5,
+      "number": 24,
+      "aired": "1992-11-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378421.jpg",
+      "absoluteNumber": 164,
+      "name": "Ghosts from Tomorrow",
+      "seasonNumber": 5,
+      "number": 25,
+      "aired": "1992-11-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378422.jpg",
+      "absoluteNumber": 165,
+      "name": "The Cell Games",
+      "seasonNumber": 5,
+      "number": 26,
+      "aired": "1992-11-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378423.jpg",
+      "absoluteNumber": 166,
+      "name": "What is the Tournament?",
+      "seasonNumber": 6,
+      "number": 1,
+      "aired": "1992-11-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378424.jpg",
+      "absoluteNumber": 167,
+      "name": "The Doomsday Broadcast",
+      "seasonNumber": 6,
+      "number": 2,
+      "aired": "1992-12-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378425.jpg",
+      "absoluteNumber": 168,
+      "name": "Meet Me in the Ring",
+      "seasonNumber": 6,
+      "number": 3,
+      "aired": "1992-12-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378426.jpg",
+      "absoluteNumber": 169,
+      "name": "No Worries Here",
+      "seasonNumber": 6,
+      "number": 4,
+      "aired": "1992-12-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378427.jpg",
+      "absoluteNumber": 170,
+      "name": "A Girl Named Lime",
+      "seasonNumber": 6,
+      "number": 5,
+      "aired": "1993-01-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378428.jpg",
+      "absoluteNumber": 171,
+      "name": "Memories of Gohan",
+      "seasonNumber": 6,
+      "number": 6,
+      "aired": "1993-01-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378429.jpg",
+      "absoluteNumber": 172,
+      "name": "A New Guardian",
+      "seasonNumber": 6,
+      "number": 7,
+      "aired": "1993-01-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378430.jpg",
+      "absoluteNumber": 173,
+      "name": "Dende's Dragon",
+      "seasonNumber": 6,
+      "number": 8,
+      "aired": "1993-02-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378431.jpg",
+      "absoluteNumber": 174,
+      "name": "The Puzzle of General Tao",
+      "seasonNumber": 6,
+      "number": 9,
+      "aired": "1993-02-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378432.jpg",
+      "absoluteNumber": 175,
+      "name": "The Games Begin",
+      "seasonNumber": 6,
+      "number": 10,
+      "aired": "1993-02-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378433.jpg",
+      "absoluteNumber": 176,
+      "name": "Losers Fight First",
+      "seasonNumber": 6,
+      "number": 11,
+      "aired": "1993-03-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378434.jpg",
+      "absoluteNumber": 177,
+      "name": "Goku vs. Cell",
+      "seasonNumber": 6,
+      "number": 12,
+      "aired": "1993-03-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378435.jpg",
+      "absoluteNumber": 178,
+      "name": "Cell's Bag of Tricks",
+      "seasonNumber": 6,
+      "number": 13,
+      "aired": "1993-03-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378436.jpg",
+      "absoluteNumber": 179,
+      "name": "No More Rules",
+      "seasonNumber": 6,
+      "number": 14,
+      "aired": "1993-03-31",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378437.jpg",
+      "absoluteNumber": 180,
+      "name": "The Fight is Over",
+      "seasonNumber": 6,
+      "number": 15,
+      "aired": "1993-04-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378438.jpg",
+      "absoluteNumber": 181,
+      "name": "Faith in a Boy",
+      "seasonNumber": 6,
+      "number": 16,
+      "aired": "1993-04-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378439.jpg",
+      "absoluteNumber": 182,
+      "name": "Gohan's Plea",
+      "seasonNumber": 6,
+      "number": 17,
+      "aired": "1993-04-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378440.jpg",
+      "absoluteNumber": 183,
+      "name": "Android Explosion",
+      "seasonNumber": 6,
+      "number": 18,
+      "aired": "1993-04-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378441.jpg",
+      "absoluteNumber": 184,
+      "name": "Cell Juniors Attack!",
+      "seasonNumber": 6,
+      "number": 19,
+      "aired": "1993-05-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378442.jpg",
+      "absoluteNumber": 185,
+      "name": "Awakening",
+      "seasonNumber": 6,
+      "number": 20,
+      "aired": "1993-05-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378443.jpg",
+      "absoluteNumber": 186,
+      "name": "The Unstoppable Gohan",
+      "seasonNumber": 6,
+      "number": 21,
+      "aired": "1993-05-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378444.jpg",
+      "absoluteNumber": 187,
+      "name": "Cell's Break Down",
+      "seasonNumber": 6,
+      "number": 22,
+      "aired": "1993-05-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378445.jpg",
+      "absoluteNumber": 188,
+      "name": "A Hero's Farewell!",
+      "seasonNumber": 6,
+      "number": 23,
+      "aired": "1993-06-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378446.jpg",
+      "absoluteNumber": 189,
+      "name": "Cell Returns!",
+      "seasonNumber": 6,
+      "number": 24,
+      "aired": "1993-06-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378447.jpg",
+      "absoluteNumber": 190,
+      "name": "The Horror Won't End",
+      "seasonNumber": 6,
+      "number": 25,
+      "aired": "1993-06-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378448.jpg",
+      "absoluteNumber": 191,
+      "name": "Save the World",
+      "seasonNumber": 6,
+      "number": 26,
+      "aired": "1993-06-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378449.jpg",
+      "absoluteNumber": 192,
+      "name": "Goku's Decision",
+      "seasonNumber": 6,
+      "number": 27,
+      "aired": "1993-07-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378450.jpg",
+      "absoluteNumber": 193,
+      "name": "One More Wish",
+      "seasonNumber": 6,
+      "number": 28,
+      "aired": "1993-07-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/378451.jpg",
+      "absoluteNumber": 194,
+      "name": "Free the Future",
+      "seasonNumber": 6,
+      "number": 29,
+      "aired": "1993-07-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411214.jpg",
+      "absoluteNumber": 195,
+      "name": "Warriors of the Dead",
+      "seasonNumber": 7,
+      "number": 1,
+      "aired": "1993-07-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411215.jpg",
+      "absoluteNumber": 196,
+      "name": "Tournament Begins",
+      "seasonNumber": 7,
+      "number": 2,
+      "aired": "1993-08-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411216.jpg",
+      "absoluteNumber": 197,
+      "name": "Water Fight",
+      "seasonNumber": 7,
+      "number": 3,
+      "aired": "1993-08-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411217.jpg",
+      "absoluteNumber": 198,
+      "name": "Final Round",
+      "seasonNumber": 7,
+      "number": 4,
+      "aired": "1993-08-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411218.jpg",
+      "absoluteNumber": 199,
+      "name": "Goku vs. Pikkon",
+      "seasonNumber": 7,
+      "number": 5,
+      "aired": "1993-09-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411219.jpg",
+      "absoluteNumber": 200,
+      "name": "Gohan Goes To High School",
+      "seasonNumber": 7,
+      "number": 6,
+      "aired": "1993-09-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411507.jpg",
+      "absoluteNumber": 201,
+      "name": "I am Saiyaman",
+      "seasonNumber": 7,
+      "number": 7,
+      "aired": "1993-09-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411508.jpg",
+      "absoluteNumber": 202,
+      "name": "Gohan's First Date",
+      "seasonNumber": 7,
+      "number": 8,
+      "aired": "1993-09-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411509.jpg",
+      "absoluteNumber": 203,
+      "name": "Rescue Videl",
+      "seasonNumber": 7,
+      "number": 9,
+      "aired": "1993-10-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411510.jpg",
+      "absoluteNumber": 204,
+      "name": "Blackmail",
+      "seasonNumber": 7,
+      "number": 10,
+      "aired": "1993-10-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411511.jpg",
+      "absoluteNumber": 205,
+      "name": "I'll Fight Too!",
+      "seasonNumber": 7,
+      "number": 11,
+      "aired": "1993-11-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411512.jpg",
+      "absoluteNumber": 206,
+      "name": "The Newest Super Saiyan",
+      "seasonNumber": 7,
+      "number": 12,
+      "aired": "1993-11-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411513.jpg",
+      "absoluteNumber": 207,
+      "name": "Take Flight Videl",
+      "seasonNumber": 7,
+      "number": 13,
+      "aired": "1993-11-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411514.jpg",
+      "absoluteNumber": 208,
+      "name": "Gather For the Tournament",
+      "seasonNumber": 7,
+      "number": 14,
+      "aired": "1993-11-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411515.jpg",
+      "absoluteNumber": 209,
+      "name": "Camera Shy",
+      "seasonNumber": 7,
+      "number": 15,
+      "aired": "1993-12-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411516.jpg",
+      "absoluteNumber": 210,
+      "name": "The World Tournament",
+      "seasonNumber": 7,
+      "number": 16,
+      "aired": "1993-12-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411517.jpg",
+      "absoluteNumber": 211,
+      "name": "Trunks vs. Goten",
+      "seasonNumber": 7,
+      "number": 17,
+      "aired": "1993-12-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411518.jpg",
+      "absoluteNumber": 212,
+      "name": "Best of the Boys",
+      "seasonNumber": 7,
+      "number": 18,
+      "aired": "1994-01-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411519.jpg",
+      "absoluteNumber": 213,
+      "name": "Big Trouble, Little Trunks",
+      "seasonNumber": 7,
+      "number": 19,
+      "aired": "1994-01-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411520.jpg",
+      "absoluteNumber": 214,
+      "name": "Who Will Fight Who?",
+      "seasonNumber": 7,
+      "number": 20,
+      "aired": "1994-01-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411521.jpg",
+      "absoluteNumber": 215,
+      "name": "Forfeit of Piccolo!",
+      "seasonNumber": 7,
+      "number": 21,
+      "aired": "1994-02-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411522.jpg",
+      "absoluteNumber": 216,
+      "name": "A Dark and Secret Power",
+      "seasonNumber": 7,
+      "number": 22,
+      "aired": "1994-02-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411523.jpg",
+      "absoluteNumber": 217,
+      "name": "Videl is Crushed",
+      "seasonNumber": 7,
+      "number": 23,
+      "aired": "1994-02-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411524.jpg",
+      "absoluteNumber": 218,
+      "name": "Identities Revealed",
+      "seasonNumber": 7,
+      "number": 24,
+      "aired": "1994-02-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411566.jpg",
+      "absoluteNumber": 219,
+      "name": "Energy Drain",
+      "seasonNumber": 7,
+      "number": 25,
+      "aired": "1994-03-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411525.jpg",
+      "absoluteNumber": 220,
+      "name": "The Wizard's Curse",
+      "seasonNumber": 8,
+      "number": 1,
+      "aired": "1994-03-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411526.jpg",
+      "absoluteNumber": 221,
+      "name": "King of the Demons",
+      "seasonNumber": 8,
+      "number": 2,
+      "aired": "1994-03-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411527.jpg",
+      "absoluteNumber": 222,
+      "name": "Vegeta Attacks",
+      "seasonNumber": 8,
+      "number": 3,
+      "aired": "1994-03-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411528.jpg",
+      "absoluteNumber": 223,
+      "name": "Next Up, Goku",
+      "seasonNumber": 8,
+      "number": 4,
+      "aired": "1994-04-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411529.jpg",
+      "absoluteNumber": 224,
+      "name": "Battle Supreme",
+      "seasonNumber": 8,
+      "number": 5,
+      "aired": "1994-04-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411530.jpg",
+      "absoluteNumber": 225,
+      "name": "Eighteen Unmasks",
+      "seasonNumber": 8,
+      "number": 6,
+      "aired": "1994-04-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411531.jpg",
+      "absoluteNumber": 226,
+      "name": "Pay to Win",
+      "seasonNumber": 8,
+      "number": 7,
+      "aired": "1994-05-04",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411532.jpg",
+      "absoluteNumber": 227,
+      "name": "Heart of a Villain",
+      "seasonNumber": 8,
+      "number": 8,
+      "aired": "1994-05-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411533.jpg",
+      "absoluteNumber": 228,
+      "name": "The Dark Prince Returns",
+      "seasonNumber": 8,
+      "number": 9,
+      "aired": "1994-05-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411534.jpg",
+      "absoluteNumber": 229,
+      "name": "Vegeta's Pride",
+      "seasonNumber": 8,
+      "number": 10,
+      "aired": "1994-06-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411535.jpg",
+      "absoluteNumber": 230,
+      "name": "The Long Awaited Fight",
+      "seasonNumber": 8,
+      "number": 11,
+      "aired": "1994-06-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411536.jpg",
+      "absoluteNumber": 231,
+      "name": "Magic Ball of Buu",
+      "seasonNumber": 8,
+      "number": 12,
+      "aired": "1994-06-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411537.jpg",
+      "absoluteNumber": 232,
+      "name": "Buu is Hatched!",
+      "seasonNumber": 8,
+      "number": 13,
+      "aired": "1994-07-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411538.jpg",
+      "absoluteNumber": 233,
+      "name": "The Losses Begin",
+      "seasonNumber": 8,
+      "number": 14,
+      "aired": "1994-07-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411539.jpg",
+      "absoluteNumber": 234,
+      "name": "The Terror of Mr. Buu",
+      "seasonNumber": 8,
+      "number": 15,
+      "aired": "1994-07-27",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411540.jpg",
+      "absoluteNumber": 235,
+      "name": "Meal Time",
+      "seasonNumber": 8,
+      "number": 16,
+      "aired": "1994-08-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411541.jpg",
+      "absoluteNumber": 236,
+      "name": "The Warrior's Decision",
+      "seasonNumber": 8,
+      "number": 17,
+      "aired": "1994-08-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411542.jpg",
+      "absoluteNumber": 237,
+      "name": "Final Atonement",
+      "seasonNumber": 8,
+      "number": 18,
+      "aired": "1994-08-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411543.jpg",
+      "absoluteNumber": 238,
+      "name": "Evil Lives On",
+      "seasonNumber": 8,
+      "number": 19,
+      "aired": "1994-08-31",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411544.jpg",
+      "absoluteNumber": 239,
+      "name": "Find the Dragon Balls",
+      "seasonNumber": 8,
+      "number": 20,
+      "aired": "1994-09-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411545.jpg",
+      "absoluteNumber": 240,
+      "name": "Revival",
+      "seasonNumber": 8,
+      "number": 21,
+      "aired": "1994-09-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411546.jpg",
+      "absoluteNumber": 241,
+      "name": "Global Announcement",
+      "seasonNumber": 8,
+      "number": 22,
+      "aired": "1994-09-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411548.jpg",
+      "absoluteNumber": 242,
+      "name": "Learn to Fuse",
+      "seasonNumber": 8,
+      "number": 23,
+      "aired": "1994-10-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411549.jpg",
+      "absoluteNumber": 243,
+      "name": "The Z Sword",
+      "seasonNumber": 8,
+      "number": 24,
+      "aired": "1994-10-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411550.jpg",
+      "absoluteNumber": 244,
+      "name": "Race to Capsule Corp",
+      "seasonNumber": 8,
+      "number": 25,
+      "aired": "1994-11-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411551.jpg",
+      "absoluteNumber": 245,
+      "name": "Super Saiyan 3?!",
+      "seasonNumber": 8,
+      "number": 26,
+      "aired": "1994-11-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411552.jpg",
+      "absoluteNumber": 246,
+      "name": "Buu's Mutiny",
+      "seasonNumber": 8,
+      "number": 27,
+      "aired": "1994-11-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411553.jpg",
+      "absoluteNumber": 247,
+      "name": "The Fusion Dance",
+      "seasonNumber": 8,
+      "number": 28,
+      "aired": "1994-11-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411554.jpg",
+      "absoluteNumber": 248,
+      "name": "Goku's Time is Up",
+      "seasonNumber": 8,
+      "number": 29,
+      "aired": "1994-11-30",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411555.jpg",
+      "absoluteNumber": 249,
+      "name": "Return to Other World",
+      "seasonNumber": 8,
+      "number": 30,
+      "aired": "1994-12-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411556.jpg",
+      "absoluteNumber": 250,
+      "name": "Out From the Broken Sword",
+      "seasonNumber": 8,
+      "number": 31,
+      "aired": "1994-12-14",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411557.jpg",
+      "absoluteNumber": 251,
+      "name": "Gotenks is Born",
+      "seasonNumber": 8,
+      "number": 32,
+      "aired": "1994-12-21",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411558.jpg",
+      "absoluteNumber": 252,
+      "name": "Unlikely Friendship",
+      "seasonNumber": 8,
+      "number": 33,
+      "aired": "1995-01-11",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411547.jpg",
+      "absoluteNumber": 253,
+      "name": "I Kill No More",
+      "seasonNumber": 8,
+      "number": 34,
+      "aired": "1995-01-25",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/440671.jpg",
+      "absoluteNumber": 254,
+      "name": "The Evil of Men",
+      "seasonNumber": 9,
+      "number": 1,
+      "aired": "1995-02-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/440672.jpg",
+      "absoluteNumber": 255,
+      "name": "Buu Against Buu",
+      "seasonNumber": 9,
+      "number": 2,
+      "aired": "1995-02-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/440673.jpg",
+      "absoluteNumber": 256,
+      "name": "Empty Planet",
+      "seasonNumber": 9,
+      "number": 3,
+      "aired": "1995-02-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618461.jpg",
+      "absoluteNumber": 257,
+      "name": "Time Struggle",
+      "seasonNumber": 9,
+      "number": 4,
+      "aired": "1995-02-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618471.jpg",
+      "absoluteNumber": 258,
+      "name": "Super Moves of Gotenks",
+      "seasonNumber": 9,
+      "number": 5,
+      "aired": "1995-03-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618481.jpg",
+      "absoluteNumber": 259,
+      "name": "Trapped in Forever",
+      "seasonNumber": 9,
+      "number": 6,
+      "aired": "1995-03-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618491.jpg",
+      "absoluteNumber": 260,
+      "name": "Feeding Frenzy",
+      "seasonNumber": 9,
+      "number": 7,
+      "aired": "1995-03-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618501.jpg",
+      "absoluteNumber": 261,
+      "name": "Gotenks is Awesome",
+      "seasonNumber": 9,
+      "number": 8,
+      "aired": "1995-03-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618511.jpg",
+      "absoluteNumber": 262,
+      "name": "Unlucky Break",
+      "seasonNumber": 9,
+      "number": 9,
+      "aired": "1995-04-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618521.jpg",
+      "absoluteNumber": 263,
+      "name": "A Whole New Gohan",
+      "seasonNumber": 9,
+      "number": 10,
+      "aired": "1995-05-03",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618531.jpg",
+      "absoluteNumber": 264,
+      "name": "Search For Survivors",
+      "seasonNumber": 9,
+      "number": 11,
+      "aired": "1995-05-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618541.jpg",
+      "absoluteNumber": 265,
+      "name": "Majin Buu Transforms",
+      "seasonNumber": 9,
+      "number": 12,
+      "aired": "1995-05-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618551.jpg",
+      "absoluteNumber": 266,
+      "name": "The Old Kai's Weapon",
+      "seasonNumber": 9,
+      "number": 13,
+      "aired": "1995-05-31",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618561.jpg",
+      "absoluteNumber": 267,
+      "name": "Ready to Fuse?",
+      "seasonNumber": 9,
+      "number": 14,
+      "aired": "1995-06-07",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618571.jpg",
+      "absoluteNumber": 268,
+      "name": "Union of Rivals",
+      "seasonNumber": 9,
+      "number": 15,
+      "aired": "1995-06-28",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618581.jpg",
+      "absoluteNumber": 269,
+      "name": "Meet Vegito",
+      "seasonNumber": 9,
+      "number": 16,
+      "aired": "1995-07-05",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618591.jpg",
+      "absoluteNumber": 270,
+      "name": "Rip In The Universe",
+      "seasonNumber": 9,
+      "number": 17,
+      "aired": "1995-07-12",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618601.jpg",
+      "absoluteNumber": 271,
+      "name": "Vegito...Downsized",
+      "seasonNumber": 9,
+      "number": 18,
+      "aired": "1995-07-19",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618611.jpg",
+      "absoluteNumber": 272,
+      "name": "The Incredible Fighting Candy",
+      "seasonNumber": 9,
+      "number": 19,
+      "aired": "1995-07-26",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618621.jpg",
+      "absoluteNumber": 273,
+      "name": "The Innards of Buu",
+      "seasonNumber": 9,
+      "number": 20,
+      "aired": "1995-08-02",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618631.jpg",
+      "absoluteNumber": 274,
+      "name": "Mind Trap",
+      "seasonNumber": 9,
+      "number": 21,
+      "aired": "1995-08-09",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618641.jpg",
+      "absoluteNumber": 275,
+      "name": "Deadly Vision",
+      "seasonNumber": 9,
+      "number": 22,
+      "aired": "1995-08-16",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618651.jpg",
+      "absoluteNumber": 276,
+      "name": "Evil Kid Buu!",
+      "seasonNumber": 9,
+      "number": 23,
+      "aired": "1995-08-23",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618661.jpg",
+      "absoluteNumber": 277,
+      "name": "End of Earth",
+      "seasonNumber": 9,
+      "number": 24,
+      "aired": "1995-09-06",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618671.jpg",
+      "absoluteNumber": 278,
+      "name": "True Saiyans Fight Alone",
+      "seasonNumber": 9,
+      "number": 25,
+      "aired": "1995-09-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618681.jpg",
+      "absoluteNumber": 279,
+      "name": "Battle for the Universe Begins",
+      "seasonNumber": 9,
+      "number": 26,
+      "aired": "1995-09-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618691.jpg",
+      "absoluteNumber": 280,
+      "name": "Vegeta's Respect",
+      "seasonNumber": 9,
+      "number": 27,
+      "aired": "1995-10-18",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618701.jpg",
+      "absoluteNumber": 281,
+      "name": "Minute of Desperation",
+      "seasonNumber": 9,
+      "number": 28,
+      "aired": "1995-11-01",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618711.jpg",
+      "absoluteNumber": 282,
+      "name": "Old Buu Emerges",
+      "seasonNumber": 9,
+      "number": 29,
+      "aired": "1995-11-08",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618721.jpg",
+      "absoluteNumber": 283,
+      "name": "Earth Reborn",
+      "seasonNumber": 9,
+      "number": 30,
+      "aired": "1995-11-15",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618731.jpg",
+      "absoluteNumber": 284,
+      "name": "Call To Action",
+      "seasonNumber": 9,
+      "number": 31,
+      "aired": "1995-11-22",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618741.jpg",
+      "absoluteNumber": 285,
+      "name": "People of Earth Unite",
+      "seasonNumber": 9,
+      "number": 32,
+      "aired": "1995-11-29",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618751.jpg",
+      "absoluteNumber": 286,
+      "name": "Spirit Bomb Triumphant",
+      "seasonNumber": 9,
+      "number": 33,
+      "aired": "1995-12-13",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618761.jpg",
+      "absoluteNumber": 287,
+      "name": "Celebrations With Majin Buu",
+      "seasonNumber": 9,
+      "number": 34,
+      "aired": "1995-12-20",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618771.jpg",
+      "absoluteNumber": 288,
+      "name": "He's Always Late",
+      "seasonNumber": 9,
+      "number": 35,
+      "aired": "1996-01-10",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618781.jpg",
+      "absoluteNumber": 289,
+      "name": "Granddaughter Pan",
+      "seasonNumber": 9,
+      "number": 36,
+      "aired": "1996-01-17",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618791.jpg",
+      "absoluteNumber": 290,
+      "name": "Buu's Reincarnation",
+      "seasonNumber": 9,
+      "number": 37,
+      "aired": "1996-01-24",
+      "runtime": 25
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/618801.jpg",
+      "absoluteNumber": 291,
+      "name": "Goku's Next Journey",
+      "seasonNumber": 9,
+      "number": 38,
+      "aired": "1996-01-31",
+      "runtime": 25
+    }
+  ]
+}
