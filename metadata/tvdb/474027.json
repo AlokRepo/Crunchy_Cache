@@ -1,0 +1,221 @@
+{
+  "cachedAt": 1791911555796,
+  "data": [
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11616849/screencap/6a3638cbde6bc.jpg",
+      "absoluteNumber": 1,
+      "name": "A Goodbye Kiss, a Hello Kiss",
+      "seasonNumber": 1,
+      "number": 1,
+      "aired": "2026-07-08",
+      "runtime": 23
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876013/screencap/6a50e712b24d7.jpg",
+      "absoluteNumber": 2,
+      "name": "The Black Water",
+      "seasonNumber": 1,
+      "number": 2,
+      "aired": "2026-07-15",
+      "runtime": 23
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876014/screencap/6a5a2499b7147.jpg",
+      "absoluteNumber": 3,
+      "name": "I Can't Go Back, I Won't Go Back",
+      "seasonNumber": 1,
+      "number": 3,
+      "aired": "2026-07-22",
+      "runtime": 23
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876015/screencap/6a635bdc19801.jpg",
+      "absoluteNumber": 4,
+      "name": "Ishtar Incarnate",
+      "seasonNumber": 1,
+      "number": 4,
+      "aired": "2026-07-29",
+      "runtime": 23
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876016/screencap/6a6cacd94e2cd.jpg",
+      "absoluteNumber": 5,
+      "name": "A Sword to Fight",
+      "seasonNumber": 1,
+      "number": 5,
+      "aired": "2026-08-05",
+      "runtime": 23
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876017/screencap/6a75a7ec490c4.jpg",
+      "absoluteNumber": 6,
+      "name": "The One I Can't Love",
+      "seasonNumber": 1,
+      "number": 6,
+      "aired": "2026-08-12",
+      "runtime": 23
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876018/screencap/6a7ee758464ea.jpg",
+      "absoluteNumber": 7,
+      "name": "Cold Lips",
+      "seasonNumber": 1,
+      "number": 7,
+      "aired": "2026-08-19",
+      "runtime": 23
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876019/screencap/6a88164b845cb.jpg",
+      "absoluteNumber": 8,
+      "name": "Under the Apple Tree",
+      "seasonNumber": 1,
+      "number": 8,
+      "aired": "2026-08-26",
+      "runtime": 23
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876020/screencap/6a9152152e7b2.jpg",
+      "absoluteNumber": 9,
+      "name": "The Sign on the Palm",
+      "seasonNumber": 1,
+      "number": 9,
+      "aired": "2026-09-02",
+      "runtime": 23
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876021/screencap/6a9aa60bb8203.jpg",
+      "absoluteNumber": 10,
+      "name": "Ishtar Purloined",
+      "seasonNumber": 1,
+      "number": 10,
+      "aired": "2026-09-09",
+      "runtime": 23
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876022/screencap/6aa3cb8165985.jpg",
+      "absoluteNumber": 11,
+      "name": "Where My Heart Is",
+      "seasonNumber": 1,
+      "number": 11,
+      "aired": "2026-09-16",
+      "runtime": 23
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876023/screencap/6aad153c4a86c.jpg",
+      "absoluteNumber": 12,
+      "name": "The Appointed Time",
+      "seasonNumber": 1,
+      "number": 12,
+      "aired": "2026-09-23",
+      "runtime": 23
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11939070/screencap/6ab8dacd5f7c5.jpg",
+      "absoluteNumber": 13,
+      "name": "A Letter From Egypt",
+      "seasonNumber": 1,
+      "number": 13,
+      "aired": "2026-09-30",
+      "runtime": 23
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11939071/screencap/6ac1a8c564141.jpg",
+      "absoluteNumber": 14,
+      "name": "The Arrow Wound of Grief",
+      "seasonNumber": 1,
+      "number": 14,
+      "aired": "2026-10-07",
+      "runtime": 23
+    },
+    {
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11939072/screencap/6ac89e7d8f1e3.jpg",
+      "absoluteNumber": 15,
+      "name": "The False Ishtar",
+      "seasonNumber": 1,
+      "number": 15,
+      "aired": "2026-10-14",
+      "runtime": 23
+    },
+    {
+      "image": "",
+      "absoluteNumber": 16,
+      "name": null,
+      "seasonNumber": 1,
+      "number": 16,
+      "aired": "2026-10-21",
+      "runtime": 23
+    },
+    {
+      "image": "",
+      "absoluteNumber": 17,
+      "name": null,
+      "seasonNumber": 1,
+      "number": 17,
+      "aired": "2026-10-28",
+      "runtime": 23
+    },
+    {
+      "image": "",
+      "absoluteNumber": 18,
+      "name": null,
+      "seasonNumber": 1,
+      "number": 18,
+      "aired": "2026-11-04",
+      "runtime": 23
+    },
+    {
+      "image": "",
+      "absoluteNumber": 19,
+      "name": null,
+      "seasonNumber": 1,
+      "number": 19,
+      "aired": "2026-11-11",
+      "runtime": 23
+    },
+    {
+      "image": "",
+      "absoluteNumber": 20,
+      "name": null,
+      "seasonNumber": 1,
+      "number": 20,
+      "aired": "2026-11-18",
+      "runtime": 23
+    },
+    {
+      "image": "",
+      "absoluteNumber": 21,
+      "name": null,
+      "seasonNumber": 1,
+      "number": 21,
+      "aired": "2026-11-25",
+      "runtime": 23
+    },
+    {
+      "image": "",
+      "absoluteNumber": 22,
+      "name": null,
+      "seasonNumber": 1,
+      "number": 22,
+      "aired": "2026-12-02",
+      "runtime": 23
+    },
+    {
+      "image": "",
+      "absoluteNumber": 23,
+      "name": null,
+      "seasonNumber": 1,
+      "number": 23,
+      "aired": "2026-12-09",
+      "runtime": 23
+    },
+    {
+      "image": "",
+      "absoluteNumber": 24,
+      "name": null,
+      "seasonNumber": 1,
+      "number": 24,
+      "aired": "2026-12-16",
+      "runtime": 23
+    }
+  ]
+}
